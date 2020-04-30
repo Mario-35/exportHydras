@@ -1,0 +1,199 @@
+CREATE OR REPLACE FUNCTION importcsv(text, integer)
+ RETURNS TABLE(ldate timestamp, logstr varchar)
+AS 
+$$
+
+-- Create 3 janvier 2020
+--
+-- SCRIPT Importation csv issu d'Hydras3 @2020 Adam Mario Inrae mario.adam@inrae.fr
+--
+-- MAJ @@ janvier 2020
+
+ declare
+	TEMP INTEGER;
+	item  RECORD;
+	logId record;
+
+BEGIN
+	-- Ajoute le Nouveau Logs seulement si on a pas enveyé l'id du log parent dans $2
+	 IF $2 < 1 THEN
+ 		INSERT INTO LOGS (parent_id, ldate, logstr) VALUES (1, clock_timestamp(), 'importation de : ' || $1) RETURNING id INTO logId;
+		UPDATE logs SET parent_id=logId.id WHERE id=logId.id; 	
+  	END IF;
+
+
+	-- Efface les table temporaires
+
+    DROP TABLE IF EXISTS log;
+    DROP TABLE IF EXISTS importation;
+	DROP TABLE IF EXISTS intermediate;
+
+	 IF $2 > 0 THEN
+  		EXECUTE 'CREATE TEMP TABLE log (parent_id int4 DEFAULT ' || $2 || ', ldate timestamp, logstr varchar(1000));';
+  		EXECUTE addLog('importation de : ' || $1);
+  	ELSE
+		EXECUTE 'CREATE TEMP TABLE log (parent_id int4 DEFAULT ' || logId.id || ', ldate timestamp, logstr varchar(1000));';
+  	END IF;
+
+	CREATE TEMP TABLE importation
+				(created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+				exist int DEFAULT 0,
+				keyId character varying(25), 
+				station_id int4 NOT NULL,
+				capteur_id int4 NOT NULL,
+				date_record timestamp NOT NULL,
+				valeur float8 NULL);
+	
+	-- Creation d'une table intermédiaire avec que des chaines de carractêres pour faciliter l'import csv
+	CREATE TEMP TABLE intermediate
+					(station character varying(20),
+					capteur character varying(5), 
+					date character varying(10), 
+					heure character varying(10), 
+					valeur character varying(20),
+					unite character varying(8));
+					
+	-- importation du fichier csv
+   EXECUTE 'COPY intermediate (station, capteur, date, heure, valeur, unite) FROM ''' || $1 || ''' WITH CSV DELIMITER '';''';
+
+	GET DIAGNOSTICS TEMP = ROW_COUNT;			
+	EXECUTE addLog(TEMP || ' lignes copiées dans intermediate');
+
+	-- Nettoyage de fichier
+	UPDATE intermediate set valeur='0.0' where valeur='---';
+	GET DIAGNOSTICS TEMP = ROW_COUNT;			
+	EXECUTE addLog(TEMP || ' lignes avec une valeur à ---');
+
+	-- Verification sur les stations 
+   FOR item IN EXECUTE 'select distinct station FROM intermediate where station not in (select distinct name FROM station);' 
+   LOOP
+		EXECUTE addLog('station : ' || item.station || ' non trouvé');
+   END LOOP;
+
+	-- Verification sur les capteurs 
+   FOR item IN EXECUTE 'select distinct capteur FROM intermediate where capteur not in (select distinct code FROM capteur);' 
+   LOOP
+		EXECUTE addLog('capteur : ' || item.capteur || ' non trouvé');
+   END LOOP;
+
+	-- copie avec casting des données (hydras a des heures a 24:00 qui sont en fait 00:00)
+	INSERT INTO importation
+				(keyid,
+				station_id, 
+				capteur_id, 
+				date_record,  
+				valeur) 
+				SELECT 
+				concat(station.station_id,capteur.capteur_id, REPLACE(intermediate.date,'/',''), REPLACE(intermediate.heure,':','')), 
+				cast(station_id as int),
+				cast(capteur_id as int),
+				TO_TIMESTAMP(concat(intermediate.date, ' ', REPLACE(intermediate.heure,'24:00:00','00:00:00')), 'DD/MM/YYYY HH24:MI:SS:MS'), 
+				cast(REPLACE(valeur,',','.') as float)
+				FROM intermediate
+				inner join station
+				on station.name = intermediate.station
+				inner join capteur
+				on capteur.code = intermediate.capteur;
+
+	GET DIAGNOSTICS TEMP = ROW_COUNT;			
+	EXECUTE addLog(TEMP || ' lignes ajoutées dans importation');
+
+	-- Efface les doublons des datas
+	DELETE FROM importation where importation.valeur = (select valeur from datas where datas.keyid = importation.keyid);
+	GET DIAGNOSTICS TEMP = ROW_COUNT;			
+	EXECUTE addLog(TEMP || ' doublons dans datas');
+
+	-- Efface les doublons des datas_updates
+	DELETE FROM importation where importation.valeur = (select valeur from datas_updates where datas_updates.keyid = importation.keyid AND datas_updates.date_update = 
+importation.date_record);
+	GET DIAGNOSTICS TEMP = ROW_COUNT;			
+	EXECUTE addLog(TEMP || ' doublons dans importation');
+
+	-- Identifie les corrections
+	UPDATE importation set exist=1 where importation.keyid in (select keyid from datas);
+	GET DIAGNOSTICS TEMP = ROW_COUNT;			
+	EXECUTE addLog(TEMP || ' Corrections identifiées');
+
+	EXECUTE addLog('Nombre de ligne(s) a traiter : ' || (SELECT COUNT(*) FROM importation));
+	EXECUTE addLog('Nombre de ligne(s) à atouter : ' || (SELECT COUNT(*) FROM importation WHERE exist=0));
+	EXECUTE addLog('Nombre de ligne(s) en correction : ' || (SELECT COUNT(*) FROM importation WHERE exist=1));
+
+	INSERT INTO datas (keyid, station_id, capteur_id, date_record, valeur) 
+				SELECT keyid, station_id, capteur_id, date_record, valeur
+				FROM importation
+				WHERE exist=0
+				ON CONFLICT (keyid) DO NOTHING;
+
+	GET DIAGNOSTICS TEMP = ROW_COUNT;			
+	EXECUTE addLog('Nombre de ligne(s) ajoutées aux données : ' || TEMP);
+
+	INSERT INTO datas_updates (keyid, date_update, valeur) 
+				SELECT keyid, date_record, valeur
+				FROM importation
+				WHERE exist=1;
+
+	GET DIAGNOSTICS TEMP = ROW_COUNT;			
+	EXECUTE addLog('Nombre de ligne(s) ajoutées aux modifications : ' || TEMP);
+
+	EXECUTE addLog('Traitements terminé ...');
+	
+	INSERT INTO logs (parent_id, ldate, logstr) select log.parent_id, log.ldate, log.logstr from log;
+
+	RETURN QUERY EXECUTE 'SELECT ldate, logstr FROM log';	
+END;
+$$
+LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE FUNCTION addLog(text) returns void AS
+$$
+BEGIN
+	INSERT INTO log (ldate, logstr) values (clock_timestamp(), $1);
+END;
+$$
+LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE FUNCTION importHydras(text)
+ RETURNS TABLE(ldate timestamp, logstr varchar)
+AS 
+$$
+
+-- Create 22 janvier 2020
+--
+-- SCRIPT Importation de tout les csv issu d'Hydras3 @2020 Adam Mario Inrae mario.adam@inrae.fr
+--
+-- MAJ 22 janvier 2020
+
+ declare
+	TEMP INTEGER;
+	item  RECORD;
+	result  RECORD;
+	logId record;
+
+BEGIN
+	-- Ajoute le Nouvea Logs
+	INSERT INTO LOGS (parent_id, ldate, logstr) VALUES (1, clock_timestamp(), 'importation globale Hydras : ' || $1) RETURNING id INTO logId;
+	UPDATE logs SET parent_id=logId.id WHERE id=logId.id;
+
+	DROP TABLE IF EXISTS fichiers;
+
+	CREATE TEMP TABLE fichiers(filename character varying(1000));
+					
+	-- importation du fichier csv
+   EXECUTE 'COPY fichiers (filename) FROM ''' || $1  || 'files.csv'' WITH CSV DELIMITER '' ''';
+
+   FOR item IN EXECUTE 'select distinct filename FROM fichiers;' 
+   LOOP
+		RAISE NOTICE 'process : %', item.filename;
+		SELECT importcsv($1 || item.filename, logId.id) INTO result;
+   END LOOP;
+
+	EXECUTE addLog('Traitements terminé ...');
+	
+	INSERT INTO logs (parent_id, ldate, logstr) select log.parent_id, log.ldate, log.logstr from log;
+
+	RETURN QUERY EXECUTE 'SELECT ldate, logstr FROM log';	
+END;
+$$
+LANGUAGE plpgsql;

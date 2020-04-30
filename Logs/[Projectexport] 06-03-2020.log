@@ -1,0 +1,760 @@
+[14:14:55]  Demmarrage : 0.9.9.0
+[14:14:55]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:14:55] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[14:14:55] 		 resultat : False
+[14:14:55]  Rafraichissement de la configuration
+[14:14:55] 	 Test de connection :
+[14:14:55] 		 HostName : 138.102.159.39
+[14:14:55] 		 Port : 5432
+[14:14:55] 		 User : adminpg
+[14:14:55] 		 Password : pgAgrh!s08
+[14:14:55] 		 Database : agrhys_dev
+[14:14:55] 	 Tentative de connection : 
+[14:14:55] 		 HostName : 138.102.159.39
+[14:14:55] 		 Port : 5432
+[14:14:55] 		 User : adminpg
+[14:14:55] 		 Database : agrhys_dev
+[14:14:55] 	 Tentative de connection : 
+[14:14:55] 		 deja connecte
+[14:14:55] 	 Test des domaines
+[14:14:55] 		 resultat : True
+[14:16:07]  Demmarrage : 0.9.9.0
+[14:16:07]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:16:07] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[14:16:07] 		 resultat : False
+[14:16:07]  Rafraichissement de la configuration
+[14:16:07] 	 Test de connection :
+[14:16:07] 		 HostName : 138.102.159.39
+[14:16:07] 		 Port : 5432
+[14:16:07] 		 User : adminpg
+[14:16:07] 		 Password : pgAgrh!s08
+[14:16:07] 		 Database : agrhys_dev
+[14:16:07] 	 Tentative de connection : 
+[14:16:07] 		 HostName : 138.102.159.39
+[14:16:07] 		 Port : 5432
+[14:16:07] 		 User : adminpg
+[14:16:07] 		 Password : pgAgrh!s08
+[14:16:07] 		 Database : agrhys_dev
+[14:16:08] 	 Tentative de connection : 
+[14:16:08] 		 deja connecte
+[14:16:08] 	 Test des domaines
+[14:16:08] 		 resultat : True
+[14:16:31]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:16:31]  Rafraichissement de la configuration
+[14:16:31] 	 Test de connection :
+[14:16:31] 		 HostName : 138.102.159.39
+[14:16:31] 		 Port : 5432
+[14:16:31] 		 User : adminpg
+[14:16:31] 		 Password : pgAgrh!s08
+[14:16:31] 		 Database : agrhys_dev
+[14:16:31] 	 Tentative de connection : 
+[14:16:31] 		 HostName : 138.102.159.39
+[14:16:31] 		 Port : 5432
+[14:16:31] 		 User : adminpg
+[14:16:31] 		 Password : pgAgrh!s08
+[14:16:31] 		 Database : agrhys_dev
+[14:16:31] 	 Tentative de connection : 
+[14:16:31] 		 deja connecte
+[14:16:31] 	 Test des domaines
+[14:16:31] 		 resultat : True
+[14:16:33]  Sortie de programme
+[14:17:39]  Demmarrage : 0.9.9.0
+[14:17:39]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:17:39] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[14:17:39] 		 resultat : False
+[14:17:39]  Rafraichissement de la configuration
+[14:17:39] 	 Test de connection :
+[14:17:39] 		 HostName : 138.102.159.39
+[14:17:39] 		 Port : 5432
+[14:17:39] 		 User : adminpg
+[14:17:39] 		 Password : pgAgrh!s08
+[14:17:39] 		 Database : agrhys_dev
+[14:17:39] 	 Tentative de connection : 
+[14:17:39] 		 HostName : 138.102.159.39
+[14:17:39] 		 Port : 5432
+[14:17:39] 		 User : adminpg
+[14:17:39] 		 Password : pgAgrh!s08
+[14:17:39] 		 Database : agrhys_dev
+[14:17:39] 	 Tentative de connection : 
+[14:17:39] 		 deja connecte
+[14:17:39] 	 Test des domaines
+[14:17:39] 		 resultat : False
+[14:18:06]  Sortie de programme
+[14:20:15]  Demmarrage : 0.9.9.0
+[14:20:15]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:20:15] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[14:20:15] 		 resultat : False
+[14:20:15]  Rafraichissement de la configuration
+[14:20:15] 	 Test de connection :
+[14:20:15] 		 HostName : 138.102.159.39
+[14:20:15] 		 Port : 5432
+[14:20:15] 		 User : adminpg
+[14:20:15] 		 Password : pgAgrh!s08
+[14:20:15] 		 Database : agrhys_dev
+[14:20:15] 	 Tentative de connection : 
+[14:20:15] 		 HostName : 138.102.159.39
+[14:20:15] 		 Port : 5432
+[14:20:15] 		 User : adminpg
+[14:20:15] 		 Password : pgAgrh!s08
+[14:20:15] 		 Database : agrhys_dev
+[14:20:15] 	 Tentative de connection : 
+[14:20:15] 		 deja connecte
+[14:20:15] 	 Test des domaines
+[14:20:15] 		 resultat : False
+[14:20:43]  Sortie de programme
+[14:21:41]  Demmarrage : 0.9.9.0
+[14:21:41]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:21:41] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[14:21:41] 		 resultat : False
+[14:21:41]  Rafraichissement de la configuration
+[14:21:41] 	 Test de connection :
+[14:21:41] 		 HostName : 138.102.159.39
+[14:21:41] 		 Port : 5432
+[14:21:41] 		 User : adminpg
+[14:21:41] 		 Password : pgAgrh!s08
+[14:21:41] 		 Database : agrhys_dev
+[14:21:41] 	 Tentative de connection : 
+[14:21:41] 		 HostName : 138.102.159.39
+[14:21:41] 		 Port : 5432
+[14:21:41] 		 User : adminpg
+[14:21:41] 		 Password : pgAgrh!s08
+[14:21:41] 		 Database : agrhys_dev
+[14:21:41] 	 Tentative de connection : 
+[14:21:41] 		 deja connecte
+[14:21:41] 	 Test des domaines
+[14:21:41] 		 resultat : False
+[14:22:47]  Fichier : C:\export\Naizin_brutes.csv; Nouveau
+[14:22:47] 	 Reinitialisation du timer
+[14:22:47] 	 Timer active : True
+[14:22:47]  Fichier : C:\export\Naizin_brutes.csv; Modification
+[14:22:47] 	 Reinitialisation du timer
+[14:22:47] 	 Timer active : True
+[14:22:54] 		 Lancement du traitement manuellement
+[14:22:54] 		 Deconnection de tous les utilisateurs
+[14:22:54] 	 Tentative de connection Admin: 
+[14:22:55] 			 Deconnection(s) Ok
+[14:22:55] 	 Tentative de connection : 
+[14:22:55] 		 HostName : 138.102.159.39
+[14:22:55] 		 Port : 5432
+[14:22:55] 		 User : adminpg
+[14:22:55] 		 Password : pgAgrh!s08
+[14:22:55] 		 Database : agrhys_dev
+[14:22:55]  Traitement du fichier csv : C:\export\Naizin_brutes.csv
+[14:22:55] 	 Verification existance du fichier
+[14:22:55]  recherche domaine pour : Naizin_brutes.csv
+[14:22:55] 	 Domaine pour : NAIZIN_BRUTES.CSV non trouvé
+[14:22:55]  recherche domaine pour : C:\export\
+[14:22:55] 	 Domaine pour : C:\export\ non trouvé
+[14:22:55] 	 Creation du fichier ZIP : C:\export\import [06-03-2020-14-22-55].zip
+[14:22:55]  Fichier : C:\export\import [06-03-2020-14-22-55].zip; Nouveau
+[14:22:55] 	 Timer active : False
+[14:22:55]  Fichier : C:\export\import [06-03-2020-14-22-55].zip; Modification
+[14:22:55] 	 Timer active : False
+[14:24:23]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:24:23]  Rafraichissement de la configuration
+[14:24:23] 	 Test de connection :
+[14:24:23] 		 HostName : 138.102.159.39
+[14:24:23] 		 Port : 5432
+[14:24:23] 		 User : adminpg
+[14:24:23] 		 Password : pgAgrh!s08
+[14:24:23] 		 Database : agrhys_dev
+[14:24:24] 	 Tentative de connection : 
+[14:24:24] 		 HostName : 138.102.159.39
+[14:24:24] 		 Port : 5432
+[14:24:24] 		 User : adminpg
+[14:24:24] 		 Password : pgAgrh!s08
+[14:24:24] 		 Database : agrhys_dev
+[14:24:24] 	 Tentative de connection : 
+[14:24:24] 		 deja connecte
+[14:24:24] 	 Test des domaines
+[14:24:24] 		 resultat : False
+[14:24:25]  Sortie de programme
+[14:27:57]  Demmarrage : 0.9.9.0
+[14:27:57]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:27:57] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[14:27:57] 		 resultat : False
+[14:27:57]  Rafraichissement de la configuration
+[14:27:57] 	 Test de connection :
+[14:27:57] 		 HostName : 138.102.159.39
+[14:27:57] 		 Port : 5432
+[14:27:57] 		 User : adminpg
+[14:27:57] 		 Password : pgAgrh!s08
+[14:27:57] 		 Database : agrhys_dev
+[14:27:57] 	 Tentative de connection : 
+[14:27:57] 		 HostName : 138.102.159.39
+[14:27:57] 		 Port : 5432
+[14:27:57] 		 User : adminpg
+[14:27:57] 		 Password : pgAgrh!s08
+[14:27:57] 		 Database : agrhys_dev
+[14:27:57] 	 Tentative de connection : 
+[14:27:57] 		 deja connecte
+[14:27:57] 	 Test des domaines
+[14:27:57] 		 resultat : False
+[14:28:07]  Sortie de programme
+[14:32:41]  Demmarrage : 0.9.9.0
+[14:32:41]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:32:41] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[14:32:41] 		 resultat : False
+[14:32:41]  Rafraichissement de la configuration
+[14:32:41] 	 Test de connection :
+[14:32:41] 		 HostName : 138.102.159.39
+[14:32:41] 		 Port : 5432
+[14:32:41] 		 User : adminpg
+[14:32:41] 		 Password : pgAgrh!s08
+[14:32:41] 		 Database : agrhys_dev
+[14:32:42] 	 Tentative de connection : 
+[14:32:42] 		 HostName : 138.102.159.39
+[14:32:42] 		 Port : 5432
+[14:32:42] 		 User : adminpg
+[14:32:42] 		 Password : pgAgrh!s08
+[14:32:42] 		 Database : agrhys_dev
+[14:32:42] 	 Tentative de connection : 
+[14:32:42] 		 deja connecte
+[14:32:42] 	 Test des domaines
+[14:32:42] 		 resultat : False
+[14:32:43]  Sortie de programme
+[14:34:59]  Demmarrage : 0.9.9.0
+[14:34:59]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:34:59] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[14:34:59] 		 resultat : False
+[14:34:59]  Rafraichissement de la configuration
+[14:34:59] 	 Test de connection :
+[14:34:59] 		 HostName : 138.102.159.39
+[14:34:59] 		 Port : 5432
+[14:34:59] 		 User : adminpg
+[14:34:59] 		 Password : pgAgrh!s08
+[14:34:59] 		 Database : agrhys_dev
+[14:34:59] 	 Tentative de connection : 
+[14:34:59] 		 HostName : 138.102.159.39
+[14:34:59] 		 Port : 5432
+[14:34:59] 		 User : adminpg
+[14:34:59] 		 Password : pgAgrh!s08
+[14:34:59] 		 Database : agrhys_dev
+[14:34:59] 	 Tentative de connection : 
+[14:34:59] 		 deja connecte
+[14:34:59] 	 Test des domaines
+[14:34:59] 		 resultat : False
+[14:35:12] 		 Lancement du traitement manuellement
+[14:35:12] 		 Deconnection de tous les utilisateurs
+[14:35:12] 	 Tentative de connection Admin: 
+[14:35:12] 			 Deconnection(s) Ok
+[14:35:12] 	 Tentative de connection : 
+[14:35:12] 		 HostName : 138.102.159.39
+[14:35:12] 		 Port : 5432
+[14:35:12] 		 User : adminpg
+[14:35:12] 		 Password : pgAgrh!s08
+[14:35:12] 		 Database : agrhys_dev
+[14:35:12]  Traitement du fichier csv : C:\export\Naizin_brutes.csv
+[14:35:12] 	 Verification existance du fichier
+[14:35:12]  recherche domaine pour : Naizin_brutes.csv
+[14:35:12] 	 Trouvé domaine  : X:\HYDRAS\Naizin\
+[14:35:12]  Recherche de schema pour : X:\HYDRAS\Naizin\
+[14:35:12] 	 Tentative de connection : 
+[14:35:12] 		 deja connecte
+[14:35:12] 	 Trouvé Schema  : agrhys
+[14:35:12]  Connection au domaine : X:\HYDRAS\Naizin\
+[14:35:12] 	 Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+[14:35:12] 	 Fichier non trouvé
+[14:35:12] 	 Impossible de se connecter à la base de donnée
+[14:35:12] 	 Tentative de connection : 
+[14:35:12] 		 deja connecte
+[14:35:13] 	 Calcul du tampon
+[14:35:13] 	 Initialisation du fichier
+[14:35:13] 	 Traitement du fichier
+[14:37:33] 	 Traitement OK
+[14:37:33] 	 Creation du fichier ZIP : C:\export\import [06-03-2020-14-37-33].zip
+[14:37:33] 		 Ajout du fichier: C:\export\Naizin_brutes.csv
+[14:37:33] 		 Suppression du fichier : C:\export\Naizin_brutes.csv
+[14:37:33]  Fichier : C:\export\import [06-03-2020-14-37-33].zip; Nouveau
+[14:37:33] 	 Timer active : False
+[14:37:33]  Fichier : C:\export\import [06-03-2020-14-37-33].zip; Modification
+[14:37:33] 	 Timer active : False
+[14:37:33]  Fichier : C:\export\import [06-03-2020-14-37-33].zip; Modification
+[14:37:33] 	 Timer active : False
+[14:37:33]  Fichier : C:\export\Naizin_brutes.csv; Deplacement
+[14:37:33] 	 Reinitialisation du timer
+[14:37:33] 	 Timer active : True
+[14:37:33]  Fichier : C:\export\import [06-03-2020-14-37-33].zip; Modification
+[14:37:33] 	 Timer active : True
+[14:51:59]  Demmarrage : 0.9.9.0
+[14:51:59]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:51:59] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[14:51:59] 		 resultat : False
+[14:51:59]  Rafraichissement de la configuration
+[14:51:59] 	 Test de connection :
+[14:51:59] 		 HostName : 138.102.159.39
+[14:51:59] 		 Port : 5432
+[14:51:59] 		 User : adminpg
+[14:51:59] 		 Password : pgAgrh!s08
+[14:51:59] 		 Database : agrhys_dev
+[14:51:59] 	 Tentative de connection : 
+[14:51:59] 		 HostName : 138.102.159.39
+[14:51:59] 		 Port : 5432
+[14:51:59] 		 User : adminpg
+[14:51:59] 		 Password : pgAgrh!s08
+[14:51:59] 		 Database : agrhys_dev
+[14:52:00] 	 Tentative de connection : 
+[14:52:00] 		 deja connecte
+[14:52:00] 	 Test des domaines
+[14:52:00] 		 resultat : False
+[14:52:07]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:52:07]  Rafraichissement de la configuration
+[14:52:07] 	 Test de connection :
+[14:52:07] 		 HostName : 138.102.159.39
+[14:52:07] 		 Port : 5432
+[14:52:07] 		 User : adminpg
+[14:52:07] 		 Password : pgAgrh!s08
+[14:52:07] 		 Database : agrhys_dev
+[14:52:07] 	 Tentative de connection : 
+[14:52:07] 		 HostName : 138.102.159.39
+[14:52:07] 		 Port : 5432
+[14:52:07] 		 User : adminpg
+[14:52:07] 		 Password : pgAgrh!s08
+[14:52:07] 		 Database : agrhys_dev
+[14:52:07] 	 Tentative de connection : 
+[14:52:07] 		 deja connecte
+[14:52:07] 	 Test des domaines
+[14:52:07] 		 resultat : False
+[14:52:09]  Sortie de programme
+[14:52:22]  Demmarrage : 0.9.9.0
+[14:52:22]  lecture de la configuration : C:\ExportHydras\config.ini
+[14:52:22] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[14:52:22] 		 resultat : False
+[14:52:22]  Rafraichissement de la configuration
+[14:52:22] 	 Test de connection :
+[14:52:22] 		 HostName : 138.102.159.39
+[14:52:22] 		 Port : 5432
+[14:52:22] 		 User : adminpg
+[14:52:22] 		 Password : pgAgrh!s08
+[14:52:22] 		 Database : agrhys_dev
+[14:52:23] 	 Tentative de connection : 
+[14:52:23] 		 HostName : 138.102.159.39
+[14:52:23] 		 Port : 5432
+[14:52:23] 		 User : adminpg
+[14:52:23] 		 Password : pgAgrh!s08
+[14:52:23] 		 Database : agrhys_dev
+[14:52:23] 	 Tentative de connection : 
+[14:52:23] 		 deja connecte
+[14:52:23] 	 Test des domaines
+[14:52:23] 		 resultat : False
+[14:52:35] 		 Lancement du traitement manuellement
+[14:52:35] 		 Deconnection de tous les utilisateurs
+[14:52:35] 	 Tentative de connection Admin: 
+[14:52:35] 			 Deconnection(s) Ok
+[14:52:35] 	 Tentative de connection : 
+[14:52:35] 		 HostName : 138.102.159.39
+[14:52:35] 		 Port : 5432
+[14:52:35] 		 User : adminpg
+[14:52:35] 		 Password : pgAgrh!s08
+[14:52:35] 		 Database : agrhys_dev
+[14:52:35]  Traitement du fichier csv : C:\export\Naizin_brutes.csv
+[14:52:35] 	 Verification existance du fichier
+[14:52:35]  recherche domaine pour : Naizin_brutes.csv
+[14:52:35] 	 Trouvé domaine  : X:\HYDRAS\Naizin\
+[14:52:35]  Recherche de schema pour : X:\HYDRAS\Naizin\
+[14:52:35] 	 Tentative de connection : 
+[14:52:35] 		 deja connecte
+[14:52:35] 	 Trouvé Schema  : agrhys
+[14:52:35]  Connection au domaine : X:\HYDRAS\Naizin\
+[14:52:35]  Lecture des stations
+[15:00:02]  Demmarrage : 0.9.9.0
+[15:00:02]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:00:02] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:00:02] 		 resultat : False
+[15:00:02]  Rafraichissement de la configuration
+[15:00:02] 	 Test de connection :
+[15:00:02] 		 HostName : 138.102.159.39
+[15:00:02] 		 Port : 5432
+[15:00:02] 		 User : adminpg
+[15:00:02] 		 Password : pgAgrh!s08
+[15:00:02] 		 Database : agrhys_dev
+[15:00:03] 	 Tentative de connection : 
+[15:00:03] 		 HostName : 138.102.159.39
+[15:00:03] 		 Port : 5432
+[15:00:03] 		 User : adminpg
+[15:00:03] 		 Password : pgAgrh!s08
+[15:00:03] 		 Database : agrhys_dev
+[15:00:03] 	 Tentative de connection : 
+[15:00:03] 		 deja connecte
+[15:00:03] 	 Test des domaines
+[15:00:03] 		 resultat : False
+[15:00:25] 		 Lancement du traitement manuellement
+[15:00:25] 		 Deconnection de tous les utilisateurs
+[15:00:25] 	 Tentative de connection Admin: 
+[15:00:25] 			 Deconnection(s) Ok
+[15:00:25] 	 Tentative de connection : 
+[15:00:25] 		 HostName : 138.102.159.39
+[15:00:25] 		 Port : 5432
+[15:00:25] 		 User : adminpg
+[15:00:25] 		 Password : pgAgrh!s08
+[15:00:25] 		 Database : agrhys_dev
+[15:00:25]  Traitement du fichier csv : C:\export\Naizin_brutes.csv
+[15:00:25] 	 Verification existance du fichier
+[15:00:25]  recherche domaine pour : Naizin_brutes.csv
+[15:00:25] 	 Trouvé domaine  : X:\HYDRAS\Naizin\
+[15:00:25]  Recherche de schema pour : X:\HYDRAS\Naizin\
+[15:00:25] 	 Tentative de connection : 
+[15:00:25] 		 deja connecte
+[15:00:25] 	 Trouvé Schema  : agrhys
+[15:00:25]  Connection au domaine : X:\HYDRAS\Naizin\
+[15:00:25]  Lecture des stations
+[15:00:25] 	 Ouverture de la table : GB_DATEI.DB
+[15:00:25] 	 Fichier non trouvé
+[15:00:25] 	 Impossible de se connecter à la base de donnée
+[15:00:25] 	 Mise a jeur de stations pour agrhys
+[15:00:25] 	 Tentative de connection : 
+[15:00:25] 		 deja connecte
+[15:00:25] 		 Ajout de 1 stations
+[15:00:25] 	 Tentative de connection : 
+[15:00:25] 		 deja connecte
+[15:00:25] 	 Calcul du tampon
+[15:00:25] 	 Initialisation du fichier
+[15:00:25] 	 Traitement du fichier
+[15:02:45] 	 Traitement OK
+[15:02:45] 	 Creation du fichier ZIP : C:\export\import [06-03-2020-15-02-45].zip
+[15:02:45] 		 Ajout du fichier: C:\export\Naizin_brutes.csv
+[15:02:46] 		 Suppression du fichier : C:\export\Naizin_brutes.csv
+[15:02:46]  Fichier : C:\export\import [06-03-2020-15-02-45].zip; Nouveau
+[15:02:46] 	 Timer active : False
+[15:02:46]  Fichier : C:\export\import [06-03-2020-15-02-45].zip; Modification
+[15:02:46] 	 Timer active : False
+[15:02:46]  Fichier : C:\export\import [06-03-2020-15-02-45].zip; Modification
+[15:02:46] 	 Timer active : False
+[15:02:46]  Fichier : C:\export\Naizin_brutes.csv; Deplacement
+[15:02:46] 	 Reinitialisation du timer
+[15:02:46] 	 Timer active : True
+[15:02:46]  Fichier : C:\export\import [06-03-2020-15-02-45].zip; Modification
+[15:02:46] 	 Timer active : True
+[15:03:16]  Activite termine 
+[15:03:16] 	 Creation du fichier ZIP : C:\export\import [06-03-2020-15-03-16].zip
+[15:03:16]  Fichier : C:\export\import [06-03-2020-15-03-16].zip; Nouveau
+[15:03:16] 	 Timer active : False
+[15:03:16]  Fichier : C:\export\import [06-03-2020-15-03-16].zip; Modification
+[15:03:16] 	 Timer active : False
+[15:04:43]  Sortie de programme
+[15:05:45]  Demmarrage : 0.9.9.0
+[15:05:45]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:05:45] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:05:45] 		 resultat : False
+[15:05:45]  Rafraichissement de la configuration
+[15:05:45] 	 Test de connection :
+[15:05:45] 		 HostName : 138.102.159.39
+[15:05:45] 		 Port : 5432
+[15:05:45] 		 User : adminpg
+[15:05:45] 		 Password : pgAgrh!s08
+[15:05:45] 		 Database : agrhys_dev
+[15:05:46] 	 Tentative de connection : 
+[15:05:46] 		 HostName : 138.102.159.39
+[15:05:46] 		 Port : 5432
+[15:05:46] 		 User : adminpg
+[15:05:46] 		 Password : pgAgrh!s08
+[15:05:46] 		 Database : agrhys_dev
+[15:05:46] 	 Tentative de connection : 
+[15:05:46] 		 deja connecte
+[15:05:46] 	 Test des domaines
+[15:05:46] 		 resultat : False
+[15:05:50]  Sortie de programme
+[15:06:19]  Demmarrage : 0.9.9.0
+[15:06:19]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:06:19] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:06:19] 		 resultat : False
+[15:06:19]  Rafraichissement de la configuration
+[15:06:19] 	 Test de connection :
+[15:06:19] 		 HostName : 138.102.159.39
+[15:06:19] 		 Port : 5432
+[15:06:19] 		 User : adminpg
+[15:06:19] 		 Password : pgAgrh!s08
+[15:06:19] 		 Database : agrhys_dev
+[15:06:20] 	 Tentative de connection : 
+[15:06:20] 		 HostName : 138.102.159.39
+[15:06:20] 		 Port : 5432
+[15:06:20] 		 User : adminpg
+[15:06:20] 		 Password : pgAgrh!s08
+[15:06:20] 		 Database : agrhys_dev
+[15:06:20] 	 Tentative de connection : 
+[15:06:20] 		 deja connecte
+[15:06:20] 	 Test des domaines
+[15:06:20] 		 resultat : False
+[15:06:21]  Sortie de programme
+[15:08:06]  Demmarrage : 0.9.9.0
+[15:08:06]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:08:06] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:08:06] 		 resultat : False
+[15:08:06]  Rafraichissement de la configuration
+[15:08:06] 	 Test de connection :
+[15:08:06] 		 HostName : 138.102.159.39
+[15:08:07] 		 Port : 5432
+[15:08:07] 		 User : adminpg
+[15:08:07] 		 Password : pgAgrh!s08
+[15:08:07] 		 Database : agrhys_dev
+[15:08:07] 	 Tentative de connection : 
+[15:08:07] 		 HostName : 138.102.159.39
+[15:08:07] 		 Port : 5432
+[15:08:07] 		 User : adminpg
+[15:08:07] 		 Password : pgAgrh!s08
+[15:08:07] 		 Database : agrhys_dev
+[15:08:07] 	 Tentative de connection : 
+[15:08:07] 		 deja connecte
+[15:08:07] 	 Test des domaines
+[15:08:07] 		 resultat : False
+[15:08:09]  Sortie de programme
+[15:12:45]  Demmarrage : 0.9.9.0
+[15:12:45]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:12:45] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:12:45] 		 resultat : False
+[15:12:45]  Rafraichissement de la configuration
+[15:12:45] 	 Test de connection :
+[15:12:45] 		 HostName : 138.102.159.39
+[15:12:45] 		 Port : 5432
+[15:12:45] 		 User : adminpg
+[15:12:45] 		 Password : pgAgrh!s08
+[15:12:45] 		 Database : agrhys_dev
+[15:12:46] 	 Tentative de connection : 
+[15:12:46] 		 HostName : 138.102.159.39
+[15:12:46] 		 Port : 5432
+[15:12:46] 		 User : adminpg
+[15:12:46] 		 Password : pgAgrh!s08
+[15:12:46] 		 Database : agrhys_dev
+[15:12:46] 	 Tentative de connection : 
+[15:12:46] 		 deja connecte
+[15:12:46] 	 Test des domaines
+[15:12:46] 		 resultat : False
+[15:12:48]  Sortie de programme
+[15:14:26]  Demmarrage : 0.9.9.0
+[15:14:27]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:14:27] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:14:27] 		 resultat : False
+[15:14:27]  Rafraichissement de la configuration
+[15:14:27] 	 Test de connection :
+[15:14:27] 		 HostName : 138.102.159.39
+[15:14:27] 		 Port : 5432
+[15:14:27] 		 User : adminpg
+[15:14:27] 		 Password : pgAgrh!s08
+[15:14:27] 		 Database : agrhys_dev
+[15:14:27] 	 Tentative de connection : 
+[15:14:27] 		 HostName : 138.102.159.39
+[15:14:27] 		 Port : 5432
+[15:14:27] 		 User : adminpg
+[15:14:27] 		 Password : pgAgrh!s08
+[15:14:27] 		 Database : agrhys_dev
+[15:14:27] 	 Tentative de connection : 
+[15:14:27] 		 deja connecte
+[15:14:27] 	 Test des domaines
+[15:14:27] 		 resultat : False
+[15:14:29]  Sortie de programme
+[15:15:15]  Demmarrage : 0.9.9.0
+[15:15:15]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:15:15] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:15:15] 		 resultat : False
+[15:15:15]  Rafraichissement de la configuration
+[15:15:15] 	 Test de connection :
+[15:15:15] 		 HostName : 138.102.159.39
+[15:15:15] 		 Port : 5432
+[15:15:15] 		 User : adminpg
+[15:15:15] 		 Password : pgAgrh!s08
+[15:15:15] 		 Database : agrhys_dev
+[15:15:16] 	 Tentative de connection : 
+[15:15:16] 		 HostName : 138.102.159.39
+[15:15:16] 		 Port : 5432
+[15:15:16] 		 User : adminpg
+[15:15:16] 		 Password : pgAgrh!s08
+[15:15:16] 		 Database : agrhys_dev
+[15:15:16] 	 Tentative de connection : 
+[15:15:16] 		 deja connecte
+[15:15:16] 	 Test des domaines
+[15:15:16] 		 resultat : False
+[15:15:17]  Sortie de programme
+[15:15:32]  Demmarrage : 0.9.9.0
+[15:15:32]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:15:32] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:15:32] 		 resultat : False
+[15:15:32]  Rafraichissement de la configuration
+[15:15:32] 	 Test de connection :
+[15:15:32] 		 HostName : 138.102.159.39
+[15:15:32] 		 Port : 5432
+[15:15:32] 		 User : adminpg
+[15:15:32] 		 Password : pgAgrh!s08
+[15:15:32] 		 Database : agrhys_dev
+[15:15:32] 	 Tentative de connection : 
+[15:15:32] 		 HostName : 138.102.159.39
+[15:15:32] 		 Port : 5432
+[15:15:32] 		 User : adminpg
+[15:15:32] 		 Password : pgAgrh!s08
+[15:15:32] 		 Database : agrhys_dev
+[15:15:33] 	 Tentative de connection : 
+[15:15:33] 		 deja connecte
+[15:15:33] 	 Test des domaines
+[15:15:33] 		 resultat : False
+[15:15:34]  Sortie de programme
+[15:15:47]  Demmarrage : 0.9.9.0
+[15:15:48]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:15:48] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:15:48] 		 resultat : False
+[15:15:48]  Rafraichissement de la configuration
+[15:15:48] 	 Test de connection :
+[15:15:48] 		 HostName : 138.102.159.39
+[15:15:48] 		 Port : 5432
+[15:15:48] 		 User : adminpg
+[15:15:48] 		 Password : pgAgrh!s08
+[15:15:48] 		 Database : agrhys_dev
+[15:15:48] 	 Tentative de connection : 
+[15:15:48] 		 HostName : 138.102.159.39
+[15:15:48] 		 Port : 5432
+[15:15:48] 		 User : adminpg
+[15:15:48] 		 Password : pgAgrh!s08
+[15:15:48] 		 Database : agrhys_dev
+[15:15:48] 	 Tentative de connection : 
+[15:15:48] 		 deja connecte
+[15:15:48] 	 Test des domaines
+[15:15:48] 		 resultat : False
+[15:15:49]  Sortie de programme
+[15:16:00]  Demmarrage : 0.9.9.0
+[15:16:00]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:16:00] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:16:00] 		 resultat : False
+[15:16:00]  Rafraichissement de la configuration
+[15:16:00] 	 Test de connection :
+[15:16:00] 		 HostName : 138.102.159.39
+[15:16:00] 		 Port : 5432
+[15:16:00] 		 User : adminpg
+[15:16:00] 		 Password : pgAgrh!s08
+[15:16:00] 		 Database : agrhys_dev
+[15:16:01] 	 Tentative de connection : 
+[15:16:01] 		 HostName : 138.102.159.39
+[15:16:01] 		 Port : 5432
+[15:16:01] 		 User : adminpg
+[15:16:01] 		 Password : pgAgrh!s08
+[15:16:01] 		 Database : agrhys_dev
+[15:16:01] 	 Tentative de connection : 
+[15:16:01] 		 deja connecte
+[15:16:01] 	 Test des domaines
+[15:16:01] 		 resultat : False
+[15:16:02]  Sortie de programme
+[15:17:49]  Demmarrage : 0.9.9.0
+[15:17:49]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:17:49] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:17:49] 		 resultat : False
+[15:17:49]  Rafraichissement de la configuration
+[15:17:49] 	 Test de connection :
+[15:17:49] 		 HostName : 138.102.159.39
+[15:17:49] 		 Port : 5432
+[15:17:49] 		 User : adminpg
+[15:17:49] 		 Password : pgAgrh!s08
+[15:17:49] 		 Database : agrhys_dev
+[15:17:49] 	 Tentative de connection : 
+[15:17:49] 		 HostName : 138.102.159.39
+[15:17:49] 		 Port : 5432
+[15:17:49] 		 User : adminpg
+[15:17:49] 		 Password : pgAgrh!s08
+[15:17:49] 		 Database : agrhys_dev
+[15:17:49] 	 Tentative de connection : 
+[15:17:49] 		 deja connecte
+[15:17:49] 	 Test des domaines
+[15:17:49] 		 resultat : False
+[15:17:51]  Sortie de programme
+[15:21:33]  Demmarrage : 0.9.9.0
+[15:21:33]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:21:33] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:21:33] 		 resultat : False
+[15:21:33]  Rafraichissement de la configuration
+[15:21:33] 	 Test de connection :
+[15:21:33] 		 HostName : 138.102.159.39
+[15:21:33] 		 Port : 5432
+[15:21:33] 		 User : adminpg
+[15:21:33] 		 Password : pgAgrh!s08
+[15:21:33] 		 Database : agrhys_dev
+[15:21:33] 	 Tentative de connection : 
+[15:21:33] 		 HostName : 138.102.159.39
+[15:21:33] 		 Port : 5432
+[15:21:33] 		 User : adminpg
+[15:21:33] 		 Password : pgAgrh!s08
+[15:21:33] 		 Database : agrhys_dev
+[15:21:33] 	 Tentative de connection : 
+[15:21:33] 		 deja connecte
+[15:21:34] 	 Test des domaines
+[15:21:34] 		 resultat : False
+[15:21:35]  Sortie de programme
+[15:22:11]  Demmarrage : 0.9.9.0
+[15:22:11]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:22:11] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:22:11] 		 resultat : False
+[15:22:11]  Rafraichissement de la configuration
+[15:22:11] 	 Test de connection :
+[15:22:12] 		 HostName : 138.102.159.39
+[15:22:12] 		 Port : 5432
+[15:22:12] 		 User : adminpg
+[15:22:12] 		 Password : pgAgrh!s08
+[15:22:12] 		 Database : agrhys_dev
+[15:22:12] 	 Tentative de connection : 
+[15:22:12] 		 HostName : 138.102.159.39
+[15:22:12] 		 Port : 5432
+[15:22:12] 		 User : adminpg
+[15:22:12] 		 Password : pgAgrh!s08
+[15:22:12] 		 Database : agrhys_dev
+[15:22:12] 	 Tentative de connection : 
+[15:22:12] 		 deja connecte
+[15:22:12] 	 Test des domaines
+[15:22:12] 		 resultat : False
+[15:22:18]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:22:18]  Rafraichissement de la configuration
+[15:22:18] 	 Test de connection :
+[15:22:18] 		 HostName : 138.102.159.39
+[15:22:18] 		 Port : 5432
+[15:22:18] 		 User : adminpg
+[15:22:18] 		 Password : pgAgrh!s08
+[15:22:18] 		 Database : agrhys_dev
+[15:22:18] 	 Tentative de connection : 
+[15:22:18] 		 HostName : 138.102.159.39
+[15:22:18] 		 Port : 5432
+[15:22:18] 		 User : adminpg
+[15:22:18] 		 Password : pgAgrh!s08
+[15:22:18] 		 Database : agrhys_dev
+[15:22:18] 	 Tentative de connection : 
+[15:22:18] 		 deja connecte
+[15:22:18] 	 Test des domaines
+[15:22:18] 		 resultat : False
+[15:22:20]  Sortie de programme
+[15:25:36]  Demmarrage : 0.9.9.0
+[15:25:36]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:25:36] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:25:36] 		 resultat : False
+[15:25:36]  Rafraichissement de la configuration
+[15:25:36] 	 Test de connection :
+[15:25:36] 		 HostName : 138.102.159.39
+[15:25:37] 		 Port : 5432
+[15:25:37] 		 User : adminpg
+[15:25:37] 		 Password : pgAgrh!s08
+[15:25:37] 		 Database : agrhys_dev
+[15:25:37] 	 Tentative de connection : 
+[15:25:37] 		 HostName : 138.102.159.39
+[15:25:37] 		 Port : 5432
+[15:25:37] 		 User : adminpg
+[15:25:37] 		 Password : pgAgrh!s08
+[15:25:37] 		 Database : agrhys_dev
+[15:25:37] 	 Tentative de connection : 
+[15:25:37] 		 deja connecte
+[15:25:37] 	 Test des domaines
+[15:25:37] 		 resultat : False
+[15:25:39]  Sortie de programme
+[15:30:35]  Demmarrage : 0.9.9.0
+[15:30:35]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:30:35] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:30:35] 		 resultat : False
+[15:30:35]  Rafraichissement de la configuration
+[15:30:35] 	 Test de connection :
+[15:30:35] 		 HostName : 138.102.159.39
+[15:30:35] 		 Port : 5432
+[15:30:35] 		 User : adminpg
+[15:30:35] 		 Password : pgAgrh!s08
+[15:30:35] 		 Database : agrhys_dev
+[15:30:35] 	 Tentative de connection : 
+[15:30:35] 		 HostName : 138.102.159.39
+[15:30:35] 		 Port : 5432
+[15:30:35] 		 User : adminpg
+[15:30:35] 		 Password : pgAgrh!s08
+[15:30:35] 		 Database : agrhys_dev
+[15:30:35] 	 Tentative de connection : 
+[15:30:35] 		 deja connecte
+[15:30:36] 	 Test des domaines
+[15:30:36] 		 resultat : False
+[15:30:47]  Sortie de programme

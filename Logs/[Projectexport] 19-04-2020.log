@@ -1,0 +1,46 @@
+[14:42:12]  Demmarrage version : 0.9.9.0
+[14:42:12]  lecture de la configuration
+[14:42:12]  piroot
+[14:42:12]  adam
+[14:42:12]  Rafraichissement de la configuration
+[14:42:12]  piroot
+[14:42:12]  adam
+[14:42:12] 	 Activation surveillance de : C:\export
+[14:42:13] 	 Connection pour pi OK
+[14:42:13] 	 Test des domaines
+[14:42:13] 		 Domaine C:\Naizin\  -> Ok
+[14:42:13] 		 Domaine C:\EFELE\  -> Ok
+[14:42:13] 	 Connection Admin OK
+[14:42:13] 	 pi deja connecte
+[14:42:42]  Demmarrage version : 0.9.9.0
+[14:42:42]  lecture de la configuration
+[14:42:42]  piroot
+[14:42:42]  adam
+[14:42:42]  Rafraichissement de la configuration
+[14:42:42]  piroot
+[14:42:42]  adam
+[14:42:42] 	 Activation surveillance de : C:\export
+[14:42:42] 	 Connection pour pi OK
+[14:42:42] 	 Test des domaines
+[14:42:42] 		 Domaine C:\Naizin\  -> Ok
+[14:42:42] 		 Domaine C:\EFELE\  -> Ok
+[14:42:42] 	 Connection Admin OK
+[14:42:42] 	 pi deja connecte
+[14:42:58] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[14:43:01] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[14:43:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[14:43:11] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[14:43:12] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[14:43:12] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[14:43:13] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[14:43:13] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[14:43:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[14:43:15] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[14:43:16] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[14:43:17] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[14:43:28] 		 Table : C:\Naizin\GBM_02.DB deja ouverte
+[14:43:32] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[14:43:33] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[14:43:34] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[14:43:35] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[14:44:23]  Sortie de programme

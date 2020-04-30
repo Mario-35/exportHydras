@@ -1,0 +1,2753 @@
+[14:58:42]  Demmarrage : 0.9.9.0
+[14:58:42]  lecture de la configuration
+[14:58:42] 		 readEntry : Hostname > 138.102.159.39
+[14:58:42] 			 result : 138.102.159.39
+[14:58:42] 		 readEntry : Port > 5432
+[14:58:42] 			 result : 5432
+[14:58:42] 		 readEntry : User > adminpg
+[14:58:42] 			 result : adminpg
+[14:58:42] 		 readEntry : Password > pgAgrh!s08
+[14:58:42] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[14:58:42] 		 readEntry : Database > agrhys_dev
+[14:58:42] 			 result : agrhys_dev
+[14:58:42] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[14:58:42] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[14:58:42] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[14:58:42] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[14:58:42] 		 readEntry : CsvFolder > C:\export
+[14:58:42] 			 result : C:\export
+[14:58:42] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[14:58:42] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[14:58:42] 		 readEntry : csvBuffer > 50000
+[14:58:42] 			 result : 50000
+[14:58:42] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[14:58:42] 			 result : _B_=;_C_=;_V_=;
+[14:58:42] 	 EditUpdate : TEdit
+[14:58:42] 		 readEntry : Hostname > 
+[14:58:42] 			 result : 138.102.159.39
+[14:58:42] 	 EditUpdate : TEdit
+[14:58:42] 		 readEntry : Port > 
+[14:58:42] 			 result : 5432
+[14:58:42] 	 EditUpdate : TEdit
+[14:58:42] 		 readEntry : User > 
+[14:58:43] 			 result : adminpg
+[14:58:43] 	 EditUpdate : TEdit
+[14:58:43] 		 readEntry : Hostname > 138.102.159.39
+[14:58:43] 			 result : 138.102.159.39
+[14:58:43] 	 EditUpdate : TMaskEdit
+[14:58:43] 		 readEntry : Password > MaskEditPassword
+[14:58:43] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[14:58:43] 	 EditUpdate : TEdit
+[14:58:43] 		 readEntry : Database > 
+[14:58:43] 			 result : agrhys_dev
+[14:58:43] 	 EditUpdate : TSpinEdit
+[14:58:43] 		 readEntry : csvBuffer > 0
+[14:58:43] 			 result : 50000
+[14:58:43] 	 EditUpdate : TCheckBox
+[14:58:43] 		 readEntry : launchWindowsStartup > True
+[14:58:43] 			 result : True
+[14:58:43] 	 EditUpdate : TCheckBox
+[14:58:43] 		 readEntry : FilenameChange > True
+[14:58:43] 			 result : True
+[14:58:43] 	 EditUpdate : TCheckBox
+[14:58:43] 		 readEntry : DirNameChange > True
+[14:58:43] 			 result : False
+[14:58:43] 	 EditUpdate : TCheckBox
+[14:58:43] 		 readEntry : AttributesChange > True
+[14:58:43] 			 result : False
+[14:58:43] 	 EditUpdate : TCheckBox
+[14:58:43] 		 readEntry : SizeChange > True
+[14:58:43] 			 result : True
+[14:58:43] 	 EditUpdate : TCheckBox
+[14:58:43] 		 readEntry : WriteTimeChange > True
+[14:58:43] 			 result : False
+[14:58:43] 	 EditUpdate : TCheckBox
+[14:58:43] 		 readEntry : AccessTimeChange > True
+[14:58:43] 			 result : False
+[14:58:43] 	 EditUpdate : TCheckBox
+[14:58:43] 		 readEntry : CreationTimeChange > True
+[14:58:43] 			 result : False
+[14:58:43] 	 EditUpdate : TCheckBox
+[14:58:43] 		 readEntry : SecurityAttrChanges > True
+[14:58:43] 			 result : False
+[14:58:43] 	 EditUpdate : TCheckBox
+[14:58:43] 		 readEntry : MonitorSubfolders > True
+[14:58:43] 			 result : True
+[14:58:43] 	 EditUpdate : TDirectoryListBox
+[14:58:43] 		 readEntry : HydrasFolder > C:\ExportHydras
+[14:58:43] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[14:58:43] 	 EditUpdate : TDirectoryListBox
+[14:58:43] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[14:58:43] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[14:58:43] 	 EditUpdate : TDirectoryListBox
+[14:58:43] 		 readEntry : CsvFolder > C:\ExportHydras
+[14:58:43] 			 result : C:\export
+[14:58:43] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[14:58:43] 		 resultat : False
+[14:58:43] 	 Password : pgAgrh!s08
+[14:58:43]  Rafraichissement de la configuration
+[14:58:43] 	 Test de connection
+[14:58:43] 		 HostName : 138.102.159.39 Port : 5432 User : adminpg Password : ***** Database : agrhys_dev
+[14:58:43] 	 Password : pgAgrh!s08
+[14:58:43] 		 ping pas de reponse
+[14:59:46]  Sortie de programme
+[15:02:25]  Demmarrage : 0.9.9.0
+[15:02:25]  lecture de la configuration
+[15:02:25] 		 readEntry : Hostname > 138.102.159.39
+[15:02:25] 			 result : 138.102.159.39
+[15:02:25] 		 readEntry : Port > 5432
+[15:02:25] 			 result : 5432
+[15:02:25] 		 readEntry : User > adminpg
+[15:02:25] 			 result : adminpg
+[15:02:25] 		 readEntry : Password > pgAgrh!s08
+[15:02:25] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:02:25] 		 readEntry : Database > agrhys_dev
+[15:02:25] 			 result : agrhys_dev
+[15:02:25] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:02:25] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:02:25] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:02:25] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:02:25] 		 readEntry : CsvFolder > C:\export
+[15:02:25] 			 result : C:\export
+[15:02:25] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:02:25] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:02:25] 		 readEntry : csvBuffer > 50000
+[15:02:25] 			 result : 50000
+[15:02:25] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:02:25] 			 result : _B_=;_C_=;_V_=;
+[15:02:25] 	 EditUpdate : TEdit
+[15:02:25] 		 readEntry : Hostname > 
+[15:02:25] 			 result : 138.102.159.39
+[15:02:25] 	 EditUpdate : TEdit
+[15:02:25] 		 readEntry : Port > 
+[15:02:25] 			 result : 5432
+[15:02:25] 	 EditUpdate : TEdit
+[15:02:25] 		 readEntry : User > 
+[15:02:25] 			 result : adminpg
+[15:02:25] 	 EditUpdate : TEdit
+[15:02:25] 		 readEntry : Hostname > 138.102.159.39
+[15:02:25] 			 result : 138.102.159.39
+[15:02:25] 	 EditUpdate : TMaskEdit
+[15:02:25] 		 readEntry : Password > MaskEditPassword
+[15:02:25] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:02:25] 	 EditUpdate : TEdit
+[15:02:25] 		 readEntry : Database > 
+[15:02:25] 			 result : agrhys_dev
+[15:02:25] 	 EditUpdate : TSpinEdit
+[15:02:25] 		 readEntry : csvBuffer > 0
+[15:02:25] 			 result : 50000
+[15:02:25] 	 EditUpdate : TCheckBox
+[15:02:25] 		 readEntry : launchWindowsStartup > True
+[15:02:25] 			 result : True
+[15:02:25] 	 EditUpdate : TCheckBox
+[15:02:25] 		 readEntry : FilenameChange > True
+[15:02:25] 			 result : True
+[15:02:25] 	 EditUpdate : TCheckBox
+[15:02:25] 		 readEntry : DirNameChange > True
+[15:02:25] 			 result : False
+[15:02:25] 	 EditUpdate : TCheckBox
+[15:02:25] 		 readEntry : AttributesChange > True
+[15:02:25] 			 result : False
+[15:02:25] 	 EditUpdate : TCheckBox
+[15:02:25] 		 readEntry : SizeChange > True
+[15:02:25] 			 result : True
+[15:02:25] 	 EditUpdate : TCheckBox
+[15:02:25] 		 readEntry : WriteTimeChange > True
+[15:02:25] 			 result : False
+[15:02:25] 	 EditUpdate : TCheckBox
+[15:02:25] 		 readEntry : AccessTimeChange > True
+[15:02:25] 			 result : False
+[15:02:25] 	 EditUpdate : TCheckBox
+[15:02:25] 		 readEntry : CreationTimeChange > True
+[15:02:25] 			 result : False
+[15:02:25] 	 EditUpdate : TCheckBox
+[15:02:25] 		 readEntry : SecurityAttrChanges > True
+[15:02:25] 			 result : False
+[15:02:25] 	 EditUpdate : TCheckBox
+[15:02:25] 		 readEntry : MonitorSubfolders > True
+[15:02:25] 			 result : True
+[15:02:25] 	 EditUpdate : TDirectoryListBox
+[15:02:25] 		 readEntry : HydrasFolder > C:\ExportHydras
+[15:02:25] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:02:25] 	 EditUpdate : TDirectoryListBox
+[15:02:25] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[15:02:25] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:02:25] 	 EditUpdate : TDirectoryListBox
+[15:02:25] 		 readEntry : CsvFolder > C:\ExportHydras
+[15:02:25] 			 result : C:\export
+[15:02:25] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:02:25] 		 resultat : False
+[15:02:25] 	 Password : pgAgrh!s08
+[15:02:25]  Rafraichissement de la configuration
+[15:02:25] 	 Test de connection
+[15:02:25] 		 HostName : 138.102.159.39 Port : 5432 User : adminpg Password : ***** Database : agrhys_dev
+[15:02:25] 	 Password : pgAgrh!s08
+[15:02:25] 		 ping pas de reponse
+[15:02:29]  Sortie de programme
+[15:03:13]  Demmarrage : 0.9.9.0
+[15:03:13]  lecture de la configuration
+[15:03:13] 		 readEntry : Hostname > 138.102.159.39
+[15:03:13] 			 result : 138.102.159.39
+[15:03:13] 		 readEntry : Port > 5432
+[15:03:13] 			 result : 5432
+[15:03:13] 		 readEntry : User > adminpg
+[15:03:13] 			 result : adminpg
+[15:03:13] 		 readEntry : Password > pgAgrh!s08
+[15:03:13] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:03:13] 		 readEntry : Database > agrhys_dev
+[15:03:13] 			 result : agrhys_dev
+[15:03:13] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:03:13] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:03:13] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:03:13] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:03:13] 		 readEntry : CsvFolder > C:\export
+[15:03:13] 			 result : C:\export
+[15:03:13] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:03:13] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:03:13] 		 readEntry : csvBuffer > 50000
+[15:03:13] 			 result : 50000
+[15:03:13] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:03:13] 			 result : _B_=;_C_=;_V_=;
+[15:03:13] 	 EditUpdate : TEdit
+[15:03:13] 		 readEntry : Hostname > 
+[15:03:13] 			 result : 138.102.159.39
+[15:03:13] 	 EditUpdate : TEdit
+[15:03:13] 		 readEntry : Port > 
+[15:03:13] 			 result : 5432
+[15:03:13] 	 EditUpdate : TEdit
+[15:03:13] 		 readEntry : User > 
+[15:03:13] 			 result : adminpg
+[15:03:13] 	 EditUpdate : TEdit
+[15:03:13] 		 readEntry : Hostname > 138.102.159.39
+[15:03:13] 			 result : 138.102.159.39
+[15:03:13] 	 EditUpdate : TMaskEdit
+[15:03:13] 		 readEntry : Password > MaskEditPassword
+[15:03:13] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:03:13] 	 EditUpdate : TEdit
+[15:03:13] 		 readEntry : Database > 
+[15:03:13] 			 result : agrhys_dev
+[15:03:13] 	 EditUpdate : TSpinEdit
+[15:03:13] 		 readEntry : csvBuffer > 0
+[15:03:13] 			 result : 50000
+[15:03:13] 	 EditUpdate : TCheckBox
+[15:03:13] 		 readEntry : launchWindowsStartup > True
+[15:03:13] 			 result : True
+[15:03:13] 	 EditUpdate : TCheckBox
+[15:03:13] 		 readEntry : FilenameChange > True
+[15:03:13] 			 result : True
+[15:03:13] 	 EditUpdate : TCheckBox
+[15:03:13] 		 readEntry : DirNameChange > True
+[15:03:13] 			 result : False
+[15:03:13] 	 EditUpdate : TCheckBox
+[15:03:13] 		 readEntry : AttributesChange > True
+[15:03:13] 			 result : False
+[15:03:13] 	 EditUpdate : TCheckBox
+[15:03:13] 		 readEntry : SizeChange > True
+[15:03:13] 			 result : True
+[15:03:13] 	 EditUpdate : TCheckBox
+[15:03:13] 		 readEntry : WriteTimeChange > True
+[15:03:13] 			 result : False
+[15:03:13] 	 EditUpdate : TCheckBox
+[15:03:13] 		 readEntry : AccessTimeChange > True
+[15:03:13] 			 result : False
+[15:03:13] 	 EditUpdate : TCheckBox
+[15:03:13] 		 readEntry : CreationTimeChange > True
+[15:03:13] 			 result : False
+[15:03:13] 	 EditUpdate : TCheckBox
+[15:03:13] 		 readEntry : SecurityAttrChanges > True
+[15:03:13] 			 result : False
+[15:03:13] 	 EditUpdate : TCheckBox
+[15:03:13] 		 readEntry : MonitorSubfolders > True
+[15:03:13] 			 result : True
+[15:03:13] 	 EditUpdate : TDirectoryListBox
+[15:03:13] 		 readEntry : HydrasFolder > C:\ExportHydras
+[15:03:13] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:03:13] 	 EditUpdate : TDirectoryListBox
+[15:03:13] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[15:03:13] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:03:13] 	 EditUpdate : TDirectoryListBox
+[15:03:13] 		 readEntry : CsvFolder > C:\ExportHydras
+[15:03:13] 			 result : C:\export
+[15:03:13] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:03:13] 		 resultat : False
+[15:03:13] 	 Password : pgAgrh!s08
+[15:03:13]  Rafraichissement de la configuration
+[15:03:13] 	 Test de connection
+[15:03:13] 	 Password : pgAgrh!s08
+[15:03:13] 		 ping pas de reponse
+[15:04:19]  Demmarrage : 0.9.9.0
+[15:04:19]  lecture de la configuration
+[15:04:19] 		 readEntry : Hostname > 138.102.159.39
+[15:04:19] 			 result : 138.102.159.39
+[15:04:19] 		 readEntry : Port > 5432
+[15:04:19] 			 result : 5432
+[15:04:19] 		 readEntry : User > adminpg
+[15:04:19] 			 result : adminpg
+[15:04:19] 		 readEntry : Password > pgAgrh!s08
+[15:04:19] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:04:19] 		 readEntry : Database > agrhys_dev
+[15:04:19] 			 result : agrhys_dev
+[15:04:19] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:04:19] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:04:19] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:04:19] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:04:19] 		 readEntry : CsvFolder > C:\export
+[15:04:19] 			 result : C:\export
+[15:04:19] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:04:19] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:04:19] 		 readEntry : csvBuffer > 50000
+[15:04:19] 			 result : 50000
+[15:04:19] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:04:19] 			 result : _B_=;_C_=;_V_=;
+[15:04:19] 	 EditUpdate : TEdit
+[15:04:19] 		 readEntry : Hostname > 
+[15:04:19] 			 result : 138.102.159.39
+[15:04:19] 	 EditUpdate : TEdit
+[15:04:19] 		 readEntry : Port > 
+[15:04:19] 			 result : 5432
+[15:04:19] 	 EditUpdate : TEdit
+[15:04:19] 		 readEntry : User > 
+[15:04:19] 			 result : adminpg
+[15:04:19] 	 EditUpdate : TEdit
+[15:04:19] 		 readEntry : Hostname > 138.102.159.39
+[15:04:19] 			 result : 138.102.159.39
+[15:04:19] 	 EditUpdate : TMaskEdit
+[15:04:19] 		 readEntry : Password > MaskEditPassword
+[15:04:19] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:04:19] 	 EditUpdate : TEdit
+[15:04:19] 		 readEntry : Database > 
+[15:04:19] 			 result : agrhys_dev
+[15:04:19] 	 EditUpdate : TSpinEdit
+[15:04:19] 		 readEntry : csvBuffer > 0
+[15:04:19] 			 result : 50000
+[15:04:19] 	 EditUpdate : TCheckBox
+[15:04:19] 		 readEntry : launchWindowsStartup > True
+[15:04:19] 			 result : True
+[15:04:19] 	 EditUpdate : TCheckBox
+[15:04:19] 		 readEntry : FilenameChange > True
+[15:04:19] 			 result : True
+[15:04:19] 	 EditUpdate : TCheckBox
+[15:04:19] 		 readEntry : DirNameChange > True
+[15:04:19] 			 result : False
+[15:04:19] 	 EditUpdate : TCheckBox
+[15:04:19] 		 readEntry : AttributesChange > True
+[15:04:19] 			 result : False
+[15:04:19] 	 EditUpdate : TCheckBox
+[15:04:19] 		 readEntry : SizeChange > True
+[15:04:19] 			 result : True
+[15:04:19] 	 EditUpdate : TCheckBox
+[15:04:19] 		 readEntry : WriteTimeChange > True
+[15:04:19] 			 result : False
+[15:04:19] 	 EditUpdate : TCheckBox
+[15:04:19] 		 readEntry : AccessTimeChange > True
+[15:04:19] 			 result : False
+[15:04:19] 	 EditUpdate : TCheckBox
+[15:04:19] 		 readEntry : CreationTimeChange > True
+[15:04:19] 			 result : False
+[15:04:19] 	 EditUpdate : TCheckBox
+[15:04:19] 		 readEntry : SecurityAttrChanges > True
+[15:04:19] 			 result : False
+[15:04:19] 	 EditUpdate : TCheckBox
+[15:04:19] 		 readEntry : MonitorSubfolders > True
+[15:04:19] 			 result : True
+[15:04:19] 	 EditUpdate : TDirectoryListBox
+[15:04:19] 		 readEntry : HydrasFolder > C:\ExportHydras
+[15:04:19] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:04:19] 	 EditUpdate : TDirectoryListBox
+[15:04:19] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[15:04:19] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:04:19] 	 EditUpdate : TDirectoryListBox
+[15:04:19] 		 readEntry : CsvFolder > C:\ExportHydras
+[15:04:19] 			 result : C:\export
+[15:04:19] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:04:19] 		 resultat : False
+[15:04:19] 	 Password : pgAgrh!s08
+[15:04:19]  Rafraichissement de la configuration
+[15:04:19] 	 Test de connection
+[15:04:19] 	 Password : pgAgrh!s08
+[15:05:00]  Demmarrage : 0.9.9.0
+[15:05:00]  lecture de la configuration
+[15:05:00] 		 readEntry : Hostname > 138.102.159.39
+[15:05:00] 			 result : 138.102.159.39
+[15:05:00] 		 readEntry : Port > 5432
+[15:05:00] 			 result : 5432
+[15:05:00] 		 readEntry : User > adminpg
+[15:05:00] 			 result : adminpg
+[15:05:00] 		 readEntry : Password > pgAgrh!s08
+[15:05:00] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:05:00] 		 readEntry : Database > agrhys_dev
+[15:05:00] 			 result : agrhys_dev
+[15:05:00] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:05:00] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:05:00] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:05:01] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:05:01] 		 readEntry : CsvFolder > C:\export
+[15:05:01] 			 result : C:\export
+[15:05:01] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:05:01] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:05:01] 		 readEntry : csvBuffer > 50000
+[15:05:01] 			 result : 50000
+[15:05:01] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:05:01] 			 result : _B_=;_C_=;_V_=;
+[15:05:01] 	 EditUpdate : TEdit
+[15:05:01] 		 readEntry : Hostname > 
+[15:05:01] 			 result : 138.102.159.39
+[15:05:01] 	 EditUpdate : TEdit
+[15:05:01] 		 readEntry : Port > 
+[15:05:01] 			 result : 5432
+[15:05:01] 	 EditUpdate : TEdit
+[15:05:01] 		 readEntry : User > 
+[15:05:01] 			 result : adminpg
+[15:05:01] 	 EditUpdate : TEdit
+[15:05:01] 		 readEntry : Hostname > 138.102.159.39
+[15:05:01] 			 result : 138.102.159.39
+[15:05:01] 	 EditUpdate : TMaskEdit
+[15:05:01] 		 readEntry : Password > MaskEditPassword
+[15:05:01] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:05:01] 	 EditUpdate : TEdit
+[15:05:01] 		 readEntry : Database > 
+[15:05:01] 			 result : agrhys_dev
+[15:05:01] 	 EditUpdate : TSpinEdit
+[15:05:01] 		 readEntry : csvBuffer > 0
+[15:05:01] 			 result : 50000
+[15:05:01] 	 EditUpdate : TCheckBox
+[15:05:01] 		 readEntry : launchWindowsStartup > True
+[15:05:01] 			 result : True
+[15:05:01] 	 EditUpdate : TCheckBox
+[15:05:01] 		 readEntry : FilenameChange > True
+[15:05:01] 			 result : True
+[15:05:01] 	 EditUpdate : TCheckBox
+[15:05:01] 		 readEntry : DirNameChange > True
+[15:05:01] 			 result : False
+[15:05:01] 	 EditUpdate : TCheckBox
+[15:05:01] 		 readEntry : AttributesChange > True
+[15:05:01] 			 result : False
+[15:05:01] 	 EditUpdate : TCheckBox
+[15:05:01] 		 readEntry : SizeChange > True
+[15:05:01] 			 result : True
+[15:05:01] 	 EditUpdate : TCheckBox
+[15:05:01] 		 readEntry : WriteTimeChange > True
+[15:05:01] 			 result : False
+[15:05:01] 	 EditUpdate : TCheckBox
+[15:05:01] 		 readEntry : AccessTimeChange > True
+[15:05:01] 			 result : False
+[15:05:01] 	 EditUpdate : TCheckBox
+[15:05:01] 		 readEntry : CreationTimeChange > True
+[15:05:01] 			 result : False
+[15:05:01] 	 EditUpdate : TCheckBox
+[15:05:01] 		 readEntry : SecurityAttrChanges > True
+[15:05:01] 			 result : False
+[15:05:01] 	 EditUpdate : TCheckBox
+[15:05:01] 		 readEntry : MonitorSubfolders > True
+[15:05:01] 			 result : True
+[15:05:01] 	 EditUpdate : TDirectoryListBox
+[15:05:01] 		 readEntry : HydrasFolder > C:\ExportHydras
+[15:05:01] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:05:01] 	 EditUpdate : TDirectoryListBox
+[15:05:01] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[15:05:01] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:05:01] 	 EditUpdate : TDirectoryListBox
+[15:05:01] 		 readEntry : CsvFolder > C:\ExportHydras
+[15:05:01] 			 result : C:\export
+[15:05:01] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:05:01] 		 resultat : False
+[15:05:01] 	 Password : pgAgrh!s08
+[15:05:01]  Rafraichissement de la configuration
+[15:05:01] 	 Test de connection
+[15:05:01] 	 Password : pgAgrh!s08
+[15:05:30]  Demmarrage : 0.9.9.0
+[15:05:30]  lecture de la configuration
+[15:05:30] 		 readEntry : Hostname > 138.102.159.39
+[15:05:30] 			 result : 138.102.159.39
+[15:05:30] 		 readEntry : Port > 5432
+[15:05:30] 			 result : 5432
+[15:05:30] 		 readEntry : User > adminpg
+[15:05:30] 			 result : adminpg
+[15:05:30] 		 readEntry : Password > pgAgrh!s08
+[15:05:30] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:05:30] 		 readEntry : Database > agrhys_dev
+[15:05:30] 			 result : agrhys_dev
+[15:05:30] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:05:30] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:05:30] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:05:30] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:05:30] 		 readEntry : CsvFolder > C:\export
+[15:05:30] 			 result : C:\export
+[15:05:30] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:05:30] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:05:30] 		 readEntry : csvBuffer > 50000
+[15:05:30] 			 result : 50000
+[15:05:30] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:05:30] 			 result : _B_=;_C_=;_V_=;
+[15:05:30] 	 EditUpdate : TEdit
+[15:05:30] 		 readEntry : Hostname > 
+[15:05:30] 			 result : 138.102.159.39
+[15:05:30] 	 EditUpdate : TEdit
+[15:05:30] 		 readEntry : Port > 
+[15:05:30] 			 result : 5432
+[15:05:30] 	 EditUpdate : TEdit
+[15:05:30] 		 readEntry : User > 
+[15:05:30] 			 result : adminpg
+[15:05:30] 	 EditUpdate : TEdit
+[15:05:30] 		 readEntry : Hostname > 138.102.159.39
+[15:05:30] 			 result : 138.102.159.39
+[15:05:30] 	 EditUpdate : TMaskEdit
+[15:05:30] 		 readEntry : Password > MaskEditPassword
+[15:05:30] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:05:30] 	 EditUpdate : TEdit
+[15:05:30] 		 readEntry : Database > 
+[15:05:30] 			 result : agrhys_dev
+[15:05:30] 	 EditUpdate : TSpinEdit
+[15:05:30] 		 readEntry : csvBuffer > 0
+[15:05:30] 			 result : 50000
+[15:05:30] 	 EditUpdate : TCheckBox
+[15:05:30] 		 readEntry : launchWindowsStartup > True
+[15:05:30] 			 result : True
+[15:05:30] 	 EditUpdate : TCheckBox
+[15:05:30] 		 readEntry : FilenameChange > True
+[15:05:30] 			 result : True
+[15:05:30] 	 EditUpdate : TCheckBox
+[15:05:30] 		 readEntry : DirNameChange > True
+[15:05:30] 			 result : False
+[15:05:30] 	 EditUpdate : TCheckBox
+[15:05:30] 		 readEntry : AttributesChange > True
+[15:05:30] 			 result : False
+[15:05:30] 	 EditUpdate : TCheckBox
+[15:05:30] 		 readEntry : SizeChange > True
+[15:05:30] 			 result : True
+[15:05:30] 	 EditUpdate : TCheckBox
+[15:05:30] 		 readEntry : WriteTimeChange > True
+[15:05:30] 			 result : False
+[15:05:30] 	 EditUpdate : TCheckBox
+[15:05:30] 		 readEntry : AccessTimeChange > True
+[15:05:30] 			 result : False
+[15:05:30] 	 EditUpdate : TCheckBox
+[15:05:30] 		 readEntry : CreationTimeChange > True
+[15:05:30] 			 result : False
+[15:05:30] 	 EditUpdate : TCheckBox
+[15:05:30] 		 readEntry : SecurityAttrChanges > True
+[15:05:30] 			 result : False
+[15:05:30] 	 EditUpdate : TCheckBox
+[15:05:30] 		 readEntry : MonitorSubfolders > True
+[15:05:30] 			 result : True
+[15:05:30] 	 EditUpdate : TDirectoryListBox
+[15:05:30] 		 readEntry : HydrasFolder > C:\ExportHydras
+[15:05:30] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:05:30] 	 EditUpdate : TDirectoryListBox
+[15:05:30] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[15:05:30] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:05:30] 	 EditUpdate : TDirectoryListBox
+[15:05:30] 		 readEntry : CsvFolder > C:\ExportHydras
+[15:05:30] 			 result : C:\export
+[15:05:30] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:05:30] 		 resultat : False
+[15:05:30] 	 Password : pgAgrh!s08
+[15:05:30]  Rafraichissement de la configuration
+[15:05:30] 	 Test de connection
+[15:05:30] 	 Password : pgAgrh!s08
+[15:05:30]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:05:39] 	 Test de connection
+[15:05:39] 	 Password : pgAgrh!s08
+[15:05:39]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:05:40]  Rafraichissement de la configuration
+[15:05:40] 	 Test de connection
+[15:05:40] 	 Password : pgAgrh!s08
+[15:05:40]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:05:42]  Sortie de programme
+[15:06:11]  Demmarrage : 0.9.9.0
+[15:06:11]  lecture de la configuration
+[15:06:11] 		 readEntry : Hostname > 138.102.159.39
+[15:06:11] 			 result : 138.102.159.39
+[15:06:11] 		 readEntry : Port > 5432
+[15:06:11] 			 result : 5432
+[15:06:11] 		 readEntry : User > adminpg
+[15:06:11] 			 result : adminpg
+[15:06:11] 		 readEntry : Password > pgAgrh!s08
+[15:06:11] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:06:11] 		 readEntry : Database > agrhys_dev
+[15:06:11] 			 result : agrhys_dev
+[15:06:11] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:06:11] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:06:11] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:06:11] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:06:11] 		 readEntry : CsvFolder > C:\export
+[15:06:11] 			 result : C:\export
+[15:06:11] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:06:11] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:06:11] 		 readEntry : csvBuffer > 50000
+[15:06:11] 			 result : 50000
+[15:06:11] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:06:11] 			 result : _B_=;_C_=;_V_=;
+[15:06:11] 	 EditUpdate : TEdit
+[15:06:11] 		 readEntry : Hostname > 
+[15:06:11] 			 result : 138.102.159.39
+[15:06:11] 	 EditUpdate : TEdit
+[15:06:11] 		 readEntry : Port > 
+[15:06:11] 			 result : 5432
+[15:06:11] 	 EditUpdate : TEdit
+[15:06:11] 		 readEntry : User > 
+[15:06:11] 			 result : adminpg
+[15:06:11] 	 EditUpdate : TEdit
+[15:06:11] 		 readEntry : Hostname > 138.102.159.39
+[15:06:11] 			 result : 138.102.159.39
+[15:06:11] 	 EditUpdate : TMaskEdit
+[15:06:11] 		 readEntry : Password > MaskEditPassword
+[15:06:11] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:06:11] 	 EditUpdate : TEdit
+[15:06:11] 		 readEntry : Database > 
+[15:06:11] 			 result : agrhys_dev
+[15:06:11] 	 EditUpdate : TSpinEdit
+[15:06:11] 		 readEntry : csvBuffer > 0
+[15:06:11] 			 result : 50000
+[15:06:11] 	 EditUpdate : TCheckBox
+[15:06:11] 		 readEntry : launchWindowsStartup > True
+[15:06:11] 			 result : True
+[15:06:11] 	 EditUpdate : TCheckBox
+[15:06:11] 		 readEntry : FilenameChange > True
+[15:06:11] 			 result : True
+[15:06:11] 	 EditUpdate : TCheckBox
+[15:06:11] 		 readEntry : DirNameChange > True
+[15:06:11] 			 result : False
+[15:06:11] 	 EditUpdate : TCheckBox
+[15:06:11] 		 readEntry : AttributesChange > True
+[15:06:11] 			 result : False
+[15:06:11] 	 EditUpdate : TCheckBox
+[15:06:11] 		 readEntry : SizeChange > True
+[15:06:11] 			 result : True
+[15:06:11] 	 EditUpdate : TCheckBox
+[15:06:11] 		 readEntry : WriteTimeChange > True
+[15:06:11] 			 result : False
+[15:06:11] 	 EditUpdate : TCheckBox
+[15:06:11] 		 readEntry : AccessTimeChange > True
+[15:06:11] 			 result : False
+[15:06:11] 	 EditUpdate : TCheckBox
+[15:06:11] 		 readEntry : CreationTimeChange > True
+[15:06:11] 			 result : False
+[15:06:11] 	 EditUpdate : TCheckBox
+[15:06:11] 		 readEntry : SecurityAttrChanges > True
+[15:06:11] 			 result : False
+[15:06:11] 	 EditUpdate : TCheckBox
+[15:06:11] 		 readEntry : MonitorSubfolders > True
+[15:06:11] 			 result : True
+[15:06:11] 	 EditUpdate : TDirectoryListBox
+[15:06:11] 		 readEntry : HydrasFolder > C:\ExportHydras
+[15:06:11] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:06:11] 	 EditUpdate : TDirectoryListBox
+[15:06:11] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[15:06:11] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:06:11] 	 EditUpdate : TDirectoryListBox
+[15:06:11] 		 readEntry : CsvFolder > C:\ExportHydras
+[15:06:11] 			 result : C:\export
+[15:06:11] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:06:11] 		 resultat : False
+[15:06:11] 	 Password : pgAgrh!s08
+[15:06:11]  Rafraichissement de la configuration
+[15:06:11] 	 Test de connection
+[15:06:11] 	 Password : pgAgrh!s08
+[15:06:58]  Demmarrage : 0.9.9.0
+[15:06:58]  lecture de la configuration
+[15:06:58] 		 readEntry : Hostname > 138.102.159.39
+[15:06:58] 			 result : 138.102.159.39
+[15:06:58] 		 readEntry : Port > 5432
+[15:06:58] 			 result : 5432
+[15:06:58] 		 readEntry : User > adminpg
+[15:06:58] 			 result : adminpg
+[15:06:58] 		 readEntry : Password > pgAgrh!s08
+[15:06:58] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:06:58] 		 readEntry : Database > agrhys_dev
+[15:06:58] 			 result : agrhys_dev
+[15:06:58] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:06:58] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:06:58] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:06:58] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:06:58] 		 readEntry : CsvFolder > C:\export
+[15:06:58] 			 result : C:\export
+[15:06:58] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:06:58] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:06:58] 		 readEntry : csvBuffer > 50000
+[15:06:58] 			 result : 50000
+[15:06:58] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:06:58] 			 result : _B_=;_C_=;_V_=;
+[15:06:58] 	 EditUpdate : TEdit
+[15:06:58] 		 readEntry : Hostname > 
+[15:06:58] 			 result : 138.102.159.39
+[15:06:58] 	 EditUpdate : TEdit
+[15:06:58] 		 readEntry : Port > 
+[15:06:58] 			 result : 5432
+[15:06:58] 	 EditUpdate : TEdit
+[15:06:58] 		 readEntry : User > 
+[15:06:58] 			 result : adminpg
+[15:06:58] 	 EditUpdate : TEdit
+[15:06:58] 		 readEntry : Hostname > 138.102.159.39
+[15:06:58] 			 result : 138.102.159.39
+[15:06:58] 	 EditUpdate : TMaskEdit
+[15:06:58] 		 readEntry : Password > MaskEditPassword
+[15:06:58] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:06:58] 	 EditUpdate : TEdit
+[15:06:58] 		 readEntry : Database > 
+[15:06:58] 			 result : agrhys_dev
+[15:06:58] 	 EditUpdate : TSpinEdit
+[15:06:58] 		 readEntry : csvBuffer > 0
+[15:06:58] 			 result : 50000
+[15:06:58] 	 EditUpdate : TCheckBox
+[15:06:58] 		 readEntry : launchWindowsStartup > True
+[15:06:58] 			 result : True
+[15:06:58] 	 EditUpdate : TCheckBox
+[15:06:58] 		 readEntry : FilenameChange > True
+[15:06:58] 			 result : True
+[15:06:58] 	 EditUpdate : TCheckBox
+[15:06:58] 		 readEntry : DirNameChange > True
+[15:06:58] 			 result : False
+[15:06:58] 	 EditUpdate : TCheckBox
+[15:06:58] 		 readEntry : AttributesChange > True
+[15:06:58] 			 result : False
+[15:06:58] 	 EditUpdate : TCheckBox
+[15:06:58] 		 readEntry : SizeChange > True
+[15:06:58] 			 result : True
+[15:06:58] 	 EditUpdate : TCheckBox
+[15:06:58] 		 readEntry : WriteTimeChange > True
+[15:06:58] 			 result : False
+[15:06:58] 	 EditUpdate : TCheckBox
+[15:06:58] 		 readEntry : AccessTimeChange > True
+[15:06:58] 			 result : False
+[15:06:58] 	 EditUpdate : TCheckBox
+[15:06:58] 		 readEntry : CreationTimeChange > True
+[15:06:58] 			 result : False
+[15:06:58] 	 EditUpdate : TCheckBox
+[15:06:58] 		 readEntry : SecurityAttrChanges > True
+[15:06:58] 			 result : False
+[15:06:58] 	 EditUpdate : TCheckBox
+[15:06:58] 		 readEntry : MonitorSubfolders > True
+[15:06:58] 			 result : True
+[15:06:58] 	 EditUpdate : TDirectoryListBox
+[15:06:58] 		 readEntry : HydrasFolder > C:\ExportHydras
+[15:06:58] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:06:58] 	 EditUpdate : TDirectoryListBox
+[15:06:58] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[15:06:58] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:06:58] 	 EditUpdate : TDirectoryListBox
+[15:06:58] 		 readEntry : CsvFolder > C:\ExportHydras
+[15:06:58] 			 result : C:\export
+[15:06:58] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:06:58] 		 resultat : False
+[15:06:58] 	 Password : pgAgrh!s08
+[15:06:58]  Rafraichissement de la configuration
+[15:06:58] 	 Test de connection
+[15:06:58] 	 Password : pgAgrh!s08
+[15:06:58]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:07:03] 	 Test de connection
+[15:07:03] 	 Password : pgAgrh!s08
+[15:07:03]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:07:08]  Rafraichissement de la configuration
+[15:07:08] 	 Test de connection
+[15:07:08] 	 Password : pgAgrh!s08
+[15:07:08]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:07:19] 	 Tentative de connection
+[15:07:19]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:07:20] 	 Tentative de connection
+[15:07:20] 		 Deja connecte
+[15:07:21]  Rafraichissement de la configuration
+[15:07:21] 	 Test de connection
+[15:07:21] 	 Password : pgAgrh!s08
+[15:07:21]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:07:24] 	 Tentative de connection
+[15:07:24]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:07:24] 	 Tentative de connection
+[15:07:24] 		 Deja connecte
+[15:07:26]  Rafraichissement de la configuration
+[15:07:26] 	 Test de connection
+[15:07:26] 	 Password : pgAgrh!s08
+[15:07:26]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:07:32] 	 Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+[15:07:32] 	 Ouverture de la table OK
+[15:14:24]  Demmarrage : 0.9.9.0
+[15:14:24]  lecture de la configuration
+[15:14:24] 		 readEntry : Hostname > 138.102.159.39
+[15:14:24] 			 result : 138.102.159.39
+[15:14:24] 		 readEntry : Port > 5432
+[15:14:24] 			 result : 5432
+[15:14:24] 		 readEntry : User > adminpg
+[15:14:24] 			 result : adminpg
+[15:14:24] 		 readEntry : Password > pgAgrh!s08
+[15:14:24] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:14:24] 		 readEntry : Database > agrhys_dev
+[15:14:24] 			 result : agrhys_dev
+[15:14:24] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:14:24] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:14:24] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:14:24] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:14:24] 		 readEntry : CsvFolder > C:\export
+[15:14:24] 			 result : C:\export
+[15:14:24] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:14:24] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:14:24] 		 readEntry : csvBuffer > 50000
+[15:14:24] 			 result : 50000
+[15:14:24] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:14:24] 			 result : _B_=;_C_=;_V_=;
+[15:14:24] 	 EditUpdate : TEdit
+[15:14:24] 		 readEntry : Hostname > 
+[15:14:24] 			 result : 138.102.159.39
+[15:14:24] 	 EditUpdate : TEdit
+[15:14:24] 		 readEntry : Port > 
+[15:14:24] 			 result : 5432
+[15:14:24] 	 EditUpdate : TEdit
+[15:14:24] 		 readEntry : User > 
+[15:14:24] 			 result : adminpg
+[15:14:24] 	 EditUpdate : TEdit
+[15:14:24] 		 readEntry : Hostname > 138.102.159.39
+[15:14:24] 			 result : 138.102.159.39
+[15:14:24] 	 EditUpdate : TMaskEdit
+[15:14:24] 		 readEntry : Password > MaskEditPassword
+[15:14:24] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:14:24] 	 EditUpdate : TEdit
+[15:14:24] 		 readEntry : Database > 
+[15:14:24] 			 result : agrhys_dev
+[15:14:24] 	 EditUpdate : TSpinEdit
+[15:14:24] 		 readEntry : csvBuffer > 0
+[15:14:24] 			 result : 50000
+[15:14:24] 	 EditUpdate : TCheckBox
+[15:14:24] 		 readEntry : launchWindowsStartup > True
+[15:14:24] 			 result : True
+[15:14:24] 	 EditUpdate : TCheckBox
+[15:14:24] 		 readEntry : FilenameChange > True
+[15:14:24] 			 result : True
+[15:14:24] 	 EditUpdate : TCheckBox
+[15:14:24] 		 readEntry : DirNameChange > True
+[15:14:24] 			 result : False
+[15:14:24] 	 EditUpdate : TCheckBox
+[15:14:24] 		 readEntry : AttributesChange > True
+[15:14:24] 			 result : False
+[15:14:24] 	 EditUpdate : TCheckBox
+[15:14:24] 		 readEntry : SizeChange > True
+[15:14:24] 			 result : True
+[15:14:24] 	 EditUpdate : TCheckBox
+[15:14:24] 		 readEntry : WriteTimeChange > True
+[15:14:24] 			 result : False
+[15:14:24] 	 EditUpdate : TCheckBox
+[15:14:24] 		 readEntry : AccessTimeChange > True
+[15:14:24] 			 result : False
+[15:14:24] 	 EditUpdate : TCheckBox
+[15:14:24] 		 readEntry : CreationTimeChange > True
+[15:14:24] 			 result : False
+[15:14:24] 	 EditUpdate : TCheckBox
+[15:14:24] 		 readEntry : SecurityAttrChanges > True
+[15:14:24] 			 result : False
+[15:14:24] 	 EditUpdate : TCheckBox
+[15:14:24] 		 readEntry : MonitorSubfolders > True
+[15:14:24] 			 result : True
+[15:14:24] 	 EditUpdate : TDirectoryListBox
+[15:14:24] 		 readEntry : HydrasFolder > C:\ExportHydras
+[15:14:24] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:14:24] 	 EditUpdate : TDirectoryListBox
+[15:14:24] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[15:14:24] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:14:24] 	 EditUpdate : TDirectoryListBox
+[15:14:24] 		 readEntry : CsvFolder > C:\ExportHydras
+[15:14:24] 			 result : C:\export
+[15:14:24] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:14:24] 		 resultat : False
+[15:14:24] 	 Password : pgAgrh!s08
+[15:14:24]  Rafraichissement de la configuration
+[15:14:24] 	 Test de connection
+[15:14:24] 	 Password : pgAgrh!s08
+[15:14:24]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:14:28] 	 Tentative de connection
+[15:14:28]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:14:30]  Rafraichissement de la configuration
+[15:14:30] 	 Test de connection
+[15:14:30] 	 Password : pgAgrh!s08
+[15:14:30]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:14:42]  lecture de la configuration
+[15:14:42] 		 readEntry : Hostname > 138.102.159.39
+[15:14:42] 			 result : 138.102.159.39
+[15:14:42] 		 readEntry : Port > 5432
+[15:14:42] 			 result : 5432
+[15:14:42] 		 readEntry : User > adminpg
+[15:14:42] 			 result : adminpg
+[15:14:42] 		 readEntry : Password > pgAgrh!s08
+[15:14:42] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:14:42] 		 readEntry : Database > agrhys_dev
+[15:14:42] 			 result : agrhys_dev
+[15:14:42] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:14:42] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:14:42] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:14:42] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:14:42] 		 readEntry : CsvFolder > C:\export
+[15:14:42] 			 result : C:\export
+[15:14:42] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:14:42] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:14:42] 		 readEntry : csvBuffer > 50000
+[15:14:42] 			 result : 50000
+[15:14:42] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:14:42] 			 result : _B_=;_C_=;_V_=;
+[15:14:42] 	 EditUpdate : TEdit
+[15:14:42] 		 readEntry : Hostname > 138.102.159.39
+[15:14:42] 			 result : 138.102.159.39
+[15:14:42] 	 EditUpdate : TEdit
+[15:14:42] 		 readEntry : Port > 5432
+[15:14:42] 			 result : 5432
+[15:14:42] 	 EditUpdate : TEdit
+[15:14:42] 		 readEntry : User > adminpg
+[15:14:42] 			 result : adminpg
+[15:14:42] 	 EditUpdate : TEdit
+[15:14:42] 		 readEntry : Hostname > 138.102.159.39
+[15:14:42] 			 result : 138.102.159.39
+[15:14:42] 	 EditUpdate : TMaskEdit
+[15:14:42] 		 readEntry : Password > zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:14:42] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:14:42] 	 EditUpdate : TEdit
+[15:14:42] 		 readEntry : Database > agrhys_dev
+[15:14:42] 			 result : agrhys_dev
+[15:14:42] 	 EditUpdate : TSpinEdit
+[15:14:42] 		 readEntry : csvBuffer > 50000
+[15:14:42] 			 result : 50000
+[15:14:42] 	 EditUpdate : TCheckBox
+[15:14:42] 		 readEntry : launchWindowsStartup > True
+[15:14:42] 			 result : True
+[15:14:42] 	 EditUpdate : TCheckBox
+[15:14:42] 		 readEntry : FilenameChange > True
+[15:14:42] 			 result : True
+[15:14:42] 	 EditUpdate : TCheckBox
+[15:14:42] 		 readEntry : DirNameChange > True
+[15:14:42] 			 result : False
+[15:14:42] 	 EditUpdate : TCheckBox
+[15:14:42] 		 readEntry : AttributesChange > True
+[15:14:42] 			 result : False
+[15:14:42] 	 EditUpdate : TCheckBox
+[15:14:42] 		 readEntry : SizeChange > True
+[15:14:42] 			 result : True
+[15:14:42] 	 EditUpdate : TCheckBox
+[15:14:42] 		 readEntry : WriteTimeChange > True
+[15:14:42] 			 result : False
+[15:14:42] 	 EditUpdate : TCheckBox
+[15:14:42] 		 readEntry : AccessTimeChange > True
+[15:14:42] 			 result : False
+[15:14:42] 	 EditUpdate : TCheckBox
+[15:14:42] 		 readEntry : CreationTimeChange > True
+[15:14:42] 			 result : False
+[15:14:42] 	 EditUpdate : TCheckBox
+[15:14:42] 		 readEntry : SecurityAttrChanges > True
+[15:14:42] 			 result : False
+[15:14:42] 	 EditUpdate : TCheckBox
+[15:14:42] 		 readEntry : MonitorSubfolders > True
+[15:14:42] 			 result : True
+[15:14:42] 	 EditUpdate : TDirectoryListBox
+[15:14:42] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:14:42] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:14:42] 	 EditUpdate : TDirectoryListBox
+[15:14:42] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:14:42] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:14:42] 	 EditUpdate : TDirectoryListBox
+[15:14:42] 		 readEntry : CsvFolder > C:\export
+[15:14:42] 			 result : C:\export
+[15:14:42]  Rafraichissement de la configuration
+[15:14:42] 	 Test de connection
+[15:14:42] 	 Password : pgAgrh!s08
+[15:14:42]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:14:44]  Sortie de programme
+[15:35:26]  Demmarrage : 0.9.9.0
+[15:35:26]  lecture de la configuration
+[15:35:26] 		 readEntry : Hostname > 138.102.159.39
+[15:35:26] 			 result : 138.102.159.39
+[15:35:26] 		 readEntry : Port > 5432
+[15:35:26] 			 result : 5432
+[15:35:26] 		 readEntry : User > adminpg
+[15:35:26] 			 result : adminpg
+[15:35:26] 		 readEntry : Password > pgAgrh!s08
+[15:35:26] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:35:26] 		 readEntry : Database > agrhys_dev
+[15:35:26] 			 result : agrhys_dev
+[15:35:26] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:35:26] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:35:26] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:35:26] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:35:26] 		 readEntry : CsvFolder > C:\export
+[15:35:26] 			 result : C:\export
+[15:35:26] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:35:26] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:35:26] 		 readEntry : csvBuffer > 50000
+[15:35:26] 			 result : 50000
+[15:35:26] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:35:26] 			 result : _B_=;_C_=;_V_=;
+[15:35:26] 	 EditUpdate : TEdit
+[15:35:26] 		 readEntry : Hostname > 
+[15:35:26] 			 result : 138.102.159.39
+[15:35:26] 	 EditUpdate : TEdit
+[15:35:26] 		 readEntry : Port > 
+[15:35:26] 			 result : 5432
+[15:35:26] 	 EditUpdate : TEdit
+[15:35:26] 		 readEntry : User > 
+[15:35:26] 			 result : adminpg
+[15:35:26] 	 EditUpdate : TEdit
+[15:35:26] 		 readEntry : Hostname > 138.102.159.39
+[15:35:26] 			 result : 138.102.159.39
+[15:35:26] 	 EditUpdate : TMaskEdit
+[15:35:26] 		 readEntry : Password > MaskEditPassword
+[15:35:26] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:35:26] 	 EditUpdate : TEdit
+[15:35:26] 		 readEntry : Database > 
+[15:35:26] 			 result : agrhys_dev
+[15:35:26] 	 EditUpdate : TSpinEdit
+[15:35:26] 		 readEntry : csvBuffer > 0
+[15:35:26] 			 result : 50000
+[15:35:26] 	 EditUpdate : TCheckBox
+[15:35:26] 		 readEntry : launchWindowsStartup > True
+[15:35:26] 			 result : True
+[15:35:26] 	 EditUpdate : TCheckBox
+[15:35:26] 		 readEntry : FilenameChange > True
+[15:35:26] 			 result : True
+[15:35:26] 	 EditUpdate : TCheckBox
+[15:35:26] 		 readEntry : DirNameChange > True
+[15:35:26] 			 result : False
+[15:35:26] 	 EditUpdate : TCheckBox
+[15:35:26] 		 readEntry : AttributesChange > True
+[15:35:26] 			 result : False
+[15:35:26] 	 EditUpdate : TCheckBox
+[15:35:26] 		 readEntry : SizeChange > True
+[15:35:26] 			 result : True
+[15:35:26] 	 EditUpdate : TCheckBox
+[15:35:26] 		 readEntry : WriteTimeChange > True
+[15:35:26] 			 result : False
+[15:35:26] 	 EditUpdate : TCheckBox
+[15:35:26] 		 readEntry : AccessTimeChange > True
+[15:35:26] 			 result : False
+[15:35:26] 	 EditUpdate : TCheckBox
+[15:35:26] 		 readEntry : CreationTimeChange > True
+[15:35:26] 			 result : False
+[15:35:26] 	 EditUpdate : TCheckBox
+[15:35:26] 		 readEntry : SecurityAttrChanges > True
+[15:35:26] 			 result : False
+[15:35:26] 	 EditUpdate : TCheckBox
+[15:35:26] 		 readEntry : MonitorSubfolders > True
+[15:35:26] 			 result : True
+[15:35:26] 	 EditUpdate : TDirectoryListBox
+[15:35:26] 		 readEntry : HydrasFolder > C:\ExportHydras
+[15:35:26] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:35:26] 	 EditUpdate : TDirectoryListBox
+[15:35:26] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[15:35:26] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:35:26] 	 EditUpdate : TDirectoryListBox
+[15:35:26] 		 readEntry : CsvFolder > C:\ExportHydras
+[15:35:26] 			 result : C:\export
+[15:35:26] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:35:26] 		 resultat : False
+[15:35:26] 	 Password : pgAgrh!s08
+[15:35:26]  Rafraichissement de la configuration
+[15:35:26] 	 Test de connection
+[15:35:26] 	 Password : pgAgrh!s08
+[15:35:26]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:35:36] 	 Tentative de connection
+[15:35:36]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:35:36] 	 Tentative de connection
+[15:35:36] 		 Deja connecte
+[15:35:38]  Rafraichissement de la configuration
+[15:35:38] 	 Test de connection
+[15:35:38] 	 Password : pgAgrh!s08
+[15:35:38]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:35:40]  lecture de la configuration
+[15:35:40] 		 readEntry : Hostname > 138.102.159.39
+[15:35:40] 			 result : 138.102.159.39
+[15:35:40] 		 readEntry : Port > 5432
+[15:35:40] 			 result : 5432
+[15:35:40] 		 readEntry : User > adminpg
+[15:35:40] 			 result : adminpg
+[15:35:40] 		 readEntry : Password > pgAgrh!s08
+[15:35:40] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:35:40] 		 readEntry : Database > agrhys_dev
+[15:35:40] 			 result : agrhys_dev
+[15:35:40] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:35:40] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:35:40] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:35:40] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:35:40] 		 readEntry : CsvFolder > C:\export
+[15:35:40] 			 result : C:\export
+[15:35:40] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:35:40] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:35:40] 		 readEntry : csvBuffer > 50000
+[15:35:40] 			 result : 50000
+[15:35:40] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:35:40] 			 result : _B_=;_C_=;_V_=;
+[15:35:40] 	 EditUpdate : TEdit
+[15:35:40] 		 readEntry : Hostname > 138.102.159.39
+[15:35:40] 			 result : 138.102.159.39
+[15:35:40] 	 EditUpdate : TEdit
+[15:35:40] 		 readEntry : Port > 5432
+[15:35:40] 			 result : 5432
+[15:35:40] 	 EditUpdate : TEdit
+[15:35:40] 		 readEntry : User > adminpg
+[15:35:40] 			 result : adminpg
+[15:35:40] 	 EditUpdate : TEdit
+[15:35:40] 		 readEntry : Hostname > 138.102.159.39
+[15:35:40] 			 result : 138.102.159.39
+[15:35:40] 	 EditUpdate : TMaskEdit
+[15:35:40] 		 readEntry : Password > zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:35:40] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:35:40] 	 EditUpdate : TEdit
+[15:35:40] 		 readEntry : Database > agrhys_dev
+[15:35:40] 			 result : agrhys_dev
+[15:35:40] 	 EditUpdate : TSpinEdit
+[15:35:40] 		 readEntry : csvBuffer > 50000
+[15:35:40] 			 result : 50000
+[15:35:40] 	 EditUpdate : TCheckBox
+[15:35:40] 		 readEntry : launchWindowsStartup > True
+[15:35:40] 			 result : True
+[15:35:40] 	 EditUpdate : TCheckBox
+[15:35:40] 		 readEntry : FilenameChange > True
+[15:35:40] 			 result : True
+[15:35:40] 	 EditUpdate : TCheckBox
+[15:35:40] 		 readEntry : DirNameChange > True
+[15:35:40] 			 result : False
+[15:35:40] 	 EditUpdate : TCheckBox
+[15:35:40] 		 readEntry : AttributesChange > True
+[15:35:40] 			 result : False
+[15:35:40] 	 EditUpdate : TCheckBox
+[15:35:40] 		 readEntry : SizeChange > True
+[15:35:40] 			 result : True
+[15:35:40] 	 EditUpdate : TCheckBox
+[15:35:40] 		 readEntry : WriteTimeChange > True
+[15:35:40] 			 result : False
+[15:35:40] 	 EditUpdate : TCheckBox
+[15:35:40] 		 readEntry : AccessTimeChange > True
+[15:35:40] 			 result : False
+[15:35:40] 	 EditUpdate : TCheckBox
+[15:35:40] 		 readEntry : CreationTimeChange > True
+[15:35:40] 			 result : False
+[15:35:40] 	 EditUpdate : TCheckBox
+[15:35:40] 		 readEntry : SecurityAttrChanges > True
+[15:35:40] 			 result : False
+[15:35:40] 	 EditUpdate : TCheckBox
+[15:35:40] 		 readEntry : MonitorSubfolders > True
+[15:35:40] 			 result : True
+[15:35:40] 	 EditUpdate : TDirectoryListBox
+[15:35:40] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:35:40] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:35:40] 	 EditUpdate : TDirectoryListBox
+[15:35:40] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:35:40] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:35:40] 	 EditUpdate : TDirectoryListBox
+[15:35:40] 		 readEntry : CsvFolder > C:\export
+[15:35:40] 			 result : C:\export
+[15:35:40]  Rafraichissement de la configuration
+[15:35:40] 	 Test de connection
+[15:35:40] 	 Password : pgAgrh!s08
+[15:35:40]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:35:43]  Sortie de programme
+[15:36:06]  Demmarrage : 0.9.9.0
+[15:36:06]  lecture de la configuration
+[15:36:06] 		 readEntry : Hostname > 138.102.159.39
+[15:36:06] 			 result : 138.102.159.39
+[15:36:06] 		 readEntry : Port > 5432
+[15:36:06] 			 result : 5432
+[15:36:06] 		 readEntry : User > adminpg
+[15:36:06] 			 result : adminpg
+[15:36:06] 		 readEntry : Password > pgAgrh!s08
+[15:36:06] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:36:06] 		 readEntry : Database > agrhys_dev
+[15:36:06] 			 result : agrhys_dev
+[15:36:06] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:36:06] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:36:06] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:36:06] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:36:06] 		 readEntry : CsvFolder > C:\export
+[15:36:06] 			 result : C:\export
+[15:36:06] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:36:06] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:36:06] 		 readEntry : csvBuffer > 50000
+[15:36:06] 			 result : 50000
+[15:36:06] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:36:06] 			 result : _B_=;_C_=;_V_=;
+[15:36:06] 	 EditUpdate : TEdit
+[15:36:06] 		 readEntry : Hostname > 
+[15:36:06] 			 result : 138.102.159.39
+[15:36:06] 	 EditUpdate : TEdit
+[15:36:06] 		 readEntry : Port > 
+[15:36:06] 			 result : 5432
+[15:36:06] 	 EditUpdate : TEdit
+[15:36:06] 		 readEntry : User > 
+[15:36:06] 			 result : adminpg
+[15:36:06] 	 EditUpdate : TEdit
+[15:36:06] 		 readEntry : Hostname > 138.102.159.39
+[15:36:06] 			 result : 138.102.159.39
+[15:36:06] 	 EditUpdate : TMaskEdit
+[15:36:06] 		 readEntry : Password > MaskEditPassword
+[15:36:06] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:36:06] 	 EditUpdate : TEdit
+[15:36:06] 		 readEntry : Database > 
+[15:36:06] 			 result : agrhys_dev
+[15:36:06] 	 EditUpdate : TSpinEdit
+[15:36:06] 		 readEntry : csvBuffer > 0
+[15:36:06] 			 result : 50000
+[15:36:06] 	 EditUpdate : TCheckBox
+[15:36:06] 		 readEntry : launchWindowsStartup > True
+[15:36:06] 			 result : True
+[15:36:06] 	 EditUpdate : TCheckBox
+[15:36:06] 		 readEntry : FilenameChange > True
+[15:36:06] 			 result : True
+[15:36:06] 	 EditUpdate : TCheckBox
+[15:36:06] 		 readEntry : DirNameChange > True
+[15:36:06] 			 result : False
+[15:36:06] 	 EditUpdate : TCheckBox
+[15:36:06] 		 readEntry : AttributesChange > True
+[15:36:06] 			 result : False
+[15:36:06] 	 EditUpdate : TCheckBox
+[15:36:06] 		 readEntry : SizeChange > True
+[15:36:06] 			 result : True
+[15:36:06] 	 EditUpdate : TCheckBox
+[15:36:06] 		 readEntry : WriteTimeChange > True
+[15:36:06] 			 result : False
+[15:36:06] 	 EditUpdate : TCheckBox
+[15:36:06] 		 readEntry : AccessTimeChange > True
+[15:36:06] 			 result : False
+[15:36:06] 	 EditUpdate : TCheckBox
+[15:36:06] 		 readEntry : CreationTimeChange > True
+[15:36:06] 			 result : False
+[15:36:06] 	 EditUpdate : TCheckBox
+[15:36:06] 		 readEntry : SecurityAttrChanges > True
+[15:36:06] 			 result : False
+[15:36:06] 	 EditUpdate : TCheckBox
+[15:36:06] 		 readEntry : MonitorSubfolders > True
+[15:36:06] 			 result : True
+[15:36:06] 	 EditUpdate : TDirectoryListBox
+[15:36:06] 		 readEntry : HydrasFolder > C:\ExportHydras
+[15:36:06] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:36:06] 	 EditUpdate : TDirectoryListBox
+[15:36:06] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[15:36:06] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:36:06] 	 EditUpdate : TDirectoryListBox
+[15:36:06] 		 readEntry : CsvFolder > C:\ExportHydras
+[15:36:06] 			 result : C:\export
+[15:36:06] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:36:06] 		 resultat : False
+[15:36:06] 	 Password : pgAgrh!s08
+[15:36:06]  Rafraichissement de la configuration
+[15:36:06] 	 Test de connection
+[15:36:06] 	 Password : pgAgrh!s08
+[15:36:06]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:36:14] 	 Tentative de connection
+[15:36:14]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:36:14] 	 Tentative de connection
+[15:36:14] 		 Deja connecte
+[15:36:20]  Rafraichissement de la configuration
+[15:36:20] 	 Test de connection
+[15:36:20] 	 Password : pgAgrh!s08
+[15:36:20]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:36:22]  lecture de la configuration
+[15:36:22] 		 readEntry : Hostname > 138.102.159.39
+[15:36:22] 			 result : 138.102.159.39
+[15:36:22] 		 readEntry : Port > 5432
+[15:36:22] 			 result : 5432
+[15:36:22] 		 readEntry : User > adminpg
+[15:36:22] 			 result : adminpg
+[15:36:22] 		 readEntry : Password > pgAgrh!s08
+[15:36:22] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:36:22] 		 readEntry : Database > agrhys_dev
+[15:36:22] 			 result : agrhys_dev
+[15:36:22] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:36:22] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:36:22] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:36:22] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:36:22] 		 readEntry : CsvFolder > C:\export
+[15:36:22] 			 result : C:\export
+[15:36:22] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:36:22] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[15:36:22] 		 readEntry : csvBuffer > 50000
+[15:36:22] 			 result : 50000
+[15:36:22] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[15:36:22] 			 result : _B_=;_C_=;_V_=;
+[15:36:22] 	 EditUpdate : TEdit
+[15:36:22] 		 readEntry : Hostname > 138.102.159.39
+[15:36:22] 			 result : 138.102.159.39
+[15:36:22] 	 EditUpdate : TEdit
+[15:36:22] 		 readEntry : Port > 5432
+[15:36:22] 			 result : 5432
+[15:36:22] 	 EditUpdate : TEdit
+[15:36:22] 		 readEntry : User > adminpg
+[15:36:22] 			 result : adminpg
+[15:36:22] 	 EditUpdate : TEdit
+[15:36:22] 		 readEntry : Hostname > 138.102.159.39
+[15:36:22] 			 result : 138.102.159.39
+[15:36:22] 	 EditUpdate : TMaskEdit
+[15:36:22] 		 readEntry : Password > zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:36:22] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[15:36:22] 	 EditUpdate : TEdit
+[15:36:22] 		 readEntry : Database > agrhys_dev
+[15:36:22] 			 result : agrhys_dev
+[15:36:22] 	 EditUpdate : TSpinEdit
+[15:36:22] 		 readEntry : csvBuffer > 50000
+[15:36:22] 			 result : 50000
+[15:36:22] 	 EditUpdate : TCheckBox
+[15:36:22] 		 readEntry : launchWindowsStartup > True
+[15:36:22] 			 result : True
+[15:36:22] 	 EditUpdate : TCheckBox
+[15:36:22] 		 readEntry : FilenameChange > True
+[15:36:22] 			 result : True
+[15:36:22] 	 EditUpdate : TCheckBox
+[15:36:22] 		 readEntry : DirNameChange > True
+[15:36:22] 			 result : False
+[15:36:22] 	 EditUpdate : TCheckBox
+[15:36:22] 		 readEntry : AttributesChange > True
+[15:36:22] 			 result : False
+[15:36:22] 	 EditUpdate : TCheckBox
+[15:36:22] 		 readEntry : SizeChange > True
+[15:36:22] 			 result : True
+[15:36:22] 	 EditUpdate : TCheckBox
+[15:36:22] 		 readEntry : WriteTimeChange > True
+[15:36:22] 			 result : False
+[15:36:22] 	 EditUpdate : TCheckBox
+[15:36:22] 		 readEntry : AccessTimeChange > True
+[15:36:22] 			 result : False
+[15:36:22] 	 EditUpdate : TCheckBox
+[15:36:22] 		 readEntry : CreationTimeChange > True
+[15:36:22] 			 result : False
+[15:36:22] 	 EditUpdate : TCheckBox
+[15:36:22] 		 readEntry : SecurityAttrChanges > True
+[15:36:22] 			 result : False
+[15:36:22] 	 EditUpdate : TCheckBox
+[15:36:22] 		 readEntry : MonitorSubfolders > True
+[15:36:22] 			 result : True
+[15:36:22] 	 EditUpdate : TDirectoryListBox
+[15:36:22] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[15:36:22] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[15:36:22] 	 EditUpdate : TDirectoryListBox
+[15:36:22] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[15:36:22] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[15:36:22] 	 EditUpdate : TDirectoryListBox
+[15:36:22] 		 readEntry : CsvFolder > C:\export
+[15:36:22] 			 result : C:\export
+[15:36:22]  Rafraichissement de la configuration
+[15:36:22] 	 Test de connection
+[15:36:22] 	 Password : pgAgrh!s08
+[15:36:22]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[15:36:24]  Sortie de programme
+[16:01:19]  Demmarrage : 0.9.9.0
+[16:01:19]  lecture de la configuration
+[16:01:19] 		 readEntry : Hostname > 138.102.159.39
+[16:01:19] 			 result : 138.102.159.39
+[16:01:19] 		 readEntry : Port > 5432
+[16:01:19] 			 result : 5432
+[16:01:19] 		 readEntry : User > adminpg
+[16:01:19] 			 result : adminpg
+[16:01:19] 		 readEntry : Password > pgAgrh!s08
+[16:01:19] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:01:19] 		 readEntry : Database > agrhys_dev
+[16:01:19] 			 result : agrhys_dev
+[16:01:19] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[16:01:19] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:01:19] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[16:01:19] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:01:19] 		 readEntry : CsvFolder > C:\export
+[16:01:19] 			 result : C:\export
+[16:01:19] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:01:19] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:01:19] 		 readEntry : csvBuffer > 50000
+[16:01:19] 			 result : 50000
+[16:01:19] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[16:01:19] 			 result : _B_=;_C_=;_V_=;
+[16:01:19] 	 EditUpdate : TEdit
+[16:01:19] 		 readEntry : Hostname > 
+[16:01:19] 			 result : 138.102.159.39
+[16:01:19] 	 EditUpdate : TEdit
+[16:01:19] 		 readEntry : Port > 
+[16:01:19] 			 result : 5432
+[16:01:19] 	 EditUpdate : TEdit
+[16:01:19] 		 readEntry : User > 
+[16:01:19] 			 result : adminpg
+[16:01:19] 	 EditUpdate : TEdit
+[16:01:19] 		 readEntry : Hostname > 138.102.159.39
+[16:01:19] 			 result : 138.102.159.39
+[16:01:19] 	 EditUpdate : TMaskEdit
+[16:01:19] 		 readEntry : Password > MaskEditPassword
+[16:01:19] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:01:19] 	 EditUpdate : TEdit
+[16:01:19] 		 readEntry : Database > 
+[16:01:19] 			 result : agrhys_dev
+[16:01:19] 	 EditUpdate : TSpinEdit
+[16:01:19] 		 readEntry : csvBuffer > 0
+[16:01:19] 			 result : 50000
+[16:01:19] 	 EditUpdate : TCheckBox
+[16:01:19] 		 readEntry : launchWindowsStartup > True
+[16:01:19] 			 result : True
+[16:01:19] 	 EditUpdate : TCheckBox
+[16:01:19] 		 readEntry : FilenameChange > True
+[16:01:20] 			 result : True
+[16:01:20] 	 EditUpdate : TCheckBox
+[16:01:20] 		 readEntry : DirNameChange > True
+[16:01:20] 			 result : False
+[16:01:20] 	 EditUpdate : TCheckBox
+[16:01:20] 		 readEntry : AttributesChange > True
+[16:01:20] 			 result : False
+[16:01:20] 	 EditUpdate : TCheckBox
+[16:01:20] 		 readEntry : SizeChange > True
+[16:01:20] 			 result : True
+[16:01:20] 	 EditUpdate : TCheckBox
+[16:01:20] 		 readEntry : WriteTimeChange > True
+[16:01:20] 			 result : False
+[16:01:20] 	 EditUpdate : TCheckBox
+[16:01:20] 		 readEntry : AccessTimeChange > True
+[16:01:20] 			 result : False
+[16:01:20] 	 EditUpdate : TCheckBox
+[16:01:20] 		 readEntry : CreationTimeChange > True
+[16:01:20] 			 result : False
+[16:01:20] 	 EditUpdate : TCheckBox
+[16:01:20] 		 readEntry : SecurityAttrChanges > True
+[16:01:20] 			 result : False
+[16:01:20] 	 EditUpdate : TCheckBox
+[16:01:20] 		 readEntry : MonitorSubfolders > True
+[16:01:20] 			 result : True
+[16:01:20] 	 EditUpdate : TDirectoryListBox
+[16:01:20] 		 readEntry : HydrasFolder > C:\ExportHydras
+[16:01:20] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:01:20] 	 EditUpdate : TDirectoryListBox
+[16:01:20] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[16:01:20] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:01:20] 	 EditUpdate : TDirectoryListBox
+[16:01:20] 		 readEntry : CsvFolder > C:\ExportHydras
+[16:01:20] 			 result : C:\export
+[16:01:20] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[16:01:20] 		 resultat : False
+[16:01:20] 	 Password : pgAgrh!s08
+[16:01:20]  Rafraichissement de la configuration
+[16:01:20] 	 Test de connection
+[16:01:20] 	 Password : pgAgrh!s08
+[16:01:20]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[16:02:01]  Sortie de programme
+[16:09:43]  Demmarrage : 0.9.9.0
+[16:09:43]  lecture de la configuration
+[16:09:43] 		 readEntry : Hostname > 138.102.159.39
+[16:09:43] 			 result : 138.102.159.39
+[16:09:43] 		 readEntry : Port > 5432
+[16:09:43] 			 result : 5432
+[16:09:43] 		 readEntry : User > adminpg
+[16:09:43] 			 result : adminpg
+[16:09:43] 		 readEntry : Password > pgAgrh!s08
+[16:09:43] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:09:43] 		 readEntry : Database > agrhys_dev
+[16:09:43] 			 result : agrhys_dev
+[16:09:43] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[16:09:43] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:09:43] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[16:09:43] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:09:43] 		 readEntry : CsvFolder > C:\export
+[16:09:43] 			 result : C:\export
+[16:09:43] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:09:43] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:09:43] 		 readEntry : csvBuffer > 50000
+[16:09:43] 			 result : 50000
+[16:09:43] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[16:09:43] 			 result : _B_=;_C_=;_V_=;
+[16:09:43] 	 EditUpdate : TEdit
+[16:09:43] 		 readEntry : Hostname > 
+[16:09:43] 			 result : 138.102.159.39
+[16:09:43] 	 EditUpdate : TEdit
+[16:09:43] 		 readEntry : Port > 
+[16:09:43] 			 result : 5432
+[16:09:43] 	 EditUpdate : TEdit
+[16:09:43] 		 readEntry : User > 
+[16:09:43] 			 result : adminpg
+[16:09:43] 	 EditUpdate : TEdit
+[16:09:43] 		 readEntry : Hostname > 138.102.159.39
+[16:09:43] 			 result : 138.102.159.39
+[16:09:43] 	 EditUpdate : TMaskEdit
+[16:09:43] 		 readEntry : Password > MaskEditPassword
+[16:09:43] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:09:43] 	 EditUpdate : TEdit
+[16:09:43] 		 readEntry : Database > 
+[16:09:43] 			 result : agrhys_dev
+[16:09:43] 	 EditUpdate : TSpinEdit
+[16:09:43] 		 readEntry : csvBuffer > 0
+[16:09:43] 			 result : 50000
+[16:09:43] 	 EditUpdate : TCheckBox
+[16:09:43] 		 readEntry : launchWindowsStartup > True
+[16:09:43] 			 result : True
+[16:09:43] 	 EditUpdate : TCheckBox
+[16:09:43] 		 readEntry : FilenameChange > True
+[16:09:43] 			 result : True
+[16:09:43] 	 EditUpdate : TCheckBox
+[16:09:43] 		 readEntry : DirNameChange > True
+[16:09:43] 			 result : False
+[16:09:43] 	 EditUpdate : TCheckBox
+[16:09:43] 		 readEntry : AttributesChange > True
+[16:09:43] 			 result : False
+[16:09:43] 	 EditUpdate : TCheckBox
+[16:09:43] 		 readEntry : SizeChange > True
+[16:09:43] 			 result : True
+[16:09:43] 	 EditUpdate : TCheckBox
+[16:09:43] 		 readEntry : WriteTimeChange > True
+[16:09:43] 			 result : False
+[16:09:43] 	 EditUpdate : TCheckBox
+[16:09:43] 		 readEntry : AccessTimeChange > True
+[16:09:43] 			 result : False
+[16:09:43] 	 EditUpdate : TCheckBox
+[16:09:43] 		 readEntry : CreationTimeChange > True
+[16:09:43] 			 result : False
+[16:09:43] 	 EditUpdate : TCheckBox
+[16:09:43] 		 readEntry : SecurityAttrChanges > True
+[16:09:43] 			 result : False
+[16:09:43] 	 EditUpdate : TCheckBox
+[16:09:43] 		 readEntry : MonitorSubfolders > True
+[16:09:43] 			 result : True
+[16:09:43] 	 EditUpdate : TDirectoryListBox
+[16:09:43] 		 readEntry : HydrasFolder > C:\ExportHydras
+[16:09:43] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:09:43] 	 EditUpdate : TDirectoryListBox
+[16:09:43] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[16:09:43] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:09:43] 	 EditUpdate : TDirectoryListBox
+[16:09:43] 		 readEntry : CsvFolder > C:\ExportHydras
+[16:09:43] 			 result : C:\export
+[16:09:43] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[16:09:43] 		 resultat : False
+[16:09:43] 	 Password : pgAgrh!s08
+[16:09:43]  Rafraichissement de la configuration
+[16:09:43] 	 Test de connection
+[16:09:43] 	 Password : pgAgrh!s08
+[16:09:43]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[16:09:45]  Sortie de programme
+[16:12:17]  Demmarrage : 0.9.9.0
+[16:12:17]  lecture de la configuration
+[16:12:17] 		 readEntry : Hostname > 138.102.159.39
+[16:12:17] 			 result : 138.102.159.39
+[16:12:17] 		 readEntry : Port > 5432
+[16:12:17] 			 result : 5432
+[16:12:17] 		 readEntry : User > adminpg
+[16:12:17] 			 result : adminpg
+[16:12:17] 		 readEntry : Password > pgAgrh!s08
+[16:12:17] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:12:17] 		 readEntry : Database > agrhys_dev
+[16:12:17] 			 result : agrhys_dev
+[16:12:17] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[16:12:17] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:12:17] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[16:12:17] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:12:17] 		 readEntry : CsvFolder > C:\export
+[16:12:17] 			 result : C:\export
+[16:12:17] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:12:17] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:12:17] 		 readEntry : csvBuffer > 50000
+[16:12:17] 			 result : 50000
+[16:12:17] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[16:12:17] 			 result : _B_=;_C_=;_V_=;
+[16:12:17] 	 EditUpdate : TEdit
+[16:12:17] 		 readEntry : Hostname > 
+[16:12:17] 			 result : 138.102.159.39
+[16:12:17] 	 EditUpdate : TEdit
+[16:12:17] 		 readEntry : Port > 
+[16:12:17] 			 result : 5432
+[16:12:17] 	 EditUpdate : TEdit
+[16:12:17] 		 readEntry : User > 
+[16:12:17] 			 result : adminpg
+[16:12:17] 	 EditUpdate : TEdit
+[16:12:17] 		 readEntry : Hostname > 138.102.159.39
+[16:12:17] 			 result : 138.102.159.39
+[16:12:17] 	 EditUpdate : TMaskEdit
+[16:12:17] 		 readEntry : Password > MaskEditPassword
+[16:12:17] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:12:17] 	 EditUpdate : TEdit
+[16:12:17] 		 readEntry : Database > 
+[16:12:17] 			 result : agrhys_dev
+[16:12:17] 	 EditUpdate : TSpinEdit
+[16:12:17] 		 readEntry : csvBuffer > 0
+[16:12:17] 			 result : 50000
+[16:12:17] 	 EditUpdate : TCheckBox
+[16:12:17] 		 readEntry : launchWindowsStartup > True
+[16:12:17] 			 result : True
+[16:12:17] 	 EditUpdate : TCheckBox
+[16:12:17] 		 readEntry : FilenameChange > True
+[16:12:17] 			 result : True
+[16:12:17] 	 EditUpdate : TCheckBox
+[16:12:17] 		 readEntry : DirNameChange > True
+[16:12:17] 			 result : False
+[16:12:17] 	 EditUpdate : TCheckBox
+[16:12:17] 		 readEntry : AttributesChange > True
+[16:12:17] 			 result : False
+[16:12:17] 	 EditUpdate : TCheckBox
+[16:12:17] 		 readEntry : SizeChange > True
+[16:12:17] 			 result : True
+[16:12:17] 	 EditUpdate : TCheckBox
+[16:12:17] 		 readEntry : WriteTimeChange > True
+[16:12:17] 			 result : False
+[16:12:17] 	 EditUpdate : TCheckBox
+[16:12:17] 		 readEntry : AccessTimeChange > True
+[16:12:17] 			 result : False
+[16:12:17] 	 EditUpdate : TCheckBox
+[16:12:17] 		 readEntry : CreationTimeChange > True
+[16:12:17] 			 result : False
+[16:12:17] 	 EditUpdate : TCheckBox
+[16:12:17] 		 readEntry : SecurityAttrChanges > True
+[16:12:17] 			 result : False
+[16:12:17] 	 EditUpdate : TCheckBox
+[16:12:17] 		 readEntry : MonitorSubfolders > True
+[16:12:17] 			 result : True
+[16:12:17] 	 EditUpdate : TDirectoryListBox
+[16:12:17] 		 readEntry : HydrasFolder > C:\ExportHydras
+[16:12:17] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:12:17] 	 EditUpdate : TDirectoryListBox
+[16:12:17] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[16:12:17] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:12:17] 	 EditUpdate : TDirectoryListBox
+[16:12:17] 		 readEntry : CsvFolder > C:\ExportHydras
+[16:12:17] 			 result : C:\export
+[16:12:17] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[16:12:17] 		 resultat : False
+[16:12:17] 	 Password : pgAgrh!s08
+[16:12:17]  Rafraichissement de la configuration
+[16:12:17] 	 Test de connection
+[16:12:17] 	 Password : pgAgrh!s08
+[16:12:17]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[16:12:19]  Sortie de programme
+[16:13:02]  Demmarrage : 0.9.9.0
+[16:13:02]  lecture de la configuration
+[16:13:02] 		 readEntry : Hostname > 138.102.159.39
+[16:13:02] 			 result : 138.102.159.39
+[16:13:02] 		 readEntry : Port > 5432
+[16:13:02] 			 result : 5432
+[16:13:02] 		 readEntry : User > adminpg
+[16:13:02] 			 result : adminpg
+[16:13:02] 		 readEntry : Password > pgAgrh!s08
+[16:13:02] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:13:02] 		 readEntry : Database > agrhys_dev
+[16:13:02] 			 result : agrhys_dev
+[16:13:02] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[16:13:02] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:13:02] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[16:13:02] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:13:02] 		 readEntry : CsvFolder > C:\export
+[16:13:02] 			 result : C:\export
+[16:13:02] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:13:02] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:13:02] 		 readEntry : csvBuffer > 50000
+[16:13:02] 			 result : 50000
+[16:13:02] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[16:13:02] 			 result : _B_=;_C_=;_V_=;
+[16:13:02] 	 EditUpdate : TEdit
+[16:13:02] 		 readEntry : Hostname > 
+[16:13:02] 			 result : 138.102.159.39
+[16:13:02] 	 EditUpdate : TEdit
+[16:13:02] 		 readEntry : Port > 
+[16:13:02] 			 result : 5432
+[16:13:02] 	 EditUpdate : TEdit
+[16:13:02] 		 readEntry : User > 
+[16:13:02] 			 result : adminpg
+[16:13:02] 	 EditUpdate : TEdit
+[16:13:02] 		 readEntry : Hostname > 138.102.159.39
+[16:13:02] 			 result : 138.102.159.39
+[16:13:02] 	 EditUpdate : TMaskEdit
+[16:13:02] 		 readEntry : Password > MaskEditPassword
+[16:13:02] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:13:02] 	 EditUpdate : TEdit
+[16:13:02] 		 readEntry : Database > 
+[16:13:02] 			 result : agrhys_dev
+[16:13:02] 	 EditUpdate : TSpinEdit
+[16:13:02] 		 readEntry : csvBuffer > 0
+[16:13:02] 			 result : 50000
+[16:13:02] 	 EditUpdate : TCheckBox
+[16:13:02] 		 readEntry : launchWindowsStartup > True
+[16:13:02] 			 result : True
+[16:13:02] 	 EditUpdate : TCheckBox
+[16:13:02] 		 readEntry : FilenameChange > True
+[16:13:02] 			 result : True
+[16:13:02] 	 EditUpdate : TCheckBox
+[16:13:02] 		 readEntry : DirNameChange > True
+[16:13:02] 			 result : False
+[16:13:02] 	 EditUpdate : TCheckBox
+[16:13:02] 		 readEntry : AttributesChange > True
+[16:13:02] 			 result : False
+[16:13:02] 	 EditUpdate : TCheckBox
+[16:13:02] 		 readEntry : SizeChange > True
+[16:13:02] 			 result : True
+[16:13:02] 	 EditUpdate : TCheckBox
+[16:13:02] 		 readEntry : WriteTimeChange > True
+[16:13:02] 			 result : False
+[16:13:02] 	 EditUpdate : TCheckBox
+[16:13:02] 		 readEntry : AccessTimeChange > True
+[16:13:02] 			 result : False
+[16:13:02] 	 EditUpdate : TCheckBox
+[16:13:02] 		 readEntry : CreationTimeChange > True
+[16:13:02] 			 result : False
+[16:13:02] 	 EditUpdate : TCheckBox
+[16:13:02] 		 readEntry : SecurityAttrChanges > True
+[16:13:02] 			 result : False
+[16:13:02] 	 EditUpdate : TCheckBox
+[16:13:02] 		 readEntry : MonitorSubfolders > True
+[16:13:02] 			 result : True
+[16:13:02] 	 EditUpdate : TDirectoryListBox
+[16:13:02] 		 readEntry : HydrasFolder > C:\ExportHydras
+[16:13:02] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:13:02] 	 EditUpdate : TDirectoryListBox
+[16:13:02] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[16:13:02] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:13:02] 	 EditUpdate : TDirectoryListBox
+[16:13:02] 		 readEntry : CsvFolder > C:\ExportHydras
+[16:13:02] 			 result : C:\export
+[16:13:02] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[16:13:02] 		 resultat : False
+[16:13:02] 	 Password : pgAgrh!s08
+[16:13:02]  Rafraichissement de la configuration
+[16:13:02] 	 Test de connection
+[16:13:02] 	 Password : pgAgrh!s08
+[16:13:02]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[16:13:04]  Sortie de programme
+[16:15:11]  Demmarrage : 0.9.9.0
+[16:15:11]  lecture de la configuration
+[16:15:11] 		 readEntry : Hostname > 138.102.159.39
+[16:15:11] 			 result : 138.102.159.39
+[16:15:11] 		 readEntry : Port > 5432
+[16:15:11] 			 result : 5432
+[16:15:11] 		 readEntry : User > adminpg
+[16:15:11] 			 result : adminpg
+[16:15:11] 		 readEntry : Password > pgAgrh!s08
+[16:15:11] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:15:11] 		 readEntry : Database > agrhys_dev
+[16:15:11] 			 result : agrhys_dev
+[16:15:11] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[16:15:11] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:15:11] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[16:15:11] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:15:11] 		 readEntry : CsvFolder > C:\export
+[16:15:11] 			 result : C:\export
+[16:15:11] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:15:11] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:15:11] 		 readEntry : csvBuffer > 50000
+[16:15:11] 			 result : 50000
+[16:15:11] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[16:15:11] 			 result : _B_=;_C_=;_V_=;
+[16:15:11] 	 EditUpdate : TEdit
+[16:15:11] 		 readEntry : Hostname > 
+[16:15:11] 			 result : 138.102.159.39
+[16:15:11] 	 EditUpdate : TEdit
+[16:15:11] 		 readEntry : Port > 
+[16:15:11] 			 result : 5432
+[16:15:11] 	 EditUpdate : TEdit
+[16:15:11] 		 readEntry : User > 
+[16:15:11] 			 result : adminpg
+[16:15:11] 	 EditUpdate : TEdit
+[16:15:11] 		 readEntry : Hostname > 138.102.159.39
+[16:15:11] 			 result : 138.102.159.39
+[16:15:11] 	 EditUpdate : TMaskEdit
+[16:15:11] 		 readEntry : Password > MaskEditPassword
+[16:15:11] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:15:11] 	 EditUpdate : TEdit
+[16:15:11] 		 readEntry : Database > 
+[16:15:11] 			 result : agrhys_dev
+[16:15:11] 	 EditUpdate : TSpinEdit
+[16:15:11] 		 readEntry : csvBuffer > 0
+[16:15:11] 			 result : 50000
+[16:15:11] 	 EditUpdate : TCheckBox
+[16:15:11] 		 readEntry : launchWindowsStartup > True
+[16:15:11] 			 result : True
+[16:15:11] 	 EditUpdate : TCheckBox
+[16:15:11] 		 readEntry : FilenameChange > True
+[16:15:11] 			 result : True
+[16:15:11] 	 EditUpdate : TCheckBox
+[16:15:11] 		 readEntry : DirNameChange > True
+[16:15:11] 			 result : False
+[16:15:11] 	 EditUpdate : TCheckBox
+[16:15:11] 		 readEntry : AttributesChange > True
+[16:15:11] 			 result : False
+[16:15:11] 	 EditUpdate : TCheckBox
+[16:15:11] 		 readEntry : SizeChange > True
+[16:15:11] 			 result : True
+[16:15:11] 	 EditUpdate : TCheckBox
+[16:15:11] 		 readEntry : WriteTimeChange > True
+[16:15:11] 			 result : False
+[16:15:11] 	 EditUpdate : TCheckBox
+[16:15:11] 		 readEntry : AccessTimeChange > True
+[16:15:11] 			 result : False
+[16:15:11] 	 EditUpdate : TCheckBox
+[16:15:11] 		 readEntry : CreationTimeChange > True
+[16:15:11] 			 result : False
+[16:15:11] 	 EditUpdate : TCheckBox
+[16:15:11] 		 readEntry : SecurityAttrChanges > True
+[16:15:11] 			 result : False
+[16:15:11] 	 EditUpdate : TCheckBox
+[16:15:11] 		 readEntry : MonitorSubfolders > True
+[16:15:11] 			 result : True
+[16:15:11] 	 EditUpdate : TDirectoryListBox
+[16:15:11] 		 readEntry : HydrasFolder > C:\ExportHydras
+[16:15:11] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:15:11] 	 EditUpdate : TDirectoryListBox
+[16:15:11] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[16:15:11] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:15:11] 	 EditUpdate : TDirectoryListBox
+[16:15:11] 		 readEntry : CsvFolder > C:\ExportHydras
+[16:15:11] 			 result : C:\export
+[16:15:11] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[16:15:11] 		 resultat : False
+[16:15:11] 	 Password : pgAgrh!s08
+[16:15:11]  Rafraichissement de la configuration
+[16:15:11] 	 Test de connection
+[16:15:11] 	 Password : pgAgrh!s08
+[16:15:11]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[16:15:13]  Sortie de programme
+[16:16:54]  Demmarrage : 0.9.9.0
+[16:16:54]  lecture de la configuration
+[16:16:54] 		 readEntry : Hostname > 138.102.159.39
+[16:16:54] 			 result : 138.102.159.39
+[16:16:54] 		 readEntry : Port > 5432
+[16:16:54] 			 result : 5432
+[16:16:54] 		 readEntry : User > adminpg
+[16:16:54] 			 result : adminpg
+[16:16:54] 		 readEntry : Password > pgAgrh!s08
+[16:16:54] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:16:54] 		 readEntry : Database > agrhys_dev
+[16:16:54] 			 result : agrhys_dev
+[16:16:54] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[16:16:54] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:16:54] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[16:16:54] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:16:54] 		 readEntry : CsvFolder > C:\export
+[16:16:54] 			 result : C:\export
+[16:16:54] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:16:54] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:16:54] 		 readEntry : csvBuffer > 50000
+[16:16:54] 			 result : 50000
+[16:16:54] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[16:16:54] 			 result : _B_=;_C_=;_V_=;
+[16:16:54] 	 EditUpdate : TEdit
+[16:16:54] 		 readEntry : Hostname > 
+[16:16:54] 			 result : 138.102.159.39
+[16:16:54] 	 EditUpdate : TEdit
+[16:16:54] 		 readEntry : Port > 
+[16:16:54] 			 result : 5432
+[16:16:54] 	 EditUpdate : TEdit
+[16:16:54] 		 readEntry : User > 
+[16:16:54] 			 result : adminpg
+[16:16:54] 	 EditUpdate : TEdit
+[16:16:54] 		 readEntry : Hostname > 138.102.159.39
+[16:16:54] 			 result : 138.102.159.39
+[16:16:54] 	 EditUpdate : TMaskEdit
+[16:16:54] 		 readEntry : Password > MaskEditPassword
+[16:16:54] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:16:54] 	 EditUpdate : TEdit
+[16:16:54] 		 readEntry : Database > 
+[16:16:54] 			 result : agrhys_dev
+[16:16:54] 	 EditUpdate : TSpinEdit
+[16:16:54] 		 readEntry : csvBuffer > 0
+[16:16:54] 			 result : 50000
+[16:16:54] 	 EditUpdate : TCheckBox
+[16:16:54] 		 readEntry : launchWindowsStartup > True
+[16:16:54] 			 result : True
+[16:16:54] 	 EditUpdate : TCheckBox
+[16:16:54] 		 readEntry : FilenameChange > True
+[16:16:54] 			 result : True
+[16:16:54] 	 EditUpdate : TCheckBox
+[16:16:54] 		 readEntry : DirNameChange > True
+[16:16:54] 			 result : False
+[16:16:54] 	 EditUpdate : TCheckBox
+[16:16:54] 		 readEntry : AttributesChange > True
+[16:16:54] 			 result : False
+[16:16:54] 	 EditUpdate : TCheckBox
+[16:16:54] 		 readEntry : SizeChange > True
+[16:16:54] 			 result : True
+[16:16:54] 	 EditUpdate : TCheckBox
+[16:16:54] 		 readEntry : WriteTimeChange > True
+[16:16:54] 			 result : False
+[16:16:54] 	 EditUpdate : TCheckBox
+[16:16:54] 		 readEntry : AccessTimeChange > True
+[16:16:54] 			 result : False
+[16:16:54] 	 EditUpdate : TCheckBox
+[16:16:54] 		 readEntry : CreationTimeChange > True
+[16:16:54] 			 result : False
+[16:16:54] 	 EditUpdate : TCheckBox
+[16:16:54] 		 readEntry : SecurityAttrChanges > True
+[16:16:54] 			 result : False
+[16:16:54] 	 EditUpdate : TCheckBox
+[16:16:54] 		 readEntry : MonitorSubfolders > True
+[16:16:54] 			 result : True
+[16:16:54] 	 EditUpdate : TDirectoryListBox
+[16:16:54] 		 readEntry : HydrasFolder > C:\ExportHydras
+[16:16:54] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:16:54] 	 EditUpdate : TDirectoryListBox
+[16:16:54] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[16:16:54] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:16:54] 	 EditUpdate : TDirectoryListBox
+[16:16:54] 		 readEntry : CsvFolder > C:\ExportHydras
+[16:16:54] 			 result : C:\export
+[16:16:54] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[16:16:54] 		 resultat : False
+[16:16:54] 	 Password : pgAgrh!s08
+[16:16:54]  Rafraichissement de la configuration
+[16:16:54] 	 Test de connection
+[16:16:54] 	 Password : pgAgrh!s08
+[16:16:54]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[16:16:56]  Sortie de programme
+[16:20:30]  Demmarrage : 0.9.9.0
+[16:20:30]  lecture de la configuration
+[16:20:30] 		 readEntry : Hostname > 138.102.159.39
+[16:20:30] 			 result : 138.102.159.39
+[16:20:30] 		 readEntry : Port > 5432
+[16:20:30] 			 result : 5432
+[16:20:30] 		 readEntry : User > adminpg
+[16:20:30] 			 result : adminpg
+[16:20:30] 		 readEntry : Password > pgAgrh!s08
+[16:20:30] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:20:30] 		 readEntry : Database > agrhys_dev
+[16:20:30] 			 result : agrhys_dev
+[16:20:30] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[16:20:30] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:20:30] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[16:20:30] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:20:30] 		 readEntry : CsvFolder > C:\export
+[16:20:30] 			 result : C:\export
+[16:20:30] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:20:30] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:20:30] 		 readEntry : csvBuffer > 50000
+[16:20:30] 			 result : 50000
+[16:20:30] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[16:20:30] 			 result : _B_=;_C_=;_V_=;
+[16:20:30] 	 EditUpdate : TEdit
+[16:20:30] 		 readEntry : Hostname > 
+[16:20:30] 			 result : 138.102.159.39
+[16:20:30] 	 EditUpdate : TEdit
+[16:20:30] 		 readEntry : Port > 
+[16:20:30] 			 result : 5432
+[16:20:30] 	 EditUpdate : TEdit
+[16:20:30] 		 readEntry : User > 
+[16:20:30] 			 result : adminpg
+[16:20:30] 	 EditUpdate : TEdit
+[16:20:30] 		 readEntry : Hostname > 138.102.159.39
+[16:20:30] 			 result : 138.102.159.39
+[16:20:30] 	 EditUpdate : TMaskEdit
+[16:20:30] 		 readEntry : Password > MaskEditPassword
+[16:20:30] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:20:30] 	 EditUpdate : TEdit
+[16:20:30] 		 readEntry : Database > 
+[16:20:30] 			 result : agrhys_dev
+[16:20:30] 	 EditUpdate : TSpinEdit
+[16:20:30] 		 readEntry : csvBuffer > 0
+[16:20:30] 			 result : 50000
+[16:20:30] 	 EditUpdate : TCheckBox
+[16:20:30] 		 readEntry : launchWindowsStartup > True
+[16:20:30] 			 result : True
+[16:20:30] 	 EditUpdate : TCheckBox
+[16:20:30] 		 readEntry : FilenameChange > True
+[16:20:30] 			 result : True
+[16:20:30] 	 EditUpdate : TCheckBox
+[16:20:30] 		 readEntry : DirNameChange > True
+[16:20:30] 			 result : False
+[16:20:30] 	 EditUpdate : TCheckBox
+[16:20:30] 		 readEntry : AttributesChange > True
+[16:20:30] 			 result : False
+[16:20:30] 	 EditUpdate : TCheckBox
+[16:20:30] 		 readEntry : SizeChange > True
+[16:20:30] 			 result : True
+[16:20:30] 	 EditUpdate : TCheckBox
+[16:20:30] 		 readEntry : WriteTimeChange > True
+[16:20:30] 			 result : False
+[16:20:30] 	 EditUpdate : TCheckBox
+[16:20:30] 		 readEntry : AccessTimeChange > True
+[16:20:30] 			 result : False
+[16:20:30] 	 EditUpdate : TCheckBox
+[16:20:30] 		 readEntry : CreationTimeChange > True
+[16:20:30] 			 result : False
+[16:20:30] 	 EditUpdate : TCheckBox
+[16:20:30] 		 readEntry : SecurityAttrChanges > True
+[16:20:30] 			 result : False
+[16:20:30] 	 EditUpdate : TCheckBox
+[16:20:30] 		 readEntry : MonitorSubfolders > True
+[16:20:30] 			 result : True
+[16:20:30] 	 EditUpdate : TDirectoryListBox
+[16:20:30] 		 readEntry : HydrasFolder > C:\ExportHydras
+[16:20:30] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:20:30] 	 EditUpdate : TDirectoryListBox
+[16:20:30] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[16:20:30] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:20:30] 	 EditUpdate : TDirectoryListBox
+[16:20:30] 		 readEntry : CsvFolder > C:\ExportHydras
+[16:20:30] 			 result : C:\export
+[16:20:30] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[16:20:30] 		 resultat : False
+[16:20:30] 	 Password : pgAgrh!s08
+[16:20:30]  Rafraichissement de la configuration
+[16:20:30] 	 Test de connection
+[16:20:30] 	 Password : pgAgrh!s08
+[16:20:30]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[16:20:32]  Sortie de programme
+[16:20:40]  Demmarrage : 0.9.9.0
+[16:20:40]  lecture de la configuration
+[16:20:40] 		 readEntry : Hostname > 138.102.159.39
+[16:20:40] 			 result : 138.102.159.39
+[16:20:40] 		 readEntry : Port > 5432
+[16:20:40] 			 result : 5432
+[16:20:40] 		 readEntry : User > adminpg
+[16:20:40] 			 result : adminpg
+[16:20:40] 		 readEntry : Password > pgAgrh!s08
+[16:20:40] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:20:40] 		 readEntry : Database > agrhys_dev
+[16:20:40] 			 result : agrhys_dev
+[16:20:40] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[16:20:40] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:20:40] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[16:20:40] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:20:40] 		 readEntry : CsvFolder > C:\export
+[16:20:40] 			 result : C:\export
+[16:20:40] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:20:40] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[16:20:40] 		 readEntry : csvBuffer > 50000
+[16:20:40] 			 result : 50000
+[16:20:40] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[16:20:40] 			 result : _B_=;_C_=;_V_=;
+[16:20:40] 	 EditUpdate : TEdit
+[16:20:40] 		 readEntry : Hostname > 
+[16:20:40] 			 result : 138.102.159.39
+[16:20:40] 	 EditUpdate : TEdit
+[16:20:40] 		 readEntry : Port > 
+[16:20:40] 			 result : 5432
+[16:20:40] 	 EditUpdate : TEdit
+[16:20:40] 		 readEntry : User > 
+[16:20:40] 			 result : adminpg
+[16:20:40] 	 EditUpdate : TEdit
+[16:20:40] 		 readEntry : Hostname > 138.102.159.39
+[16:20:40] 			 result : 138.102.159.39
+[16:20:40] 	 EditUpdate : TMaskEdit
+[16:20:40] 		 readEntry : Password > MaskEditPassword
+[16:20:40] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[16:20:40] 	 EditUpdate : TEdit
+[16:20:40] 		 readEntry : Database > 
+[16:20:40] 			 result : agrhys_dev
+[16:20:40] 	 EditUpdate : TSpinEdit
+[16:20:40] 		 readEntry : csvBuffer > 0
+[16:20:40] 			 result : 50000
+[16:20:40] 	 EditUpdate : TCheckBox
+[16:20:40] 		 readEntry : launchWindowsStartup > True
+[16:20:40] 			 result : True
+[16:20:40] 	 EditUpdate : TCheckBox
+[16:20:40] 		 readEntry : FilenameChange > True
+[16:20:40] 			 result : True
+[16:20:40] 	 EditUpdate : TCheckBox
+[16:20:40] 		 readEntry : DirNameChange > True
+[16:20:40] 			 result : False
+[16:20:40] 	 EditUpdate : TCheckBox
+[16:20:40] 		 readEntry : AttributesChange > True
+[16:20:40] 			 result : False
+[16:20:40] 	 EditUpdate : TCheckBox
+[16:20:40] 		 readEntry : SizeChange > True
+[16:20:40] 			 result : True
+[16:20:40] 	 EditUpdate : TCheckBox
+[16:20:40] 		 readEntry : WriteTimeChange > True
+[16:20:40] 			 result : False
+[16:20:40] 	 EditUpdate : TCheckBox
+[16:20:40] 		 readEntry : AccessTimeChange > True
+[16:20:40] 			 result : False
+[16:20:40] 	 EditUpdate : TCheckBox
+[16:20:40] 		 readEntry : CreationTimeChange > True
+[16:20:40] 			 result : False
+[16:20:40] 	 EditUpdate : TCheckBox
+[16:20:40] 		 readEntry : SecurityAttrChanges > True
+[16:20:40] 			 result : False
+[16:20:40] 	 EditUpdate : TCheckBox
+[16:20:40] 		 readEntry : MonitorSubfolders > True
+[16:20:40] 			 result : True
+[16:20:40] 	 EditUpdate : TDirectoryListBox
+[16:20:40] 		 readEntry : HydrasFolder > C:\ExportHydras
+[16:20:40] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[16:20:40] 	 EditUpdate : TDirectoryListBox
+[16:20:40] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[16:20:40] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[16:20:40] 	 EditUpdate : TDirectoryListBox
+[16:20:40] 		 readEntry : CsvFolder > C:\ExportHydras
+[16:20:40] 			 result : C:\export
+[16:20:40] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[16:20:40] 		 resultat : False
+[16:20:40] 	 Password : pgAgrh!s08
+[16:20:40]  Rafraichissement de la configuration
+[16:20:40] 	 Test de connection
+[16:20:40] 	 Password : pgAgrh!s08
+[16:20:40]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[16:20:48]  Lancement du traitement manuel
+[16:20:48]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[16:20:48] 	 Mode manuel
+[16:20:48] 	 Tentative de connection
+[16:20:48]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[16:20:48] 	 Connection Ok
+[16:20:48] 	 Fichier existant
+[16:20:48] 	 recherche domaine pour : naizin_brutes.csv
+[16:20:48] 		 Trouvé domaine  : X:\HYDRAS\Naizin\
+[16:20:48] 	 Domaine : X:\HYDRAS\Naizin\
+[16:20:48]  Recherche de schema pour : X:\HYDRAS\Naizin\
+[16:20:48] 	 Tentative de connection
+[16:20:48] 		 Deja connecte
+[16:20:48] 	 Trouvé Schema  : agrhys
+[16:20:48]  Lecture des stations pour : X:\HYDRAS\Naizin\
+[16:20:48] 	 Ouverture de la table : X:\HYDRAS\Naizin\GB_DATEI.DB
+[16:20:48] 	 Ouverture de la table OK
+[16:20:48] 	 Root open
+[16:20:49] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_02.DB
+[16:20:49] 	 Ouverture de la table OK
+[16:20:49] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[16:20:49] 	 Ouverture de la table OK
+[16:20:49] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[16:20:50] 	 Ouverture de la table OK
+[16:20:50] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[16:20:51] 	 Ouverture de la table OK
+[16:20:51] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[16:20:51] 	 Ouverture de la table OK
+[16:20:51] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[16:20:52] 	 Ouverture de la table OK
+[16:20:52] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[16:20:53] 	 Ouverture de la table OK
+[16:20:53] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[16:20:53] 	 Ouverture de la table OK
+[16:20:53] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[16:20:54] 	 Ouverture de la table OK
+[16:20:54] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[16:20:55] 	 Ouverture de la table OK
+[16:20:55] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[16:20:55] 	 Ouverture de la table OK
+[16:20:55] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[16:20:56] 	 Ouverture de la table OK
+[16:20:56] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[16:20:57] 	 Ouverture de la table OK
+[16:20:57] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[16:20:57] 	 Ouverture de la table OK
+[16:20:58] 	 Ouverture de la table : X:\HYDRAS\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[16:20:58] 	 Ouverture de la table OK
+[16:20:58] 	 Ouverture de la table : X:\HYDRAS\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[16:20:59] 	 Ouverture de la table OK
+[16:20:59] 	 Ouverture de la table : X:\HYDRAS\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[16:21:00] 	 Ouverture de la table OK
+[16:21:00] 	 Ouverture de la table : X:\HYDRAS\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[16:21:00] 	 Ouverture de la table OK
+[16:21:00] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_03.DB
+[16:21:00] 	 Ouverture de la table OK
+[16:21:00] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[16:21:01] 	 Ouverture de la table OK
+[16:21:01] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[16:21:02] 	 Ouverture de la table OK
+[16:21:02] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[16:21:02] 	 Ouverture de la table OK
+[16:21:02] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[16:21:03] 	 Ouverture de la table OK
+[16:21:03] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[16:21:04] 	 Ouverture de la table OK
+[16:21:04] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[16:21:04] 	 Ouverture de la table OK
+[16:21:04] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[16:21:05] 	 Ouverture de la table OK
+[16:21:05] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[16:21:06] 	 Ouverture de la table OK
+[16:21:06] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[16:21:06] 	 Ouverture de la table OK
+[16:21:06] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[16:21:07] 	 Ouverture de la table OK
+[16:21:07] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[16:21:08] 	 Ouverture de la table OK
+[16:21:08] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_01.DB
+[16:21:08] 	 Ouverture de la table OK
+[16:21:08] 	 Ouverture de la table : X:\HYDRAS\Naizin\00002MET.EO\SS_DATEI.DB
+[16:21:09] 	 Ouverture de la table OK
+[16:21:09] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_04.DB
+[16:21:09] 	 Ouverture de la table OK
+[16:21:09] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[16:21:09] 	 Ouverture de la table OK
+[16:21:10] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_06.DB
+[16:21:10] 	 Ouverture de la table OK
+[16:21:10] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[16:21:10] 	 Ouverture de la table OK
+[16:21:10] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[16:21:11] 	 Ouverture de la table OK
+[16:21:11] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[16:21:12] 	 Ouverture de la table OK
+[16:21:12] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[16:21:12] 	 Ouverture de la table OK
+[16:21:12] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[16:21:13] 	 Ouverture de la table OK
+[16:21:13] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[16:21:14] 	 Ouverture de la table OK
+[16:21:14] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[16:21:14] 	 Ouverture de la table OK
+[16:21:14] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[16:21:15] 	 Ouverture de la table OK
+[16:21:15] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[16:21:16] 	 Ouverture de la table OK
+[16:21:16] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[16:21:16] 	 Ouverture de la table OK
+[16:21:16] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[16:21:17] 	 Ouverture de la table OK
+[16:21:17] 	 Mise a jour de stations pour agrhys
+[16:21:17] 	 Tentative de connection
+[16:21:17] 		 Deja connecte
+[16:21:17] 		 Ajout de 0 stations
+[16:21:17] 	 Mise a jour des stations / capteurs
+[16:21:17] 	 Tentative de connection
+[16:21:17] 		 Deja connecte
+[16:21:17] 	 Traitement du fichier
+[16:21:17] 		 Initialisation nouveau fichier d'insertion
+[16:21:21] 		 Traitement du fichier fini
+[16:21:21] 		 Execution du script
+[16:21:27] 		 Initialisation nouveau fichier d'insertion
+[16:21:27] 	 Tentative de connection
+[16:21:27] 		 Deja connecte
+[16:21:43] 	 Traitement OK
+[19:05:12]  Demmarrage : 0.9.9.0
+[19:05:12]  lecture de la configuration
+[19:05:12] 		 readEntry : Hostname > 138.102.159.39
+[19:05:12] 			 result : 138.102.159.39
+[19:05:12] 		 readEntry : Port > 5432
+[19:05:12] 			 result : 5432
+[19:05:12] 		 readEntry : User > adminpg
+[19:05:12] 			 result : adminpg
+[19:05:12] 		 readEntry : Password > pgAgrh!s08
+[19:05:12] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[19:05:12] 		 readEntry : Database > agrhys_dev
+[19:05:12] 			 result : agrhys_dev
+[19:05:12] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[19:05:12] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[19:05:12] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[19:05:12] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[19:05:12] 		 readEntry : CsvFolder > C:\export
+[19:05:12] 			 result : C:\export
+[19:05:12] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[19:05:12] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[19:05:12] 		 readEntry : csvBuffer > 50000
+[19:05:12] 			 result : 50000
+[19:05:12] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[19:05:12] 			 result : _B_=;_C_=;_V_=;
+[19:05:12] 	 EditUpdate : TEdit
+[19:05:12] 		 readEntry : Hostname > 
+[19:05:12] 			 result : 138.102.159.39
+[19:05:12] 	 EditUpdate : TEdit
+[19:05:12] 		 readEntry : Port > 
+[19:05:12] 			 result : 5432
+[19:05:12] 	 EditUpdate : TEdit
+[19:05:12] 		 readEntry : User > 
+[19:05:12] 			 result : adminpg
+[19:05:12] 	 EditUpdate : TEdit
+[19:05:12] 		 readEntry : Hostname > 138.102.159.39
+[19:05:12] 			 result : 138.102.159.39
+[19:05:12] 	 EditUpdate : TMaskEdit
+[19:05:12] 		 readEntry : Password > MaskEditPassword
+[19:05:12] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[19:05:12] 	 EditUpdate : TEdit
+[19:05:12] 		 readEntry : Database > 
+[19:05:12] 			 result : agrhys_dev
+[19:05:12] 	 EditUpdate : TSpinEdit
+[19:05:12] 		 readEntry : csvBuffer > 0
+[19:05:12] 			 result : 50000
+[19:05:12] 	 EditUpdate : TCheckBox
+[19:05:12] 		 readEntry : launchWindowsStartup > True
+[19:05:12] 			 result : True
+[19:05:12] 	 EditUpdate : TCheckBox
+[19:05:12] 		 readEntry : FilenameChange > True
+[19:05:12] 			 result : True
+[19:05:12] 	 EditUpdate : TCheckBox
+[19:05:12] 		 readEntry : DirNameChange > True
+[19:05:12] 			 result : False
+[19:05:12] 	 EditUpdate : TCheckBox
+[19:05:12] 		 readEntry : AttributesChange > True
+[19:05:12] 			 result : False
+[19:05:12] 	 EditUpdate : TCheckBox
+[19:05:12] 		 readEntry : SizeChange > True
+[19:05:12] 			 result : True
+[19:05:12] 	 EditUpdate : TCheckBox
+[19:05:12] 		 readEntry : WriteTimeChange > True
+[19:05:12] 			 result : False
+[19:05:12] 	 EditUpdate : TCheckBox
+[19:05:12] 		 readEntry : AccessTimeChange > True
+[19:05:12] 			 result : False
+[19:05:12] 	 EditUpdate : TCheckBox
+[19:05:12] 		 readEntry : CreationTimeChange > True
+[19:05:12] 			 result : False
+[19:05:12] 	 EditUpdate : TCheckBox
+[19:05:12] 		 readEntry : SecurityAttrChanges > True
+[19:05:12] 			 result : False
+[19:05:12] 	 EditUpdate : TCheckBox
+[19:05:12] 		 readEntry : MonitorSubfolders > True
+[19:05:12] 			 result : True
+[19:05:12] 	 EditUpdate : TDirectoryListBox
+[19:05:12] 		 readEntry : HydrasFolder > C:\ExportHydras
+[19:05:12] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[19:05:12] 	 EditUpdate : TDirectoryListBox
+[19:05:12] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[19:05:12] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[19:05:12] 	 EditUpdate : TDirectoryListBox
+[19:05:12] 		 readEntry : CsvFolder > C:\ExportHydras
+[19:05:12] 			 result : C:\export
+[19:05:12] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[19:05:12] 		 resultat : False
+[19:05:12] 	 Password : pgAgrh!s08
+[19:05:12]  Rafraichissement de la configuration
+[19:05:13] 	 Test de connection
+[19:05:13] 	 Password : pgAgrh!s08
+[19:05:13]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[19:07:29] 		 Exception : SQL Error: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "138.102.159.39" and accepting
+	TCP/IP connections on port 5432?
+[19:07:47]  Sortie de programme
+[19:07:54]  Demmarrage : 0.9.9.0
+[19:07:54]  lecture de la configuration
+[19:07:54] 		 readEntry : Hostname > 138.102.159.39
+[19:07:54] 			 result : 138.102.159.39
+[19:07:54] 		 readEntry : Port > 5432
+[19:07:54] 			 result : 5432
+[19:07:54] 		 readEntry : User > adminpg
+[19:07:54] 			 result : adminpg
+[19:07:54] 		 readEntry : Password > pgAgrh!s08
+[19:07:54] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[19:07:54] 		 readEntry : Database > agrhys_dev
+[19:07:54] 			 result : agrhys_dev
+[19:07:54] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[19:07:54] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[19:07:54] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[19:07:54] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[19:07:54] 		 readEntry : CsvFolder > C:\export
+[19:07:54] 			 result : C:\export
+[19:07:54] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[19:07:54] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[19:07:54] 		 readEntry : csvBuffer > 50000
+[19:07:54] 			 result : 50000
+[19:07:54] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[19:07:54] 			 result : _B_=;_C_=;_V_=;
+[19:07:54] 	 EditUpdate : TEdit
+[19:07:54] 		 readEntry : Hostname > 
+[19:07:54] 			 result : 138.102.159.39
+[19:07:54] 	 EditUpdate : TEdit
+[19:07:54] 		 readEntry : Port > 
+[19:07:54] 			 result : 5432
+[19:07:54] 	 EditUpdate : TEdit
+[19:07:54] 		 readEntry : User > 
+[19:07:54] 			 result : adminpg
+[19:07:54] 	 EditUpdate : TEdit
+[19:07:54] 		 readEntry : Hostname > 138.102.159.39
+[19:07:54] 			 result : 138.102.159.39
+[19:07:54] 	 EditUpdate : TMaskEdit
+[19:07:54] 		 readEntry : Password > MaskEditPassword
+[19:07:54] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[19:07:54] 	 EditUpdate : TEdit
+[19:07:54] 		 readEntry : Database > 
+[19:07:54] 			 result : agrhys_dev
+[19:07:54] 	 EditUpdate : TSpinEdit
+[19:07:54] 		 readEntry : csvBuffer > 0
+[19:07:54] 			 result : 50000
+[19:07:54] 	 EditUpdate : TCheckBox
+[19:07:54] 		 readEntry : launchWindowsStartup > True
+[19:07:54] 			 result : True
+[19:07:54] 	 EditUpdate : TCheckBox
+[19:07:54] 		 readEntry : FilenameChange > True
+[19:07:54] 			 result : True
+[19:07:54] 	 EditUpdate : TCheckBox
+[19:07:54] 		 readEntry : DirNameChange > True
+[19:07:54] 			 result : False
+[19:07:54] 	 EditUpdate : TCheckBox
+[19:07:54] 		 readEntry : AttributesChange > True
+[19:07:54] 			 result : False
+[19:07:54] 	 EditUpdate : TCheckBox
+[19:07:54] 		 readEntry : SizeChange > True
+[19:07:54] 			 result : True
+[19:07:54] 	 EditUpdate : TCheckBox
+[19:07:54] 		 readEntry : WriteTimeChange > True
+[19:07:54] 			 result : False
+[19:07:54] 	 EditUpdate : TCheckBox
+[19:07:54] 		 readEntry : AccessTimeChange > True
+[19:07:54] 			 result : False
+[19:07:54] 	 EditUpdate : TCheckBox
+[19:07:54] 		 readEntry : CreationTimeChange > True
+[19:07:54] 			 result : False
+[19:07:54] 	 EditUpdate : TCheckBox
+[19:07:54] 		 readEntry : SecurityAttrChanges > True
+[19:07:54] 			 result : False
+[19:07:54] 	 EditUpdate : TCheckBox
+[19:07:54] 		 readEntry : MonitorSubfolders > True
+[19:07:54] 			 result : True
+[19:07:54] 	 EditUpdate : TDirectoryListBox
+[19:07:54] 		 readEntry : HydrasFolder > C:\ExportHydras
+[19:07:54] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[19:07:54] 	 EditUpdate : TDirectoryListBox
+[19:07:54] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[19:07:54] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[19:07:54] 	 EditUpdate : TDirectoryListBox
+[19:07:54] 		 readEntry : CsvFolder > C:\ExportHydras
+[19:07:54] 			 result : C:\export
+[19:07:54] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[19:07:54] 		 resultat : False
+[19:07:54] 	 Password : pgAgrh!s08
+[19:07:54]  Rafraichissement de la configuration
+[19:07:54] 	 Test de connection
+[19:07:54] 	 Password : pgAgrh!s08
+[19:07:54]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[19:08:06]  Demmarrage : 0.9.9.0
+[19:08:06]  lecture de la configuration
+[19:08:06] 		 readEntry : Hostname > 138.102.159.39
+[19:08:06] 			 result : 138.102.159.39
+[19:08:06] 		 readEntry : Port > 5432
+[19:08:06] 			 result : 5432
+[19:08:06] 		 readEntry : User > adminpg
+[19:08:06] 			 result : adminpg
+[19:08:06] 		 readEntry : Password > pgAgrh!s08
+[19:08:06] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[19:08:06] 		 readEntry : Database > agrhys_dev
+[19:08:06] 			 result : agrhys_dev
+[19:08:06] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[19:08:06] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[19:08:06] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[19:08:06] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[19:08:06] 		 readEntry : CsvFolder > C:\export
+[19:08:06] 			 result : C:\export
+[19:08:06] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[19:08:06] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[19:08:06] 		 readEntry : csvBuffer > 50000
+[19:08:06] 			 result : 50000
+[19:08:06] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[19:08:06] 			 result : _B_=;_C_=;_V_=;
+[19:08:06] 	 EditUpdate : TEdit
+[19:08:06] 		 readEntry : Hostname > 
+[19:08:06] 			 result : 138.102.159.39
+[19:08:06] 	 EditUpdate : TEdit
+[19:08:06] 		 readEntry : Port > 
+[19:08:06] 			 result : 5432
+[19:08:06] 	 EditUpdate : TEdit
+[19:08:06] 		 readEntry : User > 
+[19:08:07] 			 result : adminpg
+[19:08:07] 	 EditUpdate : TEdit
+[19:08:07] 		 readEntry : Hostname > 138.102.159.39
+[19:08:07] 			 result : 138.102.159.39
+[19:08:07] 	 EditUpdate : TMaskEdit
+[19:08:07] 		 readEntry : Password > MaskEditPassword
+[19:08:07] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[19:08:07] 	 EditUpdate : TEdit
+[19:08:07] 		 readEntry : Database > 
+[19:08:07] 			 result : agrhys_dev
+[19:08:07] 	 EditUpdate : TSpinEdit
+[19:08:07] 		 readEntry : csvBuffer > 0
+[19:08:07] 			 result : 50000
+[19:08:07] 	 EditUpdate : TCheckBox
+[19:08:07] 		 readEntry : launchWindowsStartup > True
+[19:08:07] 			 result : True
+[19:08:07] 	 EditUpdate : TCheckBox
+[19:08:07] 		 readEntry : FilenameChange > True
+[19:08:07] 			 result : True
+[19:08:07] 	 EditUpdate : TCheckBox
+[19:08:07] 		 readEntry : DirNameChange > True
+[19:08:07] 			 result : False
+[19:08:07] 	 EditUpdate : TCheckBox
+[19:08:07] 		 readEntry : AttributesChange > True
+[19:08:07] 			 result : False
+[19:08:07] 	 EditUpdate : TCheckBox
+[19:08:07] 		 readEntry : SizeChange > True
+[19:08:07] 			 result : True
+[19:08:07] 	 EditUpdate : TCheckBox
+[19:08:07] 		 readEntry : WriteTimeChange > True
+[19:08:07] 			 result : False
+[19:08:07] 	 EditUpdate : TCheckBox
+[19:08:07] 		 readEntry : AccessTimeChange > True
+[19:08:07] 			 result : False
+[19:08:07] 	 EditUpdate : TCheckBox
+[19:08:07] 		 readEntry : CreationTimeChange > True
+[19:08:07] 			 result : False
+[19:08:07] 	 EditUpdate : TCheckBox
+[19:08:07] 		 readEntry : SecurityAttrChanges > True
+[19:08:07] 			 result : False
+[19:08:07] 	 EditUpdate : TCheckBox
+[19:08:07] 		 readEntry : MonitorSubfolders > True
+[19:08:07] 			 result : True
+[19:08:07] 	 EditUpdate : TDirectoryListBox
+[19:08:07] 		 readEntry : HydrasFolder > C:\ExportHydras
+[19:08:07] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[19:08:07] 	 EditUpdate : TDirectoryListBox
+[19:08:07] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[19:08:07] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[19:08:07] 	 EditUpdate : TDirectoryListBox
+[19:08:07] 		 readEntry : CsvFolder > C:\ExportHydras
+[19:08:07] 			 result : C:\export
+[19:08:07] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[19:08:07] 		 resultat : False
+[19:08:07] 	 Password : pgAgrh!s08
+[19:08:07]  Rafraichissement de la configuration
+[19:08:07] 	 Test de connection
+[19:08:07] 	 Password : pgAgrh!s08
+[19:08:07]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[19:08:37] 		 Exception : SQL Error: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "138.102.159.39" and accepting
+	TCP/IP connections on port 5432?
+[19:08:44] 	 Test de connection
+[19:08:44] 	 Password : pgAgrh!s08
+[19:08:44]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[20:31:03]  Demmarrage : 0.9.9.0
+[20:31:03]  lecture de la configuration
+[20:31:03] 		 readEntry : Hostname > 138.102.159.39
+[20:31:03] 			 result : 138.102.159.39
+[20:31:03] 		 readEntry : Port > 5432
+[20:31:03] 			 result : 5432
+[20:31:03] 		 readEntry : User > adminpg
+[20:31:03] 			 result : adminpg
+[20:31:03] 		 readEntry : Password > pgAgrh!s08
+[20:31:03] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[20:31:03] 		 readEntry : Database > agrhys_dev
+[20:31:03] 			 result : agrhys_dev
+[20:31:03] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[20:31:03] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[20:31:03] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[20:31:03] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[20:31:03] 		 readEntry : CsvFolder > C:\export
+[20:31:03] 			 result : C:\export
+[20:31:03] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[20:31:03] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[20:31:03] 		 readEntry : csvBuffer > 50000
+[20:31:03] 			 result : 50000
+[20:31:03] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[20:31:03] 			 result : _B_=;_C_=;_V_=;
+[20:31:03] 	 EditUpdate : TEdit
+[20:31:03] 		 readEntry : Hostname > 
+[20:31:03] 			 result : 138.102.159.39
+[20:31:03] 	 EditUpdate : TEdit
+[20:31:03] 		 readEntry : Port > 
+[20:31:03] 			 result : 5432
+[20:31:03] 	 EditUpdate : TEdit
+[20:31:03] 		 readEntry : User > 
+[20:31:03] 			 result : adminpg
+[20:31:03] 	 EditUpdate : TEdit
+[20:31:03] 		 readEntry : Hostname > 138.102.159.39
+[20:31:03] 			 result : 138.102.159.39
+[20:31:03] 	 EditUpdate : TMaskEdit
+[20:31:03] 		 readEntry : Password > MaskEditPassword
+[20:31:03] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[20:31:03] 	 EditUpdate : TEdit
+[20:31:03] 		 readEntry : Database > 
+[20:31:03] 			 result : agrhys_dev
+[20:31:03] 	 EditUpdate : TSpinEdit
+[20:31:03] 		 readEntry : csvBuffer > 0
+[20:31:03] 			 result : 50000
+[20:31:03] 	 EditUpdate : TCheckBox
+[20:31:03] 		 readEntry : launchWindowsStartup > True
+[20:31:03] 			 result : True
+[20:31:03] 	 EditUpdate : TCheckBox
+[20:31:03] 		 readEntry : FilenameChange > True
+[20:31:03] 			 result : True
+[20:31:03] 	 EditUpdate : TCheckBox
+[20:31:04] 		 readEntry : DirNameChange > True
+[20:31:04] 			 result : False
+[20:31:04] 	 EditUpdate : TCheckBox
+[20:31:04] 		 readEntry : AttributesChange > True
+[20:31:04] 			 result : False
+[20:31:04] 	 EditUpdate : TCheckBox
+[20:31:04] 		 readEntry : SizeChange > True
+[20:31:04] 			 result : True
+[20:31:04] 	 EditUpdate : TCheckBox
+[20:31:04] 		 readEntry : WriteTimeChange > True
+[20:31:04] 			 result : False
+[20:31:04] 	 EditUpdate : TCheckBox
+[20:31:04] 		 readEntry : AccessTimeChange > True
+[20:31:04] 			 result : False
+[20:31:04] 	 EditUpdate : TCheckBox
+[20:31:04] 		 readEntry : CreationTimeChange > True
+[20:31:04] 			 result : False
+[20:31:04] 	 EditUpdate : TCheckBox
+[20:31:04] 		 readEntry : SecurityAttrChanges > True
+[20:31:04] 			 result : False
+[20:31:04] 	 EditUpdate : TCheckBox
+[20:31:04] 		 readEntry : MonitorSubfolders > True
+[20:31:04] 			 result : True
+[20:31:04] 	 EditUpdate : TDirectoryListBox
+[20:31:04] 		 readEntry : HydrasFolder > C:\ExportHydras
+[20:31:04] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[20:31:04] 	 EditUpdate : TDirectoryListBox
+[20:31:04] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[20:31:04] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[20:31:04] 	 EditUpdate : TDirectoryListBox
+[20:31:04] 		 readEntry : CsvFolder > C:\ExportHydras
+[20:31:04] 			 result : C:\export
+[20:31:04] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[20:31:04] 		 resultat : False
+[20:31:04] 	 Password : pgAgrh!s08
+[20:31:04]  Rafraichissement de la configuration
+[20:31:04] 	 Test de connection
+[20:31:04] 	 Password : pgAgrh!s08
+[20:31:04]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[20:35:14]  Demmarrage : 0.9.9.0
+[20:35:14]  lecture de la configuration
+[20:35:14] 		 readEntry : Hostname > 138.102.159.39
+[20:35:14] 			 result : 138.102.159.39
+[20:35:14] 		 readEntry : Port > 5432
+[20:35:14] 			 result : 5432
+[20:35:14] 		 readEntry : User > adminpg
+[20:35:14] 			 result : adminpg
+[20:35:14] 		 readEntry : Password > pgAgrh!s08
+[20:35:14] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[20:35:14] 		 readEntry : Database > agrhys_dev
+[20:35:14] 			 result : agrhys_dev
+[20:35:14] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[20:35:14] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[20:35:14] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[20:35:14] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[20:35:14] 		 readEntry : CsvFolder > C:\export
+[20:35:14] 			 result : C:\export
+[20:35:14] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[20:35:14] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[20:35:14] 		 readEntry : csvBuffer > 50000
+[20:35:14] 			 result : 50000
+[20:35:14] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[20:35:14] 			 result : _B_=;_C_=;_V_=;
+[20:35:14] 	 EditUpdate : TEdit
+[20:35:14] 		 readEntry : Hostname > 
+[20:35:14] 			 result : 138.102.159.39
+[20:35:14] 	 EditUpdate : TEdit
+[20:35:14] 		 readEntry : Port > 
+[20:35:14] 			 result : 5432
+[20:35:14] 	 EditUpdate : TEdit
+[20:35:14] 		 readEntry : User > 
+[20:35:14] 			 result : adminpg
+[20:35:14] 	 EditUpdate : TEdit
+[20:35:14] 		 readEntry : Hostname > 138.102.159.39
+[20:35:14] 			 result : 138.102.159.39
+[20:35:14] 	 EditUpdate : TMaskEdit
+[20:35:14] 		 readEntry : Password > MaskEditPassword
+[20:35:14] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[20:35:14] 	 EditUpdate : TEdit
+[20:35:14] 		 readEntry : Database > 
+[20:35:14] 			 result : agrhys_dev
+[20:35:14] 	 EditUpdate : TSpinEdit
+[20:35:14] 		 readEntry : csvBuffer > 0
+[20:35:14] 			 result : 50000
+[20:35:14] 	 EditUpdate : TCheckBox
+[20:35:14] 		 readEntry : launchWindowsStartup > True
+[20:35:14] 			 result : True
+[20:35:14] 	 EditUpdate : TCheckBox
+[20:35:14] 		 readEntry : FilenameChange > True
+[20:35:14] 			 result : True
+[20:35:14] 	 EditUpdate : TCheckBox
+[20:35:14] 		 readEntry : DirNameChange > True
+[20:35:14] 			 result : False
+[20:35:14] 	 EditUpdate : TCheckBox
+[20:35:14] 		 readEntry : AttributesChange > True
+[20:35:14] 			 result : False
+[20:35:14] 	 EditUpdate : TCheckBox
+[20:35:14] 		 readEntry : SizeChange > True
+[20:35:14] 			 result : True
+[20:35:14] 	 EditUpdate : TCheckBox
+[20:35:14] 		 readEntry : WriteTimeChange > True
+[20:35:14] 			 result : False
+[20:35:14] 	 EditUpdate : TCheckBox
+[20:35:14] 		 readEntry : AccessTimeChange > True
+[20:35:14] 			 result : False
+[20:35:14] 	 EditUpdate : TCheckBox
+[20:35:14] 		 readEntry : CreationTimeChange > True
+[20:35:14] 			 result : False
+[20:35:14] 	 EditUpdate : TCheckBox
+[20:35:14] 		 readEntry : SecurityAttrChanges > True
+[20:35:14] 			 result : False
+[20:35:14] 	 EditUpdate : TCheckBox
+[20:35:14] 		 readEntry : MonitorSubfolders > True
+[20:35:14] 			 result : True
+[20:35:14] 	 EditUpdate : TDirectoryListBox
+[20:35:14] 		 readEntry : HydrasFolder > C:\ExportHydras
+[20:35:14] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[20:35:14] 	 EditUpdate : TDirectoryListBox
+[20:35:14] 		 readEntry : HydrasRxFolder > C:\ExportHydras
+[20:35:14] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[20:35:14] 	 EditUpdate : TDirectoryListBox
+[20:35:14] 		 readEntry : CsvFolder > C:\ExportHydras
+[20:35:14] 			 result : C:\export
+[20:35:14] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[20:35:14] 		 resultat : False
+[20:35:14] 	 Password : pgAgrh!s08
+[20:35:14]  Rafraichissement de la configuration
+[20:35:14] 	 Test de connection
+[20:35:14] 	 Password : pgAgrh!s08
+[20:35:14]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[20:35:35] 		 Exception : SQL Error: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "138.102.159.39" and accepting
+	TCP/IP connections on port 5432?
+[20:35:52] 	 Test de connection
+[20:35:52] 	 Password : pgAgrh!s08
+[20:35:52]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[20:36:13] 		 Exception : SQL Error: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "138.102.159.39" and accepting
+	TCP/IP connections on port 5432?
+[20:36:15]  Rafraichissement de la configuration
+[20:36:15] 	 Test de connection
+[20:36:15] 	 Password : pgAgrh!s08
+[20:36:15]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[20:36:36] 		 Exception : SQL Error: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "138.102.159.39" and accepting
+	TCP/IP connections on port 5432?
+[20:37:07]  lecture de la configuration
+[20:37:07] 		 readEntry : Hostname > 138.102.159.39
+[20:37:07] 			 result : 138.102.159.39
+[20:37:07] 		 readEntry : Port > 5432
+[20:37:07] 			 result : 5432
+[20:37:07] 		 readEntry : User > adminpg
+[20:37:07] 			 result : adminpg
+[20:37:07] 		 readEntry : Password > pgAgrh!s08
+[20:37:07] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[20:37:07] 		 readEntry : Database > agrhys_dev
+[20:37:07] 			 result : agrhys_dev
+[20:37:07] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[20:37:07] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[20:37:07] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[20:37:07] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[20:37:07] 		 readEntry : CsvFolder > C:\export
+[20:37:07] 			 result : C:\export
+[20:37:07] 		 readEntry : AppDataFolder > C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[20:37:07] 			 result : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\
+[20:37:07] 		 readEntry : csvBuffer > 50000
+[20:37:07] 			 result : 50000
+[20:37:07] 		 readEntry : cleanStation > _B_=;_C_=;_V_=;
+[20:37:07] 			 result : _B_=;_C_=;_V_=;
+[20:37:07] 	 EditUpdate : TEdit
+[20:37:07] 		 readEntry : Hostname > 138.102.159.39
+[20:37:07] 			 result : 138.102.159.39
+[20:37:07] 	 EditUpdate : TEdit
+[20:37:07] 		 readEntry : Port > 5432
+[20:37:07] 			 result : 5432
+[20:37:07] 	 EditUpdate : TEdit
+[20:37:07] 		 readEntry : User > adminpg
+[20:37:07] 			 result : adminpg
+[20:37:07] 	 EditUpdate : TEdit
+[20:37:07] 		 readEntry : Hostname > 138.102.159.39
+[20:37:07] 			 result : 138.102.159.39
+[20:37:07] 	 EditUpdate : TMaskEdit
+[20:37:07] 		 readEntry : Password > zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[20:37:07] 			 result : zAonMhs0bwY5Dyk6eI/LDKVsfYpEiVs9hx3YAF+StWSQ+XNHLUq5Q4O15Mi5HYCWR4MhnL12Jqt6H0AMivni9sh
+[20:37:07] 	 EditUpdate : TEdit
+[20:37:07] 		 readEntry : Database > agrhys_dev
+[20:37:07] 			 result : agrhys_dev
+[20:37:07] 	 EditUpdate : TSpinEdit
+[20:37:07] 		 readEntry : csvBuffer > 50000
+[20:37:07] 			 result : 50000
+[20:37:07] 	 EditUpdate : TCheckBox
+[20:37:07] 		 readEntry : launchWindowsStartup > True
+[20:37:07] 			 result : True
+[20:37:07] 	 EditUpdate : TCheckBox
+[20:37:07] 		 readEntry : FilenameChange > True
+[20:37:07] 			 result : True
+[20:37:07] 	 EditUpdate : TCheckBox
+[20:37:07] 		 readEntry : DirNameChange > True
+[20:37:07] 			 result : False
+[20:37:07] 	 EditUpdate : TCheckBox
+[20:37:07] 		 readEntry : AttributesChange > True
+[20:37:07] 			 result : False
+[20:37:07] 	 EditUpdate : TCheckBox
+[20:37:07] 		 readEntry : SizeChange > True
+[20:37:07] 			 result : True
+[20:37:07] 	 EditUpdate : TCheckBox
+[20:37:07] 		 readEntry : WriteTimeChange > True
+[20:37:07] 			 result : False
+[20:37:07] 	 EditUpdate : TCheckBox
+[20:37:07] 		 readEntry : AccessTimeChange > True
+[20:37:07] 			 result : False
+[20:37:07] 	 EditUpdate : TCheckBox
+[20:37:07] 		 readEntry : CreationTimeChange > True
+[20:37:07] 			 result : False
+[20:37:07] 	 EditUpdate : TCheckBox
+[20:37:07] 		 readEntry : SecurityAttrChanges > True
+[20:37:07] 			 result : False
+[20:37:07] 	 EditUpdate : TCheckBox
+[20:37:07] 		 readEntry : MonitorSubfolders > True
+[20:37:07] 			 result : True
+[20:37:07] 	 EditUpdate : TDirectoryListBox
+[20:37:07] 		 readEntry : HydrasFolder > C:\Program Files (x86)\OTT\HYDRAS3
+[20:37:07] 			 result : C:\Program Files (x86)\OTT\HYDRAS3
+[20:37:07] 	 EditUpdate : TDirectoryListBox
+[20:37:07] 		 readEntry : HydrasRxFolder > C:\Program Files (x86)\OTT\Hydras3Rx
+[20:37:07] 			 result : C:\Program Files (x86)\OTT\Hydras3Rx
+[20:37:07] 	 EditUpdate : TDirectoryListBox
+[20:37:07] 		 readEntry : CsvFolder > C:\export
+[20:37:07] 			 result : C:\export
+[20:37:07]  Rafraichissement de la configuration
+[20:37:07] 	 Test de connection
+[20:37:07] 	 Password : pgAgrh!s08
+[20:37:07]  HostName : 138.102.159.39 Port : 5432 User : adminpg Password : pgAgrh!s08 Database : agrhys_dev
+[20:37:28] 		 Exception : SQL Error: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "138.102.159.39" and accepting
+	TCP/IP connections on port 5432?
+[20:37:36]  Sortie de programme

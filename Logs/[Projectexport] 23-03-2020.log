@@ -1,0 +1,565 @@
+[17:45:23]  Demmarrage : 0.9.9.0
+[17:45:23]  lecture de la configuration
+[17:45:23]  Rafraichissement de la configuration
+[17:45:24] 	 Activation surveillance de : C:\export
+[17:45:24] 	 Tentative de connection
+[17:45:24] 		 Connection OK
+[17:45:24] 	 Tentative de connection
+[17:45:24] 		 Deja connecte
+[17:45:27] 	 Arret de la surveillance de : C:\export
+[17:45:36]  Rafraichissement de la configuration
+[17:45:36] 	 Activation surveillance de : C:\export
+[17:45:36] 	 Tentative de connection
+[17:45:36] 		 Connection OK
+[17:45:36] 	 Tentative de connection
+[17:45:36] 		 Deja connecte
+[17:45:39] 	 Tentative de connection
+[17:45:39] 		 Deja connecte
+[17:45:42]  Rafraichissement de la configuration
+[17:45:42] 	 Arret de la surveillance de : C:\export
+[17:45:42] 	 Activation surveillance de : C:\export
+[17:45:42] 	 Tentative de connection
+[17:45:42] 		 Connection OK
+[17:45:42] 	 Tentative de connection
+[17:45:42] 		 Deja connecte
+[17:45:46]  sauvegarde de la configuration
+[17:45:46]  Rafraichissement de la configuration
+[17:45:46] 	 Arret de la surveillance de : C:\export
+[17:45:46] 	 Activation surveillance de : C:\export
+[17:45:46] 	 Tentative de connection
+[17:45:46] 		 Connection OK
+[17:45:46] 	 Tentative de connection
+[17:45:46] 		 Deja connecte
+[17:45:48]  Sortie de programme
+[17:45:51]  Demmarrage : 0.9.9.0
+[17:45:51]  lecture de la configuration
+[17:45:51]  Rafraichissement de la configuration
+[17:45:51] 	 Activation surveillance de : C:\export
+[17:45:51] 	 Tentative de connection
+[17:45:51] 		 Connection OK
+[17:45:51] 	 Tentative de connection
+[17:45:51] 		 Deja connecte
+[17:45:54] 	 Arret de la surveillance de : C:\export
+[17:46:01]  Lecture des stations pour : C:\Naizin\
+[17:46:01] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[17:46:01] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[17:46:02] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[17:46:04]  Lecture des stations pour : C:\Naizin\
+[17:46:04] 		 Table : C:\Naizin\GB_DATEI.DB deja ouverte
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[17:46:04] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[17:46:04] 	 Tentative de connection
+[17:46:04] 		 Deja connecte
+[17:46:04] 	 Tentative de connection
+[17:46:04] 		 Deja connecte
+[17:46:07]  Rafraichissement de la configuration
+[17:46:07] 	 Activation surveillance de : C:\export
+[17:46:07] 	 Tentative de connection
+[17:46:07] 		 Connection OK
+[17:46:07] 	 Tentative de connection
+[17:46:07] 		 Deja connecte
+[18:25:32]  Demmarrage : 0.9.9.0
+[18:25:32]  lecture de la configuration
+[18:25:32]  Rafraichissement de la configuration
+[18:25:33] 	 Activation surveillance de : C:\export
+[18:25:33] 	 Tentative de connection
+[18:25:33] 		 Connection OK
+[18:25:33] 	 Tentative de connection
+[18:25:33] 		 Deja connecte
+[18:25:36]  Sortie de programme
+[19:07:42]  Demmarrage : 0.9.9.0
+[19:07:42]  lecture de la configuration
+[19:07:42]  Rafraichissement de la configuration
+[19:07:42] 	 Activation surveillance de : C:\export
+[19:07:42] 	 Tentative de connection
+[19:07:42] 		 Connection OK
+[19:07:42] 	 Tentative de connection
+[19:07:42] 		 Deja connecte
+[19:07:45]  Sortie de programme
+[19:07:48]  Demmarrage : 0.9.9.0
+[19:07:48]  lecture de la configuration
+[19:07:48]  Rafraichissement de la configuration
+[19:07:49] 	 Activation surveillance de : C:\export
+[19:07:49] 	 Tentative de connection
+[19:07:49] 		 Connection OK
+[19:07:49] 	 Tentative de connection
+[19:07:49] 		 Deja connecte
+[19:07:53] 	 Arret de la surveillance de : C:\export
+[19:07:57]  Rafraichissement de la configuration
+[19:07:57] 	 Activation surveillance de : C:\export
+[19:07:57] 	 Tentative de connection
+[19:07:57] 		 Connection OK
+[19:07:57] 	 Tentative de connection
+[19:07:57] 		 Deja connecte
+[19:07:58]  Sortie de programme
+[19:11:48]  Demmarrage : 0.9.9.0
+[19:11:48]  lecture de la configuration
+[19:11:48]  Rafraichissement de la configuration
+[19:11:49] 	 Activation surveillance de : C:\export
+[19:11:49] 	 Tentative de connection
+[19:11:49] 		 Connection OK
+[19:11:49] 	 Tentative de connection
+[19:11:49] 		 Deja connecte
+[19:11:52]  Sortie de programme
+[20:22:00]  Demmarrage : 0.9.9.0
+[20:22:00]  lecture de la configuration
+[20:22:00]  Rafraichissement de la configuration
+[20:22:01] 	 Activation surveillance de : C:\export
+[20:22:01] 	 Tentative de connection
+[20:22:01] 		 Connection OK
+[20:22:01] 	 Tentative de connection
+[20:22:01] 		 Deja connecte
+[20:22:03] 	 Arret de la surveillance de : C:\export
+[20:22:07]  Rafraichissement de la configuration
+[20:22:07] 	 Activation surveillance de : C:\export
+[20:22:07] 	 Tentative de connection
+[20:22:07] 		 Connection OK
+[20:22:07] 	 Tentative de connection
+[20:22:07] 		 Deja connecte
+[20:22:11]  Rafraichissement de la configuration
+[20:22:11] 	 Arret de la surveillance de : C:\export
+[20:22:11] 	 Activation surveillance de : C:\export
+[20:22:11] 	 Tentative de connection
+[20:22:11] 		 Connection OK
+[20:22:11] 	 Tentative de connection
+[20:22:11] 		 Deja connecte
+[20:22:12]  Sortie de programme
+[20:23:06]  Demmarrage : 0.9.9.0
+[20:23:07]  lecture de la configuration
+[20:23:07]  Rafraichissement de la configuration
+[20:23:07] 	 Activation surveillance de : C:\export
+[20:23:07] 	 Tentative de connection
+[20:23:07] 		 Connection OK
+[20:23:07] 	 Tentative de connection
+[20:23:07] 		 Deja connecte
+[20:23:09] 	 Arret de la surveillance de : C:\export
+[20:23:14]  Rafraichissement de la configuration
+[20:23:14] 	 Activation surveillance de : C:\export
+[20:23:14] 	 Tentative de connection
+[20:23:14] 		 Connection OK
+[20:23:14] 	 Tentative de connection
+[20:23:14] 		 Deja connecte
+[20:30:38]  Demmarrage : 0.9.9.0
+[20:30:38]  lecture de la configuration
+[20:30:38]  Rafraichissement de la configuration
+[20:31:19] 		 Exception : SQL Error: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "138.102.159.39" and accepting
+	TCP/IP connections on port 5432?
+[20:31:19] 	 Activation surveillance de : C:\export
+[20:31:19] 	 Tentative de connection
+[20:31:19] 		 Connection OK
+[20:31:19] 	 Tentative de connection
+[20:31:19] 		 Deja connecte
+[20:31:25] 	 Arret de la surveillance de : C:\export
+[20:31:30]  Rafraichissement de la configuration
+[20:31:57] 		 Exception : SQL Error: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "138.102.159.39" and accepting
+	TCP/IP connections on port 5432?
+[20:31:57] 	 Activation surveillance de : C:\export
+[20:31:57] 	 Tentative de connection
+[20:31:57] 		 Connection OK
+[20:31:57] 	 Tentative de connection
+[20:31:57] 		 Deja connecte
+[20:32:13]  sauvegarde de la configuration
+[20:32:13]  Rafraichissement de la configuration
+[20:32:18] 		 Exception : SQL Error: SSL error: tlsv1 alert protocol version
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[20:32:18] 	 Arret de la surveillance de : C:\export
+[20:32:18] 	 Activation surveillance de : C:\export
+[20:32:18] 	 Tentative de connection
+[20:32:18] 		 Connection OK
+[20:32:18] 	 Tentative de connection
+[20:32:18] 		 Deja connecte
+[20:32:23]  Sortie de programme
+[20:32:26]  Demmarrage : 0.9.9.0
+[20:32:26]  lecture de la configuration
+[20:32:26]  Rafraichissement de la configuration
+[20:34:27]  Demmarrage : 0.9.9.0
+[20:34:27]  lecture de la configuration
+[20:34:27]  Rafraichissement de la configuration
+[20:34:38] 		 Exception : SQL Error: SSL error: tlsv1 alert protocol version
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[20:34:38] 	 Activation surveillance de : C:\export
+[20:34:38] 	 Tentative de connection
+[20:34:38] 		 Connection OK
+[20:34:38] 	 Tentative de connection
+[20:34:38] 		 Deja connecte
+[20:34:46] 	 Arret de la surveillance de : C:\export
+[20:34:55]  sauvegarde de la configuration
+[20:34:55]  Rafraichissement de la configuration
+[20:35:22]  Demmarrage : 0.9.9.0
+[20:35:22]  lecture de la configuration
+[20:35:22]  Rafraichissement de la configuration
+[20:35:22] 	 Activation surveillance de : C:\export
+[20:35:22] 	 Tentative de connection
+[20:35:22] 		 Connection OK
+[20:35:22] 	 Tentative de connection
+[20:35:22] 		 Deja connecte
+[20:35:25] 	 Arret de la surveillance de : C:\export
+[20:35:30]  Rafraichissement de la configuration
+[20:35:30] 	 Activation surveillance de : C:\export
+[20:35:30] 	 Tentative de connection
+[20:35:30] 		 Connection OK
+[20:35:30] 	 Tentative de connection
+[20:35:30] 		 Deja connecte
+[20:35:33]  Rafraichissement de la configuration
+[20:35:33] 	 Arret de la surveillance de : C:\export
+[20:35:33] 	 Activation surveillance de : C:\export
+[20:35:33] 	 Tentative de connection
+[20:35:33] 		 Connection OK
+[20:35:33] 	 Tentative de connection
+[20:35:33] 		 Deja connecte
+[20:35:35]  Rafraichissement de la configuration
+[20:35:35] 	 Arret de la surveillance de : C:\export
+[20:35:35] 	 Activation surveillance de : C:\export
+[20:35:35] 	 Tentative de connection
+[20:35:35] 		 Connection OK
+[20:35:35] 	 Tentative de connection
+[20:35:35] 		 Deja connecte
+[20:35:36]  Sortie de programme
+[20:38:06]  Demmarrage : 0.9.9.0
+[20:38:06]  lecture de la configuration
+[20:38:07]  Rafraichissement de la configuration
+[20:38:07] 	 Activation surveillance de : C:\export
+[20:38:07] 	 Tentative de connection
+[20:38:07] 		 Connection OK
+[20:38:07] 	 Tentative de connection
+[20:38:07] 		 Deja connecte
+[20:38:11]  Sortie de programme
+[20:38:29]  Demmarrage : 0.9.9.0
+[20:38:29]  lecture de la configuration
+[20:38:29]  Rafraichissement de la configuration
+[20:38:29] 	 Activation surveillance de : C:\export
+[20:38:29] 	 Tentative de connection
+[20:38:29] 		 Connection OK
+[20:38:29] 	 Tentative de connection
+[20:38:29] 		 Deja connecte
+[20:38:51] 	 Arret de la surveillance de : C:\export
+[20:38:55]  Lecture des stations pour : C:\Naizin\
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[20:38:55] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[20:38:56]  Lecture des stations pour : C:\Naizin\
+[20:38:56] 		 Table : C:\Naizin\GB_DATEI.DB deja ouverte
+[20:38:56] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[20:38:56] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[20:38:57] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[20:38:57] 	 Tentative de connection
+[20:38:57] 		 Deja connecte
+[20:38:57] 	 Tentative de connection
+[20:38:57] 		 Deja connecte
+[20:38:59]  Rafraichissement de la configuration
+[20:38:59] 	 Activation surveillance de : C:\export
+[20:38:59] 	 Tentative de connection
+[20:38:59] 		 Connection OK
+[20:38:59] 	 Tentative de connection
+[20:38:59] 		 Deja connecte
+[20:39:12] 	 Tentative de connection Admin
+[20:39:12] 		 Connection Admin OK
+[20:39:17] 	 Tentative de connection
+[20:39:17] 		 Deja connecte
+[20:39:17] 	 Tentative de connection
+[20:39:17] 		 Deja connecte
+[20:39:19]  Rafraichissement de la configuration
+[20:39:19] 	 Arret de la surveillance de : C:\export
+[20:39:19] 	 Activation surveillance de : C:\export
+[20:39:19] 	 Tentative de connection
+[20:39:19] 		 Connection OK
+[20:39:19] 	 Tentative de connection
+[20:39:19] 		 Deja connecte
+[20:39:21]  sauvegarde de la configuration
+[20:39:21]  Rafraichissement de la configuration
+[20:39:21] 	 Arret de la surveillance de : C:\export
+[20:39:21] 	 Activation surveillance de : C:\export
+[20:39:21] 	 Tentative de connection
+[20:39:21] 		 Connection OK
+[20:39:21] 	 Tentative de connection
+[20:39:21] 		 Deja connecte
+[20:39:23]  Sortie de programme
+[20:39:25]  Demmarrage : 0.9.9.0
+[20:39:25]  lecture de la configuration
+[20:39:25]  Rafraichissement de la configuration
+[20:39:26] 	 Activation surveillance de : C:\export
+[20:39:26] 	 Tentative de connection
+[20:39:26] 		 Connection OK
+[20:39:26] 	 Tentative de connection
+[20:39:26] 		 Deja connecte
+[20:39:28] 	 Arret de la surveillance de : C:\export
+[20:39:31]  Lecture des stations pour : C:\Naizin\
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[20:39:31] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[20:39:32]  Lecture des stations pour : C:\EFELE\
+[20:39:32] 	 Ouverture de la table : C:\EFELE\GB_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\GBM_00.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P3\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P4\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P5\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P7\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P8\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P9\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\TSMO_B_P.10\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\EFEL_B_M.ET\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P1\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P2\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\GBM_01.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P3\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P4\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P5\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P7\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P8\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P9\SS_DATEI.DB
+[20:39:32] 	 Ouverture de la table : C:\EFELE\TSMO_C_P.10\SS_DATEI.DB
+[20:39:32] 	 Tentative de connection
+[20:39:32] 		 Deja connecte
+[20:39:32] 	 Tentative de connection
+[20:39:32] 		 Deja connecte
+[20:39:35]  Rafraichissement de la configuration
+[20:39:35] 	 Activation surveillance de : C:\export
+[20:39:35] 	 Tentative de connection
+[20:39:35] 		 Connection OK
+[20:39:35] 	 Tentative de connection
+[20:39:35] 		 Deja connecte
+[20:39:35] 	 Ouverture de la table : C:\EFELE\EFEL_C_M.ET\SS_DATEI.DB
+[20:39:35] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P1\SS_DATEI.DB
+[20:39:35] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P2\SS_DATEI.DB
+[20:39:35] 	 Ouverture de la table : C:\EFELE\AUTOEXPO.DB
+[20:39:35] 	 Ouverture de la table : C:\EFELE\EXPO034.DB
+[20:39:37]  lecture de la configuration
+[20:39:37]  Rafraichissement de la configuration
+[20:39:37] 	 Arret de la surveillance de : C:\export
+[20:39:37] 	 Activation surveillance de : C:\export
+[20:39:37] 	 Tentative de connection
+[20:39:37] 		 Connection OK
+[20:39:37] 	 Tentative de connection
+[20:39:37] 		 Deja connecte
+[20:39:39]  Sortie de programme

@@ -1,0 +1,2294 @@
+[10:57:12]  Demmarrage version : 0.9.9.0
+[10:57:12]  lecture de la configuration
+[10:57:12]  Rafraichissement de la configuration
+[10:58:11]  Demmarrage version : 0.9.9.0
+[10:58:11]  lecture de la configuration
+[10:58:11]  Rafraichissement de la configuration
+[10:58:11] 	 Activation surveillance de : C:\export
+[10:58:11] 	 Connection pour pi OK
+[10:58:11] 	 Test des domaines
+[10:58:11] 		 Domaine C:\Naizin\  -> Ok
+[10:58:11] 		 Domaine C:\EFELE\  -> Ok
+[10:58:11] 	 Connection Admin OK
+[10:58:11] 	 pi deja connecte
+[10:58:19] 	 Arret de la surveillance de : C:\export
+[10:58:26] 	 pi deja connecte
+[10:58:29]  Rafraichissement de la configuration
+[10:58:29] 	 Activation surveillance de : C:\export
+[10:58:29] 	 Connection pour pi OK
+[10:58:29] 	 Test des domaines
+[10:58:29] 		 Domaine C:\Naizin\  -> Ok
+[10:58:29] 		 Domaine C:\EFELE\  -> Ok
+[10:58:29] 	 Connection Admin OK
+[10:58:29] 	 pi deja connecte
+[10:58:38]  lecture de la configuration
+[10:58:38]  Rafraichissement de la configuration
+[10:58:38] 	 Connection pour pi OK
+[10:58:38] 	 Test des domaines
+[10:58:38] 		 Domaine C:\Naizin\  -> Ok
+[10:58:38] 		 Domaine C:\EFELE\  -> Ok
+[10:58:38] 	 Connection Admin OK
+[10:58:38] 	 pi deja connecte
+[10:58:42]  Sortie de programme
+[10:58:44]  Demmarrage version : 0.9.9.0
+[10:58:44]  lecture de la configuration
+[10:58:44]  Rafraichissement de la configuration
+[10:58:44] 	 Activation surveillance de : C:\export
+[10:58:44] 	 Connection pour pi OK
+[10:58:44] 	 Test des domaines
+[10:58:44] 		 Domaine C:\Naizin\  -> Ok
+[10:58:44] 		 Domaine C:\EFELE\  -> Ok
+[10:58:45] 	 Connection Admin OK
+[10:58:45] 	 pi deja connecte
+[10:58:49] 	 Arret de la surveillance de : C:\export
+[10:58:54] 	 pi deja connecte
+[10:58:59]  Rafraichissement de la configuration
+[10:58:59] 	 Activation surveillance de : C:\export
+[10:58:59] 	 Connection pour pi OK
+[10:58:59] 	 Test des domaines
+[10:58:59] 		 Domaine C:\Naizin\  -> Ok
+[10:58:59] 		 Domaine C:\EFELE\  -> Ok
+[10:58:59] 	 Connection Admin OK
+[10:58:59] 	 pi deja connecte
+[11:00:52]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[11:00:52] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:00:52] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[11:00:53] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[11:00:56]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:00:56] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[11:00:57] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[11:01:05]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[11:01:05] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[11:01:16]  lecture de la configuration
+[11:01:16]  Rafraichissement de la configuration
+[11:01:16] 	 Connection pour pi OK
+[11:01:16] 	 Test des domaines
+[11:01:16] 		 Domaine C:\Naizin\  -> Ok
+[11:01:16] 		 Domaine C:\EFELE\  -> Ok
+[11:01:16] 	 Connection Admin OK
+[11:01:16] 	 pi deja connecte
+[11:01:18]  Sortie de programme
+[11:02:02]  Demmarrage version : 0.9.9.0
+[11:02:02]  lecture de la configuration
+[11:02:02]  Rafraichissement de la configuration
+[11:02:02] 	 Activation surveillance de : C:\export
+[11:02:02] 	 Connection pour pi OK
+[11:02:02] 	 Test des domaines
+[11:02:02] 		 Domaine C:\Naizin\  -> Ok
+[11:02:02] 		 Domaine C:\EFELE\  -> Ok
+[11:02:02] 	 Connection Admin OK
+[11:02:02] 	 pi deja connecte
+[11:02:09] 	 Arret de la surveillance de : C:\export
+[11:02:24]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[11:02:24] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[11:02:25] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[11:02:39] 	 pi deja connecte
+[11:02:40]  Rafraichissement de la configuration
+[11:02:41] 	 Activation surveillance de : C:\export
+[11:02:41] 	 Connection pour pi OK
+[11:02:41] 	 Test des domaines
+[11:02:41] 		 Domaine C:\Naizin\  -> Ok
+[11:02:41] 		 Domaine C:\EFELE\  -> Ok
+[11:02:41] 	 Connection Admin OK
+[11:02:41] 	 pi deja connecte
+[11:02:46]  Rafraichissement de la configuration
+[11:02:46] 	 Connection pour pi OK
+[11:02:46] 	 Test des domaines
+[11:02:46] 		 Domaine C:\Naizin\  -> Ok
+[11:02:46] 		 Domaine C:\EFELE\  -> Ok
+[11:02:46] 	 Connection Admin OK
+[11:02:46] 	 pi deja connecte
+[11:02:49]  Rafraichissement de la configuration
+[11:02:49] 	 Connection pour pi OK
+[11:02:49] 	 Test des domaines
+[11:02:49] 		 Domaine C:\Naizin\  -> Ok
+[11:02:49] 		 Domaine C:\EFELE\  -> Ok
+[11:02:49] 	 Connection Admin OK
+[11:02:49] 	 pi deja connecte
+[11:02:55]  Rafraichissement de la configuration
+[11:02:55] 	 Connection pour pi OK
+[11:02:55] 	 Test des domaines
+[11:02:55] 		 Domaine C:\Naizin\  -> Ok
+[11:02:55] 		 Domaine C:\EFELE\  -> Ok
+[11:02:55] 	 Connection Admin OK
+[11:02:55] 	 pi deja connecte
+[11:02:56]  Sortie de programme
+[11:19:24]  Demmarrage version : 0.9.9.0
+[11:19:24]  lecture de la configuration
+[11:19:24]  Rafraichissement de la configuration
+[11:19:24] 	 Activation surveillance de : C:\export
+[11:19:24] 	 Connection pour pi OK
+[11:19:24] 	 Test des domaines
+[11:19:24] 		 Domaine C:\Naizin\  -> Ok
+[11:19:24] 		 Domaine C:\EFELE\  -> Ok
+[11:19:24] 	 Connection Admin OK
+[11:19:24] 	 pi deja connecte
+[11:23:58] 	 Arret de la surveillance de : C:\export
+[11:24:08]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[11:24:08] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[11:24:10]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[11:24:10] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[11:24:22]  Rafraichissement de la configuration
+[11:24:22] 	 Activation surveillance de : C:\export
+[11:24:22] 	 Connection pour pi OK
+[11:24:22] 	 Test des domaines
+[11:24:22] 		 Domaine C:\Naizin\  -> Ok
+[11:24:22] 		 Domaine C:\EFELE\  -> Ok
+[11:24:22] 	 Connection Admin OK
+[11:24:22] 	 pi deja connecte
+[11:24:23]  Sortie de programme
+[11:33:05]  Demmarrage version : 0.9.9.0
+[11:33:05]  lecture de la configuration
+[11:33:05]  Rafraichissement de la configuration
+[11:33:05] 	 Activation surveillance de : C:\export
+[11:33:06] 	 Connection pour pi OK
+[11:33:06] 	 Test des domaines
+[11:33:06] 		 Domaine C:\Naizin\  -> Ok
+[11:33:06] 		 Domaine C:\EFELE\  -> Ok
+[11:33:06] 	 Connection Admin OK
+[11:33:06] 	 pi deja connecte
+[11:33:10] 	 Arret de la surveillance de : C:\export
+[11:33:16]  Rafraichissement de la configuration
+[11:33:17] 	 Activation surveillance de : C:\export
+[11:33:17] 	 Connection pour pi OK
+[11:33:17] 	 Test des domaines
+[11:33:17] 		 Domaine C:\Naizin\  -> Ok
+[11:33:17] 		 Domaine C:\EFELE\  -> Ok
+[11:33:17] 	 Connection Admin OK
+[11:33:17] 	 pi deja connecte
+[11:33:17]  Sortie de programme
+[11:33:33]  Demmarrage version : 0.9.9.0
+[11:33:33]  lecture de la configuration
+[11:33:33]  Rafraichissement de la configuration
+[11:33:34] 	 Activation surveillance de : C:\export
+[11:33:34] 	 Connection pour pi OK
+[11:33:34] 	 Test des domaines
+[11:33:34] 		 Domaine C:\Naizin\  -> Ok
+[11:33:34] 		 Domaine C:\EFELE\  -> Ok
+[11:33:34] 	 Connection Admin OK
+[11:33:34] 	 pi deja connecte
+[11:33:37]  Sortie de programme
+[11:34:25]  Demmarrage version : 0.9.9.0
+[11:34:25]  lecture de la configuration
+[11:34:25]  Rafraichissement de la configuration
+[11:34:26] 	 Activation surveillance de : C:\export
+[11:34:26] 	 Connection pour pi OK
+[11:34:26] 	 Test des domaines
+[11:34:26] 		 Domaine C:\Naizin\  -> Ok
+[11:34:26] 		 Domaine C:\EFELE\  -> Ok
+[11:34:26] 	 Connection Admin OK
+[11:34:26] 	 pi deja connecte
+[11:34:39]  Sortie de programme
+[11:34:54]  Demmarrage version : 0.9.9.0
+[11:34:54]  lecture de la configuration
+[11:34:54]  Rafraichissement de la configuration
+[11:34:54] 	 Activation surveillance de : C:\export
+[11:34:54] 	 Connection pour pi OK
+[11:34:54] 	 Test des domaines
+[11:34:54] 		 Domaine C:\Naizin\  -> Ok
+[11:34:54] 		 Domaine C:\EFELE\  -> Ok
+[11:34:54] 	 Connection Admin OK
+[11:34:54] 	 pi deja connecte
+[11:35:00] 	 Arret de la surveillance de : C:\export
+[11:35:08]  sauvegarde de la configuration
+[11:35:08]  Rafraichissement de la configuration
+[11:35:08] 	 Activation surveillance de : C:\export
+[11:35:08] 	 Connection pour pi OK
+[11:35:08] 	 Test des domaines
+[11:35:08] 		 Domaine C:\Naizin\  -> Ok
+[11:35:08] 		 Domaine C:\EFELE\  -> Ok
+[11:35:08] 	 Connection Admin OK
+[11:35:08] 	 pi deja connecte
+[11:35:10]  Sortie de programme
+[11:35:12]  Demmarrage version : 0.9.9.0
+[11:35:12]  lecture de la configuration
+[11:35:12]  Rafraichissement de la configuration
+[11:35:13] 	 Activation surveillance de : C:\export
+[11:35:13] 	 Connection pour pi OK
+[11:35:13] 	 Test des domaines
+[11:35:13] 		 Domaine C:\Naizin\  -> Ok
+[11:35:13] 		 Domaine C:\EFELE\  -> Ok
+[11:35:13] 	 Connection Admin OK
+[11:35:13] 	 pi deja connecte
+[11:35:15] 	 Arret de la surveillance de : C:\export
+[11:35:27]  sauvegarde de la configuration
+[11:35:27]  Rafraichissement de la configuration
+[11:35:27] 	 Activation surveillance de : C:\export
+[11:35:27] 	 Connection pour pi OK
+[11:35:27] 	 Test des domaines
+[11:35:27] 		 Domaine C:\Naizin\  -> Ok
+[11:35:27] 		 Domaine C:\EFELE\  -> Ok
+[11:35:27] 	 Connection Admin OK
+[11:35:27] 	 pi deja connecte
+[11:35:29]  Sortie de programme
+[11:35:31]  Demmarrage version : 0.9.9.0
+[11:35:31]  lecture de la configuration
+[11:35:31]  Rafraichissement de la configuration
+[11:35:31] 	 Activation surveillance de : C:\export
+[11:35:31] 	 Connection pour pi OK
+[11:35:31] 	 Test des domaines
+[11:35:31] 		 Domaine C:\Naizin\  -> Ok
+[11:35:32] 		 Domaine C:\EFELE\  -> Ok
+[11:35:32] 	 Connection Admin OK
+[11:35:32] 	 pi deja connecte
+[11:35:34] 	 Arret de la surveillance de : C:\export
+[11:35:43]  Rafraichissement de la configuration
+[11:35:44] 	 Activation surveillance de : C:\export
+[11:35:44] 	 Connection pour pi OK
+[11:35:44] 	 Test des domaines
+[11:35:44] 		 Domaine C:\Naizin\  -> Ok
+[11:35:44] 		 Domaine C:\EFELE\  -> Ok
+[11:35:44] 	 Connection Admin OK
+[11:35:44] 	 pi deja connecte
+[11:35:45]  Sortie de programme
+[11:36:30]  Demmarrage version : 0.9.9.0
+[11:36:30]  lecture de la configuration
+[11:36:30]  Rafraichissement de la configuration
+[11:36:30] 	 Activation surveillance de : C:\export
+[11:36:30] 	 Connection pour pi OK
+[11:36:30] 	 Test des domaines
+[11:36:30] 		 Domaine C:\Naizin\  -> Ok
+[11:36:30] 		 Domaine C:\EFELE\  -> Ok
+[11:36:30] 	 Connection Admin OK
+[11:36:30] 	 pi deja connecte
+[11:36:34] 	 Arret de la surveillance de : C:\export
+[11:36:53]  lecture de la configuration
+[11:36:53]  Rafraichissement de la configuration
+[11:36:53] 	 Activation surveillance de : C:\export
+[11:36:53] 	 Connection pour pi OK
+[11:36:53] 	 Test des domaines
+[11:36:53] 		 Domaine C:\Naizin\  -> Ok
+[11:36:53] 		 Domaine C:\EFELE\  -> Ok
+[11:36:53] 	 Connection Admin OK
+[11:36:53] 	 pi deja connecte
+[11:36:56]  Sortie de programme
+[11:42:55]  Demmarrage version : 0.9.9.0
+[11:42:55]  lecture de la configuration
+[11:42:55]  Rafraichissement de la configuration
+[11:42:55] 	 Activation surveillance de : C:\export
+[11:42:56] 	 Connection pour pi OK
+[11:42:56] 	 Test des domaines
+[11:42:56] 		 Domaine C:\Naizin\  -> Ok
+[11:42:56] 		 Domaine C:\EFELE\  -> Ok
+[11:42:56] 	 Connection Admin OK
+[11:42:56] 	 pi deja connecte
+[11:43:00] 	 Arret de la surveillance de : C:\export
+[11:43:05]  lecture de la configuration
+[11:43:05]  Rafraichissement de la configuration
+[11:43:05] 	 Activation surveillance de : C:\export
+[11:43:05] 	 Connection pour pi OK
+[11:43:05] 	 Test des domaines
+[11:43:05] 		 Domaine C:\Naizin\  -> Ok
+[11:43:05] 		 Domaine C:\EFELE\  -> Ok
+[11:43:05] 	 Connection Admin OK
+[11:43:05] 	 pi deja connecte
+[11:43:24]  Nouveau Fichier : C:\export\naizin_brutes.csv
+[11:43:24] 	 Ajout du fichier dans la queue : 
+[11:43:24]  Modification Fichier : C:\export\naizin_brutes.csv
+[11:43:24]  Nouveau Fichier : C:\export\naizin_corriges.csv
+[11:43:24] 	 Ajout du fichier dans la queue : 
+[11:43:24]  Modification Fichier : C:\export\naizin_corriges.csv
+[11:43:34]  Démarrage du timer [AUTO]
+[11:43:34] 	 Mode Automatique
+[11:43:34]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[11:43:34] 	 pi deja connecte
+[11:43:34] 	 Connection Ok
+[11:43:34] 	 Fichier C:\export\naizin_brutes.csv existant
+[11:43:34] 	 recherche domaine pour : naizin_brutes.csv
+[11:43:34] 		 Trouvé domaine  : C:\Naizin\
+[11:43:34] 	 Recherche de schema pour : C:\Naizin\
+[11:43:34] 	 Admin deja connecte
+[11:43:34] 	 pi deja connecte
+[11:43:34] 	 La schema agrhys existe
+[11:43:34] 		 Trouvé schema  : agrhys
+[11:43:34] 	 pi deja connecte
+[11:43:34] 	 Connection Ok
+[11:43:34]  Lecture des stations pour : C:\Naizin\
+[11:43:34] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[11:43:34]  Lecture des capteurs pour : C:\Naizin\
+[11:43:34] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:43:34] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:43:34] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:43:34] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:43:34] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:43:34] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:43:34] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:43:34] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:43:34] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:43:34] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:43:34] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:43:35] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:43:35] 	 pi deja connecte
+[11:43:35] 		 Ajout de 0 nouveaux capteurs
+[11:43:35] 	 Traitement du fichier
+[11:43:35] 		 Initialisation nouveau script d'insertion
+[11:43:35] 		 Execution du script SQL
+[11:43:36] 		 Initialisation nouveau script d'insertion
+[11:43:37] 		 Execution du script SQL
+[11:43:38] 		 Initialisation nouveau script d'insertion
+[11:43:39] 		 Execution du script SQL
+[11:43:40] 		 Initialisation nouveau script d'insertion
+[11:43:40] 		 Execution du script SQL
+[11:43:41] 		 Initialisation nouveau script d'insertion
+[11:43:42] 		 Execution du script SQL
+[11:43:43] 		 Initialisation nouveau script d'insertion
+[11:43:44] 		 Execution du script SQL
+[11:43:45] 		 Initialisation nouveau script d'insertion
+[11:43:45] 		 Execution du script SQL
+[11:43:46] 		 Initialisation nouveau script d'insertion
+[11:43:47] 		 Execution du script SQL
+[11:43:48] 		 Initialisation nouveau script d'insertion
+[11:43:49] 		 Execution du script SQL
+[11:43:50] 		 Initialisation nouveau script d'insertion
+[11:43:50] 		 Traitement du fichier fini
+[11:43:50] 		 Execution du script SQL
+[11:43:51] 		 Initialisation nouveau script d'insertion
+[11:43:51] 	 pi deja connecte
+[11:43:51] 		 Get area code : 1
+[11:43:51] 	 pi deja connecte
+[11:43:51] 		 Ajout de 0 nouvelles stations
+[11:43:51] 	 Admin deja connecte
+[11:43:51] 	 pi deja connecte
+[11:43:51] 	 La procedure _hydras_import existe
+[11:44:36] 	 Traitement fini avec succes
+[11:44:36]  Traitement du fichier csv : C:\export\naizin_corriges.csv
+[11:44:36] 	 pi deja connecte
+[11:44:36] 	 Connection Ok
+[11:44:36] 	 Fichier C:\export\naizin_corriges.csv existant
+[11:44:36] 	 recherche domaine pour : naizin_corriges.csv
+[11:44:36] 		 Trouvé domaine  : C:\Naizin\
+[11:44:36] 	 Recherche de schema pour : C:\Naizin\
+[11:44:36] 	 Admin deja connecte
+[11:44:36] 	 pi deja connecte
+[11:44:36] 	 La schema agrhys existe
+[11:44:36] 		 Trouvé schema  : agrhys
+[11:44:36] 	 pi deja connecte
+[11:44:36] 	 Connection Ok
+[11:44:36]  Lecture des stations pour : C:\Naizin\
+[11:44:36] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[11:44:36]  Lecture des capteurs pour : C:\Naizin\
+[11:44:36] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:44:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:44:37] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:44:37] 	 pi deja connecte
+[11:44:37] 		 Ajout de 0 nouveaux capteurs
+[11:44:37] 	 Traitement du fichier
+[11:44:37] 		 Initialisation nouveau script d'insertion
+[11:44:37] 		 Execution du script SQL
+[11:44:38] 		 Initialisation nouveau script d'insertion
+[11:44:39] 		 Execution du script SQL
+[11:44:40] 		 Initialisation nouveau script d'insertion
+[11:44:41] 		 Execution du script SQL
+[11:44:42] 		 Initialisation nouveau script d'insertion
+[11:44:42] 		 Traitement du fichier fini
+[11:44:42] 		 Execution du script SQL
+[11:44:43] 		 Initialisation nouveau script d'insertion
+[11:44:43] 	 pi deja connecte
+[11:44:43] 		 Get area code : 1
+[11:44:43] 	 pi deja connecte
+[11:44:43] 		 Ajout de 0 nouvelles stations
+[11:44:43] 	 Admin deja connecte
+[11:44:43] 	 pi deja connecte
+[11:44:43] 	 La procedure _hydras_import existe
+[11:45:00] 	 Traitement fini avec succes
+[11:45:04]  Démarrage du timer [AUTO]
+[11:45:04] 	 Mode Automatique
+[11:45:14]  Démarrage du timer [AUTO]
+[11:45:14] 	 Mode Automatique
+[11:45:24]  Démarrage du timer [AUTO]
+[11:45:24] 	 Mode Automatique
+[11:45:34]  Démarrage du timer [AUTO]
+[11:45:34] 	 Mode Automatique
+[11:45:44]  Démarrage du timer [AUTO]
+[11:45:44] 	 Mode Automatique
+[11:45:53]  Sortie de programme
+[11:50:55]  Demmarrage version : 0.9.9.0
+[11:50:55]  lecture de la configuration
+[11:50:55]  Rafraichissement de la configuration
+[11:50:56] 	 Activation surveillance de : C:\export
+[11:50:56] 	 Connection pour pi OK
+[11:50:56] 	 Test des domaines
+[11:50:56] 		 Domaine C:\Naizin\  -> Ok
+[11:50:56] 		 Domaine C:\EFELE\  -> Ok
+[11:50:56] 	 Connection Admin OK
+[11:50:56] 	 pi deja connecte
+[11:51:10]  Nouveau Fichier : C:\export\naizin_brutes.csv
+[11:51:10] 	 Ajout du fichier dans la queue : 
+[11:51:10]  Modification Fichier : C:\export\naizin_brutes.csv
+[11:51:10]  Nouveau Fichier : C:\export\naizin_corriges.csv
+[11:51:10] 	 Ajout du fichier dans la queue : 
+[11:51:10]  Modification Fichier : C:\export\naizin_corriges.csv
+[11:51:20]  Démarrage du timer [AUTO]
+[11:51:20] 	 Mode Automatique
+[11:51:21]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[11:51:21] 	 pi deja connecte
+[11:51:21] 	 Connection Ok
+[11:51:21] 	 Fichier C:\export\naizin_brutes.csv existant
+[11:51:21] 	 recherche domaine pour : naizin_brutes.csv
+[11:51:21] 		 Trouvé domaine  : C:\Naizin\
+[11:51:21] 	 Recherche de schema pour : C:\Naizin\
+[11:51:21] 	 Admin deja connecte
+[11:51:21] 	 pi deja connecte
+[11:51:21] 	 La schema agrhys existe
+[11:51:21] 		 Trouvé schema  : agrhys
+[11:51:21] 	 pi deja connecte
+[11:51:21] 	 Connection Ok
+[11:51:21]  Lecture des stations pour : C:\Naizin\
+[11:51:21] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[11:51:21]  Lecture des capteurs pour : C:\Naizin\
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:51:21] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:51:21] 	 pi deja connecte
+[11:51:21] 		 Ajout de 0 nouveaux capteurs
+[11:51:21] 	 Traitement du fichier
+[11:51:21] 		 Initialisation nouveau script d'insertion
+[11:51:22] 		 Execution du script SQL
+[11:51:23] 		 Initialisation nouveau script d'insertion
+[11:51:23] 		 Execution du script SQL
+[11:51:24] 		 Initialisation nouveau script d'insertion
+[11:51:25] 		 Execution du script SQL
+[11:51:26] 		 Initialisation nouveau script d'insertion
+[11:51:27] 		 Execution du script SQL
+[11:51:28] 		 Initialisation nouveau script d'insertion
+[11:51:28] 		 Execution du script SQL
+[11:51:29] 		 Initialisation nouveau script d'insertion
+[11:51:30] 		 Execution du script SQL
+[11:51:31] 		 Initialisation nouveau script d'insertion
+[11:51:32] 		 Execution du script SQL
+[11:51:32] 		 Initialisation nouveau script d'insertion
+[11:51:33] 		 Execution du script SQL
+[11:51:34] 		 Initialisation nouveau script d'insertion
+[11:51:35] 		 Execution du script SQL
+[11:51:36] 		 Initialisation nouveau script d'insertion
+[11:51:37] 		 Traitement du fichier fini
+[11:51:37] 		 Execution du script SQL
+[11:51:37] 		 Initialisation nouveau script d'insertion
+[11:51:37] 	 pi deja connecte
+[11:51:37] 		 Get area code : 1
+[11:51:37] 	 pi deja connecte
+[11:51:37] 		 Ajout de 0 nouvelles stations
+[11:51:38] 	 Admin deja connecte
+[11:51:38] 	 pi deja connecte
+[11:51:38] 	 La procedure _hydras_import existe
+[11:52:22] 	 Traitement fini avec succes
+[11:52:22]  Traitement du fichier csv : C:\export\naizin_corriges.csv
+[11:52:22] 	 pi deja connecte
+[11:52:22] 	 Connection Ok
+[11:52:22] 	 Fichier C:\export\naizin_corriges.csv existant
+[11:52:22] 	 recherche domaine pour : naizin_corriges.csv
+[11:52:22] 		 Trouvé domaine  : C:\Naizin\
+[11:52:22] 	 Recherche de schema pour : C:\Naizin\
+[11:52:22] 	 Admin deja connecte
+[11:52:22] 	 pi deja connecte
+[11:52:22] 	 La schema agrhys existe
+[11:52:22] 		 Trouvé schema  : agrhys
+[11:52:22] 	 pi deja connecte
+[11:52:22] 	 Connection Ok
+[11:52:22]  Lecture des stations pour : C:\Naizin\
+[11:52:22] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[11:52:22]  Lecture des capteurs pour : C:\Naizin\
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:52:22] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:52:22] 	 pi deja connecte
+[11:52:22] 		 Ajout de 0 nouveaux capteurs
+[11:52:22] 	 Traitement du fichier
+[11:52:22] 		 Initialisation nouveau script d'insertion
+[11:52:23] 		 Execution du script SQL
+[11:52:24] 		 Initialisation nouveau script d'insertion
+[11:52:24] 		 Execution du script SQL
+[11:52:25] 		 Initialisation nouveau script d'insertion
+[11:52:26] 		 Execution du script SQL
+[11:52:27] 		 Initialisation nouveau script d'insertion
+[11:52:27] 		 Traitement du fichier fini
+[11:52:27] 		 Execution du script SQL
+[11:52:28] 		 Initialisation nouveau script d'insertion
+[11:52:28] 	 pi deja connecte
+[11:52:28] 		 Get area code : 1
+[11:52:28] 	 pi deja connecte
+[11:52:28] 		 Ajout de 0 nouvelles stations
+[11:52:28] 	 Admin deja connecte
+[11:52:28] 	 pi deja connecte
+[11:52:28] 	 La procedure _hydras_import existe
+[11:52:45] 	 Traitement fini avec succes
+[11:54:46]  Sortie de programme
+[14:44:14]  Demmarrage version : 0.9.9.0
+[14:44:14]  lecture de la configuration
+[14:44:14]  Rafraichissement de la configuration
+[14:44:14] 	 Activation surveillance de : C:\export
+[14:44:14] 	 Connection pour pi OK
+[14:44:14] 	 Test des domaines
+[14:44:14] 		 Domaine C:\Naizin\  -> Ok
+[14:44:14] 		 Domaine C:\EFELE\  -> Ok
+[14:44:15] 	 Connection Admin OK
+[14:44:15] 	 pi deja connecte
+[14:44:16]  Sortie de programme
+[15:59:06]  Demmarrage version : 0.9.9.0
+[15:59:06]  lecture de la configuration
+[15:59:06]  Rafraichissement de la configuration
+[15:59:07] 	 Activation surveillance de : C:\export
+[15:59:07] 	 Connection pour pi OK
+[15:59:07] 	 Test des domaines
+[15:59:07] 		 Domaine C:\Naizin\  -> Ok
+[15:59:07] 		 Domaine C:\EFELE\  -> Ok
+[15:59:07] 	 Connection Admin OK
+[15:59:07] 	 pi deja connecte
+[15:59:10]  Sortie de programme
+[15:59:33]  Demmarrage version : 0.9.9.0
+[15:59:33]  lecture de la configuration
+[15:59:33]  Rafraichissement de la configuration
+[15:59:34] 	 Activation surveillance de : C:\export
+[15:59:34] 	 Connection pour pi OK
+[15:59:34] 	 Test des domaines
+[15:59:34] 		 Domaine C:\Naizin\  -> Ok
+[15:59:34] 		 Domaine C:\EFELE\  -> Ok
+[15:59:34] 	 Connection Admin OK
+[15:59:34] 	 pi deja connecte
+[16:07:28]  Demmarrage version : 0.9.9.0
+[16:07:28]  lecture de la configuration
+[16:07:28]  Rafraichissement de la configuration
+[16:07:28] 	 Activation surveillance de : C:\export
+[16:07:28] 	 Connection pour pi OK
+[16:07:28] 	 Test des domaines
+[16:07:28] 		 Domaine C:\Naizin\  -> Ok
+[16:07:28] 		 Domaine C:\EFELE\  -> Ok
+[16:07:29] 	 Connection Admin OK
+[16:07:29] 	 pi deja connecte
+[16:07:34]  Sortie de programme
+[16:10:10]  Demmarrage version : 0.9.9.0
+[16:10:10]  lecture de la configuration
+[16:10:10]  Rafraichissement de la configuration
+[16:10:10] 	 Activation surveillance de : C:\export
+[16:10:10] 	 Connection pour pi OK
+[16:10:10] 	 Test des domaines
+[16:10:10] 		 Domaine C:\Naizin\  -> Ok
+[16:10:10] 		 Domaine C:\EFELE\  -> Ok
+[16:10:10] 	 Connection Admin OK
+[16:10:10] 	 pi deja connecte
+[16:10:17]  Sortie de programme
+[16:12:17]  Demmarrage version : 0.9.9.0
+[16:12:17]  lecture de la configuration
+[16:12:17]  Rafraichissement de la configuration
+[16:12:17] 	 Activation surveillance de : C:\export
+[16:12:17] 	 Connection pour pi OK
+[16:12:17] 	 Test des domaines
+[16:12:17] 		 Domaine C:\Naizin\  -> Ok
+[16:12:17] 		 Domaine C:\EFELE\  -> Ok
+[16:12:17] 	 Connection Admin OK
+[16:12:17] 	 pi deja connecte
+[16:12:22] 	 Arret de la surveillance de : C:\export
+[16:12:31]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[16:12:31] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[16:12:55]  sauvegarde de la configuration
+[16:12:55]  Rafraichissement de la configuration
+[16:12:55] 	 Activation surveillance de : C:\export
+[16:12:55] 	 Connection pour pi OK
+[16:12:55] 	 Test des domaines
+[16:12:55] 		 Domaine C:\Naizin\  -> Ok
+[16:12:55] 		 Domaine C:\EFELE\  -> Ok
+[16:12:55] 	 Connection Admin OK
+[16:12:55] 	 pi deja connecte
+[16:13:11]  Sortie de programme
+[16:13:14]  Demmarrage version : 0.9.9.0
+[16:13:14]  lecture de la configuration
+[16:13:14]  Rafraichissement de la configuration
+[16:13:15] 	 Activation surveillance de : C:\export
+[16:13:15] 	 Connection pour pi OK
+[16:13:15] 	 Test des domaines
+[16:13:15] 		 Domaine C:\Naizin\  -> Ok
+[16:13:15] 		 Domaine C:\EFELE\  -> Ok
+[16:13:15] 	 Connection Admin OK
+[16:13:15] 	 pi deja connecte
+[18:02:20] 	 Arret de la surveillance de : C:\export
+[18:02:23]  Rafraichissement de la configuration
+[18:02:23] 	 Activation surveillance de : C:\export
+[18:02:24] 	 Connection pour pi OK
+[18:02:24] 	 Test des domaines
+[18:02:24] 		 Domaine C:\Naizin\  -> Ok
+[18:02:24] 		 Domaine C:\EFELE\  -> Ok
+[18:02:24] 	 Connection Admin OK
+[18:02:24] 	 pi deja connecte
+[18:02:24]  Sortie de programme
+[18:03:10]  Demmarrage version : 0.9.9.0
+[18:03:10]  lecture de la configuration
+[18:03:10]  Rafraichissement de la configuration
+[18:03:11] 	 Activation surveillance de : C:\export
+[18:03:11] 	 Connection pour pi OK
+[18:03:11] 	 Test des domaines
+[18:03:11] 		 Domaine C:\Naizin\  -> Ok
+[18:03:11] 		 Domaine C:\EFELE\  -> Ok
+[18:03:11] 	 Connection Admin OK
+[18:03:11] 	 pi deja connecte
+[18:03:25]  Sortie de programme
+[18:18:30]  Demmarrage version : 0.9.9.0
+[18:18:30]  lecture de la configuration
+[18:18:30]  Rafraichissement de la configuration
+[18:18:30] 	 Activation surveillance de : C:\export
+[18:18:30] 	 Connection pour pi OK
+[18:18:30] 	 Test des domaines
+[18:18:30] 		 Domaine C:\Naizin\  -> Ok
+[18:18:30] 		 Domaine C:\EFELE\  -> Ok
+[18:18:31] 	 Connection Admin OK
+[18:18:31] 	 pi deja connecte
+[18:18:33]  Sortie de programme
+[18:23:44]  Demmarrage version : 0.9.9.0
+[18:23:44]  lecture de la configuration
+[18:23:44]  Rafraichissement de la configuration
+[18:23:45] 	 Activation surveillance de : C:\export
+[18:23:45] 	 Connection pour pi OK
+[18:23:45] 	 Test des domaines
+[18:23:45] 		 Domaine C:\Naizin\  -> Ok
+[18:23:45] 		 Domaine C:\EFELE\  -> Ok
+[18:23:45] 	 Connection Admin OK
+[18:23:45] 	 pi deja connecte
+[18:23:52] 	 Arret de la surveillance de : C:\export
+[18:23:54]  Rafraichissement de la configuration
+[18:23:54] 	 Activation surveillance de : C:\export
+[18:23:54] 	 Connection pour pi OK
+[18:23:54] 	 Test des domaines
+[18:23:54] 		 Domaine C:\Naizin\  -> Ok
+[18:23:54] 		 Domaine C:\EFELE\  -> Ok
+[18:23:55] 	 Connection Admin OK
+[18:23:55] 	 pi deja connecte
+[18:24:05]  Sortie de programme
+[18:25:19]  Demmarrage version : 0.9.9.0
+[18:25:19]  lecture de la configuration
+[18:25:19]  Rafraichissement de la configuration
+[18:25:20] 	 Activation surveillance de : C:\export
+[18:25:20] 	 Connection pour pi OK
+[18:25:20] 	 Test des domaines
+[18:25:20] 		 Domaine C:\Naizin\  -> Ok
+[18:25:20] 		 Domaine C:\EFELE\  -> Ok
+[18:25:20] 	 Connection Admin OK
+[18:25:20] 	 pi deja connecte
+[18:26:09]  Sortie de programme
+[18:28:56]  Demmarrage version : 0.9.9.0
+[18:28:56]  lecture de la configuration
+[18:28:56]  Rafraichissement de la configuration
+[18:28:56] 	 Activation surveillance de : C:\export
+[18:28:56] 	 Connection pour pi OK
+[18:28:56] 	 Test des domaines
+[18:28:56] 		 Domaine C:\Naizin\  -> Ok
+[18:28:56] 		 Domaine C:\EFELE\  -> Ok
+[18:28:56] 	 Connection Admin OK
+[18:28:56] 	 pi deja connecte
+[18:29:50]  Sortie de programme
+[18:30:24]  Demmarrage version : 0.9.9.0
+[18:30:24]  lecture de la configuration
+[18:30:24]  Rafraichissement de la configuration
+[18:30:24] 	 Activation surveillance de : C:\export
+[18:30:24] 	 Connection pour pi OK
+[18:30:24] 	 Test des domaines
+[18:30:24] 		 Domaine C:\Naizin\  -> Ok
+[18:30:24] 		 Domaine C:\EFELE\  -> Ok
+[18:30:24] 	 Connection Admin OK
+[18:30:24] 	 pi deja connecte
+[18:30:41] 	 Arret de la surveillance de : C:\export
+[18:30:45]  Rafraichissement de la configuration
+[18:30:45] 	 Activation surveillance de : C:\export
+[18:30:45] 	 Connection pour pi OK
+[18:30:45] 	 Test des domaines
+[18:30:45] 		 Domaine C:\Naizin\  -> Ok
+[18:30:45] 		 Domaine C:\EFELE\  -> Ok
+[18:30:45] 	 Connection Admin OK
+[18:30:45] 	 pi deja connecte
+[18:30:46]  Sortie de programme
+[18:32:13]  Demmarrage version : 0.9.9.0
+[18:32:13]  lecture de la configuration
+[18:32:13]  Rafraichissement de la configuration
+[18:32:13] 	 Activation surveillance de : C:\export
+[18:32:14] 	 Connection pour pi OK
+[18:32:14] 	 Test des domaines
+[18:32:14] 		 Domaine C:\Naizin\  -> Ok
+[18:32:14] 		 Domaine C:\EFELE\  -> Ok
+[18:32:14] 	 Connection Admin OK
+[18:32:14] 	 pi deja connecte
+[18:32:22] 	 Arret de la surveillance de : C:\export
+[18:32:32]  lecture de la configuration
+[18:32:32]  Rafraichissement de la configuration
+[18:32:32] 	 Activation surveillance de : C:\export
+[18:32:32] 	 Connection pour pi OK
+[18:32:32] 	 Test des domaines
+[18:32:32] 		 Domaine C:\Naizin\  -> Ok
+[18:32:32] 		 Domaine C:\EFELE\  -> Ok
+[18:32:32] 	 Connection Admin OK
+[18:32:32] 	 pi deja connecte
+[18:36:37]  Sortie de programme
+[18:37:52]  Demmarrage version : 0.9.9.0
+[18:37:52]  lecture de la configuration
+[18:37:52]  Rafraichissement de la configuration
+[18:37:52] 	 Activation surveillance de : C:\export
+[18:37:52] 	 Connection pour pi OK
+[18:37:52] 	 Test des domaines
+[18:37:52] 		 Domaine C:\Naizin\  -> Ok
+[18:37:52] 		 Domaine C:\EFELE\  -> Ok
+[18:37:52] 	 Connection Admin OK
+[18:37:52] 	 pi deja connecte
+[18:38:01]  Sortie de programme
+[18:38:33]  Demmarrage version : 0.9.9.0
+[18:38:33]  lecture de la configuration
+[18:38:33]  Rafraichissement de la configuration
+[18:38:33] 	 Activation surveillance de : C:\export
+[18:38:33] 	 Connection pour pi OK
+[18:38:33] 	 Test des domaines
+[18:38:33] 		 Domaine C:\Naizin\  -> Ok
+[18:38:33] 		 Domaine C:\EFELE\  -> Ok
+[18:38:33] 	 Connection Admin OK
+[18:38:33] 	 pi deja connecte
+[18:38:43]  Sortie de programme
+[18:40:39]  Demmarrage version : 0.9.9.0
+[18:40:39]  lecture de la configuration
+[18:40:39]  Rafraichissement de la configuration
+[18:40:39] 	 Activation surveillance de : C:\export
+[18:40:39] 	 Connection pour pi OK
+[18:40:39] 	 Test des domaines
+[18:40:39] 		 Domaine C:\Naizin\  -> Ok
+[18:40:39] 		 Domaine C:\EFELE\  -> Ok
+[18:40:39] 	 Connection Admin OK
+[18:40:39] 	 pi deja connecte
+[18:41:02] 	 Arret de la surveillance de : C:\export
+[18:41:05] 	 pi deja connecte
+[18:41:13]  Rafraichissement de la configuration
+[18:41:14] 	 Activation surveillance de : C:\export
+[18:41:14] 	 Connection pour pi OK
+[18:41:14] 	 Test des domaines
+[18:41:14] 		 Domaine C:\Naizin\  -> Ok
+[18:41:14] 		 Domaine C:\EFELE\  -> Ok
+[18:41:14] 	 Connection Admin OK
+[18:41:14] 	 pi deja connecte
+[18:41:17]  lecture de la configuration
+[18:41:17]  Rafraichissement de la configuration
+[18:41:17] 	 Connection pour pi OK
+[18:41:17] 	 Test des domaines
+[18:41:17] 		 Domaine C:\Naizin\  -> Ok
+[18:41:17] 		 Domaine C:\EFELE\  -> Ok
+[18:41:17] 	 Connection Admin OK
+[18:41:17] 	 pi deja connecte
+[18:41:38]  Sortie de programme
+[18:45:43]  Demmarrage version : 0.9.9.0
+[18:45:43]  lecture de la configuration
+[18:45:43]  Rafraichissement de la configuration
+[18:45:43] 	 Activation surveillance de : C:\export
+[18:45:43] 	 Connection pour pi OK
+[18:45:43] 	 Test des domaines
+[18:45:43] 		 Domaine C:\Naizin\  -> Ok
+[18:45:43] 		 Domaine C:\EFELE\  -> Ok
+[18:45:43] 	 Connection Admin OK
+[18:45:43] 	 pi deja connecte
+[18:45:49]  Sortie de programme
+[18:47:34]  Demmarrage version : 0.9.9.0
+[18:47:34]  lecture de la configuration
+[18:47:34]  Rafraichissement de la configuration
+[18:47:34] 	 Activation surveillance de : C:\export
+[18:47:34] 	 Connection pour pi OK
+[18:47:34] 	 Test des domaines
+[18:47:34] 		 Domaine C:\Naizin\  -> Ok
+[18:47:34] 		 Domaine C:\EFELE\  -> Ok
+[18:47:34] 	 Connection Admin OK
+[18:47:34] 	 pi deja connecte
+[18:47:38] 	 Arret de la surveillance de : C:\export
+[18:47:40] 	 pi deja connecte
+[18:47:42]  Rafraichissement de la configuration
+[18:47:42] 	 Activation surveillance de : C:\export
+[18:47:42] 	 Connection pour pi OK
+[18:47:42] 	 Test des domaines
+[18:47:42] 		 Domaine C:\Naizin\  -> Ok
+[18:47:42] 		 Domaine C:\EFELE\  -> Ok
+[18:47:42] 	 Connection Admin OK
+[18:47:42] 	 pi deja connecte
+[18:47:49]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[18:47:49] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[18:47:50] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[18:47:51]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[18:47:51] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[18:47:52]  Lecture des stations pour : C:\EFELE\ pour la configuration automatique
+[18:47:52] 	 Ouverture de la table : C:\EFELE\GB_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\GBM_00.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P3\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P4\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P5\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P7\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P8\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P9\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\TSMO_B_P.10\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\EFEL_B_M.ET\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P1\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P2\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\GBM_01.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P3\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P4\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P5\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P7\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P8\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P9\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\TSMO_C_P.10\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\EFEL_C_M.ET\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P1\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P2\SS_DATEI.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\AUTOEXPO.DB
+[18:47:52] 	 Ouverture de la table : C:\EFELE\EXPO034.DB
+[18:47:53]  Lecture des stations pour : C:\EFELE\ pour la configuration automatique
+[18:47:53] 	 Ouverture de la table : C:\EFELE\GB_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\GBM_00.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P3\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P4\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P5\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P7\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P8\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P9\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\TSMO_B_P.10\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\EFEL_B_M.ET\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P1\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P2\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\GBM_01.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P3\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P4\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P5\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P7\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P8\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P9\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\TSMO_C_P.10\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\EFEL_C_M.ET\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P1\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P2\SS_DATEI.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\AUTOEXPO.DB
+[18:47:53] 	 Ouverture de la table : C:\EFELE\EXPO034.DB
+[18:47:53] 	 pi deja connecte
+[18:47:53] 	 pi deja connecte
+[18:47:56]  Rafraichissement de la configuration
+[18:47:56] 	 Connection pour pi OK
+[18:47:56] 	 Test des domaines
+[18:47:56] 		 Domaine C:\Naizin\  -> Ok
+[18:47:56] 		 Domaine C:\EFELE\  -> Ok
+[18:47:56] 	 Connection Admin OK
+[18:47:56] 	 pi deja connecte
+[18:47:57]  Rafraichissement de la configuration
+[18:47:58] 	 Connection pour pi OK
+[18:47:58] 	 Test des domaines
+[18:47:58] 		 Domaine C:\Naizin\  -> Ok
+[18:47:58] 		 Domaine C:\EFELE\  -> Ok
+[18:47:58] 	 Connection Admin OK
+[18:47:58] 	 pi deja connecte
+[18:47:59]  Sortie de programme
+[18:58:15]  Demmarrage version : 0.9.9.0
+[18:58:15]  lecture de la configuration
+[18:58:15]  Rafraichissement de la configuration
+[18:58:15] 	 Activation surveillance de : C:\export
+[18:58:15] 	 Connection pour pi OK
+[18:58:15] 	 Test des domaines
+[18:58:15] 		 Domaine C:\Naizin\  -> Ok
+[18:58:15] 		 Domaine C:\EFELE\  -> Ok
+[18:58:15] 	 Connection Admin OK
+[18:58:15] 	 pi deja connecte
+[18:58:18]  Sortie de programme
+[18:59:02]  Demmarrage version : 0.9.9.0
+[18:59:02]  lecture de la configuration
+[18:59:02]  Rafraichissement de la configuration
+[18:59:02] 	 Activation surveillance de : C:\export
+[18:59:02] 	 Connection pour pi OK
+[18:59:02] 	 Test des domaines
+[18:59:02] 		 Domaine C:\Naizin\  -> Ok
+[18:59:02] 		 Domaine C:\EFELE\  -> Ok
+[18:59:03] 	 Connection Admin OK
+[18:59:03] 	 pi deja connecte
+[18:59:05] 	 pi deja connecte
+[18:59:28]  Demmarrage version : 0.9.9.0
+[18:59:28]  lecture de la configuration
+[18:59:28]  Rafraichissement de la configuration
+[18:59:28] 	 Activation surveillance de : C:\export
+[18:59:28] 	 Connection pour pi OK
+[18:59:28] 	 Test des domaines
+[18:59:28] 		 Domaine C:\Naizin\  -> Ok
+[18:59:28] 		 Domaine C:\EFELE\  -> Ok
+[18:59:28] 	 Connection Admin OK
+[18:59:28] 	 pi deja connecte
+[18:59:50] 	 pi deja connecte
+[19:00:55] 	 Ajout du fichier dans la queue : 
+[19:01:06]  Demmarrage version : 0.9.9.0
+[19:01:06]  lecture de la configuration
+[19:01:06]  Rafraichissement de la configuration
+[19:01:06] 	 Activation surveillance de : C:\export
+[19:01:07] 	 Connection pour pi OK
+[19:01:07] 	 Test des domaines
+[19:01:07] 		 Domaine C:\Naizin\  -> Ok
+[19:01:07] 		 Domaine C:\EFELE\  -> Ok
+[19:01:07] 	 Connection Admin OK
+[19:01:07] 	 pi deja connecte
+[19:01:11] 	 pi deja connecte
+[19:01:19]  Sortie de programme
+[19:09:57]  Demmarrage version : 0.9.9.0
+[19:09:57]  lecture de la configuration
+[19:09:57]  Rafraichissement de la configuration
+[19:09:57] 	 Activation surveillance de : C:\export
+[19:09:57] 	 Connection pour pi OK
+[19:09:57] 	 Test des domaines
+[19:09:57] 		 Domaine C:\Naizin\  -> Ok
+[19:09:57] 		 Domaine C:\EFELE\  -> Ok
+[19:09:57] 	 Connection Admin OK
+[19:09:57] 	 pi deja connecte
+[19:10:01]  Sortie de programme
+[19:11:17]  Demmarrage version : 0.9.9.0
+[19:11:17]  lecture de la configuration
+[19:11:17]  Rafraichissement de la configuration
+[19:11:17] 	 Activation surveillance de : C:\export
+[19:11:17] 	 Connection pour pi OK
+[19:11:17] 	 Test des domaines
+[19:11:17] 		 Domaine C:\Naizin\  -> Ok
+[19:11:17] 		 Domaine C:\EFELE\  -> Ok
+[19:11:17] 	 Connection Admin OK
+[19:11:17] 	 pi deja connecte
+[19:11:25] 	 Ajout du fichier dans la queue : 
+[19:11:25] 	 Ajout du fichier dans la queue : 
+[19:11:25] 	 Mode manuel
+[19:11:25]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[19:11:25] 	 pi deja connecte
+[19:11:25] 	 Connection Ok
+[19:11:25] 	 Fichier C:\export\naizin_brutes.csv existant
+[19:11:25] 	 recherche domaine pour : naizin_brutes.csv
+[19:11:25] 		 Trouvé domaine  : C:\Naizin\
+[19:11:25] 	 Recherche de schema pour : C:\Naizin\
+[19:11:25] 	 Admin deja connecte
+[19:11:25] 	 pi deja connecte
+[19:11:25] 	 La schema agrhys existe
+[19:11:25] 		 Trouvé schema  : agrhys
+[19:11:25] 	 pi deja connecte
+[19:11:25] 	 Connection Ok
+[19:11:25]  Lecture des stations pour : C:\Naizin\
+[19:11:25] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[19:11:25]  Lecture des capteurs pour : C:\Naizin\
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[19:11:25] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[19:11:25] 	 pi deja connecte
+[19:11:25] 		 Ajout de 0 nouveaux capteurs
+[19:11:25] 	 Traitement du fichier
+[19:11:25] 		 Initialisation nouveau script d'insertion
+[19:11:27] 		 Execution du script SQL
+[19:11:29] 		 Initialisation nouveau script d'insertion
+[19:11:30] 		 Execution du script SQL
+[19:11:32] 		 Initialisation nouveau script d'insertion
+[19:11:33] 		 Execution du script SQL
+[19:11:35] 		 Initialisation nouveau script d'insertion
+[19:11:37] 		 Execution du script SQL
+[19:11:39] 		 Initialisation nouveau script d'insertion
+[19:11:40] 		 Traitement du fichier fini
+[19:11:40] 		 Execution du script SQL
+[19:11:42] 		 Initialisation nouveau script d'insertion
+[19:11:42] 	 pi deja connecte
+[19:11:42] 		 Get area code : 1
+[19:11:42] 	 pi deja connecte
+[19:11:42] 		 Ajout de 0 nouvelles stations
+[19:11:42] 	 Admin deja connecte
+[19:11:42] 	 pi deja connecte
+[19:11:42] 	 La procedure _hydras_import existe
+[19:12:27] 	 Traitement fini avec succes
+[19:12:27]  Traitement du fichier csv : C:\export\naizin_corriges.csv
+[19:12:27] 	 pi deja connecte
+[19:12:27] 	 Connection Ok
+[19:12:27] 	 Fichier C:\export\naizin_corriges.csv existant
+[19:12:27] 	 recherche domaine pour : naizin_corriges.csv
+[19:12:27] 		 Trouvé domaine  : C:\Naizin\
+[19:12:27] 	 Recherche de schema pour : C:\Naizin\
+[19:12:27] 	 Admin deja connecte
+[19:12:27] 	 pi deja connecte
+[19:12:27] 	 La schema agrhys existe
+[19:12:27] 		 Trouvé schema  : agrhys
+[19:12:27] 	 pi deja connecte
+[19:12:27] 	 Connection Ok
+[19:12:27]  Lecture des stations pour : C:\Naizin\
+[19:12:27] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[19:12:27]  Lecture des capteurs pour : C:\Naizin\
+[19:12:27] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[19:12:27] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[19:12:28] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[19:12:28] 	 pi deja connecte
+[19:12:28] 		 Ajout de 0 nouveaux capteurs
+[19:12:28] 	 Traitement du fichier
+[19:12:28] 		 Initialisation nouveau script d'insertion
+[19:12:29] 		 Execution du script SQL
+[19:12:31] 		 Initialisation nouveau script d'insertion
+[19:12:32] 		 Traitement du fichier fini
+[19:12:32] 		 Execution du script SQL
+[19:12:34] 		 Initialisation nouveau script d'insertion
+[19:12:34] 	 pi deja connecte
+[19:12:34] 		 Get area code : 1
+[19:12:34] 	 pi deja connecte
+[19:12:34] 		 Ajout de 0 nouvelles stations
+[19:12:34] 	 Admin deja connecte
+[19:12:34] 	 pi deja connecte
+[19:12:34] 	 La procedure _hydras_import existe
+[19:12:51] 	 Traitement fini avec succes
+[19:12:51] 	 Creation du fichier ZIP : C:\export\import [02-04-2020-19-12-51].zip
+[19:12:51] 	 Archive basedir C:\export\
+[19:12:51]  Nouveau Fichier : C:\export\import [02-04-2020-19-12-51].zip
+[19:12:51] 		 Deplacement du fichier C:\export\naizin_brutes.csv
+[19:12:51] 		 Deplacement du fichier C:\export\naizin_corriges.csv
+[19:12:51]  Modification Fichier : C:\export\import [02-04-2020-19-12-51].zip
+[19:12:51] 	 Fermeture du fichier ZIP
+[19:12:51]  Modification Fichier : C:\export\import [02-04-2020-19-12-51].zip
+[19:12:51]  Deplacement Fichier : C:\export\naizin_brutes.csv
+[19:12:51] 	 Ajout du fichier dans la queue : 
+[19:12:51]  Modification Fichier : C:\export\import [02-04-2020-19-12-51].zip
+[19:12:51]  Modification Fichier : C:\export\import [02-04-2020-19-12-51].zip
+[19:12:51]  Modification Fichier : C:\export\import [02-04-2020-19-12-51].zip
+[19:12:51]  Modification Fichier : C:\export\import [02-04-2020-19-12-51].zip
+[19:12:51]  Deplacement Fichier : C:\export\naizin_corriges.csv
+[19:12:51] 	 Ajout du fichier dans la queue : 
+[19:12:51]  Modification Fichier : C:\export\import [02-04-2020-19-12-51].zip
+[19:13:11]  Sortie de programme
+[19:15:21]  Demmarrage version : 0.9.9.0
+[19:15:21]  lecture de la configuration
+[19:15:21]  Rafraichissement de la configuration
+[19:15:21] 	 Activation surveillance de : C:\export
+[19:15:21] 	 Connection pour pi OK
+[19:15:21] 	 Test des domaines
+[19:15:21] 		 Domaine C:\Naizin\  -> Ok
+[19:15:21] 		 Domaine C:\EFELE\  -> Ok
+[19:15:21] 	 Connection Admin OK
+[19:15:21] 	 pi deja connecte
+[19:15:33]  Sortie de programme
+[19:16:13]  Demmarrage version : 0.9.9.0
+[19:16:13]  lecture de la configuration
+[19:16:13]  Rafraichissement de la configuration
+[19:16:13] 	 Activation surveillance de : C:\export
+[19:16:13] 	 Connection pour pi OK
+[19:16:13] 	 Test des domaines
+[19:16:13] 		 Domaine C:\Naizin\  -> Ok
+[19:16:13] 		 Domaine C:\EFELE\  -> Ok
+[19:16:13] 	 Connection Admin OK
+[19:16:13] 	 pi deja connecte
+[19:16:18]  Sortie de programme
+[19:17:05]  Demmarrage version : 0.9.9.0
+[19:17:05]  lecture de la configuration
+[19:17:05]  Rafraichissement de la configuration
+[19:17:05] 	 Activation surveillance de : C:\export
+[19:17:05] 	 Connection pour pi OK
+[19:17:05] 	 Test des domaines
+[19:17:05] 		 Domaine C:\Naizin\  -> Ok
+[19:17:05] 		 Domaine C:\EFELE\  -> Ok
+[19:17:05] 	 Connection Admin OK
+[19:17:05] 	 pi deja connecte
+[19:17:14]  Sortie de programme
+[19:19:13]  Demmarrage version : 0.9.9.0
+[19:19:13]  lecture de la configuration
+[19:19:13]  Rafraichissement de la configuration
+[19:19:13] 	 Activation surveillance de : C:\export
+[19:19:13] 	 Connection pour pi OK
+[19:19:13] 	 Test des domaines
+[19:19:13] 		 Domaine C:\Naizin\  -> Ok
+[19:19:13] 		 Domaine C:\EFELE\  -> Ok
+[19:19:13] 	 Connection Admin OK
+[19:19:13] 	 pi deja connecte
+[19:19:39]  Nouveau Fichier : C:\export\naizin_brutes.csv
+[19:19:39] 	 Ajout du fichier dans la queue : 
+[19:19:39]  Modification Fichier : C:\export\naizin_brutes.csv
+[19:19:39]  Nouveau Fichier : C:\export\naizin_corriges.csv
+[19:19:39] 	 Ajout du fichier dans la queue : 
+[19:19:39]  Modification Fichier : C:\export\naizin_corriges.csv
+[19:19:49]  Démarrage du timer [AUTO]
+[19:19:49] 	 Mode Automatique
+[19:19:49]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[19:19:49] 	 pi deja connecte
+[19:19:49] 	 Connection Ok
+[19:19:49] 	 Fichier C:\export\naizin_brutes.csv existant
+[19:19:49] 	 recherche domaine pour : naizin_brutes.csv
+[19:19:49] 		 Trouvé domaine  : C:\Naizin\
+[19:19:49] 	 Recherche de schema pour : C:\Naizin\
+[19:19:49] 	 Admin deja connecte
+[19:19:49] 	 pi deja connecte
+[19:19:49] 	 La schema agrhys existe
+[19:19:49] 		 Trouvé schema  : agrhys
+[19:19:49] 	 pi deja connecte
+[19:19:49] 	 Connection Ok
+[19:19:49]  Lecture des stations pour : C:\Naizin\
+[19:19:49] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[19:19:49]  Lecture des capteurs pour : C:\Naizin\
+[19:19:49] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[19:19:49] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[19:19:50] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[19:19:50] 	 pi deja connecte
+[19:19:50] 		 Ajout de 0 nouveaux capteurs
+[19:19:50] 	 Traitement du fichier
+[19:19:50] 		 Initialisation nouveau script d'insertion
+[19:19:51] 		 Execution du script SQL
+[19:19:53] 		 Initialisation nouveau script d'insertion
+[19:19:55] 		 Execution du script SQL
+[19:19:57] 		 Initialisation nouveau script d'insertion
+[19:19:58] 		 Execution du script SQL
+[19:20:00] 		 Initialisation nouveau script d'insertion
+[19:20:01] 		 Execution du script SQL
+[19:20:03] 		 Initialisation nouveau script d'insertion
+[19:20:05] 		 Traitement du fichier fini
+[19:20:05] 		 Execution du script SQL
+[19:20:07] 		 Initialisation nouveau script d'insertion
+[19:20:07] 	 pi deja connecte
+[19:20:07] 		 Get area code : 1
+[19:20:07] 	 pi deja connecte
+[19:20:07] 		 Ajout de 0 nouvelles stations
+[19:20:07] 	 Admin deja connecte
+[19:20:07] 	 pi deja connecte
+[19:20:07] 	 La procedure _hydras_import existe
+[19:20:50] 	 Traitement fini avec succes
+[19:20:53]  Arret de traitement
+[19:20:53]  Traitement du fichier csv : C:\export\naizin_corriges.csv
+[19:20:53] 	 pi deja connecte
+[19:20:53] 	 Connection Ok
+[19:20:53] 	 Fichier C:\export\naizin_corriges.csv existant
+[19:20:53] 	 recherche domaine pour : naizin_corriges.csv
+[19:20:53] 		 Trouvé domaine  : C:\Naizin\
+[19:20:53] 	 Recherche de schema pour : C:\Naizin\
+[19:20:53] 	 Admin deja connecte
+[19:20:53] 	 pi deja connecte
+[19:20:53] 	 La schema agrhys existe
+[19:20:53] 		 Trouvé schema  : agrhys
+[19:20:53] 	 pi deja connecte
+[19:20:53] 	 Connection Ok
+[19:20:53]  Lecture des stations pour : C:\Naizin\
+[19:20:53] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[19:20:53]  Lecture des capteurs pour : C:\Naizin\
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[19:20:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[19:20:53] 	 pi deja connecte
+[19:20:53] 		 Ajout de 0 nouveaux capteurs
+[19:20:53] 	 Traitement du fichier
+[19:20:53] 		 Initialisation nouveau script d'insertion
+[19:20:55] 		 Execution du script SQL
+[19:21:00]  Demmarrage version : 0.9.9.0
+[19:21:00]  lecture de la configuration
+[19:21:00]  Rafraichissement de la configuration
+[19:21:00] 	 Activation surveillance de : C:\export
+[19:21:00] 	 Connection pour pi OK
+[19:21:00] 	 Test des domaines
+[19:21:00] 		 Domaine C:\Naizin\  -> Ok
+[19:21:00] 		 Domaine C:\EFELE\  -> Ok
+[19:21:00] 	 Connection Admin OK
+[19:21:00] 	 pi deja connecte
+[19:21:07]  Sortie de programme
+[19:21:14]  Demmarrage version : 0.9.9.0
+[19:21:14]  lecture de la configuration
+[19:21:14]  Rafraichissement de la configuration
+[19:21:15] 	 Activation surveillance de : C:\export
+[19:21:15] 	 Connection pour pi OK
+[19:21:15] 	 Test des domaines
+[19:21:15] 		 Domaine C:\Naizin\  -> Ok
+[19:21:15] 		 Domaine C:\EFELE\  -> Ok
+[19:21:15] 	 Connection Admin OK
+[19:21:15] 	 pi deja connecte
+[19:21:21]  Sortie de programme
+[19:24:04]  Demmarrage version : 0.9.9.0
+[19:24:04]  lecture de la configuration
+[19:24:04]  Rafraichissement de la configuration
+[19:24:04] 	 Activation surveillance de : C:\export
+[19:24:04] 	 Connection pour pi OK
+[19:24:04] 	 Test des domaines
+[19:24:04] 		 Domaine C:\Naizin\  -> Ok
+[19:24:04] 		 Domaine C:\EFELE\  -> Ok
+[19:24:04] 	 Connection Admin OK
+[19:24:04] 	 pi deja connecte
+[20:10:45]  Sortie de programme
+[20:11:39]  Demmarrage version : 0.9.9.0
+[20:11:39]  lecture de la configuration
+[20:11:39]  Rafraichissement de la configuration
+[20:11:40] 	 Activation surveillance de : C:\export
+[20:11:40] 	 Connection pour pi OK
+[20:11:40] 	 Test des domaines
+[20:11:40] 		 Domaine C:\Naizin\  -> Ok
+[20:11:40] 		 Domaine C:\EFELE\  -> Ok
+[20:11:40] 	 Connection Admin OK
+[20:11:40] 	 pi deja connecte
+[20:12:25]  Sortie de programme
+[20:16:11]  Demmarrage version : 0.9.9.0
+[20:16:11]  lecture de la configuration
+[20:16:11]  Rafraichissement de la configuration
+[20:16:11] 	 Activation surveillance de : C:\export
+[20:16:11] 	 Connection pour pi OK
+[20:16:11] 	 Test des domaines
+[20:16:11] 		 Domaine C:\Naizin\  -> Ok
+[20:16:11] 		 Domaine C:\EFELE\  -> Ok
+[20:16:11] 	 Connection Admin OK
+[20:16:11] 	 pi deja connecte
+[20:16:37]  Sortie de programme
+[20:16:55]  Demmarrage version : 0.9.9.0
+[20:16:55]  lecture de la configuration
+[20:16:55]  Rafraichissement de la configuration
+[20:16:55] 	 Activation surveillance de : C:\export
+[20:16:55] 	 Connection pour pi OK
+[20:16:55] 	 Test des domaines
+[20:16:55] 		 Domaine C:\Naizin\  -> Ok
+[20:16:55] 		 Domaine C:\EFELE\  -> Ok
+[20:16:55] 	 Connection Admin OK
+[20:16:55] 	 pi deja connecte
+[20:17:01]  Sortie de programme
+[20:17:49]  Demmarrage version : 0.9.9.0
+[20:17:49]  lecture de la configuration
+[20:17:49]  Rafraichissement de la configuration
+[20:17:49] 	 Activation surveillance de : C:\export
+[20:17:49] 	 Connection pour pi OK
+[20:17:49] 	 Test des domaines
+[20:17:49] 		 Domaine C:\Naizin\  -> Ok
+[20:17:49] 		 Domaine C:\EFELE\  -> Ok
+[20:17:49] 	 Connection Admin OK
+[20:17:49] 	 pi deja connecte
+[20:17:59]  Sortie de programme
+[20:18:35]  Demmarrage version : 0.9.9.0
+[20:18:35]  lecture de la configuration
+[20:18:35]  Rafraichissement de la configuration
+[20:18:36] 	 Activation surveillance de : C:\export
+[20:18:36] 	 Connection pour pi OK
+[20:18:36] 	 Test des domaines
+[20:18:36] 		 Domaine C:\Naizin\  -> Ok
+[20:18:36] 		 Domaine C:\EFELE\  -> Ok
+[20:18:36] 	 Connection Admin OK
+[20:18:36] 	 pi deja connecte
+[20:18:50]  Sortie de programme
+[20:18:58]  Demmarrage version : 0.9.9.0
+[20:18:58]  lecture de la configuration
+[20:18:58]  Rafraichissement de la configuration
+[20:18:58] 	 Activation surveillance de : C:\export
+[20:18:58] 	 Connection pour pi OK
+[20:18:58] 	 Test des domaines
+[20:18:58] 		 Domaine C:\Naizin\  -> Ok
+[20:18:58] 		 Domaine C:\EFELE\  -> Ok
+[20:18:58] 	 Connection Admin OK
+[20:18:58] 	 pi deja connecte
+[20:19:18]  Sortie de programme
+[20:19:32]  Demmarrage version : 0.9.9.0
+[20:19:32]  lecture de la configuration
+[20:19:32]  Rafraichissement de la configuration
+[20:19:32] 	 Activation surveillance de : C:\export
+[20:19:32] 	 Connection pour pi OK
+[20:19:32] 	 Test des domaines
+[20:19:32] 		 Domaine C:\Naizin\  -> Ok
+[20:19:32] 		 Domaine C:\EFELE\  -> Ok
+[20:19:32] 	 Connection Admin OK
+[20:19:32] 	 pi deja connecte
+[20:19:35] 	 Arret de la surveillance de : C:\export
+[20:19:37] 	 pi deja connecte
+[20:19:42]  Rafraichissement de la configuration
+[20:19:42] 	 Activation surveillance de : C:\export
+[20:19:42] 	 Connection pour pi OK
+[20:19:42] 	 Test des domaines
+[20:19:42] 		 Domaine C:\Naizin\  -> Ok
+[20:19:42] 		 Domaine C:\EFELE\  -> Ok
+[20:19:42] 	 Connection Admin OK
+[20:19:42] 	 pi deja connecte
+[20:19:44]  Rafraichissement de la configuration
+[20:19:44] 	 Connection pour pi OK
+[20:19:44] 	 Test des domaines
+[20:19:44] 		 Domaine C:\Naizin\  -> Ok
+[20:19:44] 		 Domaine C:\EFELE\  -> Ok
+[20:19:44] 	 Connection Admin OK
+[20:19:44] 	 pi deja connecte
+[20:19:45]  Sortie de programme
+[20:20:19]  Demmarrage version : 0.9.9.0
+[20:20:19]  lecture de la configuration
+[20:20:19]  Rafraichissement de la configuration
+[20:20:19] 	 Activation surveillance de : C:\export
+[20:20:19] 	 Connection pour pi OK
+[20:20:19] 	 Test des domaines
+[20:20:19] 		 Domaine C:\Naizin\  -> Ok
+[20:20:19] 		 Domaine C:\EFELE\  -> Ok
+[20:20:19] 	 Connection Admin OK
+[20:20:19] 	 pi deja connecte
+[20:20:36] 	 Arret de la surveillance de : C:\export
+[20:20:38] 	 pi deja connecte
+[20:20:40]  Rafraichissement de la configuration
+[20:20:40] 	 Activation surveillance de : C:\export
+[20:20:40] 	 Connection pour pi OK
+[20:20:40] 	 Test des domaines
+[20:20:40] 		 Domaine C:\Naizin\  -> Ok
+[20:20:40] 		 Domaine C:\EFELE\  -> Ok
+[20:20:40] 	 Connection Admin OK
+[20:20:40] 	 pi deja connecte
+[20:20:43]  Rafraichissement de la configuration
+[20:20:43] 	 Connection pour pi OK
+[20:20:43] 	 Test des domaines
+[20:20:43] 		 Domaine C:\Naizin\  -> Ok
+[20:20:43] 		 Domaine C:\EFELE\  -> Ok
+[20:20:43] 	 Connection Admin OK
+[20:20:43] 	 pi deja connecte
+[20:20:50]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[20:20:50] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[20:20:53]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[20:20:53] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[20:20:55]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[20:20:55] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[20:20:57]  lecture de la configuration
+[20:20:57]  Rafraichissement de la configuration
+[20:20:57] 	 Connection pour pi OK
+[20:20:57] 	 Test des domaines
+[20:20:57] 		 Domaine C:\Naizin\  -> Ok
+[20:20:57] 		 Domaine C:\EFELE\  -> Ok
+[20:20:58] 	 Connection Admin OK
+[20:20:58] 	 pi deja connecte
+[20:21:22]  Sortie de programme
+[20:22:44]  Demmarrage version : 0.9.9.0
+[20:22:44]  lecture de la configuration
+[20:22:44]  Rafraichissement de la configuration
+[20:22:44] 	 Activation surveillance de : C:\export
+[20:22:44] 	 Connection pour pi OK
+[20:22:44] 	 Test des domaines
+[20:22:44] 		 Domaine C:\Naizin\  -> Ok
+[20:22:44] 		 Domaine C:\EFELE\  -> Ok
+[20:22:44] 	 Connection Admin OK
+[20:22:44] 	 pi deja connecte
+[20:23:34]  Sortie de programme
+[20:27:53]  Demmarrage version : 0.9.9.0
+[20:27:53]  lecture de la configuration
+[20:27:53]  Rafraichissement de la configuration
+[20:27:54] 	 Activation surveillance de : C:\export
+[20:27:54] 	 Connection pour pi OK
+[20:27:54] 	 Test des domaines
+[20:27:54] 		 Domaine C:\Naizin\  -> Ok
+[20:27:54] 		 Domaine C:\EFELE\  -> Ok
+[20:27:54] 	 Connection Admin OK
+[20:27:54] 	 pi deja connecte
+[20:28:20]  Sortie de programme
+[20:29:07]  Demmarrage version : 0.9.9.0
+[20:29:07]  lecture de la configuration
+[20:29:07]  Rafraichissement de la configuration
+[20:29:07] 	 Activation surveillance de : C:\export
+[20:29:07] 	 Connection pour pi OK
+[20:29:07] 	 Test des domaines
+[20:29:07] 		 Domaine C:\Naizin\  -> Ok
+[20:29:07] 		 Domaine C:\EFELE\  -> Ok
+[20:29:07] 	 Connection Admin OK
+[20:29:07] 	 pi deja connecte
+[20:29:33]  Sortie de programme
+[20:31:00]  Demmarrage version : 0.9.9.0
+[20:31:00]  lecture de la configuration
+[20:31:00]  Rafraichissement de la configuration
+[20:31:00] 	 Activation surveillance de : C:\export
+[20:31:00] 	 Connection pour pi OK
+[20:31:00] 	 Test des domaines
+[20:31:00] 		 Domaine C:\Naizin\  -> Ok
+[20:31:00] 		 Domaine C:\EFELE\  -> Ok
+[20:31:01] 	 Connection Admin OK
+[20:31:01] 	 pi deja connecte
+[20:31:35] 	 Arret de la surveillance de : C:\export
+[20:31:37]  lecture de la configuration
+[20:31:37]  Rafraichissement de la configuration
+[20:31:37] 	 Activation surveillance de : C:\export
+[20:31:38] 	 Connection pour pi OK
+[20:31:38] 	 Test des domaines
+[20:31:38] 		 Domaine C:\Naizin\  -> Ok
+[20:31:38] 		 Domaine C:\EFELE\  -> Ok
+[20:31:38] 	 Connection Admin OK
+[20:31:38] 	 pi deja connecte
+[20:31:49]  Sortie de programme

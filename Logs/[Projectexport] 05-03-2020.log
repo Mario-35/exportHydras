@@ -1,0 +1,1023 @@
+[14:16:06] Demmarrage : 0.9.9.0
+[14:16:06] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[14:16:06] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Nouveau
+	Reinitialisation du timer
+	Timer active : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:09] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:10] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:11] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:11] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:11] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:11] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:11] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:12] Fichier : C:\export\Naizin_brutes.csv; Modification
+	Reinitialisation du timer
+	Timer active : True
+[14:17:42] Activite termine 
+		Deconnection de tous les utilisateurs
+	Tentative de connection Admin: 
+			Deconnection(s) Ok
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+[14:17:42] Traitement du fichier csv : C:\export\Naizin_brutes.csv
+	Verification existance du fichier
+[14:17:42] recherche domaine pour : Naizin_brutes.csv
+	Trouvé domaine  : Naizin
+[14:17:42] Recherche de schema pour : Naizin
+	Tentative de connection : 
+		deja connecte
+	Trouvé Schema  : agrhys
+[14:17:42] Connection au domaine : Naizin
+	Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Table deja ouverte
+	Connection au domaine Ok
+[14:17:42] Lecture des stations
+	Ouverture de la table : C:\Naizin\GB_DATEI.DB
+	Ouverture de la table OK
+	Root open
+	Ouverture de la table : C:\Naizin\GBM_02.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_03.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_01.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_04.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_06.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+	Ouverture de la table OK
+	Mise a jeur de stations pour agrhys
+	Tentative de connection : 
+		deja connecte
+		Ajout de 0 stations
+	Tentative de connection : 
+		deja connecte
+	Calcul du tampon
+	Initialisation du fichier
+	Traitement du fichier
+	Traitement OK
+	Creation du fichier ZIP : C:\exporttest.zip
+		Ajout du fichier: C:\export\Naizin_brutes.csv
+[14:19:57] Fichier : C:\export\test.zip; Nouveau
+	Timer active : False
+[14:19:57] Fichier : C:\export\test.zip; Modification
+	Timer active : False
+[14:19:57] Fichier : C:\export\test.zip; Modification
+	Timer active : False
+[14:19:57] Fichier : C:\export\test.zip; Modification
+	Timer active : False
+[14:24:12] Demmarrage : 0.9.9.0
+[14:24:12] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[14:24:12] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[14:24:18] Sortie de programme
+[15:21:27] Demmarrage : 0.9.9.0
+[15:21:27] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:21:27] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:26:51] Sortie de programme
+[15:27:52] Demmarrage : 0.9.9.0
+[15:27:52] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:27:52] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:27:54] Sortie de programme
+[15:30:18] Demmarrage : 0.9.9.0
+[15:30:18] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:30:18] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:30:20] Sortie de programme
+[15:52:27] Demmarrage : 0.9.9.0
+[15:52:27] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:52:27] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:53:06] lecture de la configuration : C:\ExportHydras\config.ini
+[15:53:06] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+			Table deja ouverte
+		resultat : True
+[15:53:08] Sortie de programme
+[15:53:37] Demmarrage : 0.9.9.0
+[15:53:37] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:53:37] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+		Deconnection de tous les utilisateurs
+	Tentative de connection Admin: 
+			Deconnection(s) Ok
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+[15:53:42] Traitement du fichier csv : C:\export\Naizin_brutes.csv
+	Verification existance du fichier
+[15:53:42] recherche domaine pour : Naizin_brutes.csv
+	Trouvé domaine  : Naizin
+[15:53:42] Recherche de schema pour : Naizin
+	Tentative de connection : 
+		deja connecte
+	Trouvé Schema  : agrhys
+[15:53:43] Connection au domaine : Naizin
+	Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Table deja ouverte
+	Connection au domaine Ok
+[15:53:43] Lecture des stations
+	Ouverture de la table : C:\Naizin\GB_DATEI.DB
+	Ouverture de la table OK
+	Root open
+	Ouverture de la table : C:\Naizin\GBM_02.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_03.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_01.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_04.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_06.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+	Ouverture de la table OK
+	Mise a jeur de stations pour agrhys
+	Tentative de connection : 
+		deja connecte
+		Ajout de 0 stations
+	Tentative de connection : 
+		deja connecte
+	Calcul du tampon
+	Initialisation du fichier
+	Traitement du fichier
+	Traitement OK
+	Creation du fichier ZIP : C:\exporttest.zip
+		Ajout du fichier: C:\export\Naizin_brutes.csv
+		Exception: Access violation at address 754CA41C in module 'windows.storage.dll'. Read of address EF940062
+[15:56:10] Fichier : C:\export\test.zip; Modification
+	Timer active : False
+[15:56:10] Fichier : C:\export\test.zip; Modification
+	Timer active : False
+[15:56:10] Fichier : C:\export\test.zip; Modification
+	Timer active : False
+[15:56:10] Fichier : C:\export\test.zip; Modification
+	Timer active : False
+[16:01:57] Demmarrage : 0.9.9.0
+[16:01:57] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[16:01:57] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[16:02:11] Sortie de programme
+[16:02:22] Demmarrage : 0.9.9.0
+[16:02:22] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[16:02:22] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+		Deconnection de tous les utilisateurs
+	Tentative de connection Admin: 
+			Deconnection(s) Ok
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+[16:02:30] Traitement du fichier csv : C:\export\Naizin_brutes.csv
+	Verification existance du fichier
+[16:02:30] recherche domaine pour : Naizin_brutes.csv
+	Trouvé domaine  : Naizin
+[16:02:30] Recherche de schema pour : Naizin
+	Tentative de connection : 
+		deja connecte
+	Trouvé Schema  : agrhys
+[16:02:30] Connection au domaine : Naizin
+	Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Table deja ouverte
+	Connection au domaine Ok
+[16:02:30] Lecture des stations
+	Ouverture de la table : C:\Naizin\GB_DATEI.DB
+	Ouverture de la table OK
+	Root open
+	Ouverture de la table : C:\Naizin\GBM_02.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_03.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_01.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_04.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_06.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+	Ouverture de la table OK
+	Mise a jeur de stations pour agrhys
+	Tentative de connection : 
+		deja connecte
+		Ajout de 0 stations
+	Tentative de connection : 
+		deja connecte
+	Calcul du tampon
+	Initialisation du fichier
+	Traitement du fichier
+	Traitement OK
+	Creation du fichier ZIP : C:\exporttest.zip
+		Ajout du fichier: C:\export\Naizin_brutes.csv
+		Suppression du fichier : C:\export\Naizin_brutes.csv
+[16:04:47] Fichier : C:\export\test.zip; Modification
+	Timer active : False
+[16:04:47] Fichier : C:\export\test.zip; Modification
+	Timer active : False
+[16:04:47] Fichier : C:\export\test.zip; Modification
+	Timer active : False
+[16:04:47] Fichier : C:\export\Naizin_brutes.csv; Deplacement
+	Reinitialisation du timer
+	Timer active : True
+[16:04:47] Fichier : C:\export\test.zip; Modification
+	Timer active : True
+[16:15:11] Demmarrage : 0.9.9.0
+[16:15:11] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[16:15:11] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[16:15:39] Sortie de programme
+[16:16:08] Demmarrage : 0.9.9.0
+[16:16:08] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[16:16:08] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[16:16:18] Sortie de programme
+[16:20:29] Demmarrage : 0.9.9.0
+[16:20:29] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[16:20:29] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+	Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Table deja ouverte
+[16:20:51] Sortie de programme
+[16:21:39] Demmarrage : 0.9.9.0
+[16:21:39] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[16:21:39] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[16:21:41] Sortie de programme
+[16:22:37] Demmarrage : 0.9.9.0
+[16:22:37] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[16:22:37] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[16:23:02] Fichier : C:\export\Naizin_brutes.csv; Ancien nom
+	Reinitialisation du timer
+	Timer active : True
+[16:23:02] Fichier : C:\export\Naizin_brute.csv; Nouveau nom
+	Reinitialisation du timer
+	Timer active : True
+[16:23:29] Demmarrage : 0.9.9.0
+[16:23:29] lecture de la configuration : C:\ExportHydras\config.ini
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[16:23:29] Rafraichissement de la configuration
+	Test de connection :
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+	Tentative de connection : 
+		deja connecte
+	Test des domaines
+		Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[16:23:43] Fichier : C:\export\Naizin_brute.csv; Ancien nom
+	Reinitialisation du timer
+	Timer active : True
+[16:23:43] Fichier : C:\export\Naizin_brutes.csv; Nouveau nom
+	Reinitialisation du timer
+	Timer active : True
+[16:24:13] Activite termine 
+		Deconnection de tous les utilisateurs
+	Tentative de connection Admin: 
+			Deconnection(s) Ok
+	Tentative de connection : 
+		HostName : 138.102.159.39
+		Port : 5432
+		User : adminpg
+		Database : agrhys_dev
+[16:24:13] Traitement du fichier csv : C:\export\Naizin_brutes.csv
+	Verification existance du fichier
+[16:24:13] recherche domaine pour : Naizin_brutes.csv
+	Trouvé domaine  : Naizin
+[16:24:13] Recherche de schema pour : Naizin
+	Tentative de connection : 
+		deja connecte
+	Trouvé Schema  : agrhys
+[16:24:13] Connection au domaine : Naizin
+	Ouverture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Table deja ouverte
+	Connection au domaine Ok
+[16:24:13] Lecture des stations
+	Ouverture de la table : C:\Naizin\GB_DATEI.DB
+	Ouverture de la table OK
+	Root open
+	Ouverture de la table : C:\Naizin\GBM_02.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_03.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_01.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_04.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GBM_06.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+	Ouverture de la table OK
+	Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+	Ouverture de la table OK
+	Mise a jeur de stations pour agrhys
+	Tentative de connection : 
+		deja connecte
+		Ajout de 0 stations
+	Tentative de connection : 
+		deja connecte
+	Calcul du tampon
+	Initialisation du fichier
+	Traitement du fichier
+	Traitement OK
+	Creation du fichier ZIP : C:\export\import [05-03-2020-16-26-32].zip
+		Ajout du fichier: C:\export\Naizin_brutes.csv
+		Suppression du fichier : C:\export\Naizin_brutes.csv
+[16:26:33] Fichier : C:\export\import [05-03-2020-16-26-32].zip; Nouveau
+	Timer active : False
+[16:26:33] Fichier : C:\export\import [05-03-2020-16-26-32].zip; Modification
+	Timer active : False
+[16:26:33] Fichier : C:\export\import [05-03-2020-16-26-32].zip; Modification
+	Timer active : False
+[16:26:33] Fichier : C:\export\Naizin_brutes.csv; Deplacement
+	Reinitialisation du timer
+	Timer active : True
+[16:26:33] Fichier : C:\export\import [05-03-2020-16-26-32].zip; Modification
+	Timer active : True
+[16:27:03] Activite termine 
+	Creation du fichier ZIP : C:\export\import [05-03-2020-16-27-03].zip
+[16:27:03] Fichier : C:\export\import [05-03-2020-16-27-03].zip; Nouveau
+	Timer active : False
+[16:27:03] Fichier : C:\export\import [05-03-2020-16-27-03].zip; Modification
+	Timer active : False

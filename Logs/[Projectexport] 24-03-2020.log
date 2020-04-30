@@ -1,0 +1,1484 @@
+[17:21:36]  Demmarrage : 0.9.9.0
+[17:21:36]  lecture de la configuration
+[17:21:36]  Rafraichissement de la configuration
+[17:21:36] 	 Activation surveillance de : C:\export
+[17:21:36] 	 Tentative de connection
+[17:21:36] 		 Connection OK
+[17:21:36] 	 Tentative de connection
+[17:21:36] 		 Deja connecte
+[17:21:36] 	 Test des domaines
+[17:21:36] 		 C:\Naizin\ OK
+[17:21:36] 		 C:\EFELE\ OK
+[17:21:36] 	 Resultat : True
+[17:22:39]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[17:22:39] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[17:22:39]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[17:22:39]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[17:22:39]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[17:22:39]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[17:22:40]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[17:22:50] 	 Arret de la surveillance de : C:\export
+[17:22:50] 	 Start from Timer
+[17:22:50]  Lancement du traitement automatique
+[17:22:50]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[17:22:50] 	 Mode Automatique
+[17:22:50] 	 Tentative de connection
+[17:22:50] 		 Deja connecte
+[17:22:50] 	 Connection Ok
+[17:22:50] 	 Fichier C:\export\ExportHydrasEFELE.csv existant
+[17:22:50] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[17:22:50] 		 Trouvé domaine  : C:\EFELE\
+[17:22:50] 	 Domaine : C:\EFELE\
+[17:22:50]  Recherche de schema pour : C:\EFELE\
+[17:22:50] 	 Tentative de connection
+[17:22:50] 		 Deja connecte
+[17:22:50] 	 Trouvé Schema  : efele
+[17:22:50]  Lecture des stations pour : C:\EFELE\
+[17:22:50] 	 Tentative de connection
+[17:22:50] 		 Deja connecte
+[17:22:50] 	 Ouverture de la table : C:\EFELE\GB_DATEI.DB
+[17:22:50] 	 Root open
+[17:22:50] 	 Ouverture de la table : C:\EFELE\GBM_00.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P3\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P4\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P5\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P7\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P8\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P9\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\TSMO_B_P.10\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\EFEL_B_M.ET\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P1\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P2\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\GBM_01.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P3\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P4\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P5\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P7\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P8\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P9\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\TSMO_C_P.10\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\EFEL_C_M.ET\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P1\SS_DATEI.DB
+[17:22:50] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P2\SS_DATEI.DB
+[17:22:50] 	 Mise a jour de stations pour efele
+[17:22:50] 	 Tentative de connection
+[17:22:50] 		 Deja connecte
+[17:22:50] 		 Ajout de 0 stations
+[17:22:50] 	 Mise a jour des stations / capteurs
+[17:22:50] 	 Tentative de connection
+[17:22:50] 		 Deja connecte
+[17:22:50] 	 Traitement du fichier
+[17:22:50] 		 Initialisation nouveau fichier d'insertion
+[17:22:51] 		 Traitement du fichier fini
+[17:22:51] 		 Execution du script SQL
+[17:22:53] 		 Initialisation nouveau fichier d'insertion
+[17:22:54] 	 Traitement fini avec succes
+[17:22:54] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-17-22-54].zip
+[17:22:54] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[17:23:00] 	 Start from Timer
+[17:23:00]  Lancement du traitement automatique
+[17:23:00]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[17:23:00] 	 Mode Automatique
+[17:23:00] 	 Tentative de connection
+[17:23:00] 		 Deja connecte
+[17:23:00] 	 Connection Ok
+[17:23:00] 	 Sortie de l'execution
+[17:23:00] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[17:23:00] 		 Trouvé domaine  : C:\EFELE\
+[17:23:00] 	 Domaine : C:\EFELE\
+[17:23:00]  Recherche de schema pour : C:\EFELE\
+[17:23:00] 	 Impossible de se connecter à la base de donnée
+[17:23:00] 	 Sortie de l'execution
+[17:23:00]  Lecture des stations pour : C:\EFELE\
+[17:23:00] 	 Impossible de se connecter à la base de donnée
+[17:23:00] 	 Mise a jour de stations pour 
+[17:23:00] 	 Sortie de l'execution
+[17:23:00] 	 Sortie de l'execution
+[17:23:00] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-17-23-00].zip
+[17:23:00] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[17:27:00]  Demmarrage : 0.9.9.0
+[17:27:00]  lecture de la configuration
+[17:27:00]  Rafraichissement de la configuration
+[17:27:00] 	 Activation surveillance de : C:\export
+[17:27:00] 	 Tentative de connection
+[17:27:00] 		 Connection OK
+[17:27:00] 	 Tentative de connection
+[17:27:00] 		 Deja connecte
+[17:27:00] 	 Test des domaines
+[17:27:00] 		 C:\Naizin\ OK
+[17:27:00] 		 C:\EFELE\ OK
+[17:27:00] 	 Resultat : True
+[17:46:57]  Demmarrage : 0.9.9.0
+[17:46:57]  lecture de la configuration
+[17:46:57]  Rafraichissement de la configuration
+[17:46:57] 	 Activation surveillance de : C:\export
+[17:46:57] 	 Tentative de connection
+[17:46:57] 		 Connection OK
+[17:46:57] 	 Tentative de connection
+[17:46:57] 		 Deja connecte
+[17:46:57] 	 Test des domaines
+[17:46:57] 		 C:\Naizin\ OK
+[17:46:57] 		 C:\EFELE\ OK
+[17:46:57] 	 Resultat : True
+[17:47:00] 	 Arret de la surveillance de : C:\export
+[17:47:09]  Rafraichissement de la configuration
+[17:47:09] 	 Activation surveillance de : C:\export
+[17:47:09] 	 Tentative de connection
+[17:47:09] 		 Connection OK
+[17:47:09] 	 Tentative de connection
+[17:47:09] 		 Deja connecte
+[17:47:09] 	 Test des domaines
+[17:47:09] 		 C:\Naizin\ OK
+[17:47:09] 		 C:\EFELE\ OK
+[17:47:09] 	 Resultat : True
+[17:47:10]  Sortie de programme
+[17:47:42]  Demmarrage : 0.9.9.0
+[17:47:42]  lecture de la configuration
+[17:47:42]  Rafraichissement de la configuration
+[17:47:42] 	 Activation surveillance de : C:\export
+[17:47:42] 	 Tentative de connection
+[17:47:42] 		 Connection OK
+[17:47:42] 	 Tentative de connection
+[17:47:42] 		 Deja connecte
+[17:47:42] 	 Test des domaines
+[17:47:42] 		 C:\Naizin\ OK
+[17:47:42] 		 C:\EFELE\ OK
+[17:47:42] 	 Resultat : True
+[17:47:52]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[17:47:52] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[17:47:52]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[17:47:57] 	 Arret de la surveillance de : C:\export
+[17:48:02] 	 Start from Timer
+[17:48:02]  Lancement du traitement automatique
+[17:48:02]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[17:48:02] 	 Mode Automatique
+[17:48:02] 	 Tentative de connection
+[17:48:02] 		 Deja connecte
+[17:48:02] 	 Connection Ok
+[17:48:02] 	 Fichier C:\export\ExportHydrasEFELE.csv existant
+[17:48:02] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[17:48:02] 		 Trouvé domaine  : C:\EFELE\
+[17:48:02] 	 Domaine : C:\EFELE\
+[17:48:02]  Recherche de schema pour : C:\EFELE\
+[17:48:02] 	 Tentative de connection
+[17:48:02] 		 Deja connecte
+[17:48:02] 	 Trouvé Schema  : efele
+[17:48:02]  Lecture des stations pour : C:\EFELE\
+[17:48:02] 	 Tentative de connection
+[17:48:02] 		 Deja connecte
+[17:48:02] 	 Ouverture de la table : C:\EFELE\GB_DATEI.DB
+[17:48:02] 	 Root open
+[17:48:02] 	 Ouverture de la table : C:\EFELE\GBM_00.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P3\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P4\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P5\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P7\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P8\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P9\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\TSMO_B_P.10\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\EFEL_B_M.ET\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P1\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P2\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\GBM_01.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P3\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P4\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P5\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P7\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P8\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P9\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\TSMO_C_P.10\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\EFEL_C_M.ET\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P1\SS_DATEI.DB
+[17:48:02] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P2\SS_DATEI.DB
+[17:48:02] 	 Mise a jour de stations pour efele
+[17:48:02] 	 Tentative de connection
+[17:48:02] 		 Deja connecte
+[17:48:02] 		 Ajout de 0 stations
+[17:48:02] 	 Mise a jour des stations / capteurs
+[17:48:02] 	 Tentative de connection
+[17:48:02] 		 Deja connecte
+[17:48:02] 	 Traitement du fichier
+[17:48:02] 		 Initialisation nouveau fichier d'insertion
+[17:48:03] 		 Traitement du fichier fini
+[17:48:03] 		 Execution du script SQL
+[17:48:06] 		 Initialisation nouveau fichier d'insertion
+[17:48:06] 	 Traitement fini avec succes
+[17:48:06] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-17-48-06].zip
+[17:48:06] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[17:48:10]  sauvegarde de la configuration
+[17:48:10]  Rafraichissement de la configuration
+[17:48:10] 	 Activation surveillance de : C:\export
+[17:48:10] 	 Tentative de connection
+[17:48:10] 		 Connection OK
+[17:48:10] 	 Tentative de connection
+[17:48:10] 		 Deja connecte
+[17:48:10] 	 Test des domaines
+[17:48:10] 		 C:\Naizin\ OK
+[17:48:10] 		 C:\EFELE\ OK
+[17:48:10] 	 Resultat : True
+[17:48:12] 	 Start from Timer
+[17:48:12] 	 Arret de la surveillance de : C:\export
+[17:48:12]  Lancement du traitement automatique
+[17:48:12]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[17:48:12] 	 Mode Automatique
+[17:48:12] 	 Tentative de connection
+[17:48:12] 		 Deja connecte
+[17:48:12] 	 Connection Ok
+[17:48:12] 	 Sortie de l'execution
+[17:48:12] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[17:48:12] 		 Trouvé domaine  : C:\EFELE\
+[17:48:12] 	 Domaine : C:\EFELE\
+[17:48:12]  Recherche de schema pour : C:\EFELE\
+[17:48:12] 	 Impossible de se connecter à la base de donnée
+[17:48:12] 	 Sortie de l'execution
+[17:48:12]  Lecture des stations pour : C:\EFELE\
+[17:48:12] 	 Impossible de se connecter à la base de donnée
+[17:48:12] 	 Mise a jour de stations pour 
+[17:48:12] 	 Sortie de l'execution
+[17:48:12] 	 Sortie de l'execution
+[17:48:12] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-17-48-12].zip
+[17:48:12] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[17:48:22] 	 Start from Timer
+[17:48:22]  Lancement du traitement automatique
+[17:48:22]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[17:48:22] 	 Mode Automatique
+[17:48:22] 	 Tentative de connection
+[17:48:22] 		 Deja connecte
+[17:48:22] 	 Connection Ok
+[17:48:22] 	 Sortie de l'execution
+[17:48:22] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[17:48:22] 		 Trouvé domaine  : C:\EFELE\
+[17:48:22] 	 Domaine : C:\EFELE\
+[17:48:22]  Recherche de schema pour : C:\EFELE\
+[17:48:22] 	 Impossible de se connecter à la base de donnée
+[17:48:22] 	 Sortie de l'execution
+[17:48:22]  Lecture des stations pour : C:\EFELE\
+[17:48:22] 	 Impossible de se connecter à la base de donnée
+[17:48:22] 	 Mise a jour de stations pour 
+[17:48:22] 	 Sortie de l'execution
+[17:48:22] 	 Sortie de l'execution
+[17:48:22] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-17-48-22].zip
+[17:48:22] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[17:48:32] 	 Start from Timer
+[17:48:32]  Lancement du traitement automatique
+[17:48:32]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[17:48:32] 	 Mode Automatique
+[17:48:32] 	 Tentative de connection
+[17:48:32] 		 Deja connecte
+[17:48:32] 	 Connection Ok
+[17:48:32] 	 Fichier C:\export\ExportHydrasEFELE.csv existant
+[17:48:32] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[17:48:32] 		 Trouvé domaine  : C:\EFELE\
+[17:48:32] 	 Domaine : C:\EFELE\
+[17:48:32]  Recherche de schema pour : C:\EFELE\
+[17:48:32] 	 Tentative de connection
+[17:48:32] 		 Deja connecte
+[17:48:32] 	 Trouvé Schema  : efele
+[17:48:32]  Lecture des stations pour : C:\EFELE\
+[17:48:32] 	 Tentative de connection
+[17:48:32] 		 Deja connecte
+[17:48:32] 	 Ouverture de la table : C:\EFELE\GB_DATEI.DB
+[17:48:32] 	 Root open
+[17:48:32] 	 Ouverture de la table : C:\EFELE\GBM_00.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P3\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P4\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P5\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P7\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P8\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P9\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\TSMO_B_P.10\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\EFEL_B_M.ET\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P1\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P2\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\GBM_01.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P3\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P4\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P5\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P7\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P8\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P9\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\TSMO_C_P.10\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\EFEL_C_M.ET\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P1\SS_DATEI.DB
+[17:48:32] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P2\SS_DATEI.DB
+[17:48:32] 	 Mise a jour de stations pour efele
+[17:48:32] 	 Tentative de connection
+[17:48:32] 		 Deja connecte
+[17:48:32] 		 Ajout de 0 stations
+[17:48:32] 	 Mise a jour des stations / capteurs
+[17:48:32] 	 Tentative de connection
+[17:48:32] 		 Deja connecte
+[17:48:32] 	 Traitement du fichier
+[17:48:32] 		 Initialisation nouveau fichier d'insertion
+[17:48:33] 		 Traitement du fichier fini
+[17:48:33] 		 Execution du script SQL
+[17:48:36] 		 Initialisation nouveau fichier d'insertion
+[17:48:36] 	 Traitement fini avec succes
+[17:48:36] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-17-48-36].zip
+[17:48:36] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[17:48:48]  Demmarrage : 0.9.9.0
+[17:48:48]  lecture de la configuration
+[17:48:48]  Rafraichissement de la configuration
+[17:48:48] 	 Activation surveillance de : C:\export
+[17:48:48] 	 Tentative de connection
+[17:48:48] 		 Connection OK
+[17:48:48] 	 Tentative de connection
+[17:48:48] 		 Deja connecte
+[17:48:48] 	 Test des domaines
+[17:48:48] 		 C:\Naizin\ OK
+[17:48:48] 		 C:\EFELE\ OK
+[17:48:48] 	 Resultat : True
+[17:48:51] 	 Arret de la surveillance de : C:\export
+[18:23:58]  Demmarrage : 0.9.9.0
+[18:23:58]  lecture de la configuration
+[18:23:58]  Rafraichissement de la configuration
+[18:23:58] 	 Activation surveillance de : C:\export
+[18:23:58] 	 Tentative de connection
+[18:23:58] 		 Connection OK
+[18:23:58] 	 Tentative de connection
+[18:23:58] 		 Deja connecte
+[18:23:58] 	 Test des domaines
+[18:23:58] 		 C:\Naizin\ OK
+[18:23:58] 		 C:\EFELE\ OK
+[18:23:58] 	 Resultat : True
+[18:24:02] 	 Arret de la surveillance de : C:\export
+[18:24:04]  Lecture des stations pour : C:\Naizin\
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[18:24:04] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[18:24:05] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[18:24:11]  lecture de la configuration
+[18:24:11]  Rafraichissement de la configuration
+[18:24:11] 	 Activation surveillance de : C:\export
+[18:24:11] 	 Tentative de connection
+[18:24:11] 		 Connection OK
+[18:24:11] 	 Tentative de connection
+[18:24:11] 		 Deja connecte
+[18:24:11] 	 Test des domaines
+[18:24:11] 		 C:\Naizin\ OK
+[18:24:11] 		 C:\EFELE\ OK
+[18:24:11] 	 Resultat : True
+[18:24:23] 	 Arret de la surveillance de : C:\export
+[18:25:28]  sauvegarde de la configuration
+[18:25:28]  Rafraichissement de la configuration
+[18:25:28] 	 Tentative de connection
+[18:25:28] 		 Connection OK
+[18:25:28] 	 Tentative de connection
+[18:25:28] 		 Deja connecte
+[18:25:28] 	 Test des domaines
+[18:25:28] 		 C:\Naizin\ OK
+[18:25:28] 		 C:\EFELE\ OK
+[18:25:28] 	 Resultat : True
+[18:25:32]  Sortie de programme
+[18:25:34]  Demmarrage : 0.9.9.0
+[18:25:34]  lecture de la configuration
+[18:25:34]  Rafraichissement de la configuration
+[18:25:35] 	 Tentative de connection
+[18:25:35] 		 Connection OK
+[18:25:35] 	 Tentative de connection
+[18:25:35] 		 Deja connecte
+[18:25:35] 	 Test des domaines
+[18:25:35] 		 C:\Naizin\ OK
+[18:25:35] 		 C:\EFELE\ OK
+[18:25:35] 	 Resultat : True
+[18:25:54]  Rafraichissement de la configuration
+[18:25:54] 	 Tentative de connection
+[18:25:54] 		 Connection OK
+[18:25:54] 	 Tentative de connection
+[18:25:54] 		 Deja connecte
+[18:25:54] 	 Test des domaines
+[18:25:54] 		 C:\Naizin\ OK
+[18:25:54] 		 C:\EFELE\ OK
+[18:25:54] 	 Resultat : True
+[18:25:55]  Sortie de programme
+[18:28:14]  Demmarrage : 0.9.9.0
+[18:28:14]  lecture de la configuration
+[18:28:14]  Rafraichissement de la configuration
+[18:28:14] 	 Tentative de connection
+[18:28:14] 		 Connection OK
+[18:28:14] 	 Tentative de connection
+[18:28:14] 		 Deja connecte
+[18:28:14] 	 Test des domaines
+[18:28:14] 		 C:\Naizin\ OK
+[18:28:14] 		 C:\EFELE\ OK
+[18:28:14] 	 Resultat : True
+[18:28:36]  Rafraichissement de la configuration
+[18:28:36] 	 Tentative de connection
+[18:28:36] 		 Connection OK
+[18:28:36] 	 Tentative de connection
+[18:28:36] 		 Deja connecte
+[18:28:36] 	 Test des domaines
+[18:28:36] 		 C:\Naizin\ OK
+[18:28:36] 		 C:\EFELE\ OK
+[18:28:36] 	 Resultat : True
+[18:28:37]  Sortie de programme
+[18:29:36]  Demmarrage : 0.9.9.0
+[18:29:36]  lecture de la configuration
+[18:29:36]  Rafraichissement de la configuration
+[18:29:37] 	 Tentative de connection
+[18:29:37] 		 Connection OK
+[18:29:37] 	 Tentative de connection
+[18:29:37] 		 Deja connecte
+[18:29:37] 	 Test des domaines
+[18:29:37] 		 C:\Naizin\ OK
+[18:29:37] 		 C:\EFELE\ OK
+[18:29:37] 	 Resultat : True
+[18:29:56]  Lancement du traitement manuel
+[18:29:56]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[18:29:56] 	 Mode manuel
+[18:29:56] 	 Tentative de connection
+[18:29:56] 		 Deja connecte
+[18:29:56] 	 Connection Ok
+[18:29:56] 	 Fichier C:\export\ExportHydrasEFELE.csv existant
+[18:29:56] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[18:29:56] 		 Trouvé domaine  : C:\EFELE\
+[18:29:56] 	 Domaine : C:\EFELE\
+[18:29:56]  Recherche de schema pour : C:\EFELE\
+[18:29:56] 	 Tentative de connection
+[18:29:56] 		 Deja connecte
+[18:29:56] 	 Trouvé Schema  : efele
+[18:29:56]  Lecture des stations pour : C:\EFELE\
+[18:29:56] 	 Tentative de connection
+[18:29:56] 		 Deja connecte
+[18:29:56] 	 Ouverture de la table : C:\EFELE\GB_DATEI.DB
+[18:29:56] 	 Root open
+[18:29:56] 	 Ouverture de la table : C:\EFELE\GBM_00.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P3\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P4\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P5\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P7\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P8\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P9\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\TSMO_B_P.10\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\EFEL_B_M.ET\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P1\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P2\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\GBM_01.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P3\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P4\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P5\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P7\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P8\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P9\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\TSMO_C_P.10\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\EFEL_C_M.ET\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P1\SS_DATEI.DB
+[18:29:56] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P2\SS_DATEI.DB
+[18:29:56] 	 Mise a jour de stations pour efele
+[18:29:56] 	 Tentative de connection
+[18:29:56] 		 Deja connecte
+[18:29:56] 		 Ajout de 0 stations
+[18:29:56] 	 Mise a jour des stations / capteurs
+[18:29:56] 	 Tentative de connection
+[18:29:56] 		 Deja connecte
+[18:29:56] 	 Traitement du fichier
+[18:29:56] 		 Initialisation nouveau fichier d'insertion
+[18:29:57] 		 Traitement du fichier fini
+[18:29:57] 		 Execution du script SQL
+[18:30:00] 		 Initialisation nouveau fichier d'insertion
+[18:30:00] 	 Tentative de connection
+[18:30:00] 		 Deja connecte
+[18:30:06] 	 Traitement fini avec succes
+[18:30:06] 	 Creation du fichier ZIP : \import [24-03-2020-18-30-06].zip
+[18:30:06] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[18:31:08]  Lecture des stations pour : C:\Naizin\
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[18:31:08] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[18:32:05]  Rafraichissement de la configuration
+[18:32:05] 	 Tentative de connection
+[18:32:05] 		 Connection OK
+[18:32:05] 	 Tentative de connection
+[18:32:05] 		 Deja connecte
+[18:32:05] 	 Test des domaines
+[18:32:05] 		 C:\Naizin\ OK
+[18:32:05] 		 C:\EFELE\ OK
+[18:32:05] 	 Resultat : True
+[18:32:23]  Sortie de programme
+[18:35:48]  Demmarrage : 0.9.9.0
+[18:35:48]  lecture de la configuration
+[18:35:48]  Rafraichissement de la configuration
+[18:35:49] 	 Tentative de connection
+[18:35:49] 		 Connection OK
+[18:35:49] 	 Tentative de connection
+[18:35:49] 		 Deja connecte
+[18:35:49] 	 Test des domaines
+[18:35:49] 		 C:\Naizin\ OK
+[18:35:49] 		 C:\EFELE\ OK
+[18:35:49] 	 Resultat : True
+[18:35:54]  Lecture des stations pour : C:\Naizin\
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[18:35:54] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[18:36:00]  sauvegarde de la configuration
+[18:36:00]  Rafraichissement de la configuration
+[18:36:00] 	 Activation surveillance de : C:\export
+[18:36:00] 	 Tentative de connection
+[18:36:00] 		 Connection OK
+[18:36:00] 	 Tentative de connection
+[18:36:00] 		 Deja connecte
+[18:36:00] 	 Test des domaines
+[18:36:00] 		 C:\Naizin\ OK
+[18:36:00] 		 C:\EFELE\ OK
+[18:36:00] 	 Resultat : True
+[18:36:16] 	 Arret de la surveillance de : C:\export
+[18:40:12]  Lancement du traitement manuel
+[18:40:12]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[18:40:12] 	 Mode manuel
+[18:40:12] 	 Tentative de connection
+[18:40:12] 		 Deja connecte
+[18:40:12] 	 Connection Ok
+[18:40:12] 	 Fichier C:\export\ExportHydrasEFELE.csv existant
+[18:40:12] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[18:40:12] 		 Trouvé domaine  : C:\EFELE\
+[18:40:12] 	 Domaine : C:\EFELE\
+[18:40:12]  Recherche de schema pour : C:\EFELE\
+[18:40:12] 	 Tentative de connection
+[18:40:12] 		 Deja connecte
+[18:40:12] 	 Trouvé Schema  : efele
+[18:40:12]  Lecture des stations pour : C:\EFELE\
+[18:40:12] 	 Tentative de connection
+[18:40:12] 		 Deja connecte
+[18:40:12] 	 Ouverture de la table : C:\EFELE\GB_DATEI.DB
+[18:40:12] 	 Root open
+[18:40:12] 	 Ouverture de la table : C:\EFELE\GBM_00.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P3\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P4\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P5\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P7\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P8\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P9\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\TSMO_B_P.10\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\EFEL_B_M.ET\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P1\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P2\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\GBM_01.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P3\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P4\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P5\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P7\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P8\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P9\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\TSMO_C_P.10\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\EFEL_C_M.ET\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P1\SS_DATEI.DB
+[18:40:12] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P2\SS_DATEI.DB
+[18:40:12] 	 Mise a jour de stations pour efele
+[18:40:12] 	 Tentative de connection
+[18:40:12] 		 Deja connecte
+[18:40:12] 		 Ajout de 0 stations
+[18:40:12] 	 Mise a jour des stations / capteurs
+[18:40:12] 	 Tentative de connection
+[18:40:12] 		 Deja connecte
+[18:40:12] 	 Traitement du fichier
+[18:40:12] 		 Initialisation nouveau fichier d'insertion
+[18:40:13] 		 Traitement du fichier fini
+[18:40:13] 		 Execution du script SQL
+[18:40:16] 		 Initialisation nouveau fichier d'insertion
+[18:40:16] 	 Tentative de connection
+[18:40:16] 		 Deja connecte
+[18:40:24] 	 Traitement fini avec succes
+[18:40:24] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-18-40-24].zip
+[18:40:24] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[18:41:03]  Rafraichissement de la configuration
+[18:41:03] 	 Activation surveillance de : C:\export
+[18:41:03] 	 Tentative de connection
+[18:41:03] 		 Connection OK
+[18:41:03] 	 Tentative de connection
+[18:41:03] 		 Deja connecte
+[18:41:03] 	 Test des domaines
+[18:41:03] 		 C:\Naizin\ OK
+[18:41:03] 		 C:\EFELE\ OK
+[18:41:03] 	 Resultat : True
+[18:41:04]  Sortie de programme
+[18:43:00]  Demmarrage : 0.9.9.0
+[18:43:00]  lecture de la configuration
+[18:43:00]  Rafraichissement de la configuration
+[18:43:00] 	 Activation surveillance de : C:\export
+[18:43:00] 	 Tentative de connection
+[18:43:00] 		 Connection OK
+[18:43:00] 	 Tentative de connection
+[18:43:00] 		 Deja connecte
+[18:43:00] 	 Test des domaines
+[18:43:00] 		 C:\Naizin\ OK
+[18:43:00] 		 C:\EFELE\ OK
+[18:43:00] 	 Resultat : True
+[18:43:05] 	 Arret de la surveillance de : C:\export
+[18:43:28]  Lancement du traitement manuel
+[18:43:28]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[18:43:28] 	 Mode manuel
+[18:43:28] 	 Tentative de connection
+[18:43:28] 		 Deja connecte
+[18:43:28] 	 Connection Ok
+[18:43:28] 	 Fichier C:\export\ExportHydrasEFELE.csv existant
+[18:43:28] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[18:43:28] 		 Trouvé domaine  : C:\EFELE\
+[18:43:28] 	 Domaine : C:\EFELE\
+[18:43:28]  Recherche de schema pour : C:\EFELE\
+[18:43:28] 	 Tentative de connection
+[18:43:28] 		 Deja connecte
+[18:43:28] 	 Trouvé Schema  : efele
+[18:43:28]  Lecture des stations pour : C:\EFELE\
+[18:43:28] 	 Tentative de connection
+[18:43:28] 		 Deja connecte
+[18:43:28] 	 Ouverture de la table : C:\EFELE\GB_DATEI.DB
+[18:43:28] 	 Root open
+[18:43:28] 	 Ouverture de la table : C:\EFELE\GBM_00.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P3\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P4\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P5\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P7\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P8\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P9\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\TSMO_B_P.10\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\EFEL_B_M.ET\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P1\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P2\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\GBM_01.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P3\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P4\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P5\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P7\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P8\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P9\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\TSMO_C_P.10\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\EFEL_C_M.ET\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P1\SS_DATEI.DB
+[18:43:28] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P2\SS_DATEI.DB
+[18:43:28] 	 Mise a jour de stations pour efele
+[18:43:28] 	 Tentative de connection
+[18:43:28] 		 Deja connecte
+[18:43:28] 		 Ajout de 0 stations
+[18:43:28] 	 Mise a jour des stations / capteurs
+[18:43:28] 	 Tentative de connection
+[18:43:28] 		 Deja connecte
+[18:43:28] 	 Traitement du fichier
+[18:43:28] 		 Initialisation nouveau fichier d'insertion
+[18:43:29] 		 Traitement du fichier fini
+[18:43:29] 		 Execution du script SQL
+[18:43:32] 		 Initialisation nouveau fichier d'insertion
+[18:43:32] 	 Tentative de connection
+[18:43:32] 		 Deja connecte
+[18:43:35] 	 Traitement fini avec succes
+[18:43:35] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-18-43-35].zip
+[18:43:35] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[18:44:17]  sauvegarde de la configuration
+[18:44:17]  Rafraichissement de la configuration
+[18:44:17] 	 Activation surveillance de : C:\export
+[18:44:17] 	 Tentative de connection
+[18:44:17] 		 Connection OK
+[18:44:17] 	 Tentative de connection
+[18:44:17] 		 Deja connecte
+[18:44:17] 	 Test des domaines
+[18:44:17] 		 C:\Naizin\ OK
+[18:44:17] 		 C:\EFELE\ OK
+[18:44:17] 	 Resultat : True
+[18:44:26]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[18:44:26] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[18:44:26]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[18:44:36] 	 Start from Timer
+[18:44:36] 	 Arret de la surveillance de : C:\export
+[18:44:36]  Lancement du traitement automatique
+[18:44:36]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[18:44:36] 	 Mode Automatique
+[18:44:36] 	 Tentative de connection
+[18:44:36] 		 Deja connecte
+[18:44:36] 	 Connection Ok
+[18:44:36] 	 Fichier C:\export\ExportHydrasEFELE.csv existant
+[18:44:36] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[18:44:36] 		 Trouvé domaine  : C:\EFELE\
+[18:44:36] 	 Domaine : C:\EFELE\
+[18:44:36]  Recherche de schema pour : C:\EFELE\
+[18:44:36] 	 Tentative de connection
+[18:44:36] 		 Deja connecte
+[18:44:36] 	 Trouvé Schema  : efele
+[18:44:36]  Lecture des stations pour : C:\EFELE\
+[18:44:36] 	 Tentative de connection
+[18:44:36] 		 Deja connecte
+[18:44:36] 	 Ouverture de la table : C:\EFELE\GB_DATEI.DB
+[18:44:36] 	 Root open
+[18:44:36] 	 Ouverture de la table : C:\EFELE\GBM_00.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P3\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P4\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P5\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P7\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P8\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P9\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\TSMO_B_P.10\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\EFEL_B_M.ET\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P1\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P2\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\GBM_01.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P3\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P4\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P5\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P7\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P8\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P9\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\TSMO_C_P.10\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\EFEL_C_M.ET\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P1\SS_DATEI.DB
+[18:44:36] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P2\SS_DATEI.DB
+[18:44:36] 	 Mise a jour de stations pour efele
+[18:44:36] 	 Tentative de connection
+[18:44:36] 		 Deja connecte
+[18:44:36] 		 Ajout de 0 stations
+[18:44:36] 	 Mise a jour des stations / capteurs
+[18:44:36] 	 Tentative de connection
+[18:44:36] 		 Deja connecte
+[18:44:36] 	 Traitement du fichier
+[18:44:36] 		 Initialisation nouveau fichier d'insertion
+[18:44:37] 		 Traitement du fichier fini
+[18:44:37] 		 Execution du script SQL
+[18:44:39] 		 Initialisation nouveau fichier d'insertion
+[18:44:40] 	 Traitement fini avec succes
+[18:44:40] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-18-44-40].zip
+[18:44:40] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[18:44:46] 	 Start from Timer
+[18:44:46]  Lancement du traitement automatique
+[18:44:46]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[18:44:46] 	 Mode Automatique
+[18:44:46] 	 Tentative de connection
+[18:44:46] 		 Deja connecte
+[18:44:46] 	 Connection Ok
+[18:44:46] 	 Sortie de l'execution
+[18:44:46] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[18:44:46] 		 Trouvé domaine  : C:\EFELE\
+[18:44:46] 	 Domaine : C:\EFELE\
+[18:44:46]  Recherche de schema pour : C:\EFELE\
+[18:44:46] 	 Impossible de se connecter à la base de donnée
+[18:44:46] 	 Sortie de l'execution
+[18:44:46]  Lecture des stations pour : C:\EFELE\
+[18:44:46] 	 Impossible de se connecter à la base de donnée
+[18:44:46] 	 Mise a jour de stations pour 
+[18:44:46] 	 Sortie de l'execution
+[18:44:46] 	 Sortie de l'execution
+[18:44:46] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-18-44-46].zip
+[18:44:46] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[18:44:56] 	 Start from Timer
+[18:44:56]  Lancement du traitement automatique
+[18:44:56]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[18:44:56] 	 Mode Automatique
+[18:44:56] 	 Tentative de connection
+[18:44:56] 		 Deja connecte
+[18:44:56] 	 Connection Ok
+[18:44:56] 	 Sortie de l'execution
+[18:44:56] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[18:44:56] 		 Trouvé domaine  : C:\EFELE\
+[18:44:56] 	 Domaine : C:\EFELE\
+[18:44:56]  Recherche de schema pour : C:\EFELE\
+[18:44:56] 	 Impossible de se connecter à la base de donnée
+[18:44:56] 	 Sortie de l'execution
+[18:44:56]  Lecture des stations pour : C:\EFELE\
+[18:44:56] 	 Impossible de se connecter à la base de donnée
+[18:44:56] 	 Mise a jour de stations pour 
+[18:44:56] 	 Sortie de l'execution
+[18:44:56] 	 Sortie de l'execution
+[18:44:56] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-18-44-56].zip
+[18:44:56] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[18:47:07]  Demmarrage : 0.9.9.0
+[18:47:07]  lecture de la configuration
+[18:47:07]  Rafraichissement de la configuration
+[18:47:07] 	 Activation surveillance de : C:\export
+[18:47:07] 	 Tentative de connection
+[18:47:07] 		 Connection OK
+[18:47:07] 	 Tentative de connection
+[18:47:07] 		 Deja connecte
+[18:47:07] 	 Test des domaines
+[18:47:07] 		 C:\Naizin\ OK
+[18:47:07] 		 C:\EFELE\ OK
+[18:47:07] 	 Resultat : True
+[18:47:15]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[18:47:15] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[18:47:15]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[18:47:25] 	 Start from Timer
+[18:47:25] 	 Arret de la surveillance de : C:\export
+[18:47:35] 	 Start from Timer
+[18:52:35]  Demmarrage : 0.9.9.0
+[18:52:35]  lecture de la configuration
+[18:52:35]  Rafraichissement de la configuration
+[18:52:36] 	 Activation surveillance de : C:\export
+[18:52:36] 	 Tentative de connection
+[18:52:36] 		 Connection OK
+[18:52:36] 	 Tentative de connection
+[18:52:36] 		 Deja connecte
+[18:52:36] 	 Test des domaines
+[18:52:36] 		 C:\Naizin\ OK
+[18:52:36] 		 C:\EFELE\ OK
+[18:52:36] 	 Resultat : True
+[18:52:46]  Deplacement Fichier : C:\export\ExportHydrasEFELE.csv
+[18:52:46] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[18:52:46]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[18:52:46]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[18:52:56] 	 Start from Timer
+[18:52:56] 	 Arret de la surveillance de : C:\export
+[18:53:06] 	 Start from Timer
+[18:53:16] 	 Start from Timer
+[18:53:26] 	 Start from Timer
+[18:53:36] 	 Start from Timer
+[18:53:46] 	 Start from Timer
+[18:53:56] 	 Start from Timer
+[18:54:06] 	 Start from Timer
+[18:54:16] 	 Start from Timer
+[18:54:26] 	 Start from Timer
+[18:56:47]  Demmarrage : 0.9.9.0
+[18:56:47]  lecture de la configuration
+[18:56:47]  Rafraichissement de la configuration
+[18:56:48] 	 Activation surveillance de : C:\export
+[18:56:48] 	 Tentative de connection
+[18:56:48] 		 Connection OK
+[18:56:48] 	 Tentative de connection
+[18:56:48] 		 Deja connecte
+[18:56:48] 	 Test des domaines
+[18:56:48] 		 C:\Naizin\ OK
+[18:56:48] 		 C:\EFELE\ OK
+[18:56:48] 	 Resultat : True
+[18:56:49]  Sortie de programme
+[19:01:34]  Demmarrage : 0.9.9.0
+[19:01:34]  lecture de la configuration
+[19:01:34]  Rafraichissement de la configuration
+[19:01:35] 	 Activation surveillance de : C:\export
+[19:01:35] 	 Tentative de connection
+[19:01:35] 		 Connection OK
+[19:01:35] 	 Tentative de connection
+[19:01:35] 		 Deja connecte
+[19:01:35] 	 Test des domaines
+[19:01:35] 		 C:\Naizin\ OK
+[19:01:35] 		 C:\EFELE\ OK
+[19:01:35] 	 Resultat : True
+[19:01:40]  Sortie de programme
+[19:01:50]  Demmarrage : 0.9.9.0
+[19:01:50]  lecture de la configuration
+[19:01:50]  Rafraichissement de la configuration
+[19:01:50] 	 Activation surveillance de : C:\export
+[19:01:50] 	 Tentative de connection
+[19:01:50] 		 Connection OK
+[19:01:50] 	 Tentative de connection
+[19:01:50] 		 Deja connecte
+[19:01:50] 	 Test des domaines
+[19:01:50] 		 C:\Naizin\ OK
+[19:01:50] 		 C:\EFELE\ OK
+[19:01:50] 	 Resultat : True
+[19:02:04]  Deplacement Fichier : C:\export\ExportHydrasEFELE.csv
+[19:02:04] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[19:02:04]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[19:02:04]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[19:02:14] 	 Start from Timer
+[19:02:14] 	 Arret de la surveillance de : C:\export
+[19:03:31]  Sortie de programme
+[19:06:30]  Demmarrage : 0.9.9.0
+[19:06:30]  lecture de la configuration
+[19:06:30]  Rafraichissement de la configuration
+[19:06:31] 	 Activation surveillance de : C:\export
+[19:06:31] 	 Tentative de connection
+[19:06:31] 		 Connection OK
+[19:06:31] 	 Tentative de connection
+[19:06:31] 		 Deja connecte
+[19:06:31] 	 Test des domaines
+[19:06:31] 		 C:\Naizin\ OK
+[19:06:31] 		 C:\EFELE\ OK
+[19:06:31] 	 Resultat : True
+[19:06:59]  Deplacement Fichier : C:\export\ExportHydrasEFELE.csv
+[19:06:59] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[19:06:59]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[19:06:59]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[19:07:09] 	 Start from Timer
+[19:07:09] 	 Arret de la surveillance de : C:\export
+[19:08:23]  Sortie de programme
+[19:09:57]  Demmarrage : 0.9.9.0
+[19:09:57]  lecture de la configuration
+[19:09:57]  Rafraichissement de la configuration
+[19:09:58] 	 Activation surveillance de : C:\export
+[19:09:58] 	 Tentative de connection
+[19:09:58] 		 Connection OK
+[19:09:58] 	 Tentative de connection
+[19:09:58] 		 Deja connecte
+[19:09:58] 	 Test des domaines
+[19:09:58] 		 C:\Naizin\ OK
+[19:09:58] 		 C:\EFELE\ OK
+[19:09:58] 	 Resultat : True
+[19:10:07]  Deplacement Fichier : C:\export\ExportHydrasEFELE.csv
+[19:10:07] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[19:10:07]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[19:10:07]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[19:10:17] 	 Start from Timer
+[19:10:17] 	 Arret de la surveillance de : C:\export
+[19:14:14]  Demmarrage : 0.9.9.0
+[19:14:14]  lecture de la configuration
+[19:14:14]  Rafraichissement de la configuration
+[19:14:14] 	 Activation surveillance de : C:\export
+[19:14:14] 	 Tentative de connection
+[19:14:14] 		 Connection OK
+[19:14:14] 	 Tentative de connection
+[19:14:14] 		 Deja connecte
+[19:14:14] 	 Test des domaines
+[19:14:14] 		 C:\Naizin\ OK
+[19:14:14] 		 C:\EFELE\ OK
+[19:14:14] 	 Resultat : True
+[19:14:17] 	 Arret de la surveillance de : C:\export
+[19:14:19]  Rafraichissement de la configuration
+[19:14:19] 	 Activation surveillance de : C:\export
+[19:14:19] 	 Tentative de connection
+[19:14:19] 		 Connection OK
+[19:14:19] 	 Tentative de connection
+[19:14:19] 		 Deja connecte
+[19:14:19] 	 Test des domaines
+[19:14:19] 		 C:\Naizin\ OK
+[19:14:19] 		 C:\EFELE\ OK
+[19:14:19] 	 Resultat : True
+[19:14:30]  Deplacement Fichier : C:\export\ExportHydrasEFELE.csv
+[19:14:30] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[19:14:30]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[19:14:30]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[19:14:40] 	 Start from Timer
+[19:14:40] 	 Arret de la surveillance de : C:\export
+[19:14:50]  Sortie de programme
+[19:16:48]  Demmarrage : 0.9.9.0
+[19:16:48]  lecture de la configuration
+[19:16:48]  Rafraichissement de la configuration
+[19:16:48] 	 Activation surveillance de : C:\export
+[19:16:48] 	 Tentative de connection
+[19:16:48] 		 Connection OK
+[19:16:48] 	 Tentative de connection
+[19:16:48] 		 Deja connecte
+[19:16:48] 	 Test des domaines
+[19:16:48] 		 C:\Naizin\ OK
+[19:16:48] 		 C:\EFELE\ OK
+[19:16:48] 	 Resultat : True
+[19:16:51] 	 Arret de la surveillance de : C:\export
+[19:16:54]  Rafraichissement de la configuration
+[19:16:54] 	 Activation surveillance de : C:\export
+[19:16:54] 	 Tentative de connection
+[19:16:54] 		 Connection OK
+[19:16:54] 	 Tentative de connection
+[19:16:54] 		 Deja connecte
+[19:16:54] 	 Test des domaines
+[19:16:54] 		 C:\Naizin\ OK
+[19:16:54] 		 C:\EFELE\ OK
+[19:16:54] 	 Resultat : True
+[19:17:02]  Deplacement Fichier : C:\export\ExportHydrasEFELE.csv
+[19:17:02] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[19:17:02]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[19:17:02]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[19:17:12] 	 Start from Timer
+[19:17:12] 	 Arret de la surveillance de : C:\export
+[19:17:22]  Sortie de programme
+[19:21:37]  Demmarrage : 0.9.9.0
+[19:21:37]  lecture de la configuration
+[19:21:37]  Rafraichissement de la configuration
+[19:21:37] 	 Activation surveillance de : C:\export
+[19:21:37] 	 Tentative de connection
+[19:21:37] 		 Connection OK
+[19:21:37] 	 Tentative de connection
+[19:21:37] 		 Deja connecte
+[19:21:37] 	 Test des domaines
+[19:21:37] 		 C:\Naizin\ OK
+[19:21:37] 		 C:\EFELE\ OK
+[19:21:37] 	 Resultat : True
+[19:21:52]  Deplacement Fichier : C:\export\ExportHydrasEFELE.csv
+[19:21:52] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[19:21:52]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[19:21:52]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[19:22:02] 	 Start from Timer
+[19:22:02] 	 Arret de la surveillance de : C:\export
+[19:23:01]  Demmarrage : 0.9.9.0
+[19:23:01]  lecture de la configuration
+[19:23:01]  Rafraichissement de la configuration
+[19:23:01] 	 Activation surveillance de : C:\export
+[19:23:01] 	 Tentative de connection
+[19:23:01] 		 Connection OK
+[19:23:01] 	 Tentative de connection
+[19:23:01] 		 Deja connecte
+[19:23:01] 	 Test des domaines
+[19:23:01] 		 C:\Naizin\ OK
+[19:23:01] 		 C:\EFELE\ OK
+[19:23:01] 	 Resultat : True
+[19:23:13]  Deplacement Fichier : C:\export\ExportHydrasEFELE.csv
+[19:23:13] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[19:23:13]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[19:23:13]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[19:23:23] 	 Start from Timer
+[19:23:23] 	 Arret de la surveillance de : C:\export
+[19:23:23]  Lancement du traitement automatique
+[19:23:23]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[19:23:23] 	 Mode Automatique
+[19:23:23] 	 Tentative de connection
+[19:23:23] 		 Deja connecte
+[19:23:23] 	 Connection Ok
+[19:23:23] 	 Fichier C:\export\ExportHydrasEFELE.csv existant
+[19:23:23] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[19:23:23] 		 Trouvé domaine  : C:\EFELE\
+[19:23:23] 	 Domaine : C:\EFELE\
+[19:23:23]  Recherche de schema pour : C:\EFELE\
+[19:23:23] 	 Tentative de connection
+[19:23:23] 		 Deja connecte
+[19:23:23] 	 Trouvé Schema  : efele
+[19:23:23]  Lecture des stations pour : C:\EFELE\
+[19:23:23] 	 Tentative de connection
+[19:23:23] 		 Deja connecte
+[19:23:23] 	 Ouverture de la table : C:\EFELE\GB_DATEI.DB
+[19:23:23] 	 Root open
+[19:23:23] 	 Ouverture de la table : C:\EFELE\GBM_00.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P3\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P4\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P5\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P7\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P8\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P9\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\TSMO_B_P.10\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\EFEL_B_M.ET\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P1\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P2\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\GBM_01.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P3\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P4\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P5\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P7\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P8\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P9\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\TSMO_C_P.10\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\EFEL_C_M.ET\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P1\SS_DATEI.DB
+[19:23:23] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P2\SS_DATEI.DB
+[19:23:23] 	 Mise a jour de stations pour efele
+[19:23:23] 	 Tentative de connection
+[19:23:23] 		 Deja connecte
+[19:23:23] 		 Ajout de 0 stations
+[19:23:23] 	 Mise a jour des stations / capteurs
+[19:23:23] 	 Tentative de connection
+[19:23:23] 		 Deja connecte
+[19:23:24] 	 Traitement du fichier
+[19:23:24] 		 Initialisation nouveau fichier d'insertion
+[19:23:24] 		 Traitement du fichier fini
+[19:23:24] 		 Execution du script SQL
+[19:23:27] 		 Initialisation nouveau fichier d'insertion
+[19:23:27] 	 Traitement fini avec succes
+[19:23:27] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-19-23-27].zip
+[19:23:27] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[20:01:11]  Sortie de programme
+[20:03:41]  Demmarrage : 0.9.9.0
+[20:03:41]  lecture de la configuration
+[20:03:41]  Rafraichissement de la configuration
+[20:03:42] 	 Activation surveillance de : C:\export
+[20:03:42] 	 Tentative de connection
+[20:03:42] 		 Connection OK
+[20:03:42] 	 Tentative de connection
+[20:03:42] 		 Deja connecte
+[20:03:42] 	 Test des domaines
+[20:03:42] 		 C:\Naizin\ OK
+[20:03:42] 		 C:\EFELE\ OK
+[20:03:42] 	 Resultat : True
+[20:03:48]  Sortie de programme
+[20:04:16]  Demmarrage : 0.9.9.0
+[20:04:16]  lecture de la configuration
+[20:04:16]  Rafraichissement de la configuration
+[20:04:16] 	 Activation surveillance de : C:\export
+[20:04:16] 	 Tentative de connection
+[20:04:17] 		 Connection OK
+[20:04:17] 	 Tentative de connection
+[20:04:17] 		 Deja connecte
+[20:04:17] 	 Test des domaines
+[20:04:17] 		 C:\Naizin\ OK
+[20:04:17] 		 C:\EFELE\ OK
+[20:04:17] 	 Resultat : True
+[20:04:19]  Sortie de programme
+[20:12:02]  Demmarrage : 0.9.9.0
+[20:12:02]  lecture de la configuration
+[20:12:02]  Rafraichissement de la configuration
+[20:12:02] 	 Activation surveillance de : C:\export
+[20:12:02] 	 Tentative de connection
+[20:12:02] 		 Connection OK
+[20:12:02] 	 Tentative de connection
+[20:12:02] 		 Deja connecte
+[20:12:02] 	 Test des domaines
+[20:12:02] 		 C:\Naizin\ OK
+[20:12:02] 		 C:\EFELE\ OK
+[20:12:02] 	 Resultat : True
+[20:12:16]  Nouveau Fichier : C:\export\ExportHydrasEFELE.csv
+[20:12:16] 	 Add Fichier : C:\export\ExportHydrasEFELE.csv
+[20:12:17]  Modification Fichier : C:\export\ExportHydrasEFELE.csv
+[20:12:26] 	 Start from Timer
+[20:12:26] 	 Arret de la surveillance de : C:\export
+[20:12:27]  Lancement du traitement automatique
+[20:12:27]  Traitement du fichier csv : C:\export\ExportHydrasEFELE.csv
+[20:12:27] 	 Mode Automatique
+[20:12:27] 	 Tentative de connection
+[20:12:27] 		 Deja connecte
+[20:12:27] 	 Connection Ok
+[20:12:27] 	 Fichier C:\export\ExportHydrasEFELE.csv existant
+[20:12:27] 	 recherche domaine pour : ExportHydrasEFELE.csv
+[20:12:27] 		 Trouvé domaine  : C:\EFELE\
+[20:12:27] 	 Domaine : C:\EFELE\
+[20:12:27]  Recherche de schema pour : C:\EFELE\
+[20:12:27] 	 Tentative de connection
+[20:12:27] 		 Deja connecte
+[20:12:27] 	 Trouvé Schema  : efele
+[20:12:27]  Lecture des stations pour : C:\EFELE\
+[20:12:27] 	 Tentative de connection
+[20:12:27] 		 Deja connecte
+[20:12:27] 	 Ouverture de la table : C:\EFELE\GB_DATEI.DB
+[20:12:27] 	 Root open
+[20:12:27] 	 Ouverture de la table : C:\EFELE\GBM_00.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P3\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P4\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P5\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P7\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P8\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\TS-MO_B_.P9\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\TSMO_B_P.10\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\EFEL_B_M.ET\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P1\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\00PRO_B_.P2\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\GBM_01.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P3\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P4\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P5\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P7\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P8\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\TS-MO_C_.P9\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\TSMO_C_P.10\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\EFEL_C_M.ET\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P1\SS_DATEI.DB
+[20:12:27] 	 Ouverture de la table : C:\EFELE\00PRO_C_.P2\SS_DATEI.DB
+[20:12:27] 	 Mise a jour de stations pour efele
+[20:12:27] 	 Tentative de connection
+[20:12:27] 		 Deja connecte
+[20:12:27] 		 Ajout de 0 stations
+[20:12:27] 	 Mise a jour des stations / capteurs
+[20:12:27] 	 Tentative de connection
+[20:12:27] 		 Deja connecte
+[20:12:27] 	 Traitement du fichier
+[20:12:27] 		 Initialisation nouveau fichier d'insertion
+[20:12:28] 		 Traitement du fichier fini
+[20:12:28] 		 Execution du script SQL
+[20:12:30] 		 Initialisation nouveau fichier d'insertion
+[20:12:30] 	 Traitement fini avec succes
+[20:12:30] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-20-12-30].zip
+[20:12:30] 		 Deplacement du fichier C:\export\ExportHydrasEFELE.csv
+[20:14:09]  Sortie de programme
+[20:14:13]  Demmarrage : 0.9.9.0
+[20:14:13]  lecture de la configuration
+[20:14:13]  Rafraichissement de la configuration
+[20:14:14] 	 Activation surveillance de : C:\export
+[20:14:14] 	 Tentative de connection
+[20:14:14] 		 Connection OK
+[20:14:14] 	 Tentative de connection
+[20:14:14] 		 Deja connecte
+[20:14:14] 	 Test des domaines
+[20:14:14] 		 C:\Naizin\ OK
+[20:14:14] 		 C:\EFELE\ OK
+[20:14:14] 	 Resultat : True
+[20:14:22]  Ancien nom Fichier : C:\export\naizin_brutes.csv
+[20:14:22] 	 Add Fichier : C:\export\naizin_brutes.csv
+[20:14:22]  Nouveau nom Fichier : C:\export\naizin_brute.csv
+[20:14:22] 	 Add Fichier : C:\export\naizin_brute.csv
+[20:14:32] 	 Start from Timer
+[20:14:32] 	 Arret de la surveillance de : C:\export
+[20:14:32]  Lancement du traitement automatique
+[20:14:32]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[20:14:32] 	 Mode Automatique
+[20:14:32] 	 Tentative de connection
+[20:14:32] 		 Deja connecte
+[20:14:32] 	 Connection Ok
+[20:14:32] 	 Sortie de l'execution
+[20:14:32] 	 recherche domaine pour : naizin_brutes.csv
+[20:14:32] 		 Trouvé domaine  : C:\Naizin\
+[20:14:32] 	 Domaine : C:\Naizin\
+[20:14:32]  Recherche de schema pour : C:\Naizin\
+[20:14:32] 	 Impossible de se connecter à la base de donnée
+[20:14:32] 	 Sortie de l'execution
+[20:14:32]  Lecture des stations pour : C:\Naizin\
+[20:14:32] 	 Impossible de se connecter à la base de donnée
+[20:14:32] 	 Mise a jour de stations pour 
+[20:14:32] 	 Sortie de l'execution
+[20:14:32] 	 Sortie de l'execution
+[20:14:32]  Traitement du fichier csv : C:\export\naizin_brute.csv
+[20:14:32] 	 Mode Automatique
+[20:14:32] 	 Sortie de l'execution
+[20:14:32] 	 Fichier C:\export\naizin_brute.csv existant
+[20:14:32] 	 recherche domaine pour : naizin_brute.csv
+[20:14:32] 		 Trouvé domaine  : C:\Naizin\
+[20:14:32] 	 Domaine : C:\Naizin\
+[20:14:32]  Recherche de schema pour : C:\Naizin\
+[20:14:32] 	 Impossible de se connecter à la base de donnée
+[20:14:32] 	 Sortie de l'execution
+[20:14:32]  Lecture des stations pour : C:\Naizin\
+[20:14:32] 	 Impossible de se connecter à la base de donnée
+[20:14:32] 	 Mise a jour de stations pour 
+[20:14:32] 	 Sortie de l'execution
+[20:14:32] 	 Sortie de l'execution
+[20:14:32] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-20-14-32].zip
+[20:14:32] 		 Deplacement du fichier C:\export\naizin_brutes.csv
+[20:14:32] 		 Deplacement du fichier C:\export\naizin_brute.csv
+[20:24:38]  Demmarrage : 0.9.9.0
+[20:24:38]  lecture de la configuration
+[20:24:38]  Rafraichissement de la configuration
+[20:24:38] 	 Activation surveillance de : C:\export
+[20:24:38] 	 Tentative de connection
+[20:24:38] 		 Connection OK
+[20:24:38] 	 Tentative de connection
+[20:24:38] 		 Deja connecte
+[20:24:38] 	 Test des domaines
+[20:24:38] 		 C:\Naizin\ OK
+[20:24:38] 		 C:\EFELE\ OK
+[20:24:38] 	 Resultat : True
+[20:24:41] 	 Arret de la surveillance de : C:\export
+[20:24:45]  Rafraichissement de la configuration
+[20:24:45] 	 Activation surveillance de : C:\export
+[20:24:45] 	 Tentative de connection
+[20:24:45] 		 Connection OK
+[20:24:45] 	 Tentative de connection
+[20:24:45] 		 Deja connecte
+[20:24:45] 	 Test des domaines
+[20:24:45] 		 C:\Naizin\ OK
+[20:24:45] 		 C:\EFELE\ OK
+[20:24:45] 	 Resultat : True
+[20:24:46]  Sortie de programme
+[20:24:48]  Demmarrage : 0.9.9.0
+[20:24:48]  lecture de la configuration
+[20:24:48]  Rafraichissement de la configuration
+[20:24:48] 	 Activation surveillance de : C:\export
+[20:24:48] 	 Tentative de connection
+[20:24:48] 		 Connection OK
+[20:24:48] 	 Tentative de connection
+[20:24:48] 		 Deja connecte
+[20:24:48] 	 Test des domaines
+[20:24:48] 		 C:\Naizin\ OK
+[20:24:48] 		 C:\EFELE\ OK
+[20:24:48] 	 Resultat : True
+[20:24:58]  Nouveau Fichier : C:\export\naizin_brute.csv
+[20:24:58] 	 Add Fichier : C:\export\naizin_brute.csv
+[20:24:58]  Modification Fichier : C:\export\naizin_brute.csv
+[20:25:08] 	 Start from Timer
+[20:25:08] 	 Arret de la surveillance de : C:\export
+[20:25:08]  Lancement du traitement automatique
+[20:25:08]  Traitement du fichier csv : C:\export\naizin_brute.csv
+[20:25:08] 	 Mode Automatique
+[20:25:08] 	 Tentative de connection
+[20:25:08] 		 Deja connecte
+[20:25:08] 	 Connection Ok
+[20:25:08] 	 Fichier C:\export\naizin_brute.csv existant
+[20:25:08] 	 recherche domaine pour : naizin_brute.csv
+[20:25:08] 		 Trouvé domaine  : C:\Naizin\
+[20:25:08] 	 Domaine : C:\Naizin\
+[20:25:08]  Recherche de schema pour : C:\Naizin\
+[20:25:08] 	 Tentative de connection
+[20:25:08] 		 Deja connecte
+[20:25:08] 	 Trouvé Schema  : agrhys
+[20:25:08]  Lecture des stations pour : C:\Naizin\
+[20:25:08] 	 Tentative de connection
+[20:25:08] 		 Deja connecte
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[20:25:08] 	 Root open
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[20:25:08] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[20:25:08] 	 Mise a jour de stations pour agrhys
+[20:25:08] 	 Tentative de connection
+[20:25:08] 		 Deja connecte
+[20:25:08] 		 Ajout de 0 stations
+[20:25:08] 	 Mise a jour des stations / capteurs
+[20:25:08] 	 Tentative de connection
+[20:25:08] 		 Deja connecte
+[20:25:08] 	 Traitement du fichier
+[20:25:08] 		 Initialisation nouveau fichier d'insertion
+[20:25:12] 		 Traitement du fichier fini
+[20:25:12] 		 Execution du script SQL
+[20:25:23] 		 Initialisation nouveau fichier d'insertion
+[20:25:24] 	 Traitement fini avec succes
+[20:25:24] 	 Creation du fichier ZIP : C:\export\import [24-03-2020-20-25-24].zip
+[20:25:24] 		 Deplacement du fichier C:\export\naizin_brute.csv
+[20:28:43]  Sortie de programme
+[20:28:59]  Demmarrage : 0.9.9.0
+[20:28:59]  lecture de la configuration
+[20:28:59]  Rafraichissement de la configuration
+[20:29:00] 	 Activation surveillance de : C:\export
+[20:29:00] 	 Tentative de connection
+[20:29:00] 		 Connection OK
+[20:29:00] 	 Tentative de connection
+[20:29:00] 		 Deja connecte
+[20:29:00] 	 Test des domaines
+[20:29:00] 		 C:\Naizin\ OK
+[20:29:00] 		 C:\EFELE\ OK
+[20:29:00] 	 Resultat : True
+[20:29:45]  Sortie de programme

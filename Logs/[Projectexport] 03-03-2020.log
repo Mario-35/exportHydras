@@ -1,0 +1,758 @@
+[13:19:56] Demmarrage : 0.9.9.0
+[13:19:56] lecture de la configuration : C:\ExportHydras\config.ini
+[13:19:56] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+	Ouverture de la table OK
+[13:20:10] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+	Ouverture de la table OK
+[13:20:10] Test existance domaine : EFELE
+[13:20:10] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+	Ouverture de la table OK
+	resultat : True
+[13:20:10] Test existance domaine : Naizin
+[13:20:10] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+	Ouverture de la table OK
+	resultat : True
+[13:22:32] Demmarrage : 0.9.9.0
+[13:22:32] lecture de la configuration : C:\ExportHydras\config.ini
+[13:22:33] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+	Ouverture de la table OK
+[13:22:36] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+	Ouverture de la table OK
+	Test existance domaine : EFELE
+	[13:22:36] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+	Test existance domaine : Naizin
+	[13:22:36] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[13:27:24] Demmarrage : 0.9.9.0
+	Test dans la base de registre de la valeur : EXPORTHYDRAS et de la clé C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[13:27:24] lecture de la configuration : C:\ExportHydras\config.ini
+	Test des domaines
+	[13:27:25] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[13:28:26] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[13:28:26] lecture de la configuration : C:\ExportHydras\config.ini
+	Test des domaines
+	[13:28:26] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:00:03] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:00:03] lecture de la configuration : C:\ExportHydras\config.ini
+[15:00:03] Rafraichissement de la configuration
+[15:00:04] Rafraichissement de la configuration
+	Test des domaines
+	[15:00:04] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:05:25] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:05:26] lecture de la configuration : C:\ExportHydras\config.ini
+[15:05:26] Rafraichissement de la configuration
+[15:05:26] Rafraichissement de la configuration
+	Test des domaines
+	[15:05:26] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:06:53] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:06:54] lecture de la configuration : C:\ExportHydras\config.ini
+[15:06:54] Rafraichissement de la configuration
+[15:06:54] Rafraichissement de la configuration
+	Test des domaines
+	[15:06:55] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:07:51] Rafraichissement de la configuration
+	Test des domaines
+	[15:07:51] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:07:52] lecture de la configuration : C:\ExportHydras\config.ini
+[15:07:52] Rafraichissement de la configuration
+	Test des domaines
+	[15:07:53] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:09:18] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:09:19] lecture de la configuration : C:\ExportHydras\config.ini
+[15:09:19] Rafraichissement de la configuration
+[15:09:19] Rafraichissement de la configuration
+	Test des domaines
+	[15:09:20] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:10:16] Item: C:\export\script-auth.txt; Nouveau
+[15:10:16] Item: C:\export\script-auth.txt; Modifié
+[15:10:16] Item: C:\export\script-auth.txt; Modifié
+[15:12:36] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:12:36] lecture de la configuration : C:\ExportHydras\config.ini
+[15:12:36] Rafraichissement de la configuration
+[15:12:36] Rafraichissement de la configuration
+	Test des domaines
+	[15:12:37] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:12:40] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+	Ouverture de la table OK
+[15:12:59] Item: C:\export\script-auth.txt; Deplacement
+[15:13:05] Item: C:\export\script-auth.txt; Nouveau
+[15:13:05] Item: C:\export\script-auth.txt; Modification
+[15:13:05] Item: C:\export\script-auth.txt; Modification
+[15:13:27] Item: C:\export\script-auth.txt; Deplacement
+[15:15:38] Item: C:\export\brutes.csv; Nouveau
+[15:15:38] Item: C:\export\brutes.csv; Modification
+[15:15:38] Item: C:\export\brutes.csv; Modification
+[15:15:38] Item: C:\export\brutes.csv; Modification
+[15:15:38] Item: C:\export\brutes.csv; Modification
+[15:15:38] Item: C:\export\brutes.csv; Modification
+[15:15:38] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:39] Item: C:\export\brutes.csv; Modification
+[15:15:40] Item: C:\export\brutes.csv; Modification
+[15:15:40] Item: C:\export\brutes.csv; Modification
+[15:15:40] Item: C:\export\brutes.csv; Modification
+[15:15:40] Item: C:\export\brutes.csv; Modification
+[15:15:40] Item: C:\export\brutes.csv; Modification
+[15:15:40] Item: C:\export\brutes.csv; Modification
+[15:15:40] Item: C:\export\brutes.csv; Modification
+[15:15:40] Item: C:\export\brutes.csv; Modification
+[15:15:40] Item: C:\export\brutes.csv; Modification
+[15:15:41] Item: C:\export\brutes.csv; Modification
+[15:15:41] Item: C:\export\brutes.csv; Modification
+[15:15:41] Item: C:\export\brutes.csv; Modification
+[15:15:41] Item: C:\export\brutes.csv; Modification
+[15:15:41] Item: C:\export\brutes.csv; Modification
+[15:15:41] Item: C:\export\brutes.csv; Modification
+[15:15:41] Item: C:\export\brutes.csv; Modification
+[15:15:41] Item: C:\export\brutes.csv; Modification
+[15:15:41] Item: C:\export\brutes.csv; Modification
+[15:15:41] Item: C:\export\brutes.csv; Modification
+[15:15:42] Item: C:\export\brutes.csv; Modification
+[15:15:42] Item: C:\export\brutes.csv; Modification
+[15:15:42] Item: C:\export\brutes.csv; Modification
+[15:15:42] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:29] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:30] Item: C:\export\brutes.csv; Modification
+[15:16:31] Item: C:\export\brutes.csv; Modification
+[15:16:31] Item: C:\export\brutes.csv; Modification
+[15:16:31] Item: C:\export\brutes.csv; Modification
+[15:16:31] Item: C:\export\brutes.csv; Modification
+[15:16:31] Item: C:\export\brutes.csv; Modification
+[15:16:31] Item: C:\export\brutes.csv; Modification
+[15:16:31] Item: C:\export\brutes.csv; Modification
+[15:16:31] Item: C:\export\brutes.csv; Modification
+[15:16:31] Item: C:\export\brutes.csv; Modification
+[15:16:31] Item: C:\export\brutes.csv; Modification
+[15:16:32] Item: C:\export\brutes.csv; Modification
+[15:17:41] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:17:41] lecture de la configuration : C:\ExportHydras\config.ini
+[15:17:41] Rafraichissement de la configuration
+[15:17:41] Rafraichissement de la configuration
+	Test des domaines
+	[15:17:42] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:18:10] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:18:11] lecture de la configuration : C:\ExportHydras\config.ini
+[15:18:11] Rafraichissement de la configuration
+[15:18:11] Rafraichissement de la configuration
+	Test des domaines
+	[15:18:11] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:18:17] lecture de la configuration : C:\ExportHydras\config.ini
+[15:18:17] Rafraichissement de la configuration
+	Test des domaines
+	[15:18:17] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:06] Item: C:\export\brutes.csv; Modification
+[15:19:07] Item: C:\export\brutes.csv; Modification
+[15:19:07] Item: C:\export\brutes.csv; Modification
+[15:19:07] Item: C:\export\brutes.csv; Modification
+[15:19:07] Item: C:\export\brutes.csv; Modification
+[15:19:07] Item: C:\export\brutes.csv; Modification
+[15:19:07] Item: C:\export\brutes.csv; Modification
+[15:19:07] Item: C:\export\brutes.csv; Modification
+[15:19:07] Item: C:\export\brutes.csv; Modification
+[15:19:07] Item: C:\export\brutes.csv; Modification
+[15:19:07] Item: C:\export\brutes.csv; Modification
+[15:19:07] Item: C:\export\brutes.csv; Modification
+[15:19:08] Item: C:\export\brutes.csv; Modification
+[15:19:08] Item: C:\export\brutes.csv; Modification
+[15:19:08] Item: C:\export\brutes.csv; Modification
+[15:19:08] Item: C:\export\brutes.csv; Modification
+[15:19:08] Item: C:\export\brutes.csv; Modification
+[15:19:08] Item: C:\export\brutes.csv; Modification
+[15:25:20] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:25:20] lecture de la configuration : C:\ExportHydras\config.ini
+[15:25:20] Rafraichissement de la configuration
+[15:25:21] Rafraichissement de la configuration
+	Test des domaines
+	[15:25:21] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:25:49] Item: C:\export\brutes.csv; Modification
+[15:25:49] Item: C:\export\brutes.csv; Modification
+[15:29:28] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:29:28] lecture de la configuration : C:\ExportHydras\config.ini
+[15:29:28] Rafraichissement de la configuration
+[15:29:28] Rafraichissement de la configuration
+	Test des domaines
+	[15:29:29] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:29:55] Item: C:\export\brutes.csv; Modification
+[15:29:55] Item: C:\export\brutes.csv; Modification
+[15:30:33] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:30:33] lecture de la configuration : C:\ExportHydras\config.ini
+[15:30:33] Rafraichissement de la configuration
+[15:30:34] Rafraichissement de la configuration
+	Test des domaines
+	[15:30:34] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:31:06] Item: C:\export\brutes.csv; Modification
+[15:31:06] Item: C:\export\brutes.csv; Modification
+	Fichier non disponible
+[15:31:07] Item: C:\export\brutes.csv; Modification
+	Fichier non disponible
+[15:31:08] Item: C:\export\brutes.csv; Modification
+	Fichier non disponible
+[15:31:09] Item: C:\export\brutes.csv; Modification
+[15:31:13] Item: C:\export\brutes.csv; Modification
+[15:31:14] Item: C:\export\brutes.csv; Modification
+[15:31:14] Item: C:\export\brutes.csv; Modification
+[15:31:14] Item: C:\export\brutes.csv; Modification
+[15:31:14] Item: C:\export\brutes.csv; Modification
+[15:31:14] Item: C:\export\brutes.csv; Modification
+[15:31:14] Item: C:\export\brutes.csv; Modification
+[15:31:14] Item: C:\export\brutes.csv; Modification
+[15:31:15] Item: C:\export\brutes.csv; Modification
+[15:31:15] Item: C:\export\brutes.csv; Modification
+[15:31:15] Item: C:\export\brutes.csv; Modification
+[15:31:15] Item: C:\export\brutes.csv; Modification
+[15:31:15] Item: C:\export\brutes.csv; Modification
+[15:31:15] Item: C:\export\brutes.csv; Modification
+[15:31:15] Item: C:\export\brutes.csv; Modification
+[15:31:16] Item: C:\export\brutes.csv; Modification
+[15:31:16] Item: C:\export\brutes.csv; Modification
+[15:31:16] Item: C:\export\brutes.csv; Modification
+[15:31:16] Item: C:\export\brutes.csv; Modification
+[15:31:16] Item: C:\export\brutes.csv; Modification
+[15:31:16] Item: C:\export\brutes.csv; Modification
+[15:31:17] Item: C:\export\brutes.csv; Modification
+[15:31:17] Item: C:\export\brutes.csv; Modification
+[15:31:17] Item: C:\export\brutes.csv; Modification
+[15:31:17] Item: C:\export\brutes.csv; Modification
+[15:31:17] Item: C:\export\brutes.csv; Modification
+[15:31:17] Item: C:\export\brutes.csv; Modification
+[15:31:17] Item: C:\export\brutes.csv; Modification
+[15:31:18] Item: C:\export\brutes.csv; Modification
+[15:31:18] Item: C:\export\brutes.csv; Modification
+[15:31:18] Item: C:\export\brutes.csv; Modification
+[15:31:18] Item: C:\export\brutes.csv; Modification
+[15:31:18] Item: C:\export\brutes.csv; Modification
+[15:31:18] Item: C:\export\brutes.csv; Modification
+[15:31:19] Item: C:\export\brutes.csv; Modification
+[15:31:19] Item: C:\export\brutes.csv; Modification
+[15:32:03] lecture de la configuration : C:\ExportHydras\config.ini
+[15:32:03] Rafraichissement de la configuration
+	Test des domaines
+	[15:32:03] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:32:34] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:32:34] lecture de la configuration : C:\ExportHydras\config.ini
+[15:32:34] Rafraichissement de la configuration
+[15:32:35] Rafraichissement de la configuration
+	Test des domaines
+	[15:32:35] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:32:48] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:32:48] lecture de la configuration : C:\ExportHydras\config.ini
+[15:32:48] Rafraichissement de la configuration
+[15:32:48] Rafraichissement de la configuration
+	Test des domaines
+	[15:32:49] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:33:53] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:33:53] Item: C:\export\brutes.csv; Modification
+	Fichier non disponible
+[15:33:54] Item: C:\export\brutes.csv; Modification
+	Fichier non disponible
+[15:33:55] Item: C:\export\brutes.csv; Modification
+	Fichier non disponible
+[15:33:56] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:00] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:00] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:01] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:01] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:01] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:01] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:01] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:01] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:02] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:02] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:02] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:02] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:02] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:02] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:03] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:03] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:03] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:03] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:03] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:03] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:03] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:04] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:04] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:04] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:04] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:04] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:04] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:05] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:05] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:05] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:05] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:05] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:05] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:06] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:06] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:06] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:06] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:06] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:34:06] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:37:59] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:38:00] lecture de la configuration : C:\ExportHydras\config.ini
+[15:38:00] Rafraichissement de la configuration
+[15:38:00] Rafraichissement de la configuration
+	Test des domaines
+	[15:38:00] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:44:02] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:44:02] lecture de la configuration : C:\ExportHydras\config.ini
+[15:44:02] Rafraichissement de la configuration
+[15:44:03] Rafraichissement de la configuration
+	Test des domaines
+	[15:44:03] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:44:39] Item: C:\export\valides.csv; Nouveau
+[15:44:39] Item: C:\export\valides.csv; Modification
+[15:44:39] Item: C:\export\valides.csv; Modification
+[15:44:39] Item: C:\export\valides.csv; Modification
+[15:44:39] Item: C:\export\valides.csv; Modification
+[15:44:39] Item: C:\export\valides.csv; Modification
+[15:44:39] Item: C:\export\valides.csv; Modification
+[15:44:39] Item: C:\export\valides.csv; Modification
+[15:44:39] Item: C:\export\valides.csv; Modification
+[15:44:39] Item: C:\export\valides.csv; Modification
+[15:44:40] Item: C:\export\valides.csv; Modification
+[15:44:40] Item: C:\export\valides.csv; Modification
+[15:44:40] Item: C:\export\valides.csv; Modification
+[15:44:40] Item: C:\export\valides.csv; Modification
+[15:44:40] Item: C:\export\valides.csv; Modification
+[15:44:40] Item: C:\export\valides.csv; Modification
+[15:44:40] Item: C:\export\valides.csv; Modification
+[15:44:40] Item: C:\export\valides.csv; Modification
+[15:44:41] Item: C:\export\valides.csv; Modification
+[15:44:41] Item: C:\export\valides.csv; Modification
+[15:44:41] Item: C:\export\valides.csv; Modification
+[15:44:41] Item: C:\export\valides.csv; Modification
+[15:44:41] Item: C:\export\valides.csv; Modification
+[15:44:41] Item: C:\export\valides.csv; Modification
+[15:44:41] Item: C:\export\valides.csv; Modification
+[15:44:41] Item: C:\export\valides.csv; Modification
+[15:44:42] Item: C:\export\valides.csv; Modification
+[15:44:42] Item: C:\export\valides.csv; Modification
+[15:44:42] Item: C:\export\valides.csv; Modification
+[15:44:42] Item: C:\export\valides.csv; Modification
+[15:44:43] Item: C:\export\valides.csv; Modification
+[15:44:43] Item: C:\export\valides.csv; Modification
+[15:44:43] Item: C:\export\valides.csv; Modification
+[15:47:38] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:47:38] lecture de la configuration : C:\ExportHydras\config.ini
+[15:47:38] Rafraichissement de la configuration
+[15:47:38] Rafraichissement de la configuration
+	Test des domaines
+	[15:47:39] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:47:55] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:47:56] lecture de la configuration : C:\ExportHydras\config.ini
+[15:47:56] Rafraichissement de la configuration
+[15:47:56] Rafraichissement de la configuration
+	Test des domaines
+	[15:47:56] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:35] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:36] Item: C:\export\brutes.csv; Modification
+[15:48:37] Item: C:\export\brutes.csv; Modification
+[15:48:37] Item: C:\export\brutes.csv; Modification
+[15:48:37] Item: C:\export\brutes.csv; Modification
+[15:48:37] Item: C:\export\brutes.csv; Modification
+[15:48:37] Item: C:\export\brutes.csv; Modification
+[15:48:37] Item: C:\export\brutes.csv; Modification
+	Fichier ouvert
+[15:50:48] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[15:50:48] lecture de la configuration : C:\ExportHydras\config.ini
+[15:50:48] Rafraichissement de la configuration
+[15:50:49] Rafraichissement de la configuration
+	Test des domaines
+	[15:50:49] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:14] Item: C:\export\brutes.csv; Modification
+[15:51:15] Item: C:\export\brutes.csv; Modification
+[15:51:15] Item: C:\export\brutes.csv; Modification
+[15:51:15] Item: C:\export\brutes.csv; Modification
+[15:51:15] Item: C:\export\brutes.csv; Modification
+[15:51:15] Item: C:\export\brutes.csv; Modification
+[15:51:15] Item: C:\export\brutes.csv; Modification
+[15:51:15] Item: C:\export\brutes.csv; Modification
+[15:51:15] Item: C:\export\brutes.csv; Modification
+[15:51:15] Item: C:\export\brutes.csv; Modification
+[15:51:15] Item: C:\export\brutes.csv; Modification
+[15:51:16] Item: C:\export\brutes.csv; Modification
+[15:51:16] Item: C:\export\brutes.csv; Modification
+[15:51:16] Item: C:\export\brutes.csv; Modification
+[15:51:16] Item: C:\export\brutes.csv; Modification
+[15:51:17] Item: C:\export\brutes.csv; Modification
+[15:51:48] Fichier brutes.csv ouvert
+[16:01:44] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[16:01:44] lecture de la configuration : C:\ExportHydras\config.ini
+[16:01:44] Rafraichissement de la configuration
+[16:01:44] Rafraichissement de la configuration
+	Test des domaines
+	[16:01:45] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[16:04:28] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[16:04:28] lecture de la configuration : C:\ExportHydras\config.ini
+[16:04:28] Rafraichissement de la configuration
+[16:04:29] Rafraichissement de la configuration
+	Test des domaines
+	[16:04:29] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[16:06:16] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[16:06:16] lecture de la configuration : C:\ExportHydras\config.ini
+[16:06:16] Rafraichissement de la configuration
+[16:06:17] Rafraichissement de la configuration
+	Test des domaines
+	[16:06:17] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:44] Item: C:\export\brutes.csv; Modification
+[16:06:45] Item: C:\export\brutes.csv; Modification
+[16:06:45] Item: C:\export\brutes.csv; Modification
+[16:06:45] Item: C:\export\brutes.csv; Modification
+[16:06:45] Item: C:\export\brutes.csv; Modification
+[16:06:45] Item: C:\export\brutes.csv; Modification
+[16:06:45] Item: C:\export\brutes.csv; Modification
+[16:06:45] Item: C:\export\brutes.csv; Modification
+[16:06:46] Item: C:\export\brutes.csv; Modification
+[16:06:46] Item: C:\export\brutes.csv; Modification
+[16:06:46] Item: C:\export\brutes.csv; Modification
+[16:06:46] Item: C:\export\brutes.csv; Modification
+[16:07:29] Fichier  ouvert
+[16:08:34] Demmarrage : 0.9.9.0
+	Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+		resultat : False
+[16:08:34] lecture de la configuration : C:\ExportHydras\config.ini
+[16:08:34] Rafraichissement de la configuration
+[16:08:34] Rafraichissement de la configuration
+	Test des domaines
+	[16:08:35] Lecture de la table : C:\Users\mradam\AppData\Local\VirtualStore\Program Files (x86)\OTT\HYDRAS3\WS_DATEI.DB
+		Ouverture de la table OK
+		resultat : True
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:55] Item: C:\export\brutes.csv; Modification
+[16:08:56] Item: C:\export\brutes.csv; Modification
+[16:08:56] Item: C:\export\brutes.csv; Modification
+[16:08:56] Item: C:\export\brutes.csv; Modification
+[16:08:56] Item: C:\export\brutes.csv; Modification
+[16:08:56] Item: C:\export\brutes.csv; Modification
+[16:08:56] Item: C:\export\brutes.csv; Modification
+[16:08:57] Item: C:\export\brutes.csv; Modification
+[16:08:57] Item: C:\export\brutes.csv; Modification
+[16:08:57] Item: C:\export\brutes.csv; Modification
+[16:08:57] Item: C:\export\brutes.csv; Modification
+[16:09:10] Item: C:\export\corriges.csv; Nouveau
+[16:09:10] Item: C:\export\corriges.csv; Modification
+[16:09:10] Item: C:\export\corriges.csv; Modification
+[16:09:10] Item: C:\export\corriges.csv; Modification
+[16:09:10] Item: C:\export\corriges.csv; Modification
+[16:09:10] Item: C:\export\corriges.csv; Modification
+[16:09:10] Item: C:\export\corriges.csv; Modification
+[16:09:11] Item: C:\export\corriges.csv; Modification
+[16:09:11] Item: C:\export\corriges.csv; Modification
+[16:10:56] Fichier  ouvert
+[16:10:57] Fichier  ouvert
+[16:10:57] Fichier  ouvert

@@ -1,0 +1,474 @@
+[15:23:08]  Demmarrage : 0.9.9.0
+[15:23:08]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:23:08] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:23:08] 		 resultat : False
+[15:23:08] 	 Arret de la surveillance
+[15:23:08]  Rafraichissement de la configuration
+[15:23:08] 	 Test de connection :
+[15:23:08] 		 HostName : 138.102.159.39
+[15:23:08] 		 Port : 5432
+[15:23:08] 		 User : adminpg
+[15:23:08] 		 Password : pgAgrh!s08
+[15:23:08] 		 Database : agrhys_dev
+[15:23:09] 	 Tentative de connection : 
+[15:23:09] 		 HostName : 138.102.159.39
+[15:23:09] 		 Port : 5432
+[15:23:09] 		 User : adminpg
+[15:23:09] 		 Password : pgAgrh!s08
+[15:23:09] 		 Database : agrhys_dev
+[15:23:09] 	 Tentative de connection : 
+[15:23:09] 		 deja connecte
+[15:23:09] 	 Test des domaines
+[15:23:09] 			 X:\HYDRAS\Naizin\ OK
+[15:23:09] 			 C:\EFELE\ OK
+[15:23:09] 		 resultat : True
+[15:23:15] 	 Activation surveillance de : C:\export
+[15:23:15] 		 Lancement du traitement manuellement
+[15:23:15] 	 Aucun fichier a archiver
+[15:23:15] 	 Arret de la surveillance
+[15:25:11]  Demmarrage : 0.9.9.0
+[15:25:11]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:25:11] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:25:11] 		 resultat : False
+[15:25:11] 	 Arret de la surveillance
+[15:25:11]  Rafraichissement de la configuration
+[15:25:11] 	 Test de connection :
+[15:25:11] 		 HostName : 138.102.159.39
+[15:25:11] 		 Port : 5432
+[15:25:11] 		 User : adminpg
+[15:25:11] 		 Password : pgAgrh!s08
+[15:25:11] 		 Database : agrhys_dev
+[15:25:12] 	 Tentative de connection : 
+[15:25:12] 		 HostName : 138.102.159.39
+[15:25:12] 		 Port : 5432
+[15:25:12] 		 User : adminpg
+[15:25:12] 		 Password : pgAgrh!s08
+[15:25:12] 		 Database : agrhys_dev
+[15:25:12] 	 Tentative de connection : 
+[15:25:12] 		 deja connecte
+[15:25:12] 	 Test des domaines
+[15:25:12] 			 X:\HYDRAS\Naizin\ OK
+[15:25:12] 			 C:\EFELE\ OK
+[15:25:12] 		 resultat : True
+[15:25:17] 	 Activation surveillance de : C:\export
+[15:25:17] 		 Lancement du traitement manuellement
+[15:25:18]  Arret de traitement (Timer)
+[15:25:18] 	 Aucun fichier a archiver
+[15:25:18] 	 Arret de la surveillance
+[15:25:26]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:25:26]  Rafraichissement de la configuration
+[15:25:26] 	 Test de connection :
+[15:25:26] 		 HostName : 138.102.159.39
+[15:25:26] 		 Port : 5432
+[15:25:26] 		 User : adminpg
+[15:25:26] 		 Password : pgAgrh!s08
+[15:25:26] 		 Database : agrhys_dev
+[15:25:26] 	 Tentative de connection : 
+[15:25:26] 		 HostName : 138.102.159.39
+[15:25:26] 		 Port : 5432
+[15:25:26] 		 User : adminpg
+[15:25:26] 		 Password : pgAgrh!s08
+[15:25:26] 		 Database : agrhys_dev
+[15:25:26] 	 Tentative de connection : 
+[15:25:26] 		 deja connecte
+[15:25:26] 	 Test des domaines
+[15:25:26] 			 X:\HYDRAS\Naizin\ OK
+[15:25:26] 			 C:\EFELE\ OK
+[15:25:26] 		 resultat : True
+[15:25:28]  Sortie de programme
+[15:28:18]  Demmarrage : 0.9.9.0
+[15:28:18]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:28:18] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:28:18] 		 resultat : False
+[15:28:18] 	 Arret de la surveillance
+[15:28:18]  Rafraichissement de la configuration
+[15:28:18] 	 Test de connection :
+[15:28:18] 		 HostName : 138.102.159.39
+[15:28:18] 		 Port : 5432
+[15:28:18] 		 User : adminpg
+[15:28:18] 		 Password : pgAgrh!s08
+[15:28:18] 		 Database : agrhys_dev
+[15:28:19] 	 Tentative de connection : 
+[15:28:19] 		 HostName : 138.102.159.39
+[15:28:19] 		 Port : 5432
+[15:28:19] 		 User : adminpg
+[15:28:19] 		 Password : pgAgrh!s08
+[15:28:19] 		 Database : agrhys_dev
+[15:28:19] 	 Tentative de connection : 
+[15:28:19] 		 deja connecte
+[15:28:19] 	 Test des domaines
+[15:28:19] 			 X:\HYDRAS\Naizin\ OK
+[15:28:19] 			 C:\EFELE\ OK
+[15:28:19] 		 resultat : True
+[15:28:22]  Sortie de programme
+[15:29:58]  Demmarrage : 0.9.9.0
+[15:29:58]  lecture de la configuration : C:\ExportHydras\config.ini
+[15:29:58] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[15:29:58] 		 resultat : False
+[15:29:58] 	 Arret de la surveillance
+[15:29:58]  Rafraichissement de la configuration
+[15:29:58] 	 Test de connection :
+[15:29:58] 		 HostName : 138.102.159.39
+[15:29:58] 		 Port : 5432
+[15:29:58] 		 User : adminpg
+[15:29:58] 		 Password : pgAgrh!s08
+[15:29:58] 		 Database : agrhys_dev
+[15:29:58] 	 Tentative de connection : 
+[15:29:58] 		 HostName : 138.102.159.39
+[15:29:58] 		 Port : 5432
+[15:29:58] 		 User : adminpg
+[15:29:58] 		 Password : pgAgrh!s08
+[15:29:58] 		 Database : agrhys_dev
+[15:29:58] 	 Tentative de connection : 
+[15:29:58] 		 deja connecte
+[15:29:59] 	 Test des domaines
+[15:29:59] 			 X:\HYDRAS\Naizin\ OK
+[15:29:59] 			 C:\EFELE\ OK
+[15:29:59] 		 resultat : True
+[15:30:04] 	 Activation surveillance de : C:\export
+[15:30:04] 		 Lancement du traitement manuellement
+[15:30:06] 	 Fichier : C:\export\naizin_brutes.csv
+[15:30:06] 	 Domaine : 
+[15:30:06] 	 Mode manuel
+[15:30:06] 	 Tentative de connection : 
+[15:30:06] 		 deja connecte
+[15:30:06]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[15:30:06] 	 Verification existance du fichier
+[15:30:06]  recherche domaine pour : naizin_brutes.csv
+[15:30:07] 	 Trouvé domaine  : X:\HYDRAS\Naizin\
+[15:30:07]  Recherche de schema pour : X:\HYDRAS\Naizin\
+[15:30:07] 	 Tentative de connection : 
+[15:30:07] 		 deja connecte
+[15:30:07] 	 Trouvé Schema  : agrhys
+[15:30:07]  Lecture des stations pour : X:\HYDRAS\Naizin\
+[15:30:07] 	 Ouverture de la table : X:\HYDRAS\Naizin\GB_DATEI.DB
+[15:30:07] 	 Ouverture de la table OK
+[15:30:07] 	 Root open
+[15:30:07] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_02.DB
+[15:30:07] 	 Ouverture de la table OK
+[15:30:07] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[15:30:08] 	 Ouverture de la table OK
+[15:30:08] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[15:30:08] 	 Ouverture de la table OK
+[15:30:08] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[15:30:09] 	 Ouverture de la table OK
+[15:30:09] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[15:30:10] 	 Ouverture de la table OK
+[15:30:10] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[15:30:10] 	 Ouverture de la table OK
+[15:30:10] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[15:30:11] 	 Ouverture de la table OK
+[15:30:11] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[15:30:12] 	 Ouverture de la table OK
+[15:30:12] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[15:30:12] 	 Ouverture de la table OK
+[15:30:12] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[15:30:13] 	 Ouverture de la table OK
+[15:30:13] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[15:30:14] 	 Ouverture de la table OK
+[15:30:14] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[15:30:14] 	 Ouverture de la table OK
+[15:30:14] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[15:30:15] 	 Ouverture de la table OK
+[15:30:15] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[15:30:16] 	 Ouverture de la table OK
+[15:30:16] 	 Ouverture de la table : X:\HYDRAS\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[15:30:16] 	 Ouverture de la table OK
+[15:30:16] 	 Ouverture de la table : X:\HYDRAS\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[15:30:17] 	 Ouverture de la table OK
+[15:30:17] 	 Ouverture de la table : X:\HYDRAS\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[15:30:18] 	 Ouverture de la table OK
+[15:30:18] 	 Ouverture de la table : X:\HYDRAS\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[15:30:19] 	 Ouverture de la table OK
+[15:30:20]  Arret de traitement
+[15:30:20] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_03.DB
+[15:30:20] 	 Ouverture de la table OK
+[15:30:20] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[15:30:21] 	 Ouverture de la table OK
+[15:30:21] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[15:30:22] 	 Ouverture de la table OK
+[15:30:22] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[15:30:22] 	 Ouverture de la table OK
+[15:30:22] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[15:30:23] 	 Ouverture de la table OK
+[15:30:23] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[15:30:24] 	 Ouverture de la table OK
+[15:30:24] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[15:30:24] 	 Ouverture de la table OK
+[15:30:24] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[15:30:25] 	 Ouverture de la table OK
+[15:30:25] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[15:30:26] 	 Ouverture de la table OK
+[15:30:26] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[15:30:26] 	 Ouverture de la table OK
+[15:30:26] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[15:30:27] 	 Ouverture de la table OK
+[15:30:27] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[15:30:28] 	 Ouverture de la table OK
+[15:30:28] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_01.DB
+[15:30:28] 	 Ouverture de la table OK
+[15:30:28] 	 Ouverture de la table : X:\HYDRAS\Naizin\00002MET.EO\SS_DATEI.DB
+[15:30:28] 	 Ouverture de la table OK
+[15:30:28] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_04.DB
+[15:30:29] 	 Ouverture de la table OK
+[15:30:29] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[15:30:29] 	 Ouverture de la table OK
+[15:30:29] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_06.DB
+[15:30:30] 	 Ouverture de la table OK
+[15:30:30] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[15:30:30] 	 Ouverture de la table OK
+[15:30:30] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[15:30:31] 	 Ouverture de la table OK
+[15:30:31] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[15:30:32] 	 Ouverture de la table OK
+[15:30:32] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[15:30:32] 	 Ouverture de la table OK
+[15:30:32] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[15:30:33] 	 Ouverture de la table OK
+[15:30:33] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[15:30:34] 	 Ouverture de la table OK
+[15:30:34] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[15:30:34] 	 Ouverture de la table OK
+[15:30:34] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[15:30:35] 	 Ouverture de la table OK
+[15:30:35] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[15:30:36] 	 Ouverture de la table OK
+[15:30:36] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[15:30:36] 	 Ouverture de la table OK
+[15:30:36] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[15:30:37] 	 Ouverture de la table OK
+[15:30:37] 	 Mise a jour de stations pour agrhys
+[15:30:37] 	 Tentative de connection : 
+[15:30:37] 		 deja connecte
+[15:30:37] 		 Ajout de 0 stations
+[15:30:37] 	 Tentative de connection : 
+[15:30:37] 		 deja connecte
+[15:30:37] 	 Calcul du tampon
+[15:30:37] 	 Initialisation du fichier
+[15:30:37] 	 Traitement du fichier
+[15:30:37] 		 Initialisation nouveau fichier d'insertion
+[15:30:39] 	 Fichier : C:\export\naizin_brutes.csv
+[15:30:39] 	 Domaine : X:\HYDRAS\Naizin\
+[15:30:39] 	 Mode manuel
+[15:30:39] 	 Tentative de connection : 
+[15:30:39] 		 deja connecte
+[15:30:39]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[15:30:39] 	 Verification existance du fichier
+[15:30:39]  recherche domaine pour : naizin_brutes.csv
+[15:30:39] 	 Trouvé domaine  : X:\HYDRAS\Naizin\
+[15:30:39]  Recherche de schema pour : X:\HYDRAS\Naizin\
+[15:30:39] 	 Tentative de connection : 
+[15:30:39] 		 deja connecte
+[15:30:39] 	 Trouvé Schema  : agrhys
+[15:30:39]  Lecture des stations pour : X:\HYDRAS\Naizin\
+[15:30:39] 	 Ouverture de la table : X:\HYDRAS\Naizin\GB_DATEI.DB
+[15:30:39] 		 Table deja ouverte
+[15:30:39] 	 Root open
+[15:30:39] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_02.DB
+[15:30:40] 	 Ouverture de la table OK
+[15:30:40] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[15:30:40] 	 Ouverture de la table OK
+[15:30:40] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[15:30:41] 	 Ouverture de la table OK
+[15:30:41] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[15:30:42] 	 Ouverture de la table OK
+[15:30:42] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[15:30:42] 	 Ouverture de la table OK
+[15:30:42] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[15:30:43] 	 Ouverture de la table OK
+[15:30:43] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[15:30:44] 	 Ouverture de la table OK
+[15:30:44] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[15:30:44] 	 Ouverture de la table OK
+[15:30:44] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[15:30:45] 	 Ouverture de la table OK
+[15:30:45] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[15:30:46] 	 Ouverture de la table OK
+[15:30:46] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[15:30:46] 	 Ouverture de la table OK
+[15:30:46] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[15:30:47] 	 Ouverture de la table OK
+[15:30:47] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[15:30:48] 	 Ouverture de la table OK
+[15:30:48] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[15:30:48] 	 Ouverture de la table OK
+[15:30:48] 	 Ouverture de la table : X:\HYDRAS\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[15:30:49] 	 Ouverture de la table OK
+[15:30:49] 	 Ouverture de la table : X:\HYDRAS\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[15:30:50] 	 Ouverture de la table OK
+[15:30:50] 	 Ouverture de la table : X:\HYDRAS\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[15:30:50] 	 Ouverture de la table OK
+[15:30:50] 	 Ouverture de la table : X:\HYDRAS\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[16:22:43]  Demmarrage : 0.9.9.0
+[16:22:43]  lecture de la configuration : C:\ExportHydras\config.ini
+[16:22:43] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[16:22:43] 		 resultat : False
+[16:22:43] 	 Arret de la surveillance
+[16:22:43]  Rafraichissement de la configuration
+[16:22:43] 	 Test de connection :
+[16:22:43] 		 HostName : 138.102.159.39
+[16:22:43] 		 Port : 5432
+[16:22:43] 		 User : adminpg
+[16:22:43] 		 Password : pgAgrh!s08
+[16:22:43] 		 Database : agrhys_dev
+[16:22:43] 	 Tentative de connection : 
+[16:22:43] 		 HostName : 138.102.159.39
+[16:22:43] 		 Port : 5432
+[16:22:43] 		 User : adminpg
+[16:22:43] 		 Password : pgAgrh!s08
+[16:22:43] 		 Database : agrhys_dev
+[16:22:43] 	 Tentative de connection : 
+[16:22:43] 		 deja connecte
+[16:22:43] 	 Test des domaines
+[16:22:43] 			 X:\HYDRAS\Naizin\ OK
+[16:22:43] 			 C:\EFELE\ OK
+[16:22:44] 		 resultat : True
+[16:24:13]  Demmarrage : 0.9.9.0
+[16:24:13]  lecture de la configuration : C:\ExportHydras\config.ini
+[16:24:13] 	 Test dans la base de registre de  : EXPORTHYDRAS et de la valeur C:\ExportHydras\ProjectExport.exe
+[16:24:13] 		 resultat : False
+[16:24:13] 	 Arret de la surveillance
+[16:24:13]  Rafraichissement de la configuration
+[16:24:13] 	 Test de connection :
+[16:24:13] 		 HostName : 138.102.159.39
+[16:24:13] 		 Port : 5432
+[16:24:13] 		 User : adminpg
+[16:24:13] 		 Password : pgAgrh!s08
+[16:24:13] 		 Database : agrhys_dev
+[16:24:13] 	 Tentative de connection : 
+[16:24:13] 		 HostName : 138.102.159.39
+[16:24:13] 		 Port : 5432
+[16:24:13] 		 User : adminpg
+[16:24:13] 		 Password : pgAgrh!s08
+[16:24:13] 		 Database : agrhys_dev
+[16:24:14] 	 Tentative de connection : 
+[16:24:14] 		 deja connecte
+[16:24:14] 	 Test des domaines
+[16:24:14] 			 X:\HYDRAS\Naizin\ OK
+[16:24:14] 			 C:\EFELE\ OK
+[16:24:14] 		 resultat : True
+[16:24:19] 	 Activation surveillance de : C:\export
+[16:24:19] 		 Lancement du traitement manuellement
+[16:24:21] 	 Fichier : C:\export\naizin_brutes.csv
+[16:24:21] 	 Domaine : 
+[16:24:21] 	 Mode manuel
+[16:24:21] 	 Tentative de connection : 
+[16:24:21] 		 deja connecte
+[16:24:21]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[16:24:21] 	 Verification existance du fichier
+[16:24:21]  recherche domaine pour : naizin_brutes.csv
+[16:24:21] 	 Trouvé domaine  : X:\HYDRAS\Naizin\
+[16:24:21]  Recherche de schema pour : X:\HYDRAS\Naizin\
+[16:24:21] 	 Tentative de connection : 
+[16:24:21] 		 deja connecte
+[16:24:21] 	 Trouvé Schema  : agrhys
+[16:24:21]  Lecture des stations pour : X:\HYDRAS\Naizin\
+[16:24:21] 	 Ouverture de la table : X:\HYDRAS\Naizin\GB_DATEI.DB
+[16:24:22] 	 Ouverture de la table OK
+[16:24:22] 	 Root open
+[16:24:22] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_02.DB
+[16:24:22] 	 Ouverture de la table OK
+[16:24:22] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[16:24:22] 	 Ouverture de la table OK
+[16:24:22] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[16:24:23] 	 Ouverture de la table OK
+[16:24:23] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[16:24:24] 	 Ouverture de la table OK
+[16:24:24] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[16:24:24] 	 Ouverture de la table OK
+[16:24:24] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[16:24:25] 	 Ouverture de la table OK
+[16:24:25] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[16:24:26] 	 Ouverture de la table OK
+[16:24:26] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[16:24:26] 	 Ouverture de la table OK
+[16:24:26] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[16:24:27] 	 Ouverture de la table OK
+[16:24:27] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[16:24:28] 	 Ouverture de la table OK
+[16:24:28] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[16:24:28] 	 Ouverture de la table OK
+[16:24:28] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[16:24:29] 	 Ouverture de la table OK
+[16:24:29] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[16:24:30] 	 Ouverture de la table OK
+[16:24:30] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[16:24:31] 	 Ouverture de la table OK
+[16:24:31] 	 Ouverture de la table : X:\HYDRAS\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[16:24:32] 	 Ouverture de la table OK
+[16:24:32] 	 Ouverture de la table : X:\HYDRAS\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[16:24:32] 	 Ouverture de la table OK
+[16:24:32] 	 Ouverture de la table : X:\HYDRAS\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[16:24:33] 	 Ouverture de la table OK
+[16:24:33] 	 Ouverture de la table : X:\HYDRAS\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[16:24:33] 	 Ouverture de la table OK
+[16:24:35]  Arret de traitement
+[16:24:35] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_03.DB
+[16:24:35] 	 Ouverture de la table OK
+[16:24:35] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[16:24:36] 	 Ouverture de la table OK
+[16:24:36] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[16:24:37] 	 Ouverture de la table OK
+[16:24:37] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[16:24:38] 	 Ouverture de la table OK
+[16:24:38] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[16:24:38] 	 Ouverture de la table OK
+[16:24:38] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[16:24:39] 	 Ouverture de la table OK
+[16:24:39] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[16:24:39] 	 Ouverture de la table OK
+[16:24:39] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[16:24:40] 	 Ouverture de la table OK
+[16:24:40] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[16:24:41] 	 Ouverture de la table OK
+[16:24:41] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[16:24:41] 	 Ouverture de la table OK
+[16:24:41] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[16:24:42] 	 Ouverture de la table OK
+[16:24:42] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[16:24:43] 	 Ouverture de la table OK
+[16:24:43] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_01.DB
+[16:24:43] 	 Ouverture de la table OK
+[16:24:43] 	 Ouverture de la table : X:\HYDRAS\Naizin\00002MET.EO\SS_DATEI.DB
+[16:24:44] 	 Ouverture de la table OK
+[16:24:44] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_04.DB
+[16:24:44] 	 Ouverture de la table OK
+[16:24:44] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[16:24:44] 	 Ouverture de la table OK
+[16:24:45] 	 Ouverture de la table : X:\HYDRAS\Naizin\GBM_06.DB
+[16:24:45] 	 Ouverture de la table OK
+[16:24:45] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[16:24:46] 	 Ouverture de la table OK
+[16:24:46] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[16:24:46] 	 Ouverture de la table OK
+[16:24:46] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[16:24:47] 	 Ouverture de la table OK
+[16:24:47] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[16:24:48] 	 Ouverture de la table OK
+[16:24:48] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[16:24:48] 	 Ouverture de la table OK
+[16:24:48] 	 Ouverture de la table : X:\HYDRAS\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[16:24:49] 	 Ouverture de la table OK
+[16:24:49] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[16:24:50] 	 Ouverture de la table OK
+[16:24:50] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[16:24:50] 	 Ouverture de la table OK
+[16:24:50] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[16:24:51] 	 Ouverture de la table OK
+[16:24:51] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[16:24:52] 	 Ouverture de la table OK
+[16:24:52] 	 Ouverture de la table : X:\HYDRAS\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[16:24:52] 	 Ouverture de la table OK
+[16:24:52] 	 Mise a jour de stations pour agrhys
+[16:24:52] 	 Tentative de connection : 
+[16:24:52] 		 deja connecte
+[16:24:52] 		 Ajout de 0 stations
+[16:24:52] 	 Tentative de connection : 
+[16:24:52] 		 deja connecte
+[16:24:52] 	 Calcul du tampon
+[16:24:52] 	 Initialisation du fichier
+[16:24:52] 	 Traitement du fichier
+[16:24:52] 		 Initialisation nouveau fichier d'insertion
+[16:26:47] 		 Traitement du fichier fini
+[16:26:47] 	 Tentative de connection : 
+[16:26:47] 		 deja connecte
