@@ -45,7 +45,7 @@ BEGIN
 
     CREATE TABLE importation (  id serial NOT NULL,
                                 myType int DEFAULT 0,
-                                keyId character varying(25), 
+                                keyId bigint, 
                                 station_id int4 NOT NULL,
                                 sensor_id int4 NOT NULL,
                                 date_record timestamp NOT NULL,
@@ -76,7 +76,7 @@ BEGIN
 	INSERT INTO importation (keyid, myType, station_id, sensor_id, date_record, valeur, info)
 			SELECT 
 			-- RegEx ne conserve que les digits
-			concat(station.id,sensor.id, regexp_replace(to_char(TO_TIMESTAMP(REPLACE(import.date_heure,'24:00:00','00:00:00'), 'DD/MM/YYYY HH24:MI:SS:MS'), 'YYYYMMDD HH24:MI'), '\D','','g')), 
+			cast(concat(station.id,sensor.id, regexp_replace(to_char(TO_TIMESTAMP(REPLACE(import.date_heure,'24:00:00','00:00:00'), 'DD/MM/YYYY HH24:MI:SS:MS'), 'YYYYMMDD HH24:MI'), '\D','','g')) as bigint), 
 			CASE substr(import.info, 0, 2)	
 				WHEN '#' THEN
 					2
@@ -105,40 +105,40 @@ BEGIN
 	SELECT public._hydras_add_log('IMPORTATION', cast(TEMP as TEXT),  'lignes ajoutées dans importation') INTO TEMPTIME;
 						
 	-- Doublons dans le fichier lui meme.
-	DELETE FROM importation AS i WHERE i.id in ( SELECT id FROM
-					(SELECT unnest(ARRAY_AGG(id)) as id FROM importation GROUP BY keyId, station_id, sensor_id, date_record, valeur, info HAVING  COUNT(*) > 1) a 
-					WHERE id NOT IN (SELECT min(id) as id FROM importation GROUP BY keyId, station_id, sensor_id, date_record, valeur, info HAVING COUNT(*) > 1));		
+--	DELETE FROM importation AS i WHERE i.id in ( SELECT id FROM
+--					(SELECT unnest(ARRAY_AGG(id)) as id FROM importation GROUP BY keyId, station_id, sensor_id, date_record, valeur, info HAVING  COUNT(*) > 1) a 
+--					WHERE id NOT IN (SELECT min(id) as id FROM importation GROUP BY keyId, station_id, sensor_id, date_record, valeur, info HAVING COUNT(*) > 1));		
 
-	GET DIAGNOSTICS TEMP = ROW_COUNT;
-	SELECT public._hydras_add_log('DOUB_FILE', cast(TEMP as TEXT),  'Doublons dans le fichier lui meme') INTO TEMPTIME;
+--	GET DIAGNOSTICS TEMP = ROW_COUNT;
+--	SELECT public._hydras_add_log('DOUB_FILE', cast(TEMP as TEXT),  'Doublons dans le fichier lui meme') INTO TEMPTIME;
 
 	-- Doublons avec une valeur null (pas 0).
-	DELETE FROM importation AS i WHERE i.keyid = (SELECT keyid FROM data AS d WHERE d.keyid = i.keyid AND d.raw_data isnull AND i.valeur isNULL);
+	DELETE FROM importation AS i WHERE i.keyid = (SELECT keyid FROM data AS d WHERE d.keyid = i.keyid AND d.value_raw isnull AND i.valeur isNULL);
 
 	GET DIAGNOSTICS TEMP = ROW_COUNT;
 	SELECT public._hydras_add_log('DOUB_NULL', cast(TEMP as TEXT),  'Doublons avec une valeur null') INTO TEMPTIME;
 
 	-- Doublons des valeurs brutes.
-	DELETE FROM importation AS i WHERE i.keyid = (SELECT keyid FROM data AS d WHERE d.keyid = i.keyid AND d.raw_data = i.valeur and (i.info = '' OR i.info isNULL));
+	DELETE FROM importation AS i WHERE i.keyid = (SELECT keyid FROM data AS d WHERE d.keyid = i.keyid AND d.value_raw = i.valeur and (i.info = '' OR i.info isNULL));
 
 	GET DIAGNOSTICS TEMP = ROW_COUNT;
 	SELECT public._hydras_add_log('DOUB_BRUT', cast(TEMP as TEXT),  'Doublons des valeurs brutes') INTO TEMPTIME;
 
 	-- Doublons des valeurs corrigees.
-	DELETE FROM importation AS i WHERE i.keyid = (SELECT distinct keyid FROM data_update AS u WHERE u.keyid = i.keyid and u.value = i.valeur and i.info = '#') AND myType=2;
+	DELETE FROM importation AS i WHERE i.keyid = (SELECT distinct keyid FROM correction AS c WHERE c.keyid = i.keyid and c.value_correction = i.valeur and i.info = '#') AND myType=2;
 			
 	GET DIAGNOSTICS TEMP = ROW_COUNT;
 	SELECT public._hydras_add_log('DOUB_UPDATE', cast(TEMP as TEXT),  'Doublons des valeurs corrigees') INTO TEMPTIME;
 				
 	-- Doublons des valeurs validees.
-	DELETE FROM importation AS i WHERE i.keyid = (SELECT keyid FROM  data AS d WHERE d.keyid = i.keyid AND d.validate_data = i.valeur) AND myType=3;
+	DELETE FROM importation AS i WHERE i.keyid = (SELECT keyid FROM  correction AS c WHERE c.keyid = i.keyid AND c.value_correction = i.valeur) AND myType=3;
 
 	GET DIAGNOSTICS TEMP = ROW_COUNT;
 	SELECT public._hydras_add_log('DOUB_VALIDATE', cast(TEMP as TEXT),  'Doublons des valeurs validees') INTO TEMPTIME;
 
 	SELECT public._hydras_add_log('REMAIN', CAST((SELECT COUNT(*) FROM importation) AS VARCHAR), 'ligne(s) restant à traiter') INTO TEMPTIME;
 
-	INSERT 	INTO data (keyid, station_id, sensor_id, date_record, raw_data) 
+	INSERT 	INTO data (keyid, station_id, sensor_id, date_raw, value_raw) 
 			SELECT keyid, station_id, sensor_id, date_record, valeur
 			FROM importation
 			WHERE myType=1
@@ -147,27 +147,35 @@ BEGIN
 	GET DIAGNOSTICS TEMP = ROW_COUNT;
 	SELECT public._hydras_add_log('ADD_BRUT', cast(TEMP as TEXT),  'Nombre de ligne(s) ajoutées aux données brutes') INTO TEMPTIME;
 
-	INSERT 	INTO data_update (keyid, date, value) 
+	INSERT 	INTO correction (keyid, date_correction, value_correction) 
 			SELECT keyid, date_record, valeur
 			FROM importation AS i
 			WHERE i.keyid in (select keyid from data) 
-			AND i.keyid NOT in (select keyid from data_update) 
+			AND i.keyid NOT in (select keyid from correction) 
 			AND i.myType=2;
 
 
 	GET DIAGNOSTICS TEMP = ROW_COUNT;
 	SELECT public._hydras_add_log('ADD_UPDATE', cast(TEMP as TEXT), 'Nombre de ligne(s) ajoutées aux données corrigées') INTO TEMPTIME;
 	
-	UPDATE data AS d 	SET validate_data = valeur
-						FROM importation As i
-						WHERE d.keyid = i.keyid
-						AND i.myType=3;
+--	UPDATE data AS d 	SET validate_data = valeur
+--						FROM importation As i
+--						WHERE d.keyid = i.keyid
+--						AND i.myType=3;
+					
+	INSERT 	INTO correction (keyid, date_correction, value_correction) 
+			SELECT keyid, date_record, valeur
+			FROM importation AS i
+			WHERE i.keyid in (select keyid from data) 
+			AND i.keyid NOT in (select keyid from correction) 
+			AND i.myType=3;					
+					
 
 	GET DIAGNOSTICS TEMP = ROW_COUNT;
 	SELECT public._hydras_add_log('ADD_VALIDATE', cast(TEMP as text), 'Nombre de données validées') INTO TEMPTIME;
 
-	INSERT 	INTO data (keyid, station_id, sensor_id, date_record, raw_data, validate_data) 
-			SELECT keyid, station_id, sensor_id, date_record, null, valeur
+	INSERT 	INTO data (keyid, station_id, sensor_id, date_raw, value_raw) 
+			SELECT keyid, station_id, sensor_id, date_record, null
 			FROM importation as i
 			WHERE i.myType=3
 			ON CONFLICT (keyid) DO NOTHING;	

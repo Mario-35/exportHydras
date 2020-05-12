@@ -1,11 +1,12 @@
-CREATE OR REPLACE FUNCTION public._hydras_create_table(nametable text) returns void AS
+CREATE OR REPLACE FUNCTION public._hydras_create_table(nametable text, ownername text) returns void AS
 $$
  declare
 	TEMPTEXT TEXT;	
     TEST BOOLEAN;
 
 BEGIN
-    RAISE NOTICE 'CREATE_TABLE % ', $1;
+    RAISE NOTICE 'Create table % ', $1;
+    RAISE NOTICE 'Owner : % ', $2;
     CASE $1
         WHEN 'logs' THEN
             DROP TABLE IF EXISTS logs;
@@ -16,36 +17,40 @@ BEGIN
                                 lvaleur text, 
                                 logstr text,
                                 CONSTRAINT public_id_key UNIQUE (id));
+            
         WHEN 'data' THEN
             CREATE TABLE data (
-            				id serial NOT NULL,
-                            keyid varchar(25) NOT NULL,
+            				id bigserial NOT NULL,
+                            keyid bigint NOT NULL,
                             station_id int4 NOT NULL,
                             sensor_id int4 NOT NULL,
-                            date_record timestamp NOT NULL,
-                            raw_data float8 NULL,
-                            validate_data float8 NULL,
+                            date_raw timestamp NOT NULL,
+                            value_raw float8 NULL,
+                            value_correction_id int4 NULL,
                             CONSTRAINT data_id_key UNIQUE (id),
                             CONSTRAINT data_pkey PRIMARY KEY (id),
-                            CONSTRAINT data_keyid_key UNIQUE (keyid));       
+                            CONSTRAINT data_keyid_key UNIQUE (keyid));
+            EXECUTE 'ALTER TABLE ' || nametable || ' OWNER TO ' || ownername; 
+
         WHEN 'import' THEN
             CREATE TABLE IF NOT EXISTS public.import (   station text,
                                     sensor text, 
                                     date_heure text,
                                     valeur text,
                                     info text);
+            EXECUTE 'ALTER TABLE ' || nametable || ' OWNER TO ' || ownername; 
             
-        WHEN 'data_update' THEN
-            CREATE TABLE data_update (
-                            id serial NOT NULL,
-                            keyid varchar(25) NOT NULL,
-                            "date" timestamp NOT NULL,
-                            value float8 NULL,
-                            CONSTRAINT data_update_id_key UNIQUE (id),
-                            CONSTRAINT data_update_pkey PRIMARY KEY (id));
+        WHEN 'correction' THEN
+            CREATE TABLE correction (
+            				id bigserial NOT NULL,
+                            keyid bigint NOT NULL,
+                            date_correction timestamp NOT NULL,
+                            value_correction float8 NULL,
+                            CONSTRAINT data_correction_id_key UNIQUE (id),
+                            CONSTRAINT data_correction_pkey PRIMARY KEY (id));
                                     
-            ALTER TABLE data_update ADD CONSTRAINT fk_data_update__keyid FOREIGN KEY (keyid) REFERENCES data(keyid) ON DELETE CASCADE;
-
+            ALTER TABLE correction ADD CONSTRAINT fk_data_correction__keyid FOREIGN KEY (keyid) REFERENCES data(keyid) ON DELETE CASCADE;
+            EXECUTE 'ALTER TABLE ' || nametable || ' OWNER TO ' || ownername; 
             
         WHEN 'importation' THEN
             CREATE TABLE importation (  id serial NOT NULL,
@@ -56,6 +61,7 @@ BEGIN
                                         date_record timestamp NOT NULL,
                                         valeur float8 NULL,
                                         info character varying(5));
+            EXECUTE 'ALTER TABLE ' || nametable || ' OWNER TO ' || ownername; 
             
         WHEN 'logsImports' THEN
             CREATE TABLE logsImports (  logs_id int DEFAULT 0,
@@ -67,6 +73,7 @@ BEGIN
                                         valeur float8 NULL,
                                         info character varying(5));
             -- ALTER TABLE logsImports ADD CONSTRAINT fk_area_id FOREIGN KEY (logs_id) REFERENCES public.logs(id);
+            EXECUTE 'ALTER TABLE ' || nametable || ' OWNER TO ' || ownername; 
             
         WHEN 'area' THEN
             CREATE TABLE area ( id serial NOT NULL,
@@ -75,6 +82,7 @@ BEGIN
                                 CONSTRAINT area_id_key UNIQUE (id),
                                 CONSTRAINT area_code_key UNIQUE (code),
                                 CONSTRAINT area_pkey PRIMARY KEY (id));
+            EXECUTE 'ALTER TABLE ' || nametable || ' OWNER TO ' || ownername; 
             
 		WHEN 'station' THEN
             CREATE TABLE station (  id serial NOT NULL,
@@ -85,6 +93,7 @@ BEGIN
                                     CONSTRAINT station_pkey PRIMARY KEY (id));
 
 	        ALTER TABLE station ADD CONSTRAINT fk_area_id FOREIGN KEY (area_id) REFERENCES area(id);
+            EXECUTE 'ALTER TABLE ' || nametable || ' OWNER TO ' || ownername; 
             
 		WHEN 'sensor' THEN
             CREATE TABLE sensor (  id serial NOT NULL,
@@ -94,6 +103,8 @@ BEGIN
                                     CONSTRAINT sensor_code_key UNIQUE (code),
                                     CONSTRAINT sensor_pkey PRIMARY KEY (id));
             
+            EXECUTE 'ALTER TABLE ' || nametable || ' OWNER TO ' || ownername; 
+
         ELSE
             RAISE NOTICE 'CREATE_TABLE ERROR Not found case structure';
     END CASE;  

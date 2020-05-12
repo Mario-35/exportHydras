@@ -50,7 +50,7 @@ object FormConfiguration: TFormConfiguration
     Top = 0
     Width = 704
     Height = 537
-    ActivePage = TabSheetHydras
+    ActivePage = TabSheetconfiguration
     Align = alClient
     TabOrder = 1
     OnChange = PageControlConfigurationChange

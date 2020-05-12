@@ -959,7 +959,9 @@ procedure TFormConfiguration.CreateNewSchema(Sender: TObject);
             Do Begin
               Try
                 If DataModuleDatas.IsProcedureExist('_hydras_create_schema')
-                  Then ExecuteDirect(format('SELECT * from public._hydras_create_schema(''%s'', ''%s'');', [value, DataModuleDatas.connectionPostgres.User]));
+                  Then Begin
+                    ExecuteDirect(format('SELECT * from public._hydras_create_schema(''%s'', ''%s'');', [value, DataModuleDatas.connectionPostgres.User]));
+                  End;
               Except
                 On E: Exception Do
                 LogLine(2 , 'Exception : ' + E.Message);
@@ -1112,7 +1114,7 @@ procedure TFormConfiguration.ReCrer1Click(Sender: TObject);
     i : integer;
 
 begin
-LIST_FILES2.Clear;
+  LIST_FILES2.Clear;
   FindFilePattern(LIST_FILES2, FILE_SQL, '.sql', False);
   LogLine(0, 'Re-création des procedures');
   If DataModuleDatas.isAdminConnected
@@ -1121,6 +1123,7 @@ LIST_FILES2.Clear;
           TEMP_LIST.LoadFromFile(LIST_FILES2[i]);
            LogLine(1, format('Creation du script de : %s', [LIST_FILES2[i]]));
            DataModuleDatas.connectionAdmin.ExecuteDirect(TEMP_LIST.Text);
+           Verifier1Click(self);
         End;
 end;
 

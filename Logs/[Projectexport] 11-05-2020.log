@@ -1,0 +1,198 @@
+[11:55:46]  Demmarrage version : 0.9.9.0
+[11:55:46]  lecture de la configuration
+[11:55:46]  Rafraichissement de la configuration
+[11:55:46] 	 Activation surveillance de : C:\export
+[11:55:46] 	 Connection pour adam OK
+[11:55:46] 	 Test des domaines
+[11:55:46] 		 Domaine C:\Naizin\  -> Ok
+[11:55:46] 	 Connection Admin OK
+[11:55:46] 	 adam deja connecte
+[11:55:49] 	 Arret de la surveillance de : C:\export
+[11:55:57]  Re-création des procedures
+[11:55:57] 	 Admin deja connecte
+[11:55:57] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[11:55:57] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_key.sql
+[12:12:31]  lecture de la configuration
+[12:12:31]  Rafraichissement de la configuration
+[12:12:31] 	 Activation surveillance de : C:\export
+[12:12:31] 	 Connection pour adam OK
+[12:12:31] 	 Test des domaines
+[12:12:31] 		 Domaine C:\Naizin\  -> Ok
+[12:12:31] 	 Connection Admin OK
+[12:12:31] 	 adam deja connecte
+[12:13:56]  Sortie de programme
+[12:14:38]  Demmarrage version : 0.9.9.0
+[12:14:38]  lecture de la configuration
+[12:14:38]  Rafraichissement de la configuration
+[12:14:38] 	 Activation surveillance de : C:\export
+[12:14:38] 	 Connection pour adam OK
+[12:14:38] 	 Test des domaines
+[12:14:38] 		 Domaine C:\Naizin\  -> Ok
+[12:14:38] 	 Connection Admin OK
+[12:14:38] 	 adam deja connecte
+[12:14:40] 	 Arret de la surveillance de : C:\export
+[12:14:43]  Re-création des procedures
+[12:14:43] 	 Admin deja connecte
+[12:14:43] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[12:14:43] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[12:14:43] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[12:14:43] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[12:14:43] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[12:14:43] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[12:14:43] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[12:14:46]  Verification existance des scripts
+[12:14:46] 	 Admin deja connecte
+[12:14:46]  Liste des procedures 
+[16:01:38]  lecture de la configuration
+[16:01:38]  Rafraichissement de la configuration
+[16:01:39] 	 Activation surveillance de : C:\export
+[16:01:39] 	 Connection pour adam OK
+[16:01:39] 	 Test des domaines
+[16:01:39] 		 Domaine C:\Naizin\  -> Ok
+[16:01:39] 	 Connection Admin OK
+[16:01:39] 	 adam deja connecte
+[16:01:40]  Sortie de programme
+[18:27:17]  Demmarrage version : 0.9.9.0
+[18:27:17]  lecture de la configuration
+[18:27:17]  Rafraichissement de la configuration
+[18:27:17] 	 Activation surveillance de : C:\export
+[18:27:17] 	 Connection pour adam OK
+[18:27:17] 	 Test des domaines
+[18:27:17] 		 Domaine C:\Naizin\  -> Ok
+[18:27:17] 	 Connection Admin OK
+[18:27:17] 	 adam deja connecte
+[18:27:20] 	 Arret de la surveillance de : C:\export
+[18:27:22]  Re-création des procedures
+[18:27:22] 	 Admin deja connecte
+[18:27:22] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[18:27:22] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[18:27:22] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[18:27:22] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[18:27:22] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[18:27:22] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[18:27:22] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[18:27:22] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[18:27:26]  Verification existance des scripts
+[18:27:26] 	 Admin deja connecte
+[18:27:26]  Liste des procedures 
+[18:27:56]  Re-création des procedures
+[18:27:56] 	 Admin deja connecte
+[18:27:56] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[18:27:56] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[18:27:56] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[18:27:56] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[18:27:56] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[18:27:56] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[18:27:56] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[18:27:56] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[18:27:59]  Verification existance des scripts
+[18:27:59] 	 Admin deja connecte
+[18:27:59]  Liste des procedures 
+[18:28:02]  lecture de la configuration
+[18:28:02]  Rafraichissement de la configuration
+[18:28:02] 	 Activation surveillance de : C:\export
+[18:28:02] 	 Connection pour adam OK
+[18:28:02] 	 Test des domaines
+[18:28:02] 		 Domaine C:\Naizin\  -> Ok
+[18:28:02] 	 Connection Admin OK
+[18:28:02] 	 adam deja connecte
+[18:28:08]  Sortie de programme
+[18:28:16]  Demmarrage version : 0.9.9.0
+[18:28:16]  lecture de la configuration
+[18:28:16]  Rafraichissement de la configuration
+[18:28:16] 	 Activation surveillance de : C:\export
+[18:28:16] 	 Connection pour adam OK
+[18:28:16] 	 Test des domaines
+[18:28:16] 		 Domaine C:\Naizin\  -> Ok
+[18:28:16] 	 Connection Admin OK
+[18:28:16] 	 adam deja connecte
+[18:28:19] 	 Arret de la surveillance de : C:\export
+[18:55:28]  Rafraichissement de la configuration
+[18:55:28] 	 Activation surveillance de : C:\export
+[18:55:28] 	 Connection pour adam OK
+[18:55:28] 	 Test des domaines
+[18:55:28] 		 Domaine C:\Naizin\  -> Ok
+[18:55:28] 	 Connection Admin OK
+[18:55:28] 	 adam deja connecte
+[18:55:29]  Sortie de programme
+[20:07:15]  Demmarrage version : 0.9.9.0
+[20:07:15]  lecture de la configuration
+[20:07:15]  Rafraichissement de la configuration
+[20:07:15] 	 Activation surveillance de : C:\export
+[20:07:15] 	 Connection pour adam OK
+[20:07:15] 	 Test des domaines
+[20:07:15] 		 Domaine C:\Naizin\  -> Ok
+[20:07:15] 	 Connection Admin OK
+[20:07:15] 	 adam deja connecte
+[20:07:17] 	 Arret de la surveillance de : C:\export
+[20:07:20]  Re-création des procedures
+[20:07:20] 	 Admin deja connecte
+[20:07:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[20:07:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[20:07:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[20:07:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[20:07:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[20:07:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[20:07:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[20:07:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[20:07:22]  Verification existance des scripts
+[20:07:22] 	 Admin deja connecte
+[20:07:22]  Liste des procedures 
+[20:16:26]  Re-création des procedures
+[20:16:26] 	 Admin deja connecte
+[20:16:26] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[20:16:26] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[20:16:26] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[20:16:26] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[20:16:26] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[20:16:26] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[20:16:26] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[20:16:26] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[20:17:34]  Re-création des procedures
+[20:17:34] 	 Admin deja connecte
+[20:17:34] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[20:17:34] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[20:17:34] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[20:17:34] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[20:17:34] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[20:17:34] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[20:17:34] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[20:17:34] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[20:18:44]  Re-création des procedures
+[20:18:44] 	 Admin deja connecte
+[20:18:44] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[20:18:44] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[20:18:44] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[20:18:44] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[20:18:44] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[20:18:44] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[20:18:44] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[20:18:44] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[20:21:51]  Re-création des procedures
+[20:21:51] 	 Admin deja connecte
+[20:21:51] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[20:21:51] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[20:21:51] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[20:21:51] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[20:21:51] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[20:21:51] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[20:21:51] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[20:21:51] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[20:24:47]  Re-création des procedures
+[20:24:47] 	 Admin deja connecte
+[20:24:47] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[20:24:47] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[20:24:47] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[20:24:47] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[20:24:47] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[20:24:47] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[20:24:47] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[20:24:47] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[20:33:03]  Rafraichissement de la configuration
+[20:33:03] 	 Activation surveillance de : C:\export
+[20:33:03] 	 Connection pour adam OK
+[20:33:03] 	 Test des domaines
+[20:33:03] 		 Domaine C:\Naizin\  -> Ok
+[20:33:03] 	 Connection Admin OK
+[20:33:03] 	 adam deja connecte
+[20:33:04]  Sortie de programme

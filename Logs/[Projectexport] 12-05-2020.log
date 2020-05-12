@@ -1,0 +1,2279 @@
+[08:54:40]  Demmarrage version : 0.9.9.0
+[08:54:41]  lecture de la configuration
+[08:54:41]  Rafraichissement de la configuration
+[08:54:41] 		 Exception : SQL Error: FATAL:  la base de données « api » n'existe pas
+[08:54:41] 		 Exception : SQL Error: FATAL:  la base de données « api » n'existe pas
+[08:54:41] 	 Activation surveillance de : C:\export
+[08:54:43] 	 Arret de la surveillance de : C:\export
+[08:54:56]  Lecture des stations pour : \ pour la configuration automatique
+[08:54:56] 	 Ouverture de la table : \GB_DATEI.DB
+[08:54:56] 	 Fichier \GB_DATEI.DB non trouvé
+[08:54:56] 	 _DATABASENOTCONNECTED
+[08:54:56] 	 Ouverture de la table : AUTOEXPO.DB
+[08:54:56] 	 Fichier AUTOEXPO.DB non trouvé
+[08:54:58]  Lecture des stations pour : \ pour la configuration automatique
+[08:54:58] 	 Ouverture de la table : \GB_DATEI.DB
+[08:54:58] 	 Fichier \GB_DATEI.DB non trouvé
+[08:54:58] 	 _DATABASENOTCONNECTED
+[08:54:58] 	 Ouverture de la table : AUTOEXPO.DB
+[08:54:58] 	 Fichier AUTOEXPO.DB non trouvé
+[08:55:26] 		 Exception : SQL Error: FATAL:  la base de données « api » n'existe pas
+[08:55:28]  Rafraichissement de la configuration
+[08:55:28] 		 Exception : SQL Error: FATAL:  la base de données « api » n'existe pas
+[08:55:28] 		 Exception : SQL Error: FATAL:  la base de données « api » n'existe pas
+[08:55:28] 	 Activation surveillance de : C:\export
+[08:55:30] 		 Exception : SQL Error: FATAL:  la base de données « api » n'existe pas
+[08:55:32]  Rafraichissement de la configuration
+[08:55:32] 		 Exception : SQL Error: FATAL:  la base de données « api » n'existe pas
+[08:55:32] 		 Exception : SQL Error: FATAL:  la base de données « api » n'existe pas
+[08:57:46]  sauvegarde de la configuration
+[08:57:46]  Rafraichissement de la configuration
+[08:57:46] 	 Connection pour adam OK
+[08:57:46] 	 Test des domaines
+[08:57:46] 		 Domaine C:\Naizin\  -> Ok
+[08:57:46] 	 Connection Admin OK
+[08:57:46] 	 adam deja connecte
+[08:57:49]  Sortie de programme
+[08:57:51]  Demmarrage version : 0.9.9.0
+[08:57:51]  lecture de la configuration
+[08:57:51]  Rafraichissement de la configuration
+[08:57:51] 	 Activation surveillance de : C:\export
+[08:57:51] 	 Connection pour adam OK
+[08:57:51] 	 Test des domaines
+[08:57:51] 		 Domaine C:\Naizin\  -> Ok
+[08:57:51] 	 Connection Admin OK
+[08:57:51] 	 adam deja connecte
+[08:57:54] 	 Arret de la surveillance de : C:\export
+[08:57:58]  Rafraichissement de la configuration
+[08:57:58] 	 Activation surveillance de : C:\export
+[08:57:58] 	 Connection pour adam OK
+[08:57:58] 	 Test des domaines
+[08:57:58] 		 Domaine C:\Naizin\  -> Ok
+[08:57:58] 	 Connection Admin OK
+[08:57:58] 	 adam deja connecte
+[08:58:02]  Rafraichissement de la configuration
+[08:58:02] 	 Connection pour adam OK
+[08:58:02] 	 Test des domaines
+[08:58:02] 		 Domaine C:\Naizin\  -> Ok
+[08:58:02] 	 Connection Admin OK
+[08:58:02] 	 adam deja connecte
+[08:58:04]  Lecture des stations pour : \ pour la configuration automatique
+[08:58:04] 	 Ouverture de la table : \GB_DATEI.DB
+[08:58:04] 	 Fichier \GB_DATEI.DB non trouvé
+[08:58:04] 	 _DATABASENOTCONNECTED
+[08:58:04] 	 Ouverture de la table : AUTOEXPO.DB
+[08:58:04] 	 Fichier AUTOEXPO.DB non trouvé
+[08:58:09]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[08:58:09] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[08:58:10] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[08:58:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[08:58:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[08:58:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[08:58:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[08:58:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[08:58:10] 	 adam deja connecte
+[08:58:10] 	 adam deja connecte
+[08:58:12]  Rafraichissement de la configuration
+[08:58:12] 	 Connection pour adam OK
+[08:58:12] 	 Test des domaines
+[08:58:12] 		 Domaine C:\Naizin\  -> Ok
+[08:58:13] 	 Connection Admin OK
+[08:58:13] 	 adam deja connecte
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[08:58:13] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[08:58:18] 	 Admin deja connecte
+[08:58:18] 	 Admin deja connecte
+[08:58:18] 	 adam deja connecte
+[08:58:18] 	 Schema development non trouvé
+[08:58:23] 	 Admin deja connecte
+[08:58:23] 	 adam deja connecte
+[08:58:23] 	 Procedure _hydras_create_schema non trouvé
+[08:58:23]  Rafraichissement de la configuration
+[08:58:23] 	 Connection pour adam OK
+[08:58:23] 	 Test des domaines
+[08:58:23] 		 Domaine C:\Naizin\  -> Ok
+[08:58:23] 	 Connection Admin OK
+[08:58:23] 	 adam deja connecte
+[08:59:47]  sauvegarde de la configuration
+[08:59:47]  Rafraichissement de la configuration
+[08:59:47] 	 Connection pour adam OK
+[08:59:47] 	 Test des domaines
+[08:59:47] 		 Domaine C:\Naizin\  -> Ok
+[08:59:47] 	 Connection Admin OK
+[08:59:47] 	 adam deja connecte
+[08:59:51] 	 Arret de la surveillance de : C:\export
+[08:59:58]  Re-création des procedures
+[08:59:58] 	 Admin deja connecte
+[08:59:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[08:59:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[08:59:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[08:59:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[08:59:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[08:59:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[08:59:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[08:59:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[09:00:03]  Verification existance des scripts
+[09:00:03] 	 Admin deja connecte
+[09:00:03]  Liste des procedures 
+[09:00:10]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[09:00:10] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[09:00:11] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[09:00:14] 	 Admin deja connecte
+[09:00:14] 	 Admin deja connecte
+[09:00:14] 	 adam deja connecte
+[09:00:14] 	 Schema development non trouvé
+[09:00:17] 	 Admin deja connecte
+[09:00:17] 	 adam deja connecte
+[09:00:17] 	 La procedure _hydras_create_schema existe
+[09:00:17]  Rafraichissement de la configuration
+[09:00:17] 	 Activation surveillance de : C:\export
+[09:00:17] 	 Connection pour adam OK
+[09:00:17] 	 Test des domaines
+[09:00:17] 		 Domaine C:\Naizin\  -> Ok
+[09:00:17] 	 Connection Admin OK
+[09:00:17] 	 adam deja connecte
+[09:34:46]  lecture de la configuration
+[09:34:46]  Rafraichissement de la configuration
+[09:34:47] 	 Connection pour adam OK
+[09:34:47] 	 Test des domaines
+[09:34:47] 		 Domaine C:\Naizin\  -> Ok
+[09:34:47] 	 Connection Admin OK
+[09:34:47] 	 adam deja connecte
+[09:34:49]  Sortie de programme
+[09:38:24]  Demmarrage version : 0.9.9.0
+[09:38:24]  lecture de la configuration
+[09:38:24]  Rafraichissement de la configuration
+[09:38:25] 	 Activation surveillance de : C:\export
+[09:38:25] 	 Connection pour adam OK
+[09:38:25] 	 Test des domaines
+[09:38:25] 		 Domaine C:\Naizin\  -> Ok
+[09:38:25] 	 Connection Admin OK
+[09:38:25] 	 adam deja connecte
+[09:38:27]  Sortie de programme
+[09:39:21]  Demmarrage version : 0.9.9.0
+[09:39:21]  lecture de la configuration
+[09:39:21]  Rafraichissement de la configuration
+[09:39:22] 	 Activation surveillance de : C:\export
+[09:39:22] 	 Connection pour adam OK
+[09:39:22] 	 Test des domaines
+[09:39:22] 		 Domaine C:\Naizin\  -> Ok
+[09:39:22] 	 Connection Admin OK
+[09:39:22] 	 adam deja connecte
+[09:39:24]  Sortie de programme
+[10:01:06]  Demmarrage version : 0.9.9.0
+[10:01:06]  lecture de la configuration
+[10:01:06]  Rafraichissement de la configuration
+[10:01:06] 	 Activation surveillance de : C:\export
+[10:01:06] 	 Connection pour adam OK
+[10:01:06] 	 Test des domaines
+[10:01:06] 		 Domaine C:\Naizin\  -> Ok
+[10:01:06] 	 Connection Admin OK
+[10:01:06] 	 adam deja connecte
+[10:01:09] 	 Arret de la surveillance de : C:\export
+[10:01:11]  lecture de la configuration
+[10:01:11]  Rafraichissement de la configuration
+[10:01:11] 	 Activation surveillance de : C:\export
+[10:01:11] 	 Connection pour adam OK
+[10:01:11] 	 Test des domaines
+[10:01:11] 		 Domaine C:\Naizin\  -> Ok
+[10:01:11] 	 Connection Admin OK
+[10:01:11] 	 adam deja connecte
+[10:01:13] 	 Arret de la surveillance de : C:\export
+[10:01:16]  Lecture des stations pour : \ pour la configuration automatique
+[10:01:16] 	 Ouverture de la table : \GB_DATEI.DB
+[10:01:16] 	 Fichier \GB_DATEI.DB non trouvé
+[10:01:16] 	 _DATABASENOTCONNECTED
+[10:01:16] 	 Ouverture de la table : AUTOEXPO.DB
+[10:01:16] 	 Fichier AUTOEXPO.DB non trouvé
+[10:01:18]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:01:18] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:01:18] 	 adam deja connecte
+[10:01:18] 	 adam deja connecte
+[10:01:20]  Rafraichissement de la configuration
+[10:01:20] 	 Activation surveillance de : C:\export
+[10:01:20] 	 Connection pour adam OK
+[10:01:20] 	 Test des domaines
+[10:01:20] 		 Domaine C:\Naizin\  -> Ok
+[10:01:20] 	 Connection Admin OK
+[10:01:20] 	 adam deja connecte
+[10:01:20] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:01:20] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:01:20] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:01:20] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:01:20] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:01:20] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:01:20] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:01:20] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:01:20] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:01:20] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:01:20] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:01:20] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[10:01:20] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[10:01:23]  sauvegarde de la configuration
+[10:01:23]  Rafraichissement de la configuration
+[10:01:23] 	 Connection pour adam OK
+[10:01:23] 	 Test des domaines
+[10:01:23] 		 Domaine C:\Naizin\  -> Ok
+[10:01:23] 	 Connection Admin OK
+[10:01:23] 	 adam deja connecte
+[10:01:31] 	 Ajout du fichier dans la queue : 
+[10:01:31] 	 Mode manuel
+[10:01:31]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[10:01:31] 	 adam deja connecte
+[10:01:31] 	 Connection Ok
+[10:01:31] 	 Fichier C:\export\naizin_brutes.csv dejà existant
+[10:01:31] 	 recherche domaine pour : naizin_brutes.csv
+[10:01:31] 		 Trouvé domaine  : C:\Naizin\
+[10:01:31] 	 Recherche de schema pour : C:\Naizin\
+[10:01:31] 	 Admin deja connecte
+[10:01:31] 	 adam deja connecte
+[10:01:31] 	 La schema development existe
+[10:01:31] 		 Trouvé schema  : development
+[10:01:31] 	 adam deja connecte
+[10:01:31] 	 Connection Ok
+[10:01:31]  Lecture des stations pour : C:\Naizin\
+[10:01:31] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[10:01:31]  Lecture des capteurs pour : C:\Naizin\
+[10:01:31] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:01:31] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:01:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:01:32] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:01:32] 	 adam deja connecte
+[10:01:32] 		 Ajout de 120 nouveaux sensors
+[10:06:29]  Demmarrage version : 0.9.9.0
+[10:06:29]  lecture de la configuration
+[10:06:29]  Rafraichissement de la configuration
+[10:06:30] 	 Activation surveillance de : C:\export
+[10:06:30] 	 Connection pour adam OK
+[10:06:30] 	 Test des domaines
+[10:06:30] 		 Domaine C:\Naizin\  -> Ok
+[10:06:30] 	 Connection Admin OK
+[10:06:30] 	 adam deja connecte
+[10:06:37] 	 Ajout du fichier dans la queue : 
+[10:06:37] 	 Mode manuel
+[10:06:37]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[10:06:37] 	 adam deja connecte
+[10:06:37] 	 Connection Ok
+[10:06:37] 	 Fichier C:\export\naizin_brutes.csv dejà existant
+[10:06:37] 	 recherche domaine pour : naizin_brutes.csv
+[10:06:37] 		 Trouvé domaine  : C:\Naizin\
+[10:06:37] 	 Recherche de schema pour : C:\Naizin\
+[10:06:37] 	 Admin deja connecte
+[10:06:37] 	 adam deja connecte
+[10:06:37] 	 La schema development existe
+[10:06:37] 		 Trouvé schema  : development
+[10:06:37] 	 adam deja connecte
+[10:06:37] 	 Connection Ok
+[10:06:37]  Lecture des stations pour : C:\Naizin\
+[10:06:37] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[10:06:37]  Lecture des capteurs pour : C:\Naizin\
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:06:37] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:06:37] 	 adam deja connecte
+[10:06:37] 		 Ajout de 0 nouveaux sensors
+[10:09:43]  Demmarrage version : 0.9.9.0
+[10:09:43]  lecture de la configuration
+[10:09:43]  Rafraichissement de la configuration
+[10:09:44] 	 Activation surveillance de : C:\export
+[10:09:44] 	 Connection pour adam OK
+[10:09:44] 	 Test des domaines
+[10:09:44] 		 Domaine C:\Naizin\  -> Ok
+[10:09:44] 	 Connection Admin OK
+[10:09:44] 	 adam deja connecte
+[10:09:53] 	 Ajout du fichier dans la queue : 
+[10:09:53] 	 Mode manuel
+[10:09:53]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[10:09:53] 	 adam deja connecte
+[10:09:53] 	 Connection Ok
+[10:09:53] 	 Fichier C:\export\naizin_brutes.csv dejà existant
+[10:09:53] 	 recherche domaine pour : naizin_brutes.csv
+[10:09:53] 		 Trouvé domaine  : C:\Naizin\
+[10:09:53] 	 Recherche de schema pour : C:\Naizin\
+[10:09:53] 	 Admin deja connecte
+[10:09:53] 	 adam deja connecte
+[10:09:53] 	 La schema development existe
+[10:09:53] 		 Trouvé schema  : development
+[10:09:53] 	 adam deja connecte
+[10:09:53] 	 Connection Ok
+[10:09:53]  Lecture des stations pour : C:\Naizin\
+[10:09:53] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[10:09:53]  Lecture des capteurs pour : C:\Naizin\
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:09:53] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:09:53] 	 adam deja connecte
+[10:09:53] 		 Ajout de 0 nouveaux sensors
+[10:11:19]  Demmarrage version : 0.9.9.0
+[10:11:19]  lecture de la configuration
+[10:11:19]  Rafraichissement de la configuration
+[10:11:20] 	 Activation surveillance de : C:\export
+[10:11:20] 	 Connection pour adam OK
+[10:11:20] 	 Test des domaines
+[10:11:20] 		 Domaine C:\Naizin\  -> Ok
+[10:11:20] 	 Connection Admin OK
+[10:11:20] 	 adam deja connecte
+[10:11:23] 	 Arret de la surveillance de : C:\export
+[10:16:25]  Demmarrage version : 0.9.9.0
+[10:16:25]  lecture de la configuration
+[10:16:25]  Rafraichissement de la configuration
+[10:16:26] 	 Activation surveillance de : C:\export
+[10:16:26] 	 Connection pour adam OK
+[10:16:26] 	 Test des domaines
+[10:16:26] 		 Domaine C:\Naizin\  -> Ok
+[10:16:26] 	 Connection Admin OK
+[10:16:26] 	 adam deja connecte
+[10:16:36] 	 Ajout du fichier dans la queue : 
+[10:16:36] 	 Mode manuel
+[10:16:36]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[10:16:36] 	 adam deja connecte
+[10:16:36] 	 Connection Ok
+[10:16:36] 	 Fichier C:\export\naizin_brutes.csv dejà existant
+[10:16:36] 	 recherche domaine pour : naizin_brutes.csv
+[10:16:36] 		 Trouvé domaine  : C:\Naizin\
+[10:16:36] 	 Recherche de schema pour : C:\Naizin\
+[10:16:36] 	 Admin deja connecte
+[10:16:36] 	 adam deja connecte
+[10:16:36] 	 La schema development existe
+[10:16:36] 		 Trouvé schema  : development
+[10:16:36] 	 adam deja connecte
+[10:16:36] 	 Connection Ok
+[10:16:36]  Lecture des stations pour : C:\Naizin\
+[10:16:36] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[10:16:36]  Lecture des capteurs pour : C:\Naizin\
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:16:36] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:16:36] 	 adam deja connecte
+[10:16:36] 		 Ajout de 0 nouveaux sensors
+[10:17:30]  Demmarrage version : 0.9.9.0
+[10:17:30]  lecture de la configuration
+[10:17:30]  Rafraichissement de la configuration
+[10:17:31] 	 Activation surveillance de : C:\export
+[10:17:31] 	 Connection pour adam OK
+[10:17:31] 	 Test des domaines
+[10:17:31] 		 Domaine C:\Naizin\  -> Ok
+[10:17:31] 	 Connection Admin OK
+[10:17:31] 	 adam deja connecte
+[10:17:38] 	 Ajout du fichier dans la queue : 
+[10:17:38] 	 Mode manuel
+[10:17:38]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[10:17:38] 	 adam deja connecte
+[10:17:38] 	 Connection Ok
+[10:17:38] 	 Fichier C:\export\naizin_brutes.csv dejà existant
+[10:17:38] 	 recherche domaine pour : naizin_brutes.csv
+[10:17:38] 		 Trouvé domaine  : C:\Naizin\
+[10:17:38] 	 Recherche de schema pour : C:\Naizin\
+[10:17:38] 	 Admin deja connecte
+[10:17:38] 	 adam deja connecte
+[10:17:38] 	 La schema development existe
+[10:17:38] 		 Trouvé schema  : development
+[10:17:38] 	 adam deja connecte
+[10:17:38] 	 Connection Ok
+[10:17:38]  Lecture des stations pour : C:\Naizin\
+[10:17:38] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[10:17:38]  Lecture des capteurs pour : C:\Naizin\
+[10:17:38] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:17:38] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:17:39] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:17:39] 	 adam deja connecte
+[10:17:39] 		 Ajout de 0 nouveaux sensors
+[10:17:39] 	 Traitement du fichier
+[10:17:39] 		 Initialisation nouveau script d'insertion
+[10:17:43] 		 Execution du script SQL
+[10:28:33]  Demmarrage version : 0.9.9.0
+[10:28:33]  lecture de la configuration
+[10:28:33]  Rafraichissement de la configuration
+[10:28:33] 	 Activation surveillance de : C:\export
+[10:28:33] 	 Connection pour adam OK
+[10:28:33] 	 Test des domaines
+[10:28:33] 		 Domaine C:\Naizin\  -> Ok
+[10:28:33] 	 Connection Admin OK
+[10:28:33] 	 adam deja connecte
+[10:28:43] 	 Ajout du fichier dans la queue : 
+[10:28:43] 	 Mode manuel
+[10:28:43]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[10:28:43] 	 adam deja connecte
+[10:28:43] 	 Connection Ok
+[10:28:43] 	 Fichier C:\export\naizin_brutes.csv dejà existant
+[10:28:43] 	 recherche domaine pour : naizin_brutes.csv
+[10:28:43] 		 Trouvé domaine  : C:\Naizin\
+[10:28:43] 	 Recherche de schema pour : C:\Naizin\
+[10:28:43] 	 Admin deja connecte
+[10:28:43] 	 adam deja connecte
+[10:28:43] 	 La schema development existe
+[10:28:43] 		 Trouvé schema  : development
+[10:28:43] 	 adam deja connecte
+[10:28:43] 	 Connection Ok
+[10:28:43]  Lecture des stations pour : C:\Naizin\
+[10:28:43] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[10:28:43]  Lecture des capteurs pour : C:\Naizin\
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:28:43] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:28:43] 	 adam deja connecte
+[10:28:43] 		 Ajout de 0 nouveaux sensors
+[10:28:43] 	 Traitement du fichier
+[10:28:43] 		 Initialisation nouveau script d'insertion
+[10:28:47] 		 Execution du script SQL
+[10:28:49] 		 Initialisation nouveau script d'insertion
+[10:28:52] 		 Traitement du fichier fini
+[10:28:52] 		 Execution du script SQL
+[10:28:53] 		 Initialisation nouveau script d'insertion
+[10:28:53] 	 adam deja connecte
+[10:28:53] 	 adam deja connecte
+[10:28:53] 		 Get area code : 1
+[10:28:53] 	 adam deja connecte
+[10:28:53] 		 Ajout de 11 nouvelles stations
+[10:28:53] 	 Admin deja connecte
+[10:28:53] 	 adam deja connecte
+[10:28:53] 	 La procedure _hydras_import existe
+[10:33:31]  Demmarrage version : 0.9.9.0
+[10:33:31]  lecture de la configuration
+[10:33:31]  Rafraichissement de la configuration
+[10:33:31] 	 Activation surveillance de : C:\export
+[10:33:31] 	 Connection pour adam OK
+[10:33:31] 	 Test des domaines
+[10:33:31] 		 Domaine C:\Naizin\  -> Ok
+[10:33:31] 	 Connection Admin OK
+[10:33:31] 	 adam deja connecte
+[10:33:38] 	 Ajout du fichier dans la queue : 
+[10:33:38] 	 Mode manuel
+[10:33:38]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[10:33:38] 	 adam deja connecte
+[10:33:38] 	 Connection Ok
+[10:33:38] 	 Fichier C:\export\naizin_brutes.csv dejà existant
+[10:33:38] 	 recherche domaine pour : naizin_brutes.csv
+[10:33:38] 		 Trouvé domaine  : C:\Naizin\
+[10:33:38] 	 Recherche de schema pour : C:\Naizin\
+[10:33:38] 	 Admin deja connecte
+[10:33:38] 	 adam deja connecte
+[10:33:38] 	 La schema development existe
+[10:33:38] 		 Trouvé schema  : development
+[10:33:38] 	 adam deja connecte
+[10:33:38] 	 Connection Ok
+[10:33:38]  Lecture des stations pour : C:\Naizin\
+[10:33:38] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[10:33:38]  Lecture des capteurs pour : C:\Naizin\
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:33:38] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:33:38] 	 adam deja connecte
+[10:33:38] 		 Ajout de 0 nouveaux sensors
+[10:33:38] 	 Traitement du fichier
+[10:33:38] 		 Initialisation nouveau script d'insertion
+[10:33:42] 		 Execution du script SQL
+[10:33:44] 		 Initialisation nouveau script d'insertion
+[10:33:47] 		 Traitement du fichier fini
+[10:33:47] 		 Execution du script SQL
+[10:33:48] 		 Initialisation nouveau script d'insertion
+[10:33:48] 	 adam deja connecte
+[10:33:48] 	 adam deja connecte
+[10:33:48] 		 Get area code : 2
+[10:33:48] 	 adam deja connecte
+[10:33:48] 		 Ajout de 11 nouvelles stations
+[10:33:48] 	 Admin deja connecte
+[10:33:48] 	 adam deja connecte
+[10:33:48] 	 La procedure _hydras_import existe
+[10:39:25]  Demmarrage version : 0.9.9.0
+[10:39:25]  lecture de la configuration
+[10:39:25]  Rafraichissement de la configuration
+[10:39:25] 	 Activation surveillance de : C:\export
+[10:39:25] 	 Connection pour adam OK
+[10:39:25] 	 Test des domaines
+[10:39:25] 		 Domaine C:\Naizin\  -> Ok
+[10:39:25] 	 Connection Admin OK
+[10:39:25] 	 adam deja connecte
+[10:39:31] 	 Ajout du fichier dans la queue : 
+[10:39:31] 	 Mode manuel
+[10:39:31]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[10:39:31] 	 adam deja connecte
+[10:39:31] 	 Connection Ok
+[10:39:31] 	 Fichier C:\export\naizin_brutes.csv dejà existant
+[10:39:31] 	 recherche domaine pour : naizin_brutes.csv
+[10:39:31] 		 Trouvé domaine  : C:\Naizin\
+[10:39:31] 	 Recherche de schema pour : C:\Naizin\
+[10:39:31] 	 Admin deja connecte
+[10:39:31] 	 adam deja connecte
+[10:39:31] 	 La schema development existe
+[10:39:31] 		 Trouvé schema  : development
+[10:39:31] 	 adam deja connecte
+[10:39:31] 	 Connection Ok
+[10:39:31]  Lecture des stations pour : C:\Naizin\
+[10:39:31] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[10:39:31]  Lecture des capteurs pour : C:\Naizin\
+[10:39:31] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:39:31] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:39:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:39:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:39:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:39:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:39:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:39:31] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:39:31] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:39:32] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:39:32] 	 adam deja connecte
+[10:39:32] 		 Ajout de 0 nouveaux sensors
+[10:39:32] 	 Traitement du fichier
+[10:39:32] 		 Initialisation nouveau script d'insertion
+[10:39:36] 		 Execution du script SQL
+[10:39:37] 		 Initialisation nouveau script d'insertion
+[10:39:40] 		 Traitement du fichier fini
+[10:39:40] 		 Execution du script SQL
+[10:39:41] 		 Initialisation nouveau script d'insertion
+[10:39:41] 	 adam deja connecte
+[10:39:41] 	 adam deja connecte
+[10:39:41] 		 Get area code : 3
+[10:39:41] 	 adam deja connecte
+[10:39:41] 		 Ajout de 11 nouvelles stations
+[10:39:41] 	 Admin deja connecte
+[10:39:41] 	 adam deja connecte
+[10:39:41] 	 La procedure _hydras_import existe
+[10:43:33]  Demmarrage version : 0.9.9.0
+[10:43:33]  lecture de la configuration
+[10:43:33]  Rafraichissement de la configuration
+[10:43:33] 	 Activation surveillance de : C:\export
+[10:43:33] 	 Connection pour adam OK
+[10:43:33] 	 Test des domaines
+[10:43:33] 		 Domaine C:\Naizin\  -> Ok
+[10:43:33] 	 Connection Admin OK
+[10:43:33] 	 adam deja connecte
+[10:43:40] 	 Ajout du fichier dans la queue : 
+[10:43:40] 	 Mode manuel
+[10:43:40]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[10:43:40] 	 adam deja connecte
+[10:43:40] 	 Connection Ok
+[10:43:40] 	 Fichier C:\export\naizin_brutes.csv dejà existant
+[10:43:40] 	 recherche domaine pour : naizin_brutes.csv
+[10:43:40] 		 Trouvé domaine  : C:\Naizin\
+[10:43:40] 	 Recherche de schema pour : C:\Naizin\
+[10:43:40] 	 Admin deja connecte
+[10:43:40] 	 adam deja connecte
+[10:43:40] 	 La schema development existe
+[10:43:40] 		 Trouvé schema  : development
+[10:43:40] 	 adam deja connecte
+[10:43:40] 	 Connection Ok
+[10:43:40]  Lecture des stations pour : C:\Naizin\
+[10:43:40] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[10:43:40]  Lecture des capteurs pour : C:\Naizin\
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:43:40] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:43:40] 	 adam deja connecte
+[10:43:40] 		 Ajout de 0 nouveaux sensors
+[10:43:40] 	 Traitement du fichier
+[10:43:40] 		 Initialisation nouveau script d'insertion
+[10:43:45] 		 Execution du script SQL
+[10:43:46] 		 Initialisation nouveau script d'insertion
+[10:43:49] 		 Traitement du fichier fini
+[10:43:49] 		 Execution du script SQL
+[10:43:51] 		 Initialisation nouveau script d'insertion
+[10:43:51] 	 adam deja connecte
+[10:43:51] 	 adam deja connecte
+[10:43:51] 		 Get area code : 4
+[10:43:51] 	 adam deja connecte
+[10:43:51] 		 Ajout de 11 nouvelles stations
+[10:43:51] 	 Admin deja connecte
+[10:43:51] 	 adam deja connecte
+[10:43:51] 	 La procedure _hydras_import existe
+[10:53:25]  Demmarrage version : 0.9.9.0
+[10:53:25]  lecture de la configuration
+[10:53:25]  Rafraichissement de la configuration
+[10:53:25] 	 Activation surveillance de : C:\export
+[10:53:25] 	 Connection pour adam OK
+[10:53:25] 	 Test des domaines
+[10:53:25] 		 Domaine C:\Naizin\  -> Ok
+[10:53:26] 	 Connection Admin OK
+[10:53:26] 	 adam deja connecte
+[10:53:29] 	 Arret de la surveillance de : C:\export
+[10:53:32]  Lecture des stations pour : \ pour la configuration automatique
+[10:53:32] 	 Ouverture de la table : \GB_DATEI.DB
+[10:53:32] 	 Fichier \GB_DATEI.DB non trouvé
+[10:53:32] 	 _DATABASENOTCONNECTED
+[10:53:32] 	 Ouverture de la table : AUTOEXPO.DB
+[10:53:32] 	 Fichier AUTOEXPO.DB non trouvé
+[10:53:34] 	 Admin deja connecte
+[10:53:34] 	 Admin deja connecte
+[10:53:34] 	 adam deja connecte
+[10:53:34] 	 Schema Schemas non trouvé
+[10:53:57] 	 Admin deja connecte
+[10:53:57] 	 adam deja connecte
+[10:53:57] 	 La procedure _hydras_create_schema existe
+[10:53:57]  Rafraichissement de la configuration
+[10:53:57] 	 Activation surveillance de : C:\export
+[10:53:57] 	 Connection pour adam OK
+[10:53:57] 	 Test des domaines
+[10:53:57] 		 Domaine C:\Naizin\  -> Ok
+[10:53:57] 	 Connection Admin OK
+[10:53:57] 	 adam deja connecte
+[10:54:04]  sauvegarde de la configuration
+[10:54:04]  Rafraichissement de la configuration
+[10:54:04] 	 Connection pour adam OK
+[10:54:04] 	 Test des domaines
+[10:54:04] 		 Domaine C:\Naizin\  -> Ok
+[10:54:04] 	 Connection Admin OK
+[10:54:04] 	 adam deja connecte
+[10:54:16]  Sortie de programme
+[10:54:52]  Demmarrage version : 0.9.9.0
+[10:54:52]  lecture de la configuration
+[10:54:52]  Rafraichissement de la configuration
+[10:54:52] 	 Activation surveillance de : C:\export
+[10:54:52] 	 Connection pour adam OK
+[10:54:52] 	 Test des domaines
+[10:54:52] 		 Domaine C:\Naizin\  -> Ok
+[10:54:52] 	 Connection Admin OK
+[10:54:52] 	 adam deja connecte
+[10:54:55] 	 Arret de la surveillance de : C:\export
+[10:54:57]  Re-création des procedures
+[10:54:57] 	 Admin deja connecte
+[10:54:57] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[10:54:57]  Verification existance des scripts
+[10:54:57] 	 Admin deja connecte
+[10:54:57]  Liste des procedures 
+[10:54:57] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[10:54:57]  Verification existance des scripts
+[10:54:57] 	 Admin deja connecte
+[10:54:57]  Liste des procedures 
+[10:54:57] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[10:54:57]  Verification existance des scripts
+[10:54:57] 	 Admin deja connecte
+[10:54:57]  Liste des procedures 
+[10:54:57] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[10:54:57]  Verification existance des scripts
+[10:54:57] 	 Admin deja connecte
+[10:54:57]  Liste des procedures 
+[10:54:57] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[10:54:57]  Verification existance des scripts
+[10:54:57] 	 Admin deja connecte
+[10:54:57]  Liste des procedures 
+[10:54:57] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[10:54:57]  Verification existance des scripts
+[10:54:57] 	 Admin deja connecte
+[10:54:57]  Liste des procedures 
+[10:54:57] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[10:54:57]  Verification existance des scripts
+[10:54:57] 	 Admin deja connecte
+[10:54:57]  Liste des procedures 
+[10:54:57] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[10:54:57]  Verification existance des scripts
+[10:54:57] 	 Admin deja connecte
+[10:54:57]  Liste des procedures 
+[10:54:59]  sauvegarde de la configuration
+[10:54:59]  Rafraichissement de la configuration
+[10:55:00] 	 Activation surveillance de : C:\export
+[10:55:00] 	 Connection pour adam OK
+[10:55:00] 	 Test des domaines
+[10:55:00] 		 Domaine C:\Naizin\  -> Ok
+[10:55:00] 	 Connection Admin OK
+[10:55:00] 	 adam deja connecte
+[10:55:06] 	 Ajout du fichier dans la queue : 
+[10:55:06] 	 Mode manuel
+[10:55:06]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[10:55:06] 	 adam deja connecte
+[10:55:06] 	 Connection Ok
+[10:55:06] 	 Fichier C:\export\naizin_brutes.csv dejà existant
+[10:55:06] 	 recherche domaine pour : naizin_brutes.csv
+[10:55:06] 		 Trouvé domaine  : C:\Naizin\
+[10:55:06] 	 Recherche de schema pour : C:\Naizin\
+[10:55:06] 	 Admin deja connecte
+[10:55:06] 	 adam deja connecte
+[10:55:06] 	 La schema development existe
+[10:55:06] 		 Trouvé schema  : development
+[10:55:06] 	 adam deja connecte
+[10:55:06] 	 Connection Ok
+[10:55:06]  Lecture des stations pour : C:\Naizin\
+[10:55:06] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[10:55:06]  Lecture des capteurs pour : C:\Naizin\
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:55:06] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:55:07] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:55:07] 	 adam deja connecte
+[10:55:07] 		 Ajout de 120 nouveaux sensors
+[10:55:07] 	 Traitement du fichier
+[10:55:07] 		 Initialisation nouveau script d'insertion
+[10:55:10] 		 Execution du script SQL
+[10:55:12] 		 Initialisation nouveau script d'insertion
+[10:55:15] 		 Traitement du fichier fini
+[10:55:15] 		 Execution du script SQL
+[10:55:16] 		 Initialisation nouveau script d'insertion
+[10:55:16] 	 adam deja connecte
+[10:55:16] 	 adam deja connecte
+[10:55:16] 		 Get area code : 1
+[10:55:16] 	 adam deja connecte
+[10:55:16] 		 Ajout de 11 nouvelles stations
+[10:55:16] 	 Admin deja connecte
+[10:55:16] 	 adam deja connecte
+[10:55:16] 	 La procedure _hydras_import existe
+[10:55:54]  Demmarrage version : 0.9.9.0
+[10:55:54]  lecture de la configuration
+[10:55:54]  Rafraichissement de la configuration
+[10:55:54] 	 Activation surveillance de : C:\export
+[10:55:54] 	 Connection pour adam OK
+[10:55:54] 	 Test des domaines
+[10:55:54] 		 Domaine C:\Naizin\  -> Ok
+[10:55:54] 	 Connection Admin OK
+[10:55:54] 	 adam deja connecte
+[10:55:57] 	 Arret de la surveillance de : C:\export
+[10:56:01]  Re-création des procedures
+[10:56:01] 	 Admin deja connecte
+[10:56:01] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[10:56:01]  Verification existance des scripts
+[10:56:01] 	 Admin deja connecte
+[10:56:01]  Liste des procedures 
+[10:56:01] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[10:56:01]  Verification existance des scripts
+[10:56:01] 	 Admin deja connecte
+[10:56:01]  Liste des procedures 
+[10:56:01] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[10:56:01]  Verification existance des scripts
+[10:56:01] 	 Admin deja connecte
+[10:56:01]  Liste des procedures 
+[10:56:01] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[10:56:01]  Verification existance des scripts
+[10:56:01] 	 Admin deja connecte
+[10:56:01]  Liste des procedures 
+[10:56:01] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[10:56:01]  Verification existance des scripts
+[10:56:01] 	 Admin deja connecte
+[10:56:01]  Liste des procedures 
+[10:56:01] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[10:56:01]  Verification existance des scripts
+[10:56:01] 	 Admin deja connecte
+[10:56:01]  Liste des procedures 
+[10:56:01] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[10:56:01]  Verification existance des scripts
+[10:56:01] 	 Admin deja connecte
+[10:56:01]  Liste des procedures 
+[10:56:01] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[10:56:01]  Verification existance des scripts
+[10:56:01] 	 Admin deja connecte
+[10:56:01]  Liste des procedures 
+[10:56:03]  Lecture des stations pour : \ pour la configuration automatique
+[10:56:03] 	 Ouverture de la table : \GB_DATEI.DB
+[10:56:03] 	 Fichier \GB_DATEI.DB non trouvé
+[10:56:03] 	 _DATABASENOTCONNECTED
+[10:56:03] 	 Ouverture de la table : AUTOEXPO.DB
+[10:56:03] 	 Fichier AUTOEXPO.DB non trouvé
+[10:56:05]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[10:56:05] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:56:05] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:56:05] 	 adam deja connecte
+[10:56:05] 	 adam deja connecte
+[10:56:07]  Rafraichissement de la configuration
+[10:56:07] 	 Activation surveillance de : C:\export
+[10:56:07] 	 Connection pour adam OK
+[10:56:07] 	 Test des domaines
+[10:56:07] 		 Domaine C:\Naizin\  -> Ok
+[10:56:07] 	 Connection Admin OK
+[10:56:07] 	 adam deja connecte
+[10:56:07] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[10:56:07] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[10:56:09] 	 Admin deja connecte
+[10:56:09] 	 Admin deja connecte
+[10:56:09] 	 adam deja connecte
+[10:56:09] 	 Schema development non trouvé
+[10:56:12] 	 Admin deja connecte
+[10:56:12] 	 adam deja connecte
+[10:56:12] 	 La procedure _hydras_create_schema existe
+[10:56:12]  Rafraichissement de la configuration
+[10:56:12] 	 Connection pour adam OK
+[10:56:12] 	 Test des domaines
+[10:56:12] 		 Domaine C:\Naizin\  -> Ok
+[10:56:12] 	 Connection Admin OK
+[10:56:12] 	 adam deja connecte
+[10:56:16]  sauvegarde de la configuration
+[10:56:16]  Rafraichissement de la configuration
+[10:56:16] 	 Connection pour adam OK
+[10:56:16] 	 Test des domaines
+[10:56:16] 		 Domaine C:\Naizin\  -> Ok
+[10:56:16] 	 Connection Admin OK
+[10:56:16] 	 adam deja connecte
+[10:56:24] 	 Ajout du fichier dans la queue : 
+[10:56:24] 	 Mode manuel
+[10:56:24]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[10:56:24] 	 adam deja connecte
+[10:56:24] 	 Connection Ok
+[10:56:24] 	 Fichier C:\export\naizin_brutes.csv dejà existant
+[10:56:24] 	 recherche domaine pour : naizin_brutes.csv
+[10:56:24] 		 Trouvé domaine  : C:\Naizin\
+[10:56:24] 	 Recherche de schema pour : C:\Naizin\
+[10:56:24] 	 Admin deja connecte
+[10:56:24] 	 adam deja connecte
+[10:56:25] 	 La schema development existe
+[10:56:25] 		 Trouvé schema  : development
+[10:56:25] 	 adam deja connecte
+[10:56:25] 	 Connection Ok
+[10:56:25]  Lecture des stations pour : C:\Naizin\
+[10:56:25] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[10:56:25]  Lecture des capteurs pour : C:\Naizin\
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:56:25] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:56:25] 	 adam deja connecte
+[10:56:25] 		 Ajout de 120 nouveaux sensors
+[10:56:25] 	 Traitement du fichier
+[10:56:25] 		 Initialisation nouveau script d'insertion
+[10:56:29] 		 Execution du script SQL
+[10:56:31] 		 Initialisation nouveau script d'insertion
+[10:56:33] 		 Traitement du fichier fini
+[10:56:33] 		 Execution du script SQL
+[10:56:35] 		 Initialisation nouveau script d'insertion
+[10:56:35] 	 adam deja connecte
+[10:56:35] 	 adam deja connecte
+[10:56:35] 		 Get area code : 1
+[10:56:35] 	 adam deja connecte
+[10:56:35] 		 Ajout de 11 nouvelles stations
+[10:56:35] 	 Admin deja connecte
+[10:56:35] 	 adam deja connecte
+[10:56:35] 	 La procedure _hydras_import existe
+[10:56:45] 	 Traitement fini avec succes
+[10:56:45] 	 Creation du fichier ZIP : C:\export\import [12-05-2020-10-56-45].zip
+[10:56:45] 	 Archive basedir C:\export\
+[10:56:45]  Nouveau Fichier : C:\export\import [12-05-2020-10-56-45].zip
+[10:56:45] 		 Deplacement du fichier C:\export\naizin_brutes.csv
+[10:56:45] 	 Fermeture du fichier ZIP
+[10:56:45]  Modification Fichier : C:\export\import [12-05-2020-10-56-45].zip
+[10:56:45]  Modification Fichier : C:\export\import [12-05-2020-10-56-45].zip
+[10:56:45]  Deplacement Fichier : C:\export\naizin_brutes.csv
+[10:56:45] 	 Ajout du fichier dans la queue : 
+[10:56:45]  Modification Fichier : C:\export\import [12-05-2020-10-56-45].zip
+[10:58:06] 	 Ajout du fichier dans la queue : 
+[10:58:06] 	 Mode manuel
+[10:58:06]  Traitement du fichier csv : C:\export\naizin_corriges.csv
+[10:58:06] 	 adam deja connecte
+[10:58:06] 	 Connection Ok
+[10:58:06] 	 Fichier C:\export\naizin_corriges.csv dejà existant
+[10:58:06] 	 recherche domaine pour : naizin_corriges.csv
+[10:58:06] 		 Trouvé domaine  : C:\Naizin\
+[10:58:06] 	 Recherche de schema pour : C:\Naizin\
+[10:58:06] 	 Admin deja connecte
+[10:58:06] 	 adam deja connecte
+[10:58:06] 	 La schema development existe
+[10:58:06] 		 Trouvé schema  : development
+[10:58:06] 	 adam deja connecte
+[10:58:06] 	 Connection Ok
+[10:58:06]  Lecture des stations pour : C:\Naizin\
+[10:58:06] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[10:58:06]  Lecture des capteurs pour : C:\Naizin\
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[10:58:06] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[10:58:06] 	 adam deja connecte
+[10:58:06] 		 Ajout de 0 nouveaux sensors
+[10:58:06] 	 Traitement du fichier
+[10:58:06] 		 Initialisation nouveau script d'insertion
+[10:58:09] 		 Traitement du fichier fini
+[10:58:09] 		 Execution du script SQL
+[10:58:10] 		 Initialisation nouveau script d'insertion
+[10:58:10] 	 adam deja connecte
+[10:58:10] 		 Get area code : 1
+[10:58:10] 	 adam deja connecte
+[10:58:10] 		 Ajout de 0 nouvelles stations
+[10:58:10] 	 Admin deja connecte
+[10:58:10] 	 adam deja connecte
+[10:58:10] 	 La procedure _hydras_import existe
+[10:58:12] 	 Traitement fini avec succes
+[10:58:12] 	 Creation du fichier ZIP : C:\export\import [12-05-2020-10-58-12].zip
+[10:58:12] 	 Archive basedir C:\export\
+[10:58:12]  Nouveau Fichier : C:\export\import [12-05-2020-10-58-12].zip
+[10:58:12] 		 Deplacement du fichier C:\export\naizin_corriges.csv
+[10:58:12] 	 Fermeture du fichier ZIP
+[10:58:12]  Modification Fichier : C:\export\import [12-05-2020-10-58-12].zip
+[10:58:12]  Modification Fichier : C:\export\import [12-05-2020-10-58-12].zip
+[10:58:12]  Deplacement Fichier : C:\export\naizin_corriges.csv
+[10:58:12] 	 Ajout du fichier dans la queue : 
+[10:58:12]  Modification Fichier : C:\export\import [12-05-2020-10-58-12].zip
+[11:27:41]  Sortie de programme
+[11:27:47]  Demmarrage version : 0.9.9.0
+[11:27:47]  lecture de la configuration
+[11:27:47]  Rafraichissement de la configuration
+[11:27:47] 	 Activation surveillance de : C:\export
+[11:27:47] 	 Connection pour adam OK
+[11:27:47] 	 Test des domaines
+[11:27:47] 		 Domaine C:\Naizin\  -> Ok
+[11:27:47] 	 Connection Admin OK
+[11:27:47] 	 adam deja connecte
+[11:27:56] 	 Arret de la surveillance de : C:\export
+[11:27:58]  Re-création des procedures
+[11:27:58] 	 Admin deja connecte
+[11:27:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[11:27:58]  Verification existance des scripts
+[11:27:58] 	 Admin deja connecte
+[11:27:58]  Liste des procedures 
+[11:27:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[11:27:58]  Verification existance des scripts
+[11:27:58] 	 Admin deja connecte
+[11:27:58]  Liste des procedures 
+[11:27:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[11:27:58]  Verification existance des scripts
+[11:27:58] 	 Admin deja connecte
+[11:27:58]  Liste des procedures 
+[11:27:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[11:27:58]  Verification existance des scripts
+[11:27:58] 	 Admin deja connecte
+[11:27:58]  Liste des procedures 
+[11:27:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[11:27:58]  Verification existance des scripts
+[11:27:58] 	 Admin deja connecte
+[11:27:58]  Liste des procedures 
+[11:27:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[11:27:58]  Verification existance des scripts
+[11:27:58] 	 Admin deja connecte
+[11:27:58]  Liste des procedures 
+[11:27:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[11:27:58]  Verification existance des scripts
+[11:27:58] 	 Admin deja connecte
+[11:27:58]  Liste des procedures 
+[11:27:58] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[11:27:58]  Verification existance des scripts
+[11:27:58] 	 Admin deja connecte
+[11:27:58]  Liste des procedures 
+[11:28:02]  Lecture des stations pour : \ pour la configuration automatique
+[11:28:02] 	 Ouverture de la table : \GB_DATEI.DB
+[11:28:02] 	 Fichier \GB_DATEI.DB non trouvé
+[11:28:02] 	 _DATABASENOTCONNECTED
+[11:28:02] 	 Ouverture de la table : AUTOEXPO.DB
+[11:28:02] 	 Fichier AUTOEXPO.DB non trouvé
+[11:28:03]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[11:28:03] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:28:03] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:28:03] 	 adam deja connecte
+[11:28:03] 	 adam deja connecte
+[11:28:05]  Rafraichissement de la configuration
+[11:28:05] 	 Activation surveillance de : C:\export
+[11:28:06] 	 Connection pour adam OK
+[11:28:06] 	 Test des domaines
+[11:28:06] 		 Domaine C:\Naizin\  -> Ok
+[11:28:06] 	 Connection Admin OK
+[11:28:06] 	 adam deja connecte
+[11:28:06] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[11:28:06] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[11:28:08] 	 Admin deja connecte
+[11:28:08] 	 Admin deja connecte
+[11:28:08] 	 adam deja connecte
+[11:28:08] 	 Schema development non trouvé
+[11:28:10] 	 Admin deja connecte
+[11:28:10] 	 adam deja connecte
+[11:28:10] 	 La procedure _hydras_create_schema existe
+[11:28:10]  Rafraichissement de la configuration
+[11:28:10] 	 Connection pour adam OK
+[11:28:10] 	 Test des domaines
+[11:28:10] 		 Domaine C:\Naizin\  -> Ok
+[11:28:10] 	 Connection Admin OK
+[11:28:10] 	 adam deja connecte
+[11:28:12]  sauvegarde de la configuration
+[11:28:12]  Rafraichissement de la configuration
+[11:28:12] 	 Connection pour adam OK
+[11:28:12] 	 Test des domaines
+[11:28:12] 		 Domaine C:\Naizin\  -> Ok
+[11:28:12] 	 Connection Admin OK
+[11:28:12] 	 adam deja connecte
+[11:32:06] 	 Arret de la surveillance de : C:\export
+[11:32:11]  Re-création des procedures
+[11:32:11] 	 Admin deja connecte
+[11:32:11] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[11:32:11]  Verification existance des scripts
+[11:32:11] 	 Admin deja connecte
+[11:32:11]  Liste des procedures 
+[11:32:12] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[11:32:12]  Verification existance des scripts
+[11:32:12] 	 Admin deja connecte
+[11:32:12]  Liste des procedures 
+[11:32:12] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[11:32:12]  Verification existance des scripts
+[11:32:12] 	 Admin deja connecte
+[11:32:12]  Liste des procedures 
+[11:32:12] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[11:32:12]  Verification existance des scripts
+[11:32:12] 	 Admin deja connecte
+[11:32:12]  Liste des procedures 
+[11:32:12] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[11:32:12]  Verification existance des scripts
+[11:32:12] 	 Admin deja connecte
+[11:32:12]  Liste des procedures 
+[11:32:12] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[11:32:12]  Verification existance des scripts
+[11:32:12] 	 Admin deja connecte
+[11:32:12]  Liste des procedures 
+[11:32:12] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[11:32:12]  Verification existance des scripts
+[11:32:12] 	 Admin deja connecte
+[11:32:12]  Liste des procedures 
+[11:32:12] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[11:32:12]  Verification existance des scripts
+[11:32:12] 	 Admin deja connecte
+[11:32:12]  Liste des procedures 
+[11:32:14]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[11:32:14] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[11:32:15]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:32:15] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:32:15] 	 adam deja connecte
+[11:32:15] 	 adam deja connecte
+[11:32:18]  Rafraichissement de la configuration
+[11:32:18] 	 Activation surveillance de : C:\export
+[11:32:18] 	 Connection pour adam OK
+[11:32:18] 	 Test des domaines
+[11:32:18] 		 Domaine C:\Naizin\  -> Ok
+[11:32:18] 	 Connection Admin OK
+[11:32:18] 	 adam deja connecte
+[11:32:18] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[11:32:18] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[11:32:22] 	 Admin deja connecte
+[11:32:22] 	 Admin deja connecte
+[11:32:22] 	 adam deja connecte
+[11:32:22] 	 Schema development non trouvé
+[11:32:24] 	 Admin deja connecte
+[11:32:24] 	 adam deja connecte
+[11:32:24] 	 La procedure _hydras_create_schema existe
+[11:32:24]  Rafraichissement de la configuration
+[11:32:24] 	 Connection pour adam OK
+[11:32:24] 	 Test des domaines
+[11:32:24] 		 Domaine C:\Naizin\  -> Ok
+[11:32:24] 	 Connection Admin OK
+[11:32:24] 	 adam deja connecte
+[11:32:27]  sauvegarde de la configuration
+[11:32:27]  Rafraichissement de la configuration
+[11:32:28] 	 Connection pour adam OK
+[11:32:28] 	 Test des domaines
+[11:32:28] 		 Domaine C:\Naizin\  -> Ok
+[11:32:28] 	 Connection Admin OK
+[11:32:28] 	 adam deja connecte
+[11:33:48]  Nouveau Fichier : C:\export\naizin_brutes.csv
+[11:33:48] 	 Ajout du fichier dans la queue : 
+[11:33:48]  Modification Fichier : C:\export\naizin_brutes.csv
+[11:33:58]  Démarrage du timer [AUTO]
+[11:33:58] 	 Mode Automatique
+[11:33:58]  Traitement du fichier csv : C:\export\naizin_brutes.csv
+[11:33:58] 	 adam deja connecte
+[11:33:58] 	 Connection Ok
+[11:33:58] 	 Fichier C:\export\naizin_brutes.csv dejà existant
+[11:33:58] 	 recherche domaine pour : naizin_brutes.csv
+[11:33:58] 		 Trouvé domaine  : C:\Naizin\
+[11:33:58] 	 Recherche de schema pour : C:\Naizin\
+[11:33:58] 	 Admin deja connecte
+[11:33:58] 	 adam deja connecte
+[11:33:58] 	 La schema development existe
+[11:33:58] 		 Trouvé schema  : development
+[11:33:58] 	 adam deja connecte
+[11:33:58] 	 Connection Ok
+[11:33:58]  Lecture des stations pour : C:\Naizin\
+[11:33:58] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[11:33:58]  Lecture des capteurs pour : C:\Naizin\
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:33:58] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:33:59] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:33:59] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:33:59] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:33:59] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:33:59] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:33:59] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:33:59] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:33:59] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:33:59] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:33:59] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:33:59] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:33:59] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:33:59] 	 adam deja connecte
+[11:33:59] 		 Ajout de 120 nouveaux sensors
+[11:33:59] 	 Traitement du fichier
+[11:33:59] 		 Initialisation nouveau script d'insertion
+[11:34:03] 		 Execution du script SQL
+[11:34:04] 		 Initialisation nouveau script d'insertion
+[11:34:07] 		 Traitement du fichier fini
+[11:34:07] 		 Execution du script SQL
+[11:34:08] 		 Initialisation nouveau script d'insertion
+[11:34:08] 	 adam deja connecte
+[11:34:08] 	 adam deja connecte
+[11:34:08] 		 Get area code : 1
+[11:34:08] 	 adam deja connecte
+[11:34:08] 		 Ajout de 11 nouvelles stations
+[11:34:08] 	 Admin deja connecte
+[11:34:08] 	 adam deja connecte
+[11:34:08] 	 La procedure _hydras_import existe
+[11:34:18] 	 Traitement fini avec succes
+[11:34:18] 	 Creation du fichier ZIP : C:\export\import [12-05-2020-11-34-18].zip
+[11:34:18] 	 Archive basedir C:\export\
+[11:34:18]  Nouveau Fichier : C:\export\import [12-05-2020-11-34-18].zip
+[11:34:18] 		 Deplacement du fichier C:\export\naizin_brutes.csv
+[11:34:19] 	 Fermeture du fichier ZIP
+[11:34:19]  Modification Fichier : C:\export\import [12-05-2020-11-34-18].zip
+[11:34:19]  Modification Fichier : C:\export\import [12-05-2020-11-34-18].zip
+[11:34:19]  Deplacement Fichier : C:\export\naizin_brutes.csv
+[11:34:19] 	 Ajout du fichier dans la queue : 
+[11:34:19]  Modification Fichier : C:\export\import [12-05-2020-11-34-18].zip
+[11:35:04]  Nouveau Fichier : C:\export\naizin_corriges.csv
+[11:35:04] 	 Ajout du fichier dans la queue : 
+[11:35:04]  Modification Fichier : C:\export\naizin_corriges.csv
+[11:35:14]  Démarrage du timer [AUTO]
+[11:35:14] 	 Mode Automatique
+[11:35:14]  Traitement du fichier csv : C:\export\naizin_corriges.csv
+[11:35:14] 	 adam deja connecte
+[11:35:14] 	 Connection Ok
+[11:35:14] 	 Fichier C:\export\naizin_corriges.csv dejà existant
+[11:35:14] 	 recherche domaine pour : naizin_corriges.csv
+[11:35:14] 		 Trouvé domaine  : C:\Naizin\
+[11:35:14] 	 Recherche de schema pour : C:\Naizin\
+[11:35:14] 	 Admin deja connecte
+[11:35:14] 	 adam deja connecte
+[11:35:14] 	 La schema development existe
+[11:35:14] 		 Trouvé schema  : development
+[11:35:14] 	 adam deja connecte
+[11:35:14] 	 Connection Ok
+[11:35:14]  Lecture des stations pour : C:\Naizin\
+[11:35:14] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[11:35:14]  Lecture des capteurs pour : C:\Naizin\
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:35:14] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:35:15] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:35:15] 	 adam deja connecte
+[11:35:15] 		 Ajout de 0 nouveaux sensors
+[11:35:15] 	 Traitement du fichier
+[11:35:15] 		 Initialisation nouveau script d'insertion
+[11:35:17] 		 Traitement du fichier fini
+[11:35:17] 		 Execution du script SQL
+[11:35:18] 		 Initialisation nouveau script d'insertion
+[11:35:18] 	 adam deja connecte
+[11:35:18] 		 Get area code : 1
+[11:35:18] 	 adam deja connecte
+[11:35:18] 		 Ajout de 0 nouvelles stations
+[11:35:18] 	 Admin deja connecte
+[11:35:18] 	 adam deja connecte
+[11:35:18] 	 La procedure _hydras_import existe
+[11:35:21] 	 Traitement fini avec succes
+[11:35:21] 	 Creation du fichier ZIP : C:\export\import [12-05-2020-11-35-21].zip
+[11:35:21] 	 Archive basedir C:\export\
+[11:35:21]  Nouveau Fichier : C:\export\import [12-05-2020-11-35-21].zip
+[11:35:21] 		 Deplacement du fichier C:\export\naizin_corriges.csv
+[11:35:21] 	 Fermeture du fichier ZIP
+[11:35:21]  Modification Fichier : C:\export\import [12-05-2020-11-35-21].zip
+[11:35:21]  Modification Fichier : C:\export\import [12-05-2020-11-35-21].zip
+[11:35:21]  Deplacement Fichier : C:\export\naizin_corriges.csv
+[11:35:21] 	 Ajout du fichier dans la queue : 
+[11:35:21]  Modification Fichier : C:\export\import [12-05-2020-11-35-21].zip
+[11:35:29] 	 Ajout du fichier dans la queue : 
+[11:35:29] 	 Mode manuel
+[11:35:29]  Traitement du fichier csv : C:\export\naizin_valides.csv
+[11:35:29] 	 adam deja connecte
+[11:35:29] 	 Connection Ok
+[11:35:29] 	 Fichier C:\export\naizin_valides.csv dejà existant
+[11:35:29] 	 recherche domaine pour : naizin_valides.csv
+[11:35:29] 		 Trouvé domaine  : C:\Naizin\
+[11:35:29] 	 Recherche de schema pour : C:\Naizin\
+[11:35:29] 	 Admin deja connecte
+[11:35:29] 	 adam deja connecte
+[11:35:29] 	 La schema development existe
+[11:35:29] 		 Trouvé schema  : development
+[11:35:29] 	 adam deja connecte
+[11:35:29] 	 Connection Ok
+[11:35:29]  Lecture des stations pour : C:\Naizin\
+[11:35:29] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[11:35:29]  Lecture des capteurs pour : C:\Naizin\
+[11:35:29] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[11:35:29] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[11:35:30] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[11:35:30] 	 adam deja connecte
+[11:35:30] 		 Ajout de 0 nouveaux sensors
+[11:35:30] 	 Traitement du fichier
+[11:35:30] 		 Initialisation nouveau script d'insertion
+[11:35:32] 		 Traitement du fichier fini
+[11:35:32] 		 Execution du script SQL
+[11:35:33] 		 Initialisation nouveau script d'insertion
+[11:35:33] 	 adam deja connecte
+[11:35:33] 		 Get area code : 1
+[11:35:33] 	 adam deja connecte
+[11:35:33] 		 Ajout de 0 nouvelles stations
+[11:35:33] 	 Admin deja connecte
+[11:35:33] 	 adam deja connecte
+[11:35:33] 	 La procedure _hydras_import existe
+[11:35:36] 	 Traitement fini avec succes
+[11:35:36] 	 Creation du fichier ZIP : C:\export\import [12-05-2020-11-35-36].zip
+[11:35:36] 	 Archive basedir C:\export\
+[11:35:36]  Nouveau Fichier : C:\export\import [12-05-2020-11-35-36].zip
+[11:35:36] 		 Deplacement du fichier C:\export\naizin_valides.csv
+[11:35:36] 	 Fermeture du fichier ZIP
+[11:35:36]  Modification Fichier : C:\export\import [12-05-2020-11-35-36].zip
+[11:35:36]  Modification Fichier : C:\export\import [12-05-2020-11-35-36].zip
+[11:35:36]  Deplacement Fichier : C:\export\naizin_valides.csv
+[11:35:36] 	 Ajout du fichier dans la queue : 
+[11:35:36]  Modification Fichier : C:\export\import [12-05-2020-11-35-36].zip
+[11:58:14] 	 Arret de la surveillance de : C:\export
+[11:58:20]  Re-création des procedures
+[11:58:20] 	 Admin deja connecte
+[11:58:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[11:58:20]  Verification existance des scripts
+[11:58:20] 	 Admin deja connecte
+[11:58:20]  Liste des procedures 
+[11:58:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[11:58:20]  Verification existance des scripts
+[11:58:20] 	 Admin deja connecte
+[11:58:20]  Liste des procedures 
+[11:58:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[11:58:20]  Verification existance des scripts
+[11:58:20] 	 Admin deja connecte
+[11:58:20]  Liste des procedures 
+[11:58:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[11:58:20]  Verification existance des scripts
+[11:58:20] 	 Admin deja connecte
+[11:58:20]  Liste des procedures 
+[11:58:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[11:58:20]  Verification existance des scripts
+[11:58:20] 	 Admin deja connecte
+[11:58:20]  Liste des procedures 
+[11:58:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[11:58:20]  Verification existance des scripts
+[11:58:20] 	 Admin deja connecte
+[11:58:20]  Liste des procedures 
+[11:58:20] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[13:51:20]  Demmarrage version : 0.9.9.0
+[13:51:20]  lecture de la configuration
+[13:51:20]  Rafraichissement de la configuration
+[13:51:20] 	 Activation surveillance de : C:\export
+[13:51:20] 	 Connection pour adam OK
+[13:51:20] 	 Test des domaines
+[13:51:20] 		 Domaine C:\Naizin\  -> Ok
+[13:51:20] 	 Connection Admin OK
+[13:51:20] 	 adam deja connecte
+[13:51:23] 	 Arret de la surveillance de : C:\export
+[13:51:25]  Re-création des procedures
+[13:51:25] 	 Admin deja connecte
+[13:51:25] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[13:51:25]  Verification existance des scripts
+[13:51:25] 	 Admin deja connecte
+[13:51:25]  Liste des procedures 
+[13:51:25] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[13:51:25]  Verification existance des scripts
+[13:51:25] 	 Admin deja connecte
+[13:51:25]  Liste des procedures 
+[13:51:25] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[13:51:25]  Verification existance des scripts
+[13:51:25] 	 Admin deja connecte
+[13:51:25]  Liste des procedures 
+[13:51:25] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[13:51:25]  Verification existance des scripts
+[13:51:25] 	 Admin deja connecte
+[13:51:25]  Liste des procedures 
+[13:51:25] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[13:51:25]  Verification existance des scripts
+[13:51:25] 	 Admin deja connecte
+[13:51:25]  Liste des procedures 
+[13:51:25] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[13:51:25]  Verification existance des scripts
+[13:51:25] 	 Admin deja connecte
+[13:51:25]  Liste des procedures 
+[13:51:25] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[13:51:25]  Verification existance des scripts
+[13:51:25] 	 Admin deja connecte
+[13:51:25]  Liste des procedures 
+[13:51:25] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[13:51:25]  Verification existance des scripts
+[13:51:25] 	 Admin deja connecte
+[13:51:25]  Liste des procedures 
+[13:51:27]  sauvegarde de la configuration
+[13:51:27]  Rafraichissement de la configuration
+[13:51:27] 	 Activation surveillance de : C:\export
+[13:51:27] 	 Connection pour adam OK
+[13:51:27] 	 Test des domaines
+[13:51:27] 		 Domaine C:\Naizin\  -> Ok
+[13:51:27] 	 Connection Admin OK
+[13:51:27] 	 adam deja connecte
+[13:51:28]  Sortie de programme
+[16:31:35]  Demmarrage version : 0.9.9.0
+[16:31:35]  lecture de la configuration
+[16:31:35]  Rafraichissement de la configuration
+[16:31:35] 	 Activation surveillance de : C:\export
+[16:31:35] 	 Connection pour adam OK
+[16:31:35] 	 Test des domaines
+[16:31:35] 		 Domaine C:\Naizin\  -> Ok
+[16:31:35] 	 Connection Admin OK
+[16:31:35] 	 adam deja connecte
+[16:31:37] 	 Arret de la surveillance de : C:\export
+[16:31:40]  Re-création des procedures
+[16:31:40] 	 Admin deja connecte
+[16:31:40] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_data.sql
+[16:31:40]  Verification existance des scripts
+[16:31:40] 	 Admin deja connecte
+[16:31:40]  Liste des procedures 
+[16:31:40] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[16:31:40]  Verification existance des scripts
+[16:31:40] 	 Admin deja connecte
+[16:31:40]  Liste des procedures 
+[16:31:40] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[16:31:40]  Verification existance des scripts
+[16:31:40] 	 Admin deja connecte
+[16:31:40]  Liste des procedures 
+[16:31:40] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[16:31:40]  Verification existance des scripts
+[16:31:40] 	 Admin deja connecte
+[16:31:40]  Liste des procedures 
+[16:31:40] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_view.sql
+[16:31:40]  Verification existance des scripts
+[16:31:40] 	 Admin deja connecte
+[16:31:40]  Liste des procedures 
+[16:31:40] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[16:31:40]  Verification existance des scripts
+[16:31:40] 	 Admin deja connecte
+[16:31:40]  Liste des procedures 
+[16:31:40] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[16:31:40]  Verification existance des scripts
+[16:31:40] 	 Admin deja connecte
+[16:31:40]  Liste des procedures 
+[16:31:40] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[16:31:40]  Verification existance des scripts
+[16:31:40] 	 Admin deja connecte
+[16:31:40]  Liste des procedures 
+[16:31:42]  sauvegarde de la configuration
+[16:31:42]  Rafraichissement de la configuration
+[16:31:42] 	 Activation surveillance de : C:\export
+[16:31:42] 	 Connection pour adam OK
+[16:31:42] 	 Test des domaines
+[16:31:42] 		 Domaine C:\Naizin\  -> Ok
+[16:31:42] 	 Connection Admin OK
+[16:31:42] 	 adam deja connecte
+[16:31:45]  Sortie de programme

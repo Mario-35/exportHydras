@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION public._hydras_test_create() returns void AS
+CREATE OR REPLACE FUNCTION public._hydras_test_create(schemaname text, ownername text) returns void AS
 $$
 DECLARE
     TEMPSTR VARCHAR;
@@ -6,30 +6,27 @@ DECLARE
 -- Create 19 avril 2020
 --
 -- SCRIPT creation base de tes agrhys @2020 Adam Mario Inrae mario.adam@inrae.fr
---
+--  EXECUTE 'CREATE SCHEMA ' || schemaname || ' CREATE TABLE tests_results (test text, result boolean);';
 
 
 BEGIN
-    DROP SCHEMA IF exists test CASCADE;
+   	EXECUTE 'DROP SCHEMA IF exists ' || schemaname || ' CASCADE;';
 
-    CREATE SCHEMA test    
-        CREATE TABLE tests_results (test text, result boolean);
+    SELECT public._hydras_create_schema($1, $2) INTO TEMPSTR;	
 
-    SET search_path = test;
+    EXECUTE 'SET search_path = ' || schemaname;    
 
     SHOW search_path INTO TEMPSTR;
 
-    SELECT public._hydras_create_table('logsImports') INTO TEMPSTR;
+    SELECT public._hydras_create_table('logsImports', $2) INTO TEMPSTR;
 
-    SELECT public._hydras_create_table('data') INTO TEMPSTR;
-
-    INSERT INTO data (keyid, station_id, sensor_id, date_record, raw_data, validate_data)
-    VALUES 	('71199804022000', 7, 1, '1998-04-02 00:00:00', null, null),
-            ('71201201100030', 7, 1, '2012-01-10 00:30:00', -0.999, null),
-            ('71200202020000', 7, 1, '02/02/2002 00:00:00', 20, null),
-            ('71200202021200', 7, 1, '02/02/2002 00:12:00', 25, 50),
-            ('729201201100115', 7, 29, '2012-01-10 01:15:00', -0.999, 50)            
-            ,('11202001010015',1,1,'2020-01-01 00:15:00.000',0.018,1.018)
+    INSERT INTO data (keyid, station_id, sensor_id, date_raw, value_raw, value_correction_id)
+    VALUES 	('71199804022000', 7, 1, '1998-04-02 00:00:00', NULL, NULL),
+            ('71201201100030', 7, 1, '2012-01-10 00:30:00', -0.999, NULL),
+            ('71200202020000', 7, 1, '02/02/2002 00:00:00', 20, NULL),
+            ('71200202021200', 7, 1, '02/02/2002 00:12:00', 25, NULL),
+            ('729201201100115', 7, 29, '2012-01-10 01:15:00', -0.999, NULL)            
+            ,('11202001010015',1,1,'2020-01-01 00:15:00.000',0.018,NULL)
             ,('11202001010030',1,1,'2020-01-01 00:30:00.000',0.019,NULL)
             ,('11202001010045',1,1,'2020-01-01 00:45:00.000',0.019,NULL)
             ,('11202001010100',1,1,'2020-01-01 01:00:00.000',0.02,NULL)
@@ -232,29 +229,25 @@ BEGIN
             ,('11202003031200',1,1,'2020-03-03 12:00:00.000',0.998,NULL);
                        
 
-    SELECT public._hydras_create_table('data_update') INTO TEMPSTR; 
-
-    INSERT INTO data_update (keyid, "date", value)
+    INSERT INTO correction (keyid, date_correction, value_correction)
     VALUES 	('71200202021200','2002-03-04 16:00:00',30),  
     		('71200202021200','2002-12-12 18:30:00',60), 
     		('71200202021200','2003-02-02 02:15:00',90); 
 
-    SELECT public._hydras_create_table('area') INTO TEMPSTR;
+    INSERT INTO area (id, code, name) VALUES 
+                                            (1, 'TEST_AREA', 'Zone de test'),		
+                                            (2, 'TEST_DEUX', 'Zone deux');		
 
-    INSERT INTO area (id, code, displayName) VALUES (1, 'TEST_AREA', 'Zone de test');		
+    INSERT INTO station (id, area_id, code, name) VALUES    (1, 1, 'KODE1', 'Test de boa'),
+                                                            (2, 1, 'KODE2', 'Test de pont'),
+                                                            (3, 1, 'KODE3', 'Test o sterone'),
+                                                            (4, 1, 'KODE4', 'Test a rossa'),
+                                                            (5, 1, 'KODE5', 'test de gossesse'),
+                                                            (6, 1, 'KODE6', 'test imonial'),
+                                                            (7, 1, 'KODE7', 'test amant'),
+                                                            (8, 1, 'KODE8', 'test de resistance'),
+                                                            (9, 1, 'KODE9', 'test de test');
 
-    SELECT public._hydras_create_table('station') INTO TEMPSTR;
-    INSERT INTO station (id, area_id, name) VALUES  (1, 1, 'Test de boa'),
-                                                            (2, 1, 'Test de pont'),
-                                                            (3, 1, 'Test o sterone'),
-                                                            (4, 1, 'Test a rossa'),
-                                                            (5, 1, 'test de gossesse'),
-                                                            (6, 1, 'test imonial'),
-                                                            (7, 1, 'test amant'),
-                                                            (8, 1, 'test de resistance'),
-                                                            (9, 1, 'test de test');
-
-    SELECT public._hydras_create_table('sensor') INTO TEMPSTR;
     INSERT INTO sensor (code, name, unite) VALUES  ('0101', 'Niveau Nappe', 'm'),
                                                     ('0102', 'Niveau Cours d''eau', 'm'),
                                                     ('0103', 'Vitesse Cours d''eau', 'm/s'),
@@ -285,7 +278,6 @@ BEGIN
                                                     ('0145', 'Charge totale (-250cm)', ''),
                                                     ('0201', 'Température de l''eau', '°C'),
                                                     ('0202', 'Température de l''air', '°C');
-
 
 END;
 $$

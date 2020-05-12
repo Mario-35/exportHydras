@@ -408,8 +408,9 @@ function TPostGres.ZipFiles(lst: TStrings) : Boolean;
         UpdateSensors;
 
         If PROCESS = tpRun
-            Then DataModuleDatas.connectionPostgres.ExecuteDirect(format('SELECT public."_hydras_create_table"(%s);', [quotedStr('import')]))
+            Then DataModuleDatas.connectionPostgres.ExecuteDirect(format('SELECT public."_hydras_create_table"(%s, %s);', [quotedStr('import'), quotedStr(CONFIG.Values['User'])]))
             Else exit;
+
 
         DataModuleDatas.connectionPostgres.StartTransaction;
         scriptSql := TStringList.Create;

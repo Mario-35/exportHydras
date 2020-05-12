@@ -29,9 +29,9 @@ BEGIN
     SHOW search_path INTO TEMPSTR;
 	RAISE NOTICE 'SEARCH PATH for TDD : %', TEMPSTR;
 
-    SELECT public._hydras_create_table('logsImports') INTO TEMPSTR;
+    SELECT public._hydras_create_table('logsImports', $2) INTO TEMPSTR;
 
-    SELECT public._hydras_create_table('datas') INTO TEMPSTR;
+    SELECT public._hydras_create_table('datas', $2) INTO TEMPSTR;
 
     INSERT INTO datas (keyid, station_id, capteur_id, date_record, raw_data, validate_data)
     VALUES 	('71199804022000', 7, 1, '1998-04-02 00:00:00', null, null),
@@ -40,16 +40,16 @@ BEGIN
             ('71200202021200', 7, 1, '02/02/2002 00:12:00', 25, 50),
             ('729201201100115', 7, 29, '2012-01-10 01:15:00', -0.999, 50);    
 
-    SELECT public._hydras_create_table('datas_updates') INTO TEMPSTR; 
+    SELECT public._hydras_create_table('datas_updates', $2) INTO TEMPSTR; 
 
     INSERT INTO datas_updates (keyid, date_update, update_data)
     VALUES 	('71200202021200','2002-02-02 12:00:00',30);    
 
-    SELECT public._hydras_create_table('area') INTO TEMPSTR;
+    SELECT public._hydras_create_table('area', $2) INTO TEMPSTR;
 
     INSERT INTO area (area_id, code, name) VALUES (1, 'B_Naizin__03', 'B_Naizin');		
 
-    SELECT public._hydras_create_table('station') INTO TEMPSTR;
+    SELECT public._hydras_create_table('station', $2) INTO TEMPSTR;
     INSERT INTO station (station_id, area_id, name) VALUES  (1, 1, 'KERRPK1'),
                                                             (2, 1, 'KERRPK2'),
                                                             (3, 1, 'KERRPK3'),
@@ -60,7 +60,7 @@ BEGIN
                                                             (8, 1, 'GUERPG2'),
                                                             (9, 1, 'GUERPG3');
 
-    SELECT public._hydras_create_table('capteur') INTO TEMPSTR;
+    SELECT public._hydras_create_table('capteur', $2) INTO TEMPSTR;
     INSERT INTO capteur (code, name, unite) VALUES  ('0101', 'Niveau Nappe', 'm'),
                                                     ('0102', 'Niveau Cours d''eau', 'm'),
                                                     ('0103', 'Vitesse Cours d''eau', 'm/s'),
@@ -93,7 +93,7 @@ BEGIN
                                                     ('0202', 'Température de l''air', '°C');
 
 
-    SELECT public._hydras_create_table('import') INTO TEMPSTR;
+    SELECT public._hydras_create_table('import', $2) INTO TEMPSTR;
     INSERT INTO import (station, capteur, date_heure, valeur, info) VALUES 
         ('GUER_B_PG1', '0101', '02/04/1998 00:00:00', '---', ''),
         ('GUER_B_PG1', '0101', '02/04/1998 04:00:00', '---', ''),

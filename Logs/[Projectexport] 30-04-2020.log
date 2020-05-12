@@ -1,0 +1,1664 @@
+[11:46:29]  Demmarrage version : 0.9.9.0
+[11:46:29]  lecture de la configuration
+[11:46:29]  Rafraichissement de la configuration
+[11:46:29] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « pi »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « pi »
+[11:46:29] 		 Exception : SQL Error: FATAL:  la base de données « api » n'existe pas
+[11:46:29] 	 Activation surveillance de : C:\export
+[11:46:37] 	 Arret de la surveillance de : C:\export
+[11:46:50] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « pi »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « pi »
+[11:46:52]  Rafraichissement de la configuration
+[11:46:52] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « pi »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « pi »
+[11:46:52] 		 Exception : SQL Error: FATAL:  la base de données « api » n'existe pas
+[11:46:52] 	 Activation surveillance de : C:\export
+[11:46:57] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:46:59]  Rafraichissement de la configuration
+[11:46:59] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:46:59] 		 Exception : SQL Error: FATAL:  la base de données « api » n'existe pas
+[11:49:30] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:49:32]  Rafraichissement de la configuration
+[11:49:32] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:49:39]  Rafraichissement de la configuration
+[11:49:39] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:49:43] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:49:45]  Rafraichissement de la configuration
+[11:49:45] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:49:50] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:49:51]  Rafraichissement de la configuration
+[11:49:51] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:49:57] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:49:59]  Rafraichissement de la configuration
+[11:49:59] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:50:00] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:50:02]  Rafraichissement de la configuration
+[11:50:02] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:50:14] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+[11:50:16]  Rafraichissement de la configuration
+[11:50:16] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+[11:50:18] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+[11:50:20]  Rafraichissement de la configuration
+[11:50:20] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+[11:50:21]  sauvegarde de la configuration
+[11:50:21]  Rafraichissement de la configuration
+[11:50:21] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+[11:50:25]  Sortie de programme
+[11:53:19]  Demmarrage version : 0.9.9.0
+[11:53:19]  lecture de la configuration
+[11:53:19]  Rafraichissement de la configuration
+[11:53:19] 	 Activation surveillance de : C:\export
+[11:53:20] 	 Connection pour postgres OK
+[11:53:20] 	 Test des domaines
+[11:53:20] 		 Domaine C:\Naizin\  -> Ok
+[11:53:20] 	 Connection Admin OK
+[11:53:20] 	 postgres deja connecte
+[11:53:21] 	 Arret de la surveillance de : C:\export
+[11:53:46]  sauvegarde de la configuration
+[11:53:46]  Rafraichissement de la configuration
+[11:53:46] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « adam »
+[11:53:46] 	 Activation surveillance de : C:\export
+[11:53:48]  Sortie de programme
+[11:53:50]  Demmarrage version : 0.9.9.0
+[11:53:50]  lecture de la configuration
+[11:53:50]  Rafraichissement de la configuration
+[11:53:50] 	 Activation surveillance de : C:\export
+[11:53:50] 	 Connection pour adam OK
+[11:53:50] 	 Test des domaines
+[11:53:50] 		 Domaine C:\Naizin\  -> Ok
+[11:53:50] 	 Connection Admin OK
+[11:53:50] 	 adam deja connecte
+[11:53:52] 	 Arret de la surveillance de : C:\export
+[11:53:55] 	 adam deja connecte
+[11:53:59]  Rafraichissement de la configuration
+[11:53:59] 	 Activation surveillance de : C:\export
+[11:53:59] 	 Connection pour adam OK
+[11:53:59] 	 Test des domaines
+[11:53:59] 		 Domaine C:\Naizin\  -> Ok
+[11:53:59] 	 Connection Admin OK
+[11:53:59] 	 adam deja connecte
+[11:54:08]  Re-création des procedures
+[11:54:08] 	 Admin deja connecte
+[11:54:08] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[11:54:08] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[11:54:08] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[11:54:08] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[11:54:08] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[11:54:08] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[11:54:11]  Verification existance des scripts
+[11:54:11] 	 Admin deja connecte
+[11:54:11]  Liste des procedures 
+[11:54:23]  Lecture des stations pour : \ pour la configuration automatique
+[11:54:23] 	 Ouverture de la table : \GB_DATEI.DB
+[11:54:23] 	 Fichier \GB_DATEI.DB non trouvé
+[11:54:23] 	 _DATABASENOTCONNECTED
+[11:54:23] 	 Ouverture de la table : AUTOEXPO.DB
+[11:54:23] 	 Fichier AUTOEXPO.DB non trouvé
+[11:54:28] 	 Admin deja connecte
+[11:54:28] 	 Admin deja connecte
+[11:54:28] 	 adam deja connecte
+[11:54:28] 	 Schema Schemas non trouvé
+[11:54:43] 	 Admin deja connecte
+[11:54:43] 	 adam deja connecte
+[11:54:43] 	 La procedure _hydras_create_schema existe
+[11:54:43] 		 Exception : SQL Error: ERREUR:  droit refusé pour la base de données api
+CONTEXT:  instruction SQL «  CREATE SCHEMA development; »
+fonction PL/pgSQL _hydras_create_schema(text,text), ligne 14 à EXECUTE
+[11:54:43]  Rafraichissement de la configuration
+[11:54:43] 	 Connection pour adam OK
+[11:54:43] 	 Test des domaines
+[11:54:43] 		 Domaine C:\Naizin\  -> Ok
+[11:54:43] 	 Connection Admin OK
+[11:54:43] 	 adam deja connecte
+[11:54:45]  sauvegarde de la configuration
+[11:54:45]  Rafraichissement de la configuration
+[11:54:45] 	 Connection pour adam OK
+[11:54:45] 	 Test des domaines
+[11:54:45] 		 Domaine C:\Naizin\  -> Ok
+[11:54:45] 	 Connection Admin OK
+[11:54:45] 	 adam deja connecte
+[11:56:36]  Sortie de programme
+[11:58:22]  Demmarrage version : 0.9.9.0
+[11:58:22]  lecture de la configuration
+[11:58:22]  Rafraichissement de la configuration
+[11:58:23] 	 Activation surveillance de : C:\export
+[11:58:23] 	 Connection pour adam OK
+[11:58:23] 	 Test des domaines
+[11:58:23] 		 Domaine C:\Naizin\  -> Ok
+[11:58:23] 	 Connection Admin OK
+[11:58:23] 	 adam deja connecte
+[11:58:25] 	 Arret de la surveillance de : C:\export
+[11:58:34]  Lecture des stations pour : \ pour la configuration automatique
+[11:58:34] 	 Ouverture de la table : \GB_DATEI.DB
+[11:58:34] 	 Fichier \GB_DATEI.DB non trouvé
+[11:58:34] 	 _DATABASENOTCONNECTED
+[11:58:34] 	 Ouverture de la table : AUTOEXPO.DB
+[11:58:34] 	 Fichier AUTOEXPO.DB non trouvé
+[11:58:40] 	 Admin deja connecte
+[11:58:40] 	 Admin deja connecte
+[11:58:40] 	 adam deja connecte
+[11:58:40] 	 Schema Schemas non trouvé
+[11:58:52] 	 Admin deja connecte
+[11:58:52] 	 adam deja connecte
+[11:58:52] 	 La procedure _hydras_create_schema existe
+[11:58:52] 		 Exception : SQL Error: ERREUR:  droit refusé pour la base de données api
+CONTEXT:  instruction SQL «  CREATE SCHEMA development; »
+fonction PL/pgSQL _hydras_create_schema(text,text), ligne 14 à EXECUTE
+[11:58:52]  Rafraichissement de la configuration
+[11:58:52] 	 Activation surveillance de : C:\export
+[11:58:53] 	 Connection pour adam OK
+[11:58:53] 	 Test des domaines
+[11:58:53] 		 Domaine C:\Naizin\  -> Ok
+[11:58:53] 	 Connection Admin OK
+[11:58:53] 	 adam deja connecte
+[11:58:57]  sauvegarde de la configuration
+[11:58:57]  Rafraichissement de la configuration
+[11:58:57] 	 Connection pour adam OK
+[11:58:57] 	 Test des domaines
+[11:58:57] 		 Domaine C:\Naizin\  -> Ok
+[11:58:57] 	 Connection Admin OK
+[11:58:57] 	 adam deja connecte
+[11:59:15] 	 Arret de la surveillance de : C:\export
+[11:59:35]  sauvegarde de la configuration
+[11:59:35]  Rafraichissement de la configuration
+[11:59:35] 		 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+[11:59:35] 	 Activation surveillance de : C:\export
+[11:59:35] 	 Connection pour adam OK
+[11:59:35] 	 Test des domaines
+[11:59:35] 		 Domaine C:\Naizin\  -> Ok
+[11:59:35] 	 Exception : SQL Error: FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+FATAL:  authentification par mot de passe échouée pour l'utilisateur  « postgres »
+[11:59:35] 	 Connection Admin non valide
+[11:59:37]  Sortie de programme
+[11:59:39]  Demmarrage version : 0.9.9.0
+[11:59:39]  lecture de la configuration
+[11:59:39]  Rafraichissement de la configuration
+[11:59:39] 	 Activation surveillance de : C:\export
+[11:59:39] 	 Connection pour adam OK
+[11:59:39] 	 Test des domaines
+[11:59:39] 		 Domaine C:\Naizin\  -> Ok
+[11:59:40] 	 Connection Admin OK
+[11:59:40] 	 adam deja connecte
+[11:59:41] 	 Arret de la surveillance de : C:\export
+[11:59:45]  Rafraichissement de la configuration
+[11:59:45] 	 Activation surveillance de : C:\export
+[11:59:45] 	 Connection pour adam OK
+[11:59:45] 	 Test des domaines
+[11:59:45] 		 Domaine C:\Naizin\  -> Ok
+[11:59:45] 	 Connection Admin OK
+[11:59:45] 	 adam deja connecte
+[11:59:48]  Re-création des procedures
+[11:59:48] 	 Admin deja connecte
+[11:59:48] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_add_log.sql
+[11:59:48] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_schema.sql
+[11:59:48] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_create_table.sql
+[11:59:48] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_import.sql
+[11:59:48] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_create.sql
+[11:59:48] 	 Creation du script de : C:\ExportHydras\Sql\_hydras_test_import.sql
+[11:59:51]  Lecture des stations pour : \ pour la configuration automatique
+[11:59:51] 	 Ouverture de la table : \GB_DATEI.DB
+[11:59:51] 	 Fichier \GB_DATEI.DB non trouvé
+[11:59:51] 	 _DATABASENOTCONNECTED
+[11:59:51] 	 Ouverture de la table : AUTOEXPO.DB
+[11:59:51] 	 Fichier AUTOEXPO.DB non trouvé
+[11:59:54] 	 Admin deja connecte
+[11:59:54] 	 Admin deja connecte
+[11:59:54] 	 adam deja connecte
+[11:59:54] 	 Schema Schemas non trouvé
+[12:00:05] 	 Admin deja connecte
+[12:00:05] 	 adam deja connecte
+[12:00:05] 	 La procedure _hydras_create_schema existe
+[12:00:05]  Rafraichissement de la configuration
+[12:00:05] 	 Connection pour adam OK
+[12:00:05] 	 Test des domaines
+[12:00:05] 		 Domaine C:\Naizin\  -> Ok
+[12:00:05] 	 Connection Admin OK
+[12:00:05] 	 adam deja connecte
+[12:00:08]  sauvegarde de la configuration
+[12:00:08]  Rafraichissement de la configuration
+[12:00:08] 	 Connection pour adam OK
+[12:00:08] 	 Test des domaines
+[12:00:08] 		 Domaine C:\Naizin\  -> Ok
+[12:00:08] 	 Connection Admin OK
+[12:00:08] 	 adam deja connecte
+[12:00:32]  Sortie de programme
+[12:01:12]  Demmarrage version : 0.9.9.0
+[12:01:12]  lecture de la configuration
+[12:01:12]  Rafraichissement de la configuration
+[12:01:12] 	 Activation surveillance de : C:\export
+[12:01:12] 	 Connection pour adam OK
+[12:01:12] 	 Test des domaines
+[12:01:12] 		 Domaine C:\Naizin\  -> Ok
+[12:01:12] 	 Connection Admin OK
+[12:01:12] 	 adam deja connecte
+[12:01:14] 	 Arret de la surveillance de : C:\export
+[12:01:16]  Lecture des stations pour : \ pour la configuration automatique
+[12:01:16] 	 Ouverture de la table : \GB_DATEI.DB
+[12:01:16] 	 Fichier \GB_DATEI.DB non trouvé
+[12:01:16] 	 _DATABASENOTCONNECTED
+[12:01:16] 	 Ouverture de la table : AUTOEXPO.DB
+[12:01:16] 	 Fichier AUTOEXPO.DB non trouvé
+[12:01:17]  Lecture des stations pour : C:\Naizin\ pour la configuration automatique
+[12:01:17] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[12:01:17] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[12:01:17] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[12:01:17] 	 adam deja connecte
+[12:01:17] 	 adam deja connecte
+[12:01:19]  Rafraichissement de la configuration
+[12:01:19] 	 Activation surveillance de : C:\export
+[12:01:19] 	 Connection pour adam OK
+[12:01:19] 	 Test des domaines
+[12:01:19] 		 Domaine C:\Naizin\  -> Ok
+[12:01:19] 	 Connection Admin OK
+[12:01:19] 	 adam deja connecte
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\AUTOEXPO.DB
+[12:01:19] 	 Ouverture de la table : C:\Naizin\EXPO001.DB
+[12:01:21]  sauvegarde de la configuration
+[12:01:21]  Rafraichissement de la configuration
+[12:01:21] 	 Connection pour adam OK
+[12:01:21] 	 Test des domaines
+[12:01:21] 		 Domaine C:\Naizin\  -> Ok
+[12:01:21] 	 Connection Admin OK
+[12:01:21] 	 adam deja connecte
+[12:01:35] 	 Ajout du fichier dans la queue : 
+[12:01:35] 	 Mode manuel
+[12:01:35]  Traitement du fichier csv : C:\export\naizin_brutes_all.csv
+[12:01:35] 	 adam deja connecte
+[12:01:35] 	 Connection Ok
+[12:01:35] 	 Fichier C:\export\naizin_brutes_all.csv dejà existant
+[12:01:35] 	 recherche domaine pour : naizin_brutes_all.csv
+[12:01:35] 		 Trouvé domaine  : C:\Naizin\
+[12:01:35] 	 Recherche de schema pour : C:\Naizin\
+[12:01:35] 	 Admin deja connecte
+[12:01:35] 	 adam deja connecte
+[12:01:35] 	 La schema development existe
+[12:01:35] 		 Trouvé schema  : development
+[12:01:35] 	 adam deja connecte
+[12:01:35] 	 Connection Ok
+[12:01:36]  Lecture des stations pour : C:\Naizin\
+[12:01:36] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[12:01:36]  Lecture des capteurs pour : C:\Naizin\
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[12:01:36] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[12:01:36] 	 adam deja connecte
+[12:01:36] 		 Ajout de 120 nouveaux sensors
+[12:01:36] 	 Traitement du fichier
+[12:01:36] 		 Initialisation nouveau script d'insertion
+[12:01:38] 		 Execution du script SQL
+[12:01:40] 		 Initialisation nouveau script d'insertion
+[12:01:43] 		 Execution du script SQL
+[12:01:45] 		 Initialisation nouveau script d'insertion
+[12:01:47] 		 Execution du script SQL
+[12:01:49] 		 Initialisation nouveau script d'insertion
+[12:01:52] 		 Execution du script SQL
+[12:01:53] 		 Initialisation nouveau script d'insertion
+[12:01:56] 		 Execution du script SQL
+[12:01:58] 		 Initialisation nouveau script d'insertion
+[12:02:01] 		 Execution du script SQL
+[12:02:02] 		 Initialisation nouveau script d'insertion
+[12:02:05] 		 Execution du script SQL
+[12:02:07] 		 Initialisation nouveau script d'insertion
+[12:02:10] 		 Execution du script SQL
+[12:02:12] 		 Initialisation nouveau script d'insertion
+[12:02:15] 		 Execution du script SQL
+[12:02:16] 		 Initialisation nouveau script d'insertion
+[12:02:20] 		 Execution du script SQL
+[12:02:21] 		 Initialisation nouveau script d'insertion
+[12:02:24] 		 Execution du script SQL
+[12:02:26] 		 Initialisation nouveau script d'insertion
+[12:02:29] 		 Execution du script SQL
+[12:02:31] 		 Initialisation nouveau script d'insertion
+[12:02:34] 		 Execution du script SQL
+[12:02:36] 		 Initialisation nouveau script d'insertion
+[12:02:39] 		 Execution du script SQL
+[12:02:41] 		 Initialisation nouveau script d'insertion
+[12:02:45] 		 Execution du script SQL
+[12:02:46] 		 Initialisation nouveau script d'insertion
+[12:02:50] 		 Execution du script SQL
+[12:02:51] 		 Initialisation nouveau script d'insertion
+[12:02:55] 		 Execution du script SQL
+[12:02:57] 		 Initialisation nouveau script d'insertion
+[12:03:00] 		 Execution du script SQL
+[12:03:02] 		 Initialisation nouveau script d'insertion
+[12:03:05] 		 Execution du script SQL
+[12:03:07] 		 Initialisation nouveau script d'insertion
+[12:03:10] 		 Execution du script SQL
+[12:03:12] 		 Initialisation nouveau script d'insertion
+[12:03:16] 		 Execution du script SQL
+[12:03:17] 		 Initialisation nouveau script d'insertion
+[12:03:21] 		 Execution du script SQL
+[12:03:23] 		 Initialisation nouveau script d'insertion
+[12:03:26] 		 Execution du script SQL
+[12:03:28] 		 Initialisation nouveau script d'insertion
+[12:03:32] 		 Execution du script SQL
+[12:03:34] 		 Initialisation nouveau script d'insertion
+[12:03:37] 		 Execution du script SQL
+[12:03:39] 		 Initialisation nouveau script d'insertion
+[12:03:43] 		 Execution du script SQL
+[12:03:45] 		 Initialisation nouveau script d'insertion
+[12:03:49] 		 Execution du script SQL
+[12:03:51] 		 Initialisation nouveau script d'insertion
+[12:03:55] 		 Execution du script SQL
+[12:03:56] 		 Initialisation nouveau script d'insertion
+[12:04:00] 		 Execution du script SQL
+[12:04:02] 		 Initialisation nouveau script d'insertion
+[12:04:06] 		 Execution du script SQL
+[12:04:08] 		 Initialisation nouveau script d'insertion
+[12:04:12] 		 Execution du script SQL
+[12:04:14] 		 Initialisation nouveau script d'insertion
+[12:04:18] 		 Execution du script SQL
+[12:04:19] 		 Initialisation nouveau script d'insertion
+[12:04:24] 		 Execution du script SQL
+[12:04:25] 		 Initialisation nouveau script d'insertion
+[12:04:29] 		 Execution du script SQL
+[12:04:31] 		 Initialisation nouveau script d'insertion
+[12:04:36] 		 Execution du script SQL
+[12:04:37] 		 Initialisation nouveau script d'insertion
+[12:04:42] 		 Execution du script SQL
+[12:04:43] 		 Initialisation nouveau script d'insertion
+[12:04:48] 		 Execution du script SQL
+[12:04:49] 		 Initialisation nouveau script d'insertion
+[12:04:54] 		 Execution du script SQL
+[12:04:55] 		 Initialisation nouveau script d'insertion
+[12:05:00] 		 Execution du script SQL
+[12:05:01] 		 Initialisation nouveau script d'insertion
+[12:05:06] 		 Execution du script SQL
+[12:05:07] 		 Initialisation nouveau script d'insertion
+[12:05:12] 		 Execution du script SQL
+[12:05:13] 		 Initialisation nouveau script d'insertion
+[12:05:18] 		 Execution du script SQL
+[12:05:20] 		 Initialisation nouveau script d'insertion
+[12:05:24] 		 Execution du script SQL
+[12:05:26] 		 Initialisation nouveau script d'insertion
+[12:05:31] 		 Execution du script SQL
+[12:05:32] 		 Initialisation nouveau script d'insertion
+[12:05:37] 		 Execution du script SQL
+[12:05:38] 		 Initialisation nouveau script d'insertion
+[12:05:43] 		 Execution du script SQL
+[12:05:44] 		 Initialisation nouveau script d'insertion
+[12:05:49] 		 Execution du script SQL
+[12:05:50] 		 Initialisation nouveau script d'insertion
+[12:05:55] 		 Execution du script SQL
+[12:05:57] 		 Initialisation nouveau script d'insertion
+[12:06:01] 		 Execution du script SQL
+[12:06:03] 		 Initialisation nouveau script d'insertion
+[12:06:08] 		 Execution du script SQL
+[12:06:09] 		 Initialisation nouveau script d'insertion
+[12:06:14] 		 Execution du script SQL
+[12:06:15] 		 Initialisation nouveau script d'insertion
+[12:06:20] 		 Execution du script SQL
+[12:06:22] 		 Initialisation nouveau script d'insertion
+[12:06:26] 		 Execution du script SQL
+[12:06:28] 		 Initialisation nouveau script d'insertion
+[12:06:33] 		 Execution du script SQL
+[12:06:34] 		 Initialisation nouveau script d'insertion
+[12:06:39] 		 Execution du script SQL
+[12:06:40] 		 Initialisation nouveau script d'insertion
+[12:06:45] 		 Execution du script SQL
+[12:06:46] 		 Initialisation nouveau script d'insertion
+[12:06:52] 		 Execution du script SQL
+[12:06:53] 		 Initialisation nouveau script d'insertion
+[12:06:58] 		 Execution du script SQL
+[12:07:00] 		 Initialisation nouveau script d'insertion
+[12:07:05] 		 Execution du script SQL
+[12:07:06] 		 Initialisation nouveau script d'insertion
+[12:07:12] 		 Execution du script SQL
+[12:07:13] 		 Initialisation nouveau script d'insertion
+[12:07:18] 		 Execution du script SQL
+[12:07:20] 		 Initialisation nouveau script d'insertion
+[12:07:24] 		 Execution du script SQL
+[12:07:26] 		 Initialisation nouveau script d'insertion
+[12:07:31] 		 Execution du script SQL
+[12:07:32] 		 Initialisation nouveau script d'insertion
+[12:07:37] 		 Execution du script SQL
+[12:07:39] 		 Initialisation nouveau script d'insertion
+[12:07:44] 		 Execution du script SQL
+[12:07:46] 		 Initialisation nouveau script d'insertion
+[12:07:51] 		 Execution du script SQL
+[12:07:52] 		 Initialisation nouveau script d'insertion
+[12:07:57] 		 Execution du script SQL
+[12:07:59] 		 Initialisation nouveau script d'insertion
+[12:08:03] 		 Execution du script SQL
+[12:08:05] 		 Initialisation nouveau script d'insertion
+[12:08:10] 		 Execution du script SQL
+[12:08:11] 		 Initialisation nouveau script d'insertion
+[12:08:16] 		 Execution du script SQL
+[12:08:17] 		 Initialisation nouveau script d'insertion
+[12:08:22] 		 Execution du script SQL
+[12:08:24] 		 Initialisation nouveau script d'insertion
+[12:08:28] 		 Execution du script SQL
+[12:08:30] 		 Initialisation nouveau script d'insertion
+[12:08:35] 		 Execution du script SQL
+[12:08:36] 		 Initialisation nouveau script d'insertion
+[12:08:41] 		 Execution du script SQL
+[12:08:42] 		 Initialisation nouveau script d'insertion
+[12:08:47] 		 Execution du script SQL
+[12:08:49] 		 Initialisation nouveau script d'insertion
+[12:08:53] 		 Execution du script SQL
+[12:08:55] 		 Initialisation nouveau script d'insertion
+[12:08:59] 		 Execution du script SQL
+[12:09:01] 		 Initialisation nouveau script d'insertion
+[12:09:05] 		 Execution du script SQL
+[12:09:07] 		 Initialisation nouveau script d'insertion
+[12:09:11] 		 Execution du script SQL
+[12:09:13] 		 Initialisation nouveau script d'insertion
+[12:09:17] 		 Execution du script SQL
+[12:09:19] 		 Initialisation nouveau script d'insertion
+[12:09:23] 		 Execution du script SQL
+[12:09:25] 		 Initialisation nouveau script d'insertion
+[12:09:29] 		 Execution du script SQL
+[12:09:31] 		 Initialisation nouveau script d'insertion
+[12:09:35] 		 Execution du script SQL
+[12:09:37] 		 Initialisation nouveau script d'insertion
+[12:09:41] 		 Execution du script SQL
+[12:17:09]  Annulation do l'arret de traitement
+[12:17:11] 		 Initialisation nouveau script d'insertion
+[12:17:16] 		 Execution du script SQL
+[12:17:18] 		 Initialisation nouveau script d'insertion
+[12:17:22] 		 Execution du script SQL
+[12:17:24] 		 Initialisation nouveau script d'insertion
+[12:17:28] 		 Execution du script SQL
+[12:17:30] 		 Initialisation nouveau script d'insertion
+[12:17:35] 		 Execution du script SQL
+[12:17:36] 		 Initialisation nouveau script d'insertion
+[12:17:41] 		 Execution du script SQL
+[12:17:42] 		 Initialisation nouveau script d'insertion
+[12:17:47] 		 Execution du script SQL
+[12:17:48] 		 Initialisation nouveau script d'insertion
+[12:17:53] 		 Execution du script SQL
+[12:17:54] 		 Initialisation nouveau script d'insertion
+[12:17:59] 		 Execution du script SQL
+[12:18:01] 		 Initialisation nouveau script d'insertion
+[12:18:05] 		 Execution du script SQL
+[12:18:07] 		 Initialisation nouveau script d'insertion
+[12:18:11] 		 Execution du script SQL
+[12:18:13] 		 Initialisation nouveau script d'insertion
+[12:18:17] 		 Execution du script SQL
+[12:18:19] 		 Initialisation nouveau script d'insertion
+[12:18:23] 		 Execution du script SQL
+[12:18:25] 		 Initialisation nouveau script d'insertion
+[12:18:29] 		 Execution du script SQL
+[12:18:31] 		 Initialisation nouveau script d'insertion
+[12:18:35] 		 Execution du script SQL
+[12:18:37] 		 Initialisation nouveau script d'insertion
+[12:18:41] 		 Execution du script SQL
+[12:18:43] 		 Initialisation nouveau script d'insertion
+[12:18:47] 		 Execution du script SQL
+[12:18:49] 		 Initialisation nouveau script d'insertion
+[12:18:53] 		 Execution du script SQL
+[12:18:55] 		 Initialisation nouveau script d'insertion
+[12:18:59] 		 Execution du script SQL
+[12:19:01] 		 Initialisation nouveau script d'insertion
+[12:19:05] 		 Execution du script SQL
+[12:19:07] 		 Initialisation nouveau script d'insertion
+[12:19:11] 		 Execution du script SQL
+[12:19:13] 		 Initialisation nouveau script d'insertion
+[12:19:18] 		 Execution du script SQL
+[12:19:19] 		 Initialisation nouveau script d'insertion
+[12:19:24] 		 Execution du script SQL
+[12:19:25] 		 Initialisation nouveau script d'insertion
+[12:19:30] 		 Execution du script SQL
+[12:19:31] 		 Initialisation nouveau script d'insertion
+[12:19:36] 		 Execution du script SQL
+[12:19:37] 		 Initialisation nouveau script d'insertion
+[12:19:42] 		 Execution du script SQL
+[12:19:43] 		 Initialisation nouveau script d'insertion
+[12:19:48] 		 Execution du script SQL
+[12:19:50] 		 Initialisation nouveau script d'insertion
+[12:19:54] 		 Execution du script SQL
+[12:19:56] 		 Initialisation nouveau script d'insertion
+[12:20:00] 		 Execution du script SQL
+[12:20:02] 		 Initialisation nouveau script d'insertion
+[12:20:07] 		 Execution du script SQL
+[12:20:08] 		 Initialisation nouveau script d'insertion
+[12:20:13] 		 Execution du script SQL
+[12:20:14] 		 Initialisation nouveau script d'insertion
+[12:20:19] 		 Execution du script SQL
+[12:20:20] 		 Initialisation nouveau script d'insertion
+[12:20:25] 		 Execution du script SQL
+[12:20:26] 		 Initialisation nouveau script d'insertion
+[12:20:31] 		 Execution du script SQL
+[12:20:33] 		 Initialisation nouveau script d'insertion
+[12:20:37] 		 Execution du script SQL
+[12:20:39] 		 Initialisation nouveau script d'insertion
+[12:20:43] 		 Execution du script SQL
+[12:20:45] 		 Initialisation nouveau script d'insertion
+[12:20:50] 		 Execution du script SQL
+[12:20:51] 		 Initialisation nouveau script d'insertion
+[12:20:56] 		 Execution du script SQL
+[12:20:57] 		 Initialisation nouveau script d'insertion
+[12:21:02] 		 Execution du script SQL
+[12:21:03] 		 Initialisation nouveau script d'insertion
+[12:21:08] 		 Execution du script SQL
+[12:21:09] 		 Initialisation nouveau script d'insertion
+[12:21:14] 		 Execution du script SQL
+[12:21:15] 		 Initialisation nouveau script d'insertion
+[12:21:20] 		 Execution du script SQL
+[12:21:21] 		 Initialisation nouveau script d'insertion
+[12:21:26] 		 Execution du script SQL
+[12:21:27] 		 Initialisation nouveau script d'insertion
+[12:21:32] 		 Execution du script SQL
+[12:21:33] 		 Initialisation nouveau script d'insertion
+[12:21:38] 		 Execution du script SQL
+[12:21:40] 		 Initialisation nouveau script d'insertion
+[12:21:44] 		 Execution du script SQL
+[12:21:46] 		 Initialisation nouveau script d'insertion
+[12:21:50] 		 Execution du script SQL
+[12:21:52] 		 Initialisation nouveau script d'insertion
+[12:21:56] 		 Execution du script SQL
+[12:21:58] 		 Initialisation nouveau script d'insertion
+[12:22:02] 		 Execution du script SQL
+[12:22:04] 		 Initialisation nouveau script d'insertion
+[12:22:08] 		 Execution du script SQL
+[12:22:10] 		 Initialisation nouveau script d'insertion
+[12:22:14] 		 Execution du script SQL
+[12:22:16] 		 Initialisation nouveau script d'insertion
+[12:22:21] 		 Execution du script SQL
+[12:22:22] 		 Initialisation nouveau script d'insertion
+[12:22:27] 		 Execution du script SQL
+[12:22:28] 		 Initialisation nouveau script d'insertion
+[12:22:33] 		 Execution du script SQL
+[12:22:34] 		 Initialisation nouveau script d'insertion
+[12:22:35] 		 Traitement du fichier fini
+[12:22:35] 		 Execution du script SQL
+[12:22:35] 		 Initialisation nouveau script d'insertion
+[12:22:35] 	 adam deja connecte
+[12:22:35] 	 adam deja connecte
+[12:22:35] 		 Get area code : 1
+[12:22:35] 	 adam deja connecte
+[12:22:35] 		 Ajout de 15 nouvelles stations
+[12:22:35] 	 Admin deja connecte
+[12:22:35] 	 adam deja connecte
+[12:22:35] 	 La procedure _hydras_import existe
+[12:30:12] 	 Creation du fichier ZIP : C:\export\import [30-04-2020-12-30-12].zip
+[12:30:12] 	 Archive basedir C:\export\
+[12:30:12]  Nouveau Fichier : C:\export\import [30-04-2020-12-30-12].zip
+[12:30:12] 	 Fermeture du fichier ZIP
+[12:30:12]  Modification Fichier : C:\export\import [30-04-2020-12-30-12].zip
+[13:13:15]  Sortie de programme
+[13:17:58]  Demmarrage version : 0.9.9.0
+[13:17:58]  lecture de la configuration
+[13:17:58]  Rafraichissement de la configuration
+[13:17:58] 	 Activation surveillance de : C:\export
+[13:17:58] 	 Connection pour adam OK
+[13:17:58] 	 Test des domaines
+[13:17:58] 		 Domaine C:\Naizin\  -> Ok
+[13:17:58] 	 Connection Admin OK
+[13:17:58] 	 adam deja connecte
+[13:18:04] 	 Arret de la surveillance de : C:\export
+[13:18:17]  sauvegarde de la configuration
+[13:18:17]  Rafraichissement de la configuration
+[13:18:17] 	 Activation surveillance de : C:\export
+[13:18:17] 	 Connection pour adam OK
+[13:18:17] 	 Test des domaines
+[13:18:17] 		 Domaine C:\Naizin\  -> Ok
+[13:18:17] 	 Connection Admin OK
+[13:18:17] 	 adam deja connecte
+[13:18:21]  Sortie de programme
+[13:18:41]  Demmarrage version : 0.9.9.0
+[13:18:41]  lecture de la configuration
+[13:18:41]  Rafraichissement de la configuration
+[13:18:41] 	 Activation surveillance de : C:\export
+[13:18:41] 	 Connection pour adam OK
+[13:18:41] 	 Test des domaines
+[13:18:41] 		 Domaine C:\Naizin\  -> Ok
+[13:18:41] 	 Connection Admin OK
+[13:18:41] 	 adam deja connecte
+[13:18:53] 	 Ajout du fichier dans la queue : 
+[13:18:53] 	 Mode manuel
+[13:18:53]  Traitement du fichier csv : C:\export\naizin_brutes_all.csv
+[13:18:53] 	 adam deja connecte
+[13:18:53] 	 Connection Ok
+[13:18:53] 	 Fichier C:\export\naizin_brutes_all.csv dejà existant
+[13:18:53] 	 recherche domaine pour : naizin_brutes_all.csv
+[13:18:53] 		 Trouvé domaine  : C:\Naizin\
+[13:18:53] 	 Recherche de schema pour : C:\Naizin\
+[13:18:53] 	 Admin deja connecte
+[13:18:53] 	 adam deja connecte
+[13:18:53] 	 La schema development existe
+[13:18:53] 		 Trouvé schema  : development
+[13:18:53] 	 adam deja connecte
+[13:18:53] 	 Connection Ok
+[13:18:53]  Lecture des stations pour : C:\Naizin\
+[13:18:53] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[13:18:53]  Lecture des capteurs pour : C:\Naizin\
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[13:18:53] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[13:18:54] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[13:18:54] 	 adam deja connecte
+[13:18:54] 		 Ajout de 0 nouveaux sensors
+[13:18:54] 	 Traitement du fichier
+[13:18:54] 		 Initialisation nouveau script d'insertion
+[13:18:56] 		 Execution du script SQL
+[13:18:58] 		 Initialisation nouveau script d'insertion
+[13:19:00] 		 Execution du script SQL
+[13:19:02] 		 Initialisation nouveau script d'insertion
+[13:19:05] 		 Execution du script SQL
+[13:19:06] 		 Initialisation nouveau script d'insertion
+[13:19:09] 		 Execution du script SQL
+[13:19:11] 		 Initialisation nouveau script d'insertion
+[13:19:13] 		 Execution du script SQL
+[13:19:15] 		 Initialisation nouveau script d'insertion
+[13:19:18] 		 Execution du script SQL
+[13:19:19] 		 Initialisation nouveau script d'insertion
+[13:19:22] 		 Execution du script SQL
+[13:19:24] 		 Initialisation nouveau script d'insertion
+[13:19:27] 		 Execution du script SQL
+[13:19:29] 		 Initialisation nouveau script d'insertion
+[13:19:32] 		 Execution du script SQL
+[13:19:33] 		 Initialisation nouveau script d'insertion
+[13:19:36] 		 Execution du script SQL
+[13:19:38] 		 Initialisation nouveau script d'insertion
+[13:19:41] 		 Execution du script SQL
+[13:19:43] 		 Initialisation nouveau script d'insertion
+[13:19:46] 		 Execution du script SQL
+[13:19:47] 		 Initialisation nouveau script d'insertion
+[13:19:51] 		 Execution du script SQL
+[13:19:52] 		 Initialisation nouveau script d'insertion
+[13:19:55] 		 Execution du script SQL
+[13:19:57] 		 Initialisation nouveau script d'insertion
+[13:20:00] 		 Execution du script SQL
+[13:20:02] 		 Initialisation nouveau script d'insertion
+[13:20:05] 		 Execution du script SQL
+[13:20:07] 		 Initialisation nouveau script d'insertion
+[13:20:10] 		 Execution du script SQL
+[13:20:12] 		 Initialisation nouveau script d'insertion
+[13:20:15] 		 Execution du script SQL
+[13:20:17] 		 Initialisation nouveau script d'insertion
+[13:20:20] 		 Execution du script SQL
+[13:20:22] 		 Initialisation nouveau script d'insertion
+[13:20:25] 		 Execution du script SQL
+[13:20:27] 		 Initialisation nouveau script d'insertion
+[13:20:31] 		 Execution du script SQL
+[13:20:32] 		 Initialisation nouveau script d'insertion
+[13:20:36] 		 Execution du script SQL
+[13:20:37] 		 Initialisation nouveau script d'insertion
+[13:20:41] 		 Execution du script SQL
+[13:20:42] 		 Initialisation nouveau script d'insertion
+[13:20:46] 		 Execution du script SQL
+[13:20:48] 		 Initialisation nouveau script d'insertion
+[13:20:52] 		 Execution du script SQL
+[13:20:53] 		 Initialisation nouveau script d'insertion
+[13:20:57] 		 Execution du script SQL
+[13:20:58] 		 Initialisation nouveau script d'insertion
+[13:21:02] 		 Execution du script SQL
+[13:21:04] 		 Initialisation nouveau script d'insertion
+[13:21:08] 		 Execution du script SQL
+[13:21:09] 		 Initialisation nouveau script d'insertion
+[13:21:13] 		 Execution du script SQL
+[13:21:15] 		 Initialisation nouveau script d'insertion
+[13:21:19] 		 Execution du script SQL
+[13:21:20] 		 Initialisation nouveau script d'insertion
+[13:21:24] 		 Execution du script SQL
+[13:21:26] 		 Initialisation nouveau script d'insertion
+[13:21:30] 		 Execution du script SQL
+[13:21:31] 		 Initialisation nouveau script d'insertion
+[13:21:36] 		 Execution du script SQL
+[13:21:37] 		 Initialisation nouveau script d'insertion
+[13:21:41] 		 Execution du script SQL
+[13:21:43] 		 Initialisation nouveau script d'insertion
+[13:21:47] 		 Execution du script SQL
+[13:21:49] 		 Initialisation nouveau script d'insertion
+[13:21:53] 		 Execution du script SQL
+[13:21:55] 		 Initialisation nouveau script d'insertion
+[13:21:59] 		 Execution du script SQL
+[13:22:00] 		 Initialisation nouveau script d'insertion
+[13:22:05] 		 Execution du script SQL
+[13:22:06] 		 Initialisation nouveau script d'insertion
+[13:22:11] 		 Execution du script SQL
+[13:22:12] 		 Initialisation nouveau script d'insertion
+[13:22:17] 		 Execution du script SQL
+[13:22:18] 		 Initialisation nouveau script d'insertion
+[13:22:23] 		 Execution du script SQL
+[13:22:24] 		 Initialisation nouveau script d'insertion
+[13:22:29] 		 Execution du script SQL
+[13:22:30] 		 Initialisation nouveau script d'insertion
+[13:22:35] 		 Execution du script SQL
+[13:22:36] 		 Initialisation nouveau script d'insertion
+[13:22:41] 		 Execution du script SQL
+[13:22:43] 		 Initialisation nouveau script d'insertion
+[13:22:47] 		 Execution du script SQL
+[13:22:49] 		 Initialisation nouveau script d'insertion
+[13:22:53] 		 Execution du script SQL
+[13:22:55] 		 Initialisation nouveau script d'insertion
+[13:22:59] 		 Execution du script SQL
+[13:23:01] 		 Initialisation nouveau script d'insertion
+[13:23:05] 		 Execution du script SQL
+[13:23:07] 		 Initialisation nouveau script d'insertion
+[13:23:11] 		 Execution du script SQL
+[13:23:13] 		 Initialisation nouveau script d'insertion
+[13:23:18] 		 Execution du script SQL
+[13:23:19] 		 Initialisation nouveau script d'insertion
+[13:23:24] 		 Execution du script SQL
+[13:23:25] 		 Initialisation nouveau script d'insertion
+[13:23:30] 		 Execution du script SQL
+[13:23:31] 		 Initialisation nouveau script d'insertion
+[13:23:36] 		 Execution du script SQL
+[13:23:37] 		 Initialisation nouveau script d'insertion
+[13:23:42] 		 Execution du script SQL
+[13:23:43] 		 Initialisation nouveau script d'insertion
+[13:23:48] 		 Execution du script SQL
+[13:23:49] 		 Initialisation nouveau script d'insertion
+[13:23:54] 		 Execution du script SQL
+[13:23:55] 		 Initialisation nouveau script d'insertion
+[13:24:00] 		 Execution du script SQL
+[13:24:01] 		 Initialisation nouveau script d'insertion
+[13:24:06] 		 Execution du script SQL
+[13:24:07] 		 Initialisation nouveau script d'insertion
+[13:24:12] 		 Execution du script SQL
+[13:24:14] 		 Initialisation nouveau script d'insertion
+[13:24:18] 		 Execution du script SQL
+[13:24:20] 		 Initialisation nouveau script d'insertion
+[13:24:24] 		 Execution du script SQL
+[13:24:26] 		 Initialisation nouveau script d'insertion
+[13:24:30] 		 Execution du script SQL
+[13:24:32] 		 Initialisation nouveau script d'insertion
+[13:24:36] 		 Execution du script SQL
+[13:24:38] 		 Initialisation nouveau script d'insertion
+[13:24:42] 		 Execution du script SQL
+[13:24:44] 		 Initialisation nouveau script d'insertion
+[13:24:48] 		 Execution du script SQL
+[13:24:50] 		 Initialisation nouveau script d'insertion
+[13:24:54] 		 Execution du script SQL
+[13:24:56] 		 Initialisation nouveau script d'insertion
+[13:25:00] 		 Execution du script SQL
+[13:25:02] 		 Initialisation nouveau script d'insertion
+[13:25:06] 		 Execution du script SQL
+[13:25:08] 		 Initialisation nouveau script d'insertion
+[13:25:12] 		 Execution du script SQL
+[13:25:14] 		 Initialisation nouveau script d'insertion
+[13:25:18] 		 Execution du script SQL
+[13:25:20] 		 Initialisation nouveau script d'insertion
+[13:25:25] 		 Execution du script SQL
+[13:25:26] 		 Initialisation nouveau script d'insertion
+[13:25:31] 		 Execution du script SQL
+[13:25:32] 		 Initialisation nouveau script d'insertion
+[13:25:37] 		 Execution du script SQL
+[13:25:38] 		 Initialisation nouveau script d'insertion
+[13:25:43] 		 Execution du script SQL
+[13:25:44] 		 Initialisation nouveau script d'insertion
+[13:25:49] 		 Execution du script SQL
+[13:25:50] 		 Initialisation nouveau script d'insertion
+[13:25:55] 		 Execution du script SQL
+[13:25:56] 		 Initialisation nouveau script d'insertion
+[13:26:01] 		 Execution du script SQL
+[13:26:02] 		 Initialisation nouveau script d'insertion
+[13:26:07] 		 Execution du script SQL
+[13:26:08] 		 Initialisation nouveau script d'insertion
+[13:26:13] 		 Execution du script SQL
+[13:26:14] 		 Initialisation nouveau script d'insertion
+[13:26:19] 		 Execution du script SQL
+[13:26:20] 		 Initialisation nouveau script d'insertion
+[13:26:25] 		 Execution du script SQL
+[13:26:26] 		 Initialisation nouveau script d'insertion
+[13:26:31] 		 Execution du script SQL
+[13:26:33] 		 Initialisation nouveau script d'insertion
+[13:26:37] 		 Execution du script SQL
+[13:26:39] 		 Initialisation nouveau script d'insertion
+[13:26:43] 		 Execution du script SQL
+[13:26:45] 		 Initialisation nouveau script d'insertion
+[13:26:49] 		 Execution du script SQL
+[13:26:51] 		 Initialisation nouveau script d'insertion
+[13:26:55] 		 Execution du script SQL
+[13:26:57] 		 Initialisation nouveau script d'insertion
+[13:27:01] 		 Execution du script SQL
+[13:27:03] 		 Initialisation nouveau script d'insertion
+[13:27:07] 		 Execution du script SQL
+[13:27:09] 		 Initialisation nouveau script d'insertion
+[13:27:13] 		 Execution du script SQL
+[13:27:15] 		 Initialisation nouveau script d'insertion
+[13:27:20] 		 Execution du script SQL
+[13:27:22] 		 Initialisation nouveau script d'insertion
+[13:27:26] 		 Execution du script SQL
+[13:27:28] 		 Initialisation nouveau script d'insertion
+[13:27:33] 		 Execution du script SQL
+[13:27:34] 		 Initialisation nouveau script d'insertion
+[13:27:39] 		 Execution du script SQL
+[13:27:41] 		 Initialisation nouveau script d'insertion
+[13:27:45] 		 Execution du script SQL
+[13:27:47] 		 Initialisation nouveau script d'insertion
+[13:27:52] 		 Execution du script SQL
+[13:27:53] 		 Initialisation nouveau script d'insertion
+[13:27:58] 		 Execution du script SQL
+[13:27:59] 		 Initialisation nouveau script d'insertion
+[13:28:04] 		 Execution du script SQL
+[13:28:06] 		 Initialisation nouveau script d'insertion
+[13:28:10] 		 Execution du script SQL
+[13:28:12] 		 Initialisation nouveau script d'insertion
+[13:28:16] 		 Execution du script SQL
+[13:28:18] 		 Initialisation nouveau script d'insertion
+[13:28:23] 		 Execution du script SQL
+[13:28:24] 		 Initialisation nouveau script d'insertion
+[13:28:29] 		 Execution du script SQL
+[13:28:30] 		 Initialisation nouveau script d'insertion
+[13:28:35] 		 Execution du script SQL
+[13:28:36] 		 Initialisation nouveau script d'insertion
+[13:28:41] 		 Execution du script SQL
+[13:28:43] 		 Initialisation nouveau script d'insertion
+[13:28:47] 		 Execution du script SQL
+[13:28:49] 		 Initialisation nouveau script d'insertion
+[13:28:53] 		 Execution du script SQL
+[13:28:55] 		 Initialisation nouveau script d'insertion
+[13:28:59] 		 Execution du script SQL
+[13:29:01] 		 Initialisation nouveau script d'insertion
+[13:29:06] 		 Execution du script SQL
+[13:29:07] 		 Initialisation nouveau script d'insertion
+[13:29:12] 		 Execution du script SQL
+[13:29:13] 		 Initialisation nouveau script d'insertion
+[13:29:18] 		 Execution du script SQL
+[13:29:19] 		 Initialisation nouveau script d'insertion
+[13:29:24] 		 Execution du script SQL
+[13:29:25] 		 Initialisation nouveau script d'insertion
+[13:29:30] 		 Execution du script SQL
+[13:29:32] 		 Initialisation nouveau script d'insertion
+[13:29:36] 		 Execution du script SQL
+[13:29:38] 		 Initialisation nouveau script d'insertion
+[13:29:43] 		 Execution du script SQL
+[13:29:44] 		 Initialisation nouveau script d'insertion
+[13:29:49] 		 Execution du script SQL
+[13:29:50] 		 Initialisation nouveau script d'insertion
+[13:29:55] 		 Execution du script SQL
+[13:29:56] 		 Initialisation nouveau script d'insertion
+[13:30:01] 		 Execution du script SQL
+[13:30:02] 		 Initialisation nouveau script d'insertion
+[13:30:07] 		 Execution du script SQL
+[13:30:09] 		 Initialisation nouveau script d'insertion
+[13:30:14] 		 Execution du script SQL
+[13:30:15] 		 Initialisation nouveau script d'insertion
+[13:30:20] 		 Execution du script SQL
+[13:30:21] 		 Initialisation nouveau script d'insertion
+[13:30:26] 		 Execution du script SQL
+[13:30:27] 		 Initialisation nouveau script d'insertion
+[13:30:32] 		 Execution du script SQL
+[13:30:33] 		 Initialisation nouveau script d'insertion
+[13:30:38] 		 Execution du script SQL
+[13:30:39] 		 Initialisation nouveau script d'insertion
+[13:30:44] 		 Execution du script SQL
+[13:30:45] 		 Initialisation nouveau script d'insertion
+[13:30:50] 		 Execution du script SQL
+[13:30:51] 		 Initialisation nouveau script d'insertion
+[13:30:56] 		 Execution du script SQL
+[13:30:57] 		 Initialisation nouveau script d'insertion
+[13:31:02] 		 Execution du script SQL
+[13:31:03] 		 Initialisation nouveau script d'insertion
+[13:31:08] 		 Execution du script SQL
+[13:31:09] 		 Initialisation nouveau script d'insertion
+[13:31:14] 		 Execution du script SQL
+[13:31:15] 		 Initialisation nouveau script d'insertion
+[13:31:20] 		 Execution du script SQL
+[13:31:21] 		 Initialisation nouveau script d'insertion
+[13:31:26] 		 Execution du script SQL
+[13:31:27] 		 Initialisation nouveau script d'insertion
+[13:31:32] 		 Execution du script SQL
+[13:31:33] 		 Initialisation nouveau script d'insertion
+[13:31:38] 		 Execution du script SQL
+[13:31:39] 		 Initialisation nouveau script d'insertion
+[13:31:44] 		 Execution du script SQL
+[13:31:45] 		 Initialisation nouveau script d'insertion
+[13:31:50] 		 Execution du script SQL
+[13:31:52] 		 Initialisation nouveau script d'insertion
+[13:31:56] 		 Execution du script SQL
+[13:31:58] 		 Initialisation nouveau script d'insertion
+[13:32:02] 		 Execution du script SQL
+[13:32:04] 		 Initialisation nouveau script d'insertion
+[13:32:08] 		 Execution du script SQL
+[13:32:10] 		 Initialisation nouveau script d'insertion
+[13:32:10] 		 Traitement du fichier fini
+[13:32:10] 		 Execution du script SQL
+[13:32:10] 		 Initialisation nouveau script d'insertion
+[13:32:10] 	 adam deja connecte
+[13:32:10] 	 adam deja connecte
+[13:32:10] 		 Get area code : 2
+[13:32:10] 	 adam deja connecte
+[13:32:10] 		 Ajout de 15 nouvelles stations
+[13:32:11] 	 Traitement fini avec succes
+[13:32:11] 	 Creation du fichier ZIP : C:\export\import [30-04-2020-13-32-11].zip
+[13:32:11] 	 Archive basedir C:\export\
+[13:32:11]  Nouveau Fichier : C:\export\import [30-04-2020-13-32-11].zip
+[13:32:11] 		 Deplacement du fichier C:\export\naizin_brutes_all.csv
+[13:32:25] 	 Fermeture du fichier ZIP
+[13:32:25]  Modification Fichier : C:\export\import [30-04-2020-13-32-11].zip
+[13:32:25]  Modification Fichier : C:\export\import [30-04-2020-13-32-11].zip
+[13:32:25]  Modification Fichier : C:\export\import [30-04-2020-13-32-11].zip
+[13:32:25]  Modification Fichier : C:\export\import [30-04-2020-13-32-11].zip
+[13:32:25]  Deplacement Fichier : C:\export\naizin_brutes_all.csv
+[13:32:25] 	 Ajout du fichier dans la queue : 
+[13:32:25]  Modification Fichier : C:\export\import [30-04-2020-13-32-11].zip
+[18:35:50]  Demmarrage version : 0.9.9.0
+[18:35:50]  lecture de la configuration
+[18:35:50]  Rafraichissement de la configuration
+[18:35:51] 	 Activation surveillance de : C:\export
+[18:35:51] 	 Connection pour adam OK
+[18:35:51] 	 Test des domaines
+[18:35:51] 		 Domaine C:\Naizin\  -> Ok
+[18:35:51] 	 Connection Admin OK
+[18:35:51] 	 adam deja connecte
+[18:36:56]  Nouveau Fichier : C:\export\naizin_corriges_all.csv
+[18:36:56] 	 Ajout du fichier dans la queue : 
+[18:36:56]  Modification Fichier : C:\export\naizin_corriges_all.csv
+[18:37:06]  Démarrage du timer [AUTO]
+[18:37:06] 	 Mode Automatique
+[18:37:06]  Traitement du fichier csv : C:\export\naizin_corriges_all.csv
+[18:37:06] 	 adam deja connecte
+[18:37:06] 	 Connection Ok
+[18:37:06] 	 Fichier C:\export\naizin_corriges_all.csv dejà existant
+[18:37:06] 	 recherche domaine pour : naizin_corriges_all.csv
+[18:37:06] 		 Trouvé domaine  : C:\Naizin\
+[18:37:06] 	 Recherche de schema pour : C:\Naizin\
+[18:37:06] 	 Admin deja connecte
+[18:37:06] 	 adam deja connecte
+[18:37:06] 	 La schema development existe
+[18:37:06] 		 Trouvé schema  : development
+[18:37:06] 	 adam deja connecte
+[18:37:06] 	 Connection Ok
+[18:37:06]  Lecture des stations pour : C:\Naizin\
+[18:37:06] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[18:37:06]  Lecture des capteurs pour : C:\Naizin\
+[18:37:06] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[18:37:06] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[18:37:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[18:37:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[18:37:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[18:37:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[18:37:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[18:37:06] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[18:37:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[18:37:06] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[18:37:07] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[18:37:07] 	 adam deja connecte
+[18:37:07] 		 Ajout de 0 nouveaux sensors
+[18:37:07] 	 Traitement du fichier
+[18:37:07] 		 Initialisation nouveau script d'insertion
+[18:37:09] 		 Execution du script SQL
+[18:37:11] 		 Initialisation nouveau script d'insertion
+[18:37:13] 		 Execution du script SQL
+[18:37:15] 		 Initialisation nouveau script d'insertion
+[18:37:17] 		 Execution du script SQL
+[18:37:18] 		 Initialisation nouveau script d'insertion
+[18:37:21] 		 Execution du script SQL
+[18:37:22] 		 Initialisation nouveau script d'insertion
+[18:37:25] 		 Execution du script SQL
+[18:37:26] 		 Initialisation nouveau script d'insertion
+[18:37:29] 		 Execution du script SQL
+[18:37:30] 		 Initialisation nouveau script d'insertion
+[18:37:33] 		 Execution du script SQL
+[18:37:34] 		 Initialisation nouveau script d'insertion
+[18:37:37] 		 Execution du script SQL
+[18:37:38] 		 Initialisation nouveau script d'insertion
+[18:37:41] 		 Execution du script SQL
+[18:37:42] 		 Initialisation nouveau script d'insertion
+[18:37:45] 		 Execution du script SQL
+[18:37:47] 		 Initialisation nouveau script d'insertion
+[18:37:49] 		 Execution du script SQL
+[18:37:51] 		 Initialisation nouveau script d'insertion
+[18:37:54] 		 Execution du script SQL
+[18:37:55] 		 Initialisation nouveau script d'insertion
+[18:37:58] 		 Execution du script SQL
+[18:38:00] 		 Initialisation nouveau script d'insertion
+[18:38:03] 		 Execution du script SQL
+[18:38:04] 		 Initialisation nouveau script d'insertion
+[18:38:07] 		 Execution du script SQL
+[18:38:09] 		 Initialisation nouveau script d'insertion
+[18:38:12] 		 Execution du script SQL
+[18:38:13] 		 Initialisation nouveau script d'insertion
+[18:38:16] 		 Execution du script SQL
+[18:38:18] 		 Initialisation nouveau script d'insertion
+[18:38:21] 		 Execution du script SQL
+[18:38:23] 		 Initialisation nouveau script d'insertion
+[18:38:26] 		 Execution du script SQL
+[18:38:27] 		 Initialisation nouveau script d'insertion
+[18:38:31] 		 Execution du script SQL
+[18:38:32] 		 Initialisation nouveau script d'insertion
+[18:38:35] 		 Execution du script SQL
+[18:38:37] 		 Initialisation nouveau script d'insertion
+[18:38:40] 		 Execution du script SQL
+[18:38:42] 		 Initialisation nouveau script d'insertion
+[18:38:45] 		 Execution du script SQL
+[18:38:47] 		 Initialisation nouveau script d'insertion
+[18:38:50] 		 Execution du script SQL
+[18:38:51] 		 Initialisation nouveau script d'insertion
+[18:38:55] 		 Execution du script SQL
+[18:38:56] 		 Initialisation nouveau script d'insertion
+[18:39:00] 		 Execution du script SQL
+[18:39:01] 		 Initialisation nouveau script d'insertion
+[18:39:05] 		 Execution du script SQL
+[18:39:06] 		 Initialisation nouveau script d'insertion
+[18:39:10] 		 Execution du script SQL
+[18:39:11] 		 Initialisation nouveau script d'insertion
+[18:39:15] 		 Execution du script SQL
+[18:39:16] 		 Initialisation nouveau script d'insertion
+[18:39:20] 		 Execution du script SQL
+[18:39:21] 		 Initialisation nouveau script d'insertion
+[18:39:25] 		 Execution du script SQL
+[18:39:28] 		 Initialisation nouveau script d'insertion
+[18:39:32] 		 Execution du script SQL
+[18:39:33] 		 Initialisation nouveau script d'insertion
+[18:39:37] 		 Execution du script SQL
+[18:39:38] 		 Initialisation nouveau script d'insertion
+[18:39:42] 		 Execution du script SQL
+[18:39:44] 		 Initialisation nouveau script d'insertion
+[18:39:47] 		 Execution du script SQL
+[18:39:49] 		 Initialisation nouveau script d'insertion
+[18:39:53] 		 Execution du script SQL
+[18:39:54] 		 Initialisation nouveau script d'insertion
+[18:39:58] 		 Execution du script SQL
+[18:40:00] 		 Initialisation nouveau script d'insertion
+[18:40:04] 		 Execution du script SQL
+[18:40:05] 		 Initialisation nouveau script d'insertion
+[18:40:09] 		 Execution du script SQL
+[18:40:11] 		 Initialisation nouveau script d'insertion
+[18:40:15] 		 Execution du script SQL
+[18:40:16] 		 Initialisation nouveau script d'insertion
+[18:40:20] 		 Execution du script SQL
+[18:40:22] 		 Initialisation nouveau script d'insertion
+[18:40:26] 		 Execution du script SQL
+[18:40:28] 		 Initialisation nouveau script d'insertion
+[18:40:32] 		 Execution du script SQL
+[18:40:33] 		 Initialisation nouveau script d'insertion
+[18:40:37] 		 Execution du script SQL
+[18:40:39] 		 Initialisation nouveau script d'insertion
+[18:40:43] 		 Execution du script SQL
+[18:40:44] 		 Initialisation nouveau script d'insertion
+[18:40:48] 		 Execution du script SQL
+[18:40:50] 		 Initialisation nouveau script d'insertion
+[18:40:54] 		 Execution du script SQL
+[18:40:55] 		 Initialisation nouveau script d'insertion
+[18:40:59] 		 Execution du script SQL
+[18:41:01] 		 Initialisation nouveau script d'insertion
+[18:41:05] 		 Execution du script SQL
+[18:41:07] 		 Initialisation nouveau script d'insertion
+[18:41:11] 		 Execution du script SQL
+[18:41:13] 		 Initialisation nouveau script d'insertion
+[18:41:17] 		 Execution du script SQL
+[18:41:18] 		 Initialisation nouveau script d'insertion
+[18:41:22] 		 Execution du script SQL
+[18:41:24] 		 Initialisation nouveau script d'insertion
+[18:41:28] 		 Execution du script SQL
+[18:41:29] 		 Initialisation nouveau script d'insertion
+[18:41:33] 		 Execution du script SQL
+[18:41:35] 		 Initialisation nouveau script d'insertion
+[18:41:39] 		 Execution du script SQL
+[18:41:41] 		 Initialisation nouveau script d'insertion
+[18:41:45] 		 Execution du script SQL
+[18:41:46] 		 Initialisation nouveau script d'insertion
+[18:41:50] 		 Execution du script SQL
+[18:41:52] 		 Initialisation nouveau script d'insertion
+[18:41:56] 		 Execution du script SQL
+[18:41:58] 		 Initialisation nouveau script d'insertion
+[18:42:02] 		 Execution du script SQL
+[18:42:03] 		 Initialisation nouveau script d'insertion
+[18:42:08] 		 Execution du script SQL
+[18:42:09] 		 Initialisation nouveau script d'insertion
+[18:42:13] 		 Execution du script SQL
+[18:42:15] 		 Initialisation nouveau script d'insertion
+[18:42:19] 		 Execution du script SQL
+[18:42:20] 		 Initialisation nouveau script d'insertion
+[18:42:25] 		 Execution du script SQL
+[18:42:26] 		 Initialisation nouveau script d'insertion
+[18:42:31] 		 Execution du script SQL
+[18:42:32] 		 Initialisation nouveau script d'insertion
+[18:42:36] 		 Execution du script SQL
+[18:42:38] 		 Initialisation nouveau script d'insertion
+[18:42:42] 		 Execution du script SQL
+[18:42:43] 		 Initialisation nouveau script d'insertion
+[18:42:47] 		 Execution du script SQL
+[18:42:49] 		 Initialisation nouveau script d'insertion
+[18:42:53] 		 Execution du script SQL
+[18:42:54] 		 Initialisation nouveau script d'insertion
+[18:42:58] 		 Execution du script SQL
+[18:43:00] 		 Initialisation nouveau script d'insertion
+[18:43:04] 		 Execution du script SQL
+[18:43:06] 		 Initialisation nouveau script d'insertion
+[18:43:10] 		 Execution du script SQL
+[18:43:11] 		 Initialisation nouveau script d'insertion
+[18:43:16] 		 Execution du script SQL
+[18:43:17] 		 Initialisation nouveau script d'insertion
+[18:43:21] 		 Execution du script SQL
+[18:43:23] 		 Initialisation nouveau script d'insertion
+[18:43:27] 		 Execution du script SQL
+[18:43:28] 		 Initialisation nouveau script d'insertion
+[18:43:32] 		 Execution du script SQL
+[18:43:34] 		 Initialisation nouveau script d'insertion
+[18:43:38] 		 Execution du script SQL
+[18:43:39] 		 Initialisation nouveau script d'insertion
+[18:43:44] 		 Execution du script SQL
+[18:43:45] 		 Initialisation nouveau script d'insertion
+[18:43:49] 		 Execution du script SQL
+[18:43:51] 		 Initialisation nouveau script d'insertion
+[18:43:55] 		 Execution du script SQL
+[18:43:56] 		 Initialisation nouveau script d'insertion
+[18:44:00] 		 Execution du script SQL
+[18:44:02] 		 Initialisation nouveau script d'insertion
+[18:44:06] 		 Execution du script SQL
+[18:44:08] 		 Initialisation nouveau script d'insertion
+[18:44:12] 		 Execution du script SQL
+[18:44:13] 		 Initialisation nouveau script d'insertion
+[18:44:17] 		 Execution du script SQL
+[18:44:19] 		 Initialisation nouveau script d'insertion
+[18:44:23] 		 Execution du script SQL
+[18:44:24] 		 Initialisation nouveau script d'insertion
+[18:44:29] 		 Execution du script SQL
+[18:44:30] 		 Initialisation nouveau script d'insertion
+[18:44:34] 		 Execution du script SQL
+[18:44:36] 		 Initialisation nouveau script d'insertion
+[18:44:40] 		 Execution du script SQL
+[18:44:42] 		 Initialisation nouveau script d'insertion
+[18:44:46] 		 Execution du script SQL
+[18:44:47] 		 Initialisation nouveau script d'insertion
+[18:44:51] 		 Execution du script SQL
+[18:44:53] 		 Initialisation nouveau script d'insertion
+[18:44:57] 		 Execution du script SQL
+[18:44:59] 		 Initialisation nouveau script d'insertion
+[18:45:03] 		 Execution du script SQL
+[18:45:04] 		 Initialisation nouveau script d'insertion
+[18:45:08] 		 Execution du script SQL
+[18:45:10] 		 Initialisation nouveau script d'insertion
+[18:45:14] 		 Execution du script SQL
+[18:45:16] 		 Initialisation nouveau script d'insertion
+[18:45:20] 		 Execution du script SQL
+[18:45:21] 		 Initialisation nouveau script d'insertion
+[18:45:26] 		 Execution du script SQL
+[18:45:27] 		 Initialisation nouveau script d'insertion
+[18:45:31] 		 Execution du script SQL
+[18:45:33] 		 Initialisation nouveau script d'insertion
+[18:45:37] 		 Execution du script SQL
+[18:45:38] 		 Initialisation nouveau script d'insertion
+[18:45:43] 		 Execution du script SQL
+[18:45:44] 		 Initialisation nouveau script d'insertion
+[18:45:48] 		 Execution du script SQL
+[18:45:50] 		 Initialisation nouveau script d'insertion
+[18:45:53] 		 Traitement du fichier fini
+[18:45:53] 		 Execution du script SQL
+[18:45:54] 		 Initialisation nouveau script d'insertion
+[18:45:54] 	 adam deja connecte
+[18:45:54] 		 Get area code : 2
+[18:45:54] 	 adam deja connecte
+[18:45:54] 		 Ajout de 0 nouvelles stations
+[18:45:54] 	 Admin deja connecte
+[18:45:54] 	 adam deja connecte
+[18:45:54] 	 La procedure _hydras_import existe
+[18:52:03]  Demmarrage version : 0.9.9.0
+[18:52:03]  lecture de la configuration
+[18:52:03]  Rafraichissement de la configuration
+[18:52:03] 	 Activation surveillance de : C:\export
+[18:52:03] 	 Connection pour adam OK
+[18:52:03] 	 Test des domaines
+[18:52:03] 		 Domaine C:\Naizin\  -> Ok
+[18:52:03] 	 Connection Admin OK
+[18:52:03] 	 adam deja connecte
+[18:52:15] 	 Ajout du fichier dans la queue : 
+[18:52:15] 	 Mode manuel
+[18:52:15]  Traitement du fichier csv : C:\export\naizin_corriges_all.csv
+[18:52:15] 	 adam deja connecte
+[18:52:15] 	 Connection Ok
+[18:52:15] 	 Fichier C:\export\naizin_corriges_all.csv dejà existant
+[18:52:15] 	 recherche domaine pour : naizin_corriges_all.csv
+[18:52:15] 		 Trouvé domaine  : C:\Naizin\
+[18:52:15] 	 Recherche de schema pour : C:\Naizin\
+[18:52:15] 	 Admin deja connecte
+[18:52:15] 	 adam deja connecte
+[18:52:15] 	 La schema development existe
+[18:52:15] 		 Trouvé schema  : development
+[18:52:15] 	 adam deja connecte
+[18:52:15] 	 Connection Ok
+[18:52:15]  Lecture des stations pour : C:\Naizin\
+[18:52:15] 	 Ouverture de la table : C:\Naizin\MS_DATEI.DB
+[18:52:16]  Lecture des capteurs pour : C:\Naizin\
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GB_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GBM_02.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K1\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K2\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K3\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K4\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K5\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_B_P.K6\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G1\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G2\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G3\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G4\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G5\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_B_P.G6\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERV_B_E.XU\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F1\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F2\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\FOUR_B_P.F3\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\TOUL_B_M.ET\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GBM_03.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERV_C_E.XU\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K1\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K2\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K3\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_C_P.K4\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G2\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G3\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G4\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G5\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G6\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_C_P.G1\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GBM_01.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\00002MET.EO\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GBM_04.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERV_E_E.XU\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GBM_06.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G1\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G2\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G3\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G4\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G5\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\GUER_V_P.G6\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K2\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K3\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K4\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERV_V_E.XU\SS_DATEI.DB
+[18:52:16] 	 Ouverture de la table : C:\Naizin\KERR_V_P.K1\SS_DATEI.DB
+[18:52:16] 	 adam deja connecte
+[18:52:16] 		 Ajout de 0 nouveaux sensors
+[18:52:16] 	 Traitement du fichier
+[18:52:16] 		 Initialisation nouveau script d'insertion
+[18:52:18] 		 Execution du script SQL
+[18:52:20] 		 Initialisation nouveau script d'insertion
+[18:52:22] 		 Execution du script SQL
+[18:52:24] 		 Initialisation nouveau script d'insertion
+[18:52:26] 		 Execution du script SQL
+[18:52:28] 		 Initialisation nouveau script d'insertion
+[18:52:30] 		 Execution du script SQL
+[18:52:34] 		 Initialisation nouveau script d'insertion
+[18:52:36] 		 Execution du script SQL
+[18:52:37] 		 Initialisation nouveau script d'insertion
+[18:52:40] 		 Execution du script SQL
+[18:52:41] 		 Initialisation nouveau script d'insertion
+[18:52:44] 		 Execution du script SQL
+[18:52:45] 		 Initialisation nouveau script d'insertion
+[18:52:48] 		 Execution du script SQL
+[18:52:49] 		 Initialisation nouveau script d'insertion
+[18:52:52] 		 Execution du script SQL
+[18:52:53] 		 Initialisation nouveau script d'insertion
+[18:52:56] 		 Execution du script SQL
+[18:52:57] 		 Initialisation nouveau script d'insertion
+[18:53:00] 		 Execution du script SQL
+[18:53:02] 		 Initialisation nouveau script d'insertion
+[18:53:04] 		 Execution du script SQL
+[18:53:06] 		 Initialisation nouveau script d'insertion
+[18:53:09] 		 Execution du script SQL
+[18:53:11] 		 Initialisation nouveau script d'insertion
+[18:53:14] 		 Execution du script SQL
+[18:53:15] 		 Initialisation nouveau script d'insertion
+[18:53:18] 		 Execution du script SQL
+[18:53:19] 		 Initialisation nouveau script d'insertion
+[18:53:23] 		 Execution du script SQL
+[18:53:24] 		 Initialisation nouveau script d'insertion
+[18:53:27] 		 Execution du script SQL
+[18:53:32] 		 Initialisation nouveau script d'insertion
+[18:53:35] 		 Execution du script SQL
+[18:53:37] 		 Initialisation nouveau script d'insertion
+[18:53:40] 		 Execution du script SQL
+[18:53:42] 		 Initialisation nouveau script d'insertion
+[18:53:45] 		 Execution du script SQL
+[18:53:46] 		 Initialisation nouveau script d'insertion
+[18:53:50] 		 Execution du script SQL
+[18:53:51] 		 Initialisation nouveau script d'insertion
+[18:53:54] 		 Execution du script SQL
+[18:53:56] 		 Initialisation nouveau script d'insertion
+[18:53:59] 		 Execution du script SQL
+[18:54:01] 		 Initialisation nouveau script d'insertion
+[18:54:04] 		 Execution du script SQL
+[18:54:08] 		 Initialisation nouveau script d'insertion
+[18:54:12] 		 Execution du script SQL
+[18:54:13] 		 Initialisation nouveau script d'insertion
+[18:54:17] 		 Execution du script SQL
+[18:54:18] 		 Initialisation nouveau script d'insertion
+[18:54:22] 		 Execution du script SQL
+[18:54:23] 		 Initialisation nouveau script d'insertion
+[18:54:27] 		 Execution du script SQL
+[18:54:28] 		 Initialisation nouveau script d'insertion
+[18:54:32] 		 Execution du script SQL
+[18:54:34] 		 Initialisation nouveau script d'insertion
+[18:54:37] 		 Execution du script SQL
+[18:54:39] 		 Initialisation nouveau script d'insertion
+[18:54:43] 		 Execution du script SQL
+[18:54:44] 		 Initialisation nouveau script d'insertion
+[18:54:48] 		 Execution du script SQL
+[18:54:50] 		 Initialisation nouveau script d'insertion
+[18:54:53] 		 Execution du script SQL
+[18:54:55] 		 Initialisation nouveau script d'insertion
+[18:54:59] 		 Execution du script SQL
+[18:55:00] 		 Initialisation nouveau script d'insertion
+[18:55:04] 		 Execution du script SQL
+[18:55:06] 		 Initialisation nouveau script d'insertion
+[18:55:10] 		 Execution du script SQL
+[18:55:11] 		 Initialisation nouveau script d'insertion
+[18:55:15] 		 Execution du script SQL
+[18:55:17] 		 Initialisation nouveau script d'insertion
+[18:55:21] 		 Execution du script SQL
+[18:55:22] 		 Initialisation nouveau script d'insertion
+[18:55:26] 		 Execution du script SQL
+[18:55:28] 		 Initialisation nouveau script d'insertion
+[18:55:32] 		 Execution du script SQL
+[18:55:34] 		 Initialisation nouveau script d'insertion
+[18:55:38] 		 Execution du script SQL
+[18:55:39] 		 Initialisation nouveau script d'insertion
+[18:55:44] 		 Execution du script SQL
+[18:55:45] 		 Initialisation nouveau script d'insertion
+[18:55:49] 		 Execution du script SQL
+[18:55:51] 		 Initialisation nouveau script d'insertion
+[18:55:55] 		 Execution du script SQL
+[18:55:56] 		 Initialisation nouveau script d'insertion
+[18:56:01] 		 Execution du script SQL
+[18:56:02] 		 Initialisation nouveau script d'insertion
+[18:56:06] 		 Execution du script SQL
+[18:56:08] 		 Initialisation nouveau script d'insertion
+[18:56:12] 		 Execution du script SQL
+[18:56:13] 		 Initialisation nouveau script d'insertion
+[18:56:18] 		 Execution du script SQL
+[18:56:19] 		 Initialisation nouveau script d'insertion
+[18:56:24] 		 Execution du script SQL
+[18:56:25] 		 Initialisation nouveau script d'insertion
+[18:56:29] 		 Execution du script SQL
+[18:56:31] 		 Initialisation nouveau script d'insertion
+[18:56:35] 		 Execution du script SQL
+[18:56:36] 		 Initialisation nouveau script d'insertion
+[18:56:40] 		 Execution du script SQL
+[18:56:42] 		 Initialisation nouveau script d'insertion
+[18:56:46] 		 Execution du script SQL
+[18:56:48] 		 Initialisation nouveau script d'insertion
+[18:56:52] 		 Execution du script SQL
+[18:56:53] 		 Initialisation nouveau script d'insertion
+[18:56:58] 		 Execution du script SQL
+[18:56:59] 		 Initialisation nouveau script d'insertion
+[18:57:03] 		 Execution du script SQL
+[18:57:05] 		 Initialisation nouveau script d'insertion
+[18:57:09] 		 Execution du script SQL
+[18:57:10] 		 Initialisation nouveau script d'insertion
+[18:57:14] 		 Execution du script SQL
+[18:57:16] 		 Initialisation nouveau script d'insertion
+[18:57:20] 		 Execution du script SQL
+[18:57:22] 		 Initialisation nouveau script d'insertion
+[18:57:26] 		 Execution du script SQL
+[18:57:27] 		 Initialisation nouveau script d'insertion
+[18:57:32] 		 Execution du script SQL
+[18:57:33] 		 Initialisation nouveau script d'insertion
+[18:57:37] 		 Execution du script SQL
+[18:57:39] 		 Initialisation nouveau script d'insertion
+[18:57:43] 		 Execution du script SQL
+[18:57:44] 		 Initialisation nouveau script d'insertion
+[18:57:48] 		 Execution du script SQL
+[18:57:50] 		 Initialisation nouveau script d'insertion
+[18:57:54] 		 Execution du script SQL
+[18:57:56] 		 Initialisation nouveau script d'insertion
+[18:58:00] 		 Execution du script SQL
+[18:58:01] 		 Initialisation nouveau script d'insertion
+[18:58:05] 		 Execution du script SQL
+[18:58:07] 		 Initialisation nouveau script d'insertion
+[18:58:11] 		 Execution du script SQL
+[18:58:13] 		 Initialisation nouveau script d'insertion
+[18:58:17] 		 Execution du script SQL
+[18:58:18] 		 Initialisation nouveau script d'insertion
+[18:58:22] 		 Execution du script SQL
+[18:58:24] 		 Initialisation nouveau script d'insertion
+[18:58:28] 		 Execution du script SQL
+[18:58:29] 		 Initialisation nouveau script d'insertion
+[18:58:34] 		 Execution du script SQL
+[18:58:35] 		 Initialisation nouveau script d'insertion
+[18:58:39] 		 Execution du script SQL
+[18:58:41] 		 Initialisation nouveau script d'insertion
+[18:58:45] 		 Execution du script SQL
+[18:58:46] 		 Initialisation nouveau script d'insertion
+[18:58:51] 		 Execution du script SQL
+[18:58:52] 		 Initialisation nouveau script d'insertion
+[18:58:56] 		 Execution du script SQL
+[18:58:58] 		 Initialisation nouveau script d'insertion
+[18:59:02] 		 Execution du script SQL
+[18:59:04] 		 Initialisation nouveau script d'insertion
+[18:59:08] 		 Execution du script SQL
+[18:59:10] 		 Initialisation nouveau script d'insertion
+[18:59:14] 		 Execution du script SQL
+[18:59:15] 		 Initialisation nouveau script d'insertion
+[18:59:19] 		 Execution du script SQL
+[18:59:21] 		 Initialisation nouveau script d'insertion
+[18:59:25] 		 Execution du script SQL
+[18:59:27] 		 Initialisation nouveau script d'insertion
+[18:59:31] 		 Execution du script SQL
+[18:59:32] 		 Initialisation nouveau script d'insertion
+[18:59:37] 		 Execution du script SQL
+[18:59:38] 		 Initialisation nouveau script d'insertion
+[18:59:42] 		 Execution du script SQL
+[18:59:44] 		 Initialisation nouveau script d'insertion
+[18:59:48] 		 Execution du script SQL
+[18:59:49] 		 Initialisation nouveau script d'insertion
+[18:59:54] 		 Execution du script SQL
+[18:59:55] 		 Initialisation nouveau script d'insertion
+[18:59:59] 		 Execution du script SQL
+[19:00:01] 		 Initialisation nouveau script d'insertion
+[19:00:05] 		 Execution du script SQL
+[19:00:07] 		 Initialisation nouveau script d'insertion
+[19:00:11] 		 Execution du script SQL
+[19:00:12] 		 Initialisation nouveau script d'insertion
+[19:00:17] 		 Execution du script SQL
+[19:00:18] 		 Initialisation nouveau script d'insertion
+[19:00:22] 		 Execution du script SQL
+[19:00:24] 		 Initialisation nouveau script d'insertion
+[19:00:28] 		 Execution du script SQL
+[19:00:30] 		 Initialisation nouveau script d'insertion
+[19:00:34] 		 Execution du script SQL
+[19:00:35] 		 Initialisation nouveau script d'insertion
+[19:00:39] 		 Execution du script SQL
+[19:00:41] 		 Initialisation nouveau script d'insertion
+[19:00:45] 		 Execution du script SQL
+[19:00:46] 		 Initialisation nouveau script d'insertion
+[19:00:51] 		 Execution du script SQL
+[19:00:52] 		 Initialisation nouveau script d'insertion
+[19:00:56] 		 Execution du script SQL
+[19:00:58] 		 Initialisation nouveau script d'insertion
+[19:01:02] 		 Execution du script SQL
+[19:01:03] 		 Initialisation nouveau script d'insertion
+[19:01:08] 		 Execution du script SQL
+[19:01:09] 		 Initialisation nouveau script d'insertion
+[19:01:12] 		 Traitement du fichier fini
+[19:01:12] 		 Execution du script SQL
+[19:01:14] 		 Initialisation nouveau script d'insertion
+[19:01:14] 	 adam deja connecte
+[19:01:14] 		 Get area code : 2
+[19:01:14] 	 adam deja connecte
+[19:01:14] 		 Ajout de 0 nouvelles stations
+[19:01:14] 	 Traitement fini avec succes
+[19:01:14] 	 Creation du fichier ZIP : C:\export\import [30-04-2020-19-01-14].zip
+[19:01:14] 	 Archive basedir C:\export\
+[19:01:14]  Nouveau Fichier : C:\export\import [30-04-2020-19-01-14].zip
+[19:01:14] 		 Deplacement du fichier C:\export\naizin_corriges_all.csv
+[19:01:24] 	 Fermeture du fichier ZIP
+[19:01:24]  Modification Fichier : C:\export\import [30-04-2020-19-01-14].zip
+[19:01:25]  Modification Fichier : C:\export\import [30-04-2020-19-01-14].zip
+[19:01:25]  Modification Fichier : C:\export\import [30-04-2020-19-01-14].zip
+[19:01:25]  Deplacement Fichier : C:\export\naizin_corriges_all.csv
+[19:01:25] 	 Ajout du fichier dans la queue : 
+[19:01:25]  Modification Fichier : C:\export\import [30-04-2020-19-01-14].zip
+[21:14:46]  Sortie de programme
